@@ -1,4 +1,7 @@
 BEGIN:VCALENDAR
+BEGIN:VTIMEZONE
+TZID:Europe/London
+END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY:S O B ( Stile End - Outerside - Barrow )\, Kong Winter Series 3 (A
  S)
