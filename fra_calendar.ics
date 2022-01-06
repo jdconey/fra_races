@@ -25,1343 +25,350 @@ SUMMARY:S O B ( Stile End - Outerside - Barrow )\, Kong Winter Series 3 (A
  S)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220108T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220108T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211901Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215010Z
 UID:/races/cf6fd006-3496-4f85-944c-38ea744e1fcd
-DESCRIPTION:S O B ( Stile End - Outerside - Barrow )\, Kong Winter Series 
- 3 (AS)\nDate & time: Sat 8 Jan 2022 at 11:00\nDistance:8 km / 5 miles\nCli
- mb:500 m / 1640 ft\nVenue:Braithwaite Lodge\, Braithwaite\, Keswick\, CA12
-  5ST\nSkills:PM\nMinimum age:16\nLake District\, England\nFull up to date 
- information https://races.fellrunner.org.uk/races/cf6fd006-3496-4f85-944c-
- 38ea744e1fcd
-LOCATION:Braithwaite Lodge\, Braithwaite\, Keswick\, CA12 5ST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trigger (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220109T083000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220109T103000
-DTSTAMP;VALUE=DATE-TIME:20220106T211901Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215011Z
 UID:/races/cf2e4644-c87c-4fa9-9715-f79242261020
-DESCRIPTION:Trigger (AL)\nDate & time: Sun 9 Jan 2022 at 8:30\nDistance:33
-  km / 20.5 miles\nClimb:1650 m / 5413 ft\nVenue:Marsden Cricket Club\, Mou
- nt Rd\, Marsden\, Huddersfield\, HD7 6NN\nGrid reference:SE044106\nSkills:
- ER\, LK\, NS\nMinimum age:18\nPeak District\, England\nFull up to date inf
- ormation https://races.fellrunner.org.uk/races/cf2e4644-c87c-4fa9-9715-f79
- 242261020
-LOCATION:Marsden Cricket Club\, Mount Rd\, Marsden\, Huddersfield\, HD7 6N
- N
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Commondale Clart (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220109T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220109T123000
-DTSTAMP;VALUE=DATE-TIME:20220106T211902Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215011Z
 UID:/races/3faff4f3-3788-4f84-b311-9aa1f9a9710d
-DESCRIPTION:Commondale Clart (BS)\nDate & time: Sun 9 Jan 2022 at 10:30\nD
- istance:8.3 km / 5.2 miles\nClimb:220 m / 722 ft\nVenue:Commondale Village
-  Hall\, Commondale\, YO21 2HG\nGrid reference:662104\nSkills:PM\, LK\, NS\
- nMinimum age:18\nNorth York Moors\, England\nFull up to date information h
- ttps://races.fellrunner.org.uk/races/3faff4f3-3788-4f84-b311-9aa1f9a9710d
-LOCATION:Commondale Village Hall\, Commondale\, YO21 2HG
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cannock Chase Trig Points (CL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220109T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220109T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211902Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215011Z
 UID:/races/e14c270a-45bd-4f85-965b-a09f5ccbaf22
-DESCRIPTION:Cannock Chase Trig Points (CL)\nDate & time: Sun 9 Jan 2022 at
-  11:00\nDistance:27 km / 16.8 miles\nClimb:540 m / 1772 ft\nVenue:Milford 
- Common\,Stafford\nGrid reference:975210\nSkills:ER\, LK\, NS\nMinimum age:
- 18\nMidlands\, England\nFull up to date information https://races.fellrunn
- er.org.uk/races/e14c270a-45bd-4f85-965b-a09f5ccbaf22
-LOCATION:Milford Common\,Stafford
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scout Scar (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220109T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220109T140000
-DTSTAMP;VALUE=DATE-TIME:20220106T211902Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215011Z
 UID:/races/501a80c7-9705-4369-8b1d-2f6004bc0df7
-DESCRIPTION:Scout Scar (CS)\nDate & time: Sun 9 Jan 2022 at 12:00\nDistanc
- e:8 km / 5 miles\nClimb:150 m / 492 ft\nVenue:Scout Scar\, Brigsteer Rd\,K
- endal .\nGrid reference:502918\nSkills:PM\, LK\nMinimum age:16\nLake Distr
- ict\, England\nFull up to date information https://races.fellrunner.org.uk
- /races/501a80c7-9705-4369-8b1d-2f6004bc0df7
-LOCATION:Scout Scar\, Brigsteer Rd\,Kendal .
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stanbury Splash Juniors ()
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220116T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220116T123000
-DTSTAMP;VALUE=DATE-TIME:20220106T211902Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215012Z
 UID:/races/5f7a785b-d6af-4f67-91af-6d1ea9e5e6d6
-DESCRIPTION:Stanbury Splash Juniors ()\nDate & time: Sun 16 Jan 2022 at 10
- :30\nVenue:Penistone Hill Country Park\, nr Haworth\, Keighley.\nGrid refe
- rence:025364\nSkills:PM\nSouth/West Pennines\, England\nFull up to date in
- formation https://races.fellrunner.org.uk/races/5f7a785b-d6af-4f67-91af-6d
- 1ea9e5e6d6
-LOCATION:Penistone Hill Country Park\, nr Haworth\, Keighley.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stanbury Splash (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220116T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220116T133000
-DTSTAMP;VALUE=DATE-TIME:20220106T211902Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215012Z
 UID:/races/23924685-4d52-4f7a-a152-1f4569fdc0e4
-DESCRIPTION:Stanbury Splash (BM)\nDate & time: Sun 16 Jan 2022 at 11:30\nD
- istance:12 km / 7.5 miles\nClimb:400 m / 1312 ft\nVenue:Penistone Hill Cou
- ntry Park\, nr Haworth\, Keighley.\nGrid reference:025364\nSkills:PM\, NS\
- nMinimum age:18\nSouth/West Pennines\, England\nFull up to date informatio
- n https://races.fellrunner.org.uk/races/23924685-4d52-4f7a-a152-1f4569fdc0
- e4
-LOCATION:Penistone Hill Country Park\, nr Haworth\, Keighley.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Giggleswick School (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220116T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220116T140000
-DTSTAMP;VALUE=DATE-TIME:20220106T211902Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215012Z
 UID:/races/8754bd16-79c6-4a1e-b402-d29726f17d60
-DESCRIPTION:Giggleswick School (CS)\nDate & time: Sun 16 Jan 2022 at 12:00
- \nDistance:6.2 km / 3.9 miles\nClimb:135 m / 443 ft\nVenue:Giggleswick Sch
- ool\, Giggleswick\, BD24 0DE\nSkills:PM\nMinimum age:16\nLake District\, E
- ngland\nFull up to date information https://races.fellrunner.org.uk/races/
- 8754bd16-79c6-4a1e-b402-d29726f17d60
-LOCATION:Giggleswick School\, Giggleswick\, BD24 0DE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Box Hill (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220122T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220122T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211903Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215012Z
 UID:/races/325ee7e4-a48d-45f1-bc1b-1c200a5233e6
-DESCRIPTION:Box Hill (BM)\nDate & time: Sat 22 Jan 2022 at 11:00\nDistance
- :12 km / 7.5 miles\nClimb:530 m / 1739 ft\nVenue:Stepping Stones pub\, Wes
- t Humble Street\, West Humble\, RH5 6BS\nGrid reference:TQ170517\nSkills:P
- M\nMinimum age:18\nSouth East\, England\nFull up to date information https
- ://races.fellrunner.org.uk/races/325ee7e4-a48d-45f1-bc1b-1c200a5233e6
-LOCATION:Stepping Stones pub\, West Humble Street\, West Humble\, RH5 6BS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoofstones (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220122T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220122T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211903Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215012Z
 UID:/races/fd50ebb6-fc8d-4368-a3c3-5e5b8ac4ec49
-DESCRIPTION:Hoofstones (BM)\nDate & time: Sat 22 Jan 2022 at 11:00\nDistan
- ce:12.9 km / 8 miles\nClimb:425 m / 1394 ft\nVenue:Staff of Life pub\, Bur
- nley Rd\, Todmorden\, OL14 8JF\nSkills:ER\, PM\, LK\, NS\nMinimum age:18\n
- South/West Pennines\, England\nFull up to date information https://races.f
- ellrunner.org.uk/races/fd50ebb6-fc8d-4368-a3c3-5e5b8ac4ec49
-LOCATION:Staff of Life pub\, Burnley Rd\, Todmorden\, OL14 8JF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blake Fell (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220122T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220122T140000
-DTSTAMP;VALUE=DATE-TIME:20220106T211903Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215012Z
 UID:/races/078c4598-5a01-4242-a04a-2a01d3fde7b0
-DESCRIPTION:Blake Fell (BS)\nDate & time: Sat 22 Jan 2022 at 12:00\nDistan
- ce:9.5 km / 5.9 miles\nClimb:429 m / 1407 ft\nVenue:The Leaps\,nr Kirkland
-  GR NY087182\nGrid reference:NY087182\nSkills:ER\, PM\, LK\, NS\nMinimum a
- ge:16\nLake District\, England\nFull up to date information https://races.
- fellrunner.org.uk/races/078c4598-5a01-4242-a04a-2a01d3fde7b0
-LOCATION:The Leaps\,nr Kirkland GR NY087182
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Whitestone (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220123T130000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220123T150000
-DTSTAMP;VALUE=DATE-TIME:20220106T211903Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215013Z
 UID:/races/dd263413-eeb8-497c-910e-9ab9a201bbca
-DESCRIPTION:Whitestone (CS)\nDate & time: Sun 23 Jan 2022 at 13:00\nDistan
- ce:6.4 km / 4 miles\nClimb:155 m / 509 ft\nVenue:Staveley-in-Cartmel\, Nr 
- Newby Bridge.\nGrid reference:GR385848\nMinimum age:16\nLake District\, En
- gland\nFull up to date information https://races.fellrunner.org.uk/races/d
- d263413-eeb8-497c-910e-9ab9a201bbca
-LOCATION:Staveley-in-Cartmel\, Nr Newby Bridge.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clough Head\, Kong Winter Series 4 (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220129T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220129T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211903Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215013Z
 UID:/races/16829a43-03a8-4f99-bcec-ff9db7bcd378
-DESCRIPTION:Clough Head\, Kong Winter Series 4 (AS)\nDate & time: Sat 29 J
- an 2022 at 11:00\nDistance:7.3 km / 4.5 miles\nClimb:570 m / 1870 ft\nVenu
- e:Kong Workshop\, Threlkeld Quarry\, Threlkeld\, Keswick\, CA12 4TT\nGrid 
- reference:325246\nSkills:PM\nMinimum age:16\nLake District\, England\nFull
-  up to date information https://races.fellrunner.org.uk/races/16829a43-03a
- 8-4f99-bcec-ff9db7bcd378
-LOCATION:Kong Workshop\, Threlkeld Quarry\, Threlkeld\, Keswick\, CA12 4TT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tarrenhendre (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220129T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220129T140000
-DTSTAMP;VALUE=DATE-TIME:20220106T211904Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215013Z
 UID:/races/40576107-c7c2-4fd0-8fed-abc16c56b186
-DESCRIPTION:Tarrenhendre (AS)\nDate & time: Sat 29 Jan 2022 at 12:00\nDist
- ance:9.7 km / 6 miles\nClimb:610 m / 2001 ft\nVenue:Abergynolwyn Village H
- all\,\, LL36 9UU\nGrid reference:SH 678069\nSkills:ER\, PM\, LK\nMinimum a
- ge:16\nNorth Wales\, Wales\nFull up to date information https://races.fell
- runner.org.uk/races/40576107-c7c2-4fd0-8fed-abc16c56b186
-LOCATION:Abergynolwyn Village Hall\,\, LL36 9UU
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ard Whallin (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220129T133000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220129T153000
-DTSTAMP;VALUE=DATE-TIME:20220106T211904Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215013Z
 UID:/races/cbadcd49-6897-436b-ba59-ec7e1317b3d4
-DESCRIPTION:Ard Whallin (AM)\nDate & time: Sat 29 Jan 2022 at 13:30\nDista
- nce:12 km / 7.5 miles\nClimb:750 m / 2461 ft\nVenue:Ard Whallin Outdoor Ce
- ntre\, Baldwin\, IOM.\, IM4 5EU\nGrid reference:357829\nSkills:ER\, NS\nMi
- nimum age:18\nIsle of Man\, England\nFull up to date information https://r
- aces.fellrunner.org.uk/races/cbadcd49-6897-436b-ba59-ec7e1317b3d4
-LOCATION:Ard Whallin Outdoor Centre\, Baldwin\, IOM.\, IM4 5EU
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Birkrigg Common (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220130T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220130T140000
-DTSTAMP;VALUE=DATE-TIME:20220106T211904Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215013Z
 UID:/races/f97ddfa5-ff44-425a-9b3f-394bb37292c4
-DESCRIPTION:Birkrigg Common (CS)\nDate & time: Sun 30 Jan 2022 at 12:00\nD
- istance:5 km / 3.1 miles\nClimb:170 m / 558 ft\nVenue:Birkrigg Common\, Ul
- verston\nGrid reference:GR281745\nSkills:PM\, LK\nMinimum age:16\nLake Dis
- trict\, England\nFull up to date information https://races.fellrunner.org.
- uk/races/f97ddfa5-ff44-425a-9b3f-394bb37292c4
-LOCATION:Birkrigg Common\, Ulverston
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Runners And Riders (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220130T140000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220130T160000
-DTSTAMP;VALUE=DATE-TIME:20220106T211904Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215013Z
 UID:/races/574e8407-5d9e-4f58-9904-696b73992d48
-DESCRIPTION:Runners And Riders (BS)\nDate & time: Sun 30 Jan 2022 at 14:00
- \nDistance:7.6 km / 4.7 miles\nClimb:271 m / 889 ft\nVenue:Low Hall Farm\,
-  Appletreewick\, BD23 6DD\nGrid reference:SE 048 603\nMinimum age:16\nYork
- . Dales\, England\nFull up to date information https://races.fellrunner.or
- g.uk/races/574e8407-5d9e-4f58-9904-696b73992d48
-LOCATION:Low Hall Farm\, Appletreewick\, BD23 6DD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wadsworth Trog (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220205T100000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220205T120000
-DTSTAMP;VALUE=DATE-TIME:20220106T211904Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215013Z
 UID:/races/28aab80e-160c-4f20-835d-8e0e2d35af4f
-DESCRIPTION:Wadsworth Trog (BL)\nDate & time: Sat 5 Feb 2022 at 10:00\nDis
- tance:31 km / 19.3 miles\nClimb:1110 m / 3642 ft\nVenue:OLD TOWN CRICKET C
- LUB\, HEBDEN BRIDGE\, HX7 8SW\nGrid reference:GR SD 998285\nSkills:ER\, PM
- \, NS\nMinimum age:18\nSouth/West Pennines\, England\nFull up to date info
- rmation https://races.fellrunner.org.uk/races/28aab80e-160c-4f20-835d-8e0e
- 2d35af4f
-LOCATION:OLD TOWN CRICKET CLUB\, HEBDEN BRIDGE\, HX7 8SW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charnwood Hills (CL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220206T100000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220206T120000
-DTSTAMP;VALUE=DATE-TIME:20220106T211904Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215014Z
 UID:/races/6ab0ccd2-dc1a-49e3-b5ad-fa256b4c7666
-DESCRIPTION:Charnwood Hills (CL)\nDate & time: Sun 6 Feb 2022 at 10:00\nDi
- stance:21.5 km / 13.4 miles\nClimb:366 m / 1201 ft\nVenue:Martin High Scho
- ol\, Link Road\, Anstey\, Leicester\, LE7 7EB.\nGrid reference:547093\nSki
- lls:PM\nMinimum age:18\nMidlands\, England\nFull up to date information ht
- tps://races.fellrunner.org.uk/races/6ab0ccd2-dc1a-49e3-b5ad-fa256b4c7666
-LOCATION:Martin High School\, Link Road\, Anstey\, Leicester\, LE7 7EB.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winter Half Tour Of Bradwell (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220212T090000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220212T110000
-DTSTAMP;VALUE=DATE-TIME:20220106T211904Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215014Z
 UID:/races/87ca8f04-0346-4750-ac92-0ad1ca0ac33c
-DESCRIPTION:Winter Half Tour Of Bradwell (BL)\nDate & time: Sat 12 Feb 202
- 2 at 9:00\nDistance:28.2 km / 17.5 miles\nClimb:1060 m / 3478 ft\nVenue:Br
- adwell Sports Club\, S33 9ST. Enter opposite Samuel Fox pub.\, S33 9ST\nGr
- id reference:SK175818\nSkills:ER\, PM\, LK\, NS\nMinimum age:18\nPeak Dist
- rict\, England\nFull up to date information https://races.fellrunner.org.u
- k/races/87ca8f04-0346-4750-ac92-0ad1ca0ac33c
-LOCATION:Bradwell Sports Club\, S33 9ST. Enter opposite Samuel Fox pub.\, 
- S33 9ST
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Chew (O)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220213T093000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220213T113000
-DTSTAMP;VALUE=DATE-TIME:20220106T211905Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215014Z
 UID:/races/c985cb05-a449-4fd6-833c-d916436eb323
-DESCRIPTION:New Chew (O)\nDate & time: Sun 13 Feb 2022 at 9:30\nVenue:Dove
- stones Sailing Club\, Greenfield\, Saddleworth.\nGrid reference:SE013033\n
- Skills:ER\, LK\, NS\nMinimum age:18\nPeak District\, England\nFull up to d
- ate information https://races.fellrunner.org.uk/races/c985cb05-a449-4fd6-8
- 33c-d916436eb323
-LOCATION:Dovestones Sailing Club\, Greenfield\, Saddleworth.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sidmouth 4 Trigs Challenge (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220213T093000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220213T113000
-DTSTAMP;VALUE=DATE-TIME:20220106T211905Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215014Z
 UID:/races/b419763f-db11-4f53-bf7d-af6e207c5b60
-DESCRIPTION:Sidmouth 4 Trigs Challenge (BL)\nDate & time: Sun 13 Feb 2022 
- at 9:30\nDistance:26 km / 16.2 miles\nClimb:914 m / 2999 ft\nVenue:Sidmout
- h Sailing Club.\nGrid reference:SY129873\nSkills:LK\, NS\nMinimum age:18\n
- South West\, England\nFull up to date information https://races.fellrunner
- .org.uk/races/b419763f-db11-4f53-bf7d-af6e207c5b60
-LOCATION:Sidmouth Sailing Club.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Loopy Latrigg\, Kong Winter Series 5 (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220219T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220219T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211905Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215014Z
 UID:/races/ec861782-83ea-4fde-800b-59116893f132
-DESCRIPTION:Loopy Latrigg\, Kong Winter Series 5 (AS)\nDate & time: Sat 19
-  Feb 2022 at 11:00\nDistance:8 km / 5 miles\nClimb:460 m / 1509 ft\nVenue:
- Register at Kong Adventure CA12 5EZ- starts bottom of Spooney green lane.\
- nSkills:PM\nMinimum age:16\nLake District\, England\nFull up to date infor
- mation https://races.fellrunner.org.uk/races/ec861782-83ea-4fde-800b-59116
- 893f132
-LOCATION:Register at Kong Adventure CA12 5EZ- starts bottom of Spooney gre
- en lane.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flower Scar (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220219T111500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220219T131500
-DTSTAMP;VALUE=DATE-TIME:20220106T211905Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215014Z
 UID:/races/14e58375-97a4-4fd2-8a24-eb8aae808d0b
-DESCRIPTION:Flower Scar (AM)\nDate & time: Sat 19 Feb 2022 at 11:15\nDista
- nce:13.3 km / 8.3 miles\nClimb:660 m / 2165 ft\nVenue:Todmorden Cricket Cl
- ub\, Centre Vale\, OL14 7BS\nGrid reference:934245\nSkills:ER\, PM\, LK\, 
- NS\nMinimum age:18\nSouth/West Pennines\, England\nFull up to date informa
- tion https://races.fellrunner.org.uk/races/14e58375-97a4-4fd2-8a24-eb8aae8
- 08d0b
-LOCATION:Todmorden Cricket Club\, Centre Vale\, OL14 7BS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bleasdale Circle (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220219T130000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220219T150000
-DTSTAMP;VALUE=DATE-TIME:20220106T211905Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215015Z
 UID:/races/6c9d17ac-6148-46ae-8968-ed23a1777e7f
-DESCRIPTION:Bleasdale Circle (BS)\nDate & time: Sat 19 Feb 2022 at 13:00\n
- Distance:8 km / 5 miles\nClimb:381 m / 1250 ft\nVenue:Bleasdale Parish Hal
- l\, PR3 1UY.\, PR3 1UY\nGrid reference:SD574453\nSkills:ER\, PM\nMinimum a
- ge:18\nBowland/NW Lancs.\, England\nFull up to date information https://ra
- ces.fellrunner.org.uk/races/6c9d17ac-6148-46ae-8968-ed23a1777e7f
-LOCATION:Bleasdale Parish Hall\, PR3 1UY.\, PR3 1UY
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maybeck 3 Crosses (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220220T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220220T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211905Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215015Z
 UID:/races/fcfed6ff-ce82-4f60-9efc-8f5fd48a5e61
-DESCRIPTION:Maybeck 3 Crosses (BM)\nDate & time: Sun 20 Feb 2022 at 11:00\
- nDistance:11.2 km / 7 miles\nClimb:330 m / 1083 ft\nVenue:Maybeck Car Park
- \, nr Whitby\, N Yorks\, YO22 5JE\nGrid reference:NZ 892 024\nSkills:PM\, 
- LK\, NS\nMinimum age:18\nNorth York Moors\, England\nFull up to date infor
- mation https://races.fellrunner.org.uk/races/fcfed6ff-ce82-4f60-9efc-8f5fd
- 48a5e61
-LOCATION:Maybeck Car Park\, nr Whitby\, N Yorks\, YO22 5JE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Midgley Moor (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220220T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220220T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211906Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215015Z
 UID:/races/eff958bd-7be9-4f06-b9ad-ea8a144fb206
-DESCRIPTION:Midgley Moor (BS)\nDate & time: Sun 20 Feb 2022 at 11:00\nDist
- ance:8 km / 5 miles\nClimb:381 m / 1250 ft\nVenue:Booth Cricket Club\, Boo
- th\, Halifax.\, HX2 6TW\nGrid reference:SE040271\nSkills:ER\, PM\, LK\, NS
- \nMinimum age:16\nSouth/West Pennines\, England\nFull up to date informati
- on https://races.fellrunner.org.uk/races/eff958bd-7be9-4f06-b9ad-ea8a144fb
- 206
-LOCATION:Booth Cricket Club\, Booth\, Halifax.\, HX2 6TW
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inov-8 High Cup Nick (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220226T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220226T140000
-DTSTAMP;VALUE=DATE-TIME:20220106T211906Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215015Z
 UID:/races/27d23ff9-d7ab-4f33-8b26-90cb756ba3c5
-DESCRIPTION:Inov-8 High Cup Nick (BM)\nDate & time: Sat 26 Feb 2022 at 12:
- 00\nDistance:15 km / 9.3 miles\nClimb:460 m / 1509 ft\nVenue:Dufton Villag
- e Hall\, CA16 6DB.\nGrid reference:688252\nSkills:ER\, PM\, NS\nMinimum ag
- e:18\nNorth Pennines\, England\nFull up to date information https://races.
- fellrunner.org.uk/races/27d23ff9-d7ab-4f33-8b26-90cb756ba3c5
-LOCATION:Dufton Village Hall\, CA16 6DB.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slieau Ruy (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220226T133000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220226T153000
-DTSTAMP;VALUE=DATE-TIME:20220106T211906Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215015Z
 UID:/races/e0460ac0-6ad2-4af0-bbbf-f2d1091d1431
-DESCRIPTION:Slieau Ruy (AS)\nDate & time: Sat 26 Feb 2022 at 13:30\nDistan
- ce:9.5 km / 5.9 miles\nClimb:489 m / 1604 ft\nVenue:Glen Helen Car Park\, 
- St Johns. IM4 3NP\, IM4 3NP\nGrid reference:294842\nSkills:ER\, LK\, NS\nM
- inimum age:16\nIsle of Man\, England\nFull up to date information https://
- races.fellrunner.org.uk/races/e0460ac0-6ad2-4af0-bbbf-f2d1091d1431
-LOCATION:Glen Helen Car Park\, St Johns. IM4 3NP\, IM4 3NP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Terry's High 5 (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220227T093000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220227T113000
-DTSTAMP;VALUE=DATE-TIME:20220106T211906Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215015Z
 UID:/races/5b3ad0f3-d65e-4cc8-94c8-db80143a6503
-DESCRIPTION:Terry's High 5 (BS)\nDate & time: Sun 27 Feb 2022 at 9:30\nDis
- tance:8.2 km / 5.1 miles\nClimb:365 m / 1198 ft\nVenue:Trentabank Rangers 
- Station\, Macclesfield Forest\, SK11 0NS\nSkills:PM\, LK\nMinimum age:16\n
- Peak District\, England\nFull up to date information https://races.fellrun
- ner.org.uk/races/5b3ad0f3-d65e-4cc8-94c8-db80143a6503
-LOCATION:Trentabank Rangers Station\, Macclesfield Forest\, SK11 0NS
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoppits Hill (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220227T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220227T133000
-DTSTAMP;VALUE=DATE-TIME:20220106T211907Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215016Z
 UID:/races/ab29c338-3ed4-4fa2-811f-6dd2a5f72224
-DESCRIPTION:Hoppits Hill (BS)\nDate & time: Sun 27 Feb 2022 at 11:30\nDist
- ance:5 km / 3.1 miles\nClimb:210 m / 689 ft\nVenue:Lower Hopton Cricket Cl
- ub\, WF14 8HG\nGrid reference:SE213185\nSkills:PM\nMinimum age:6\nPeak Dis
- trict\, England\nFull up to date information https://races.fellrunner.org.
- uk/races/ab29c338-3ed4-4fa2-811f-6dd2a5f72224
-LOCATION:Lower Hopton Cricket Club\, WF14 8HG
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pipe Dream (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220305T000000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220305T020000
-DTSTAMP;VALUE=DATE-TIME:20220106T211907Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215016Z
 UID:/races/4c9ec43e-9eb8-4f4e-9e58-0afb63e32b54
-DESCRIPTION:Pipe Dream (AS)\nDate & time: Sat 5 Mar 2022 at 0:00\nDistance
- :6.8 km / 4.2 miles\nClimb:390 m / 1280 ft\nVenue:Dolgarrog Community Cent
- re\, LL32 8JU. GR SH769676\nGrid reference:SH769676\nSkills:PM\nMinimum ag
- e:16\nNorth Wales\, Wales\nFull up to date information https://races.fellr
- unner.org.uk/races/4c9ec43e-9eb8-4f4e-9e58-0afb63e32b54
-LOCATION:Dolgarrog Community Centre\, LL32 8JU. GR SH769676
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saddleworth Ten Res's (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220305T090000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220305T110000
-DTSTAMP;VALUE=DATE-TIME:20220106T211907Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215016Z
 UID:/races/e6b24444-ae09-4ff4-b066-d71cc1a7563e
-DESCRIPTION:Saddleworth Ten Res's (BL)\nDate & time: Sat 5 Mar 2022 at 9:0
- 0\nDistance:38.6 km / 24 miles\nClimb:1220 m / 4003 ft\nVenue:Dysart Arms\
- , Huddersfield Rd Mossley\, Ashton Under Lyne\, OL5 9BT\nSkills:ER\, PM\, 
- LK\, NS\nMinimum age:18\nSouth/West Pennines\, England\nFull up to date in
- formation https://races.fellrunner.org.uk/races/e6b24444-ae09-4ff4-b066-d7
- 1cc1a7563e
-LOCATION:Dysart Arms\, Huddersfield Rd Mossley\, Ashton Under Lyne\, OL5 9
- BT
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moorhouse's Stan Bradshaw Pendle Round (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220305T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220305T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211907Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215016Z
 UID:/races/798f8200-0dbf-4114-9659-52f1fd030825
-DESCRIPTION:Moorhouse's Stan Bradshaw Pendle Round (BM)\nDate & time: Sat 
- 5 Mar 2022 at 11:00\nDistance:16.7 km / 10.4 miles\nClimb:590 m / 1936 ft\
- nVenue:Barley Village HallBarley\, nr BurnleyLancashire\, BB12 9JU\nGrid
-  reference:SD 823403\nSkills:ER\, PM\, LK\, NS\nMinimum age:18\nSouth/West
-  Pennines\, England\nFull up to date information https://races.fellrunner.
- org.uk/races/798f8200-0dbf-4114-9659-52f1fd030825
-LOCATION:Barley Village HallBarley\, nr BurnleyLancashire\, BB12 9JU
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Black Combe (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220305T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220305T140000
-DTSTAMP;VALUE=DATE-TIME:20220106T211908Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215016Z
 UID:/races/770d8a77-d35b-4f94-aad6-f660d9406770
-DESCRIPTION:Black Combe (AM)\nDate & time: Sat 5 Mar 2022 at 12:00\nDistan
- ce:13 km / 8.1 miles\nClimb:1000 m / 3281 ft\nVenue:Silecroft Village Hall
- .\, LA18 5LP\nGrid reference:SD133821\nSkills:ER\, PM\, LK\, NS\nMinimum a
- ge:18\nLake District\, England\nFull up to date information https://races.
- fellrunner.org.uk/races/770d8a77-d35b-4f94-aad6-f660d9406770
-LOCATION:Silecroft Village Hall.\, LA18 5LP
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Nine (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220306T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220306T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211908Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215017Z
 UID:/races/9caff7a4-3031-4f88-b9e2-4b87e3897a39
-DESCRIPTION:Cloud Nine (BM)\nDate & time: Sun 6 Mar 2022 at 11:00\nDistanc
- e:14.5 km / 9 miles\nClimb:381 m / 1250 ft\nVenue:Brunswick Wharf\, Congle
- ton\, CW12 1RG.\nGrid reference:SJ865634\nSkills:PM\, LK\nMinimum age:18\n
- Peak District\, England\nFull up to date information https://races.fellrun
- ner.org.uk/races/9caff7a4-3031-4f88-b9e2-4b87e3897a39
-LOCATION:Brunswick Wharf\, Congleton\, CW12 1RG.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ilkley Moor Fell Race (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220306T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220306T133000
-DTSTAMP;VALUE=DATE-TIME:20220106T211908Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215017Z
 UID:/races/1fa637c5-74bb-4f68-ae66-8ca1615d581c
-DESCRIPTION:Ilkley Moor Fell Race (AS)\nDate & time: Sun 6 Mar 2022 at 11:
- 30\nDistance:8 km / 5 miles\nClimb:401 m / 1316 ft\nVenue:Wells Rd\, Ilkle
- y\, LS29 9RF.\, LS29 9RF\nGrid reference:115470\nSkills:ER\, PM\, LK\nMini
- mum age:16\nYork. Dales\, England\nFull up to date information https://rac
- es.fellrunner.org.uk/races/1fa637c5-74bb-4f68-ae66-8ca1615d581c
-LOCATION:Wells Rd\, Ilkley\, LS29 9RF.\, LS29 9RF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haworth Hobble Ultra Marathon (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220312T080000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220312T100000
-DTSTAMP;VALUE=DATE-TIME:20220106T211908Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215017Z
 UID:/races/2bccfce6-7796-4fcf-b9ab-d4536585d6c6
-DESCRIPTION:Haworth Hobble Ultra Marathon (BL)\nDate & time: Sat 12 Mar 20
- 22 at 8:00\nDistance:51 km / 31.7 miles\nClimb:1340 m / 4396 ft\nVenue:Haw
- orth Primary School\, Rawdon Road\, Haworth\, BD22 8DW.\nGrid reference:SE
-  03143 37265\nSkills:ER\, LK\, NS\nMinimum age:18\nSouth/West Pennines\, E
- ngland\nFull up to date information https://races.fellrunner.org.uk/races/
- 2bccfce6-7796-4fcf-b9ab-d4536585d6c6
-LOCATION:Haworth Primary School\, Rawdon Road\, Haworth\, BD22 8DW.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:At the double (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220312T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220312T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211909Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215017Z
 UID:/races/ebe7680a-053c-4f9a-ad28-4e1d9b4cc476
-DESCRIPTION:At the double (BM)\nDate & time: Sat 12 Mar 2022 at 11:00\nDis
- tance:11 km / 6.8 miles\nClimb:400 m / 1312 ft\nVenue:St Helens church\, C
- arlin How\, Saltburn\, TS134ES\nGrid reference:711197\nSkills:PM\, LK\, NS
- \nMinimum age:19\nNorth York Moors\, England\nFull up to date information 
- https://races.fellrunner.org.uk/races/ebe7680a-053c-4f9a-ad28-4e1d9b4cc476
-LOCATION:St Helens church\, Carlin How\, Saltburn\, TS134ES
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brough Law (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220313T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220313T123000
-DTSTAMP;VALUE=DATE-TIME:20220106T211909Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215017Z
 UID:/races/13def8df-e731-4f7f-9771-116435ff284b
-DESCRIPTION:Brough Law (AS)\nDate & time: Sun 13 Mar 2022 at 10:30\nDistan
- ce:8 km / 5 miles\nClimb:400 m / 1312 ft\nVenue:Bulbys Wood car park\, Ing
- ram\, Northumberland\, NE66 4HL (nearest)\nGrid reference:NU007163\nSkills
- :PM\nMinimum age:16\nNorthumberland / Durham\, England\nFull up to date in
- formation https://races.fellrunner.org.uk/races/13def8df-e731-4f7f-9771-11
- 6435ff284b
-LOCATION:Bulbys Wood car park\, Ingram\, Northumberland\, NE66 4HL (neares
- t)
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carrock Fell (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220313T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220313T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211909Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215017Z
 UID:/races/c4328848-ae9a-4f9b-bdd6-85364495954e
-DESCRIPTION:Carrock Fell (AS)\nDate & time: Sun 13 Mar 2022 at 11:00\nDist
- ance:9 km / 5.6 miles\nClimb:500 m / 1640 ft\nVenue:Calebreck Farm\, Heske
- t Newmarket\, Wigton\, CA7 8JR\, CA7 8JR\nGrid reference:NY345358\nSkills:
- ER\, LK\, NS\nMinimum age:16\nLake District\, England\nFull up to date inf
- ormation https://races.fellrunner.org.uk/races/c4328848-ae9a-4f9b-bdd6-853
- 64495954e
-LOCATION:Calebreck Farm\, Hesket Newmarket\, Wigton\, CA7 8JR\, CA7 8JR
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Muncaster Luck (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220313T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220313T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211909Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215017Z
 UID:/races/c839eacc-ee4e-4f27-8b95-622a7ece4521
-DESCRIPTION:Muncaster Luck (BM)\nDate & time: Sun 13 Mar 2022 at 11:00\nDi
- stance:15 km / 9.3 miles\nClimb:620 m / 2034 ft\nVenue:Muncaster Castle ca
- r park\, CA18 1RD\nGrid reference:SD097966\nSkills:ER\, LK\, NS\nMinimum a
- ge:18\nLake District\, England\nFull up to date information https://races.
- fellrunner.org.uk/races/c839eacc-ee4e-4f27-8b95-622a7ece4521
-LOCATION:Muncaster Castle car park\, CA18 1RD
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jarrett's Jaunt (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220319T123000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220319T143000
-DTSTAMP;VALUE=DATE-TIME:20220106T211909Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215018Z
 UID:/races/32b90b34-f989-496f-8050-07210e135135
-DESCRIPTION:Jarrett's Jaunt (AS)\nDate & time: Sat 19 Mar 2022 at 12:30\nD
- istance:7 km / 4.3 miles\nClimb:460 m / 1509 ft\nVenue:Wath Brow Bridge\, 
- West Cumbria.\nGrid reference:NY 031 144\nSkills:PM\nMinimum age:14\nLake 
- District\, England\nFull up to date information https://races.fellrunner.o
- rg.uk/races/32b90b34-f989-496f-8050-07210e135135
-LOCATION:Wath Brow Bridge\, West Cumbria.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Snaefell and the Tholtans (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220320T100000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220320T120000
-DTSTAMP;VALUE=DATE-TIME:20220106T211910Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215018Z
 UID:/races/c145a630-5342-41fe-8998-59ea0355a0f7
-DESCRIPTION:Snaefell and the Tholtans (AS)\nDate & time: Sun 20 Mar 2022 a
- t 10:00\nDistance:9.5 km / 5.9 miles\nClimb:570 m / 1870 ft\nVenue:Bungalo
- w\, TT Course\, IOM.\, IM4 5AF\nGrid reference:396867\nSkills:ER\, LK\, NS
- \nMinimum age:16\nIsle of Man\, England\nFull up to date information https
- ://races.fellrunner.org.uk/races/c145a630-5342-41fe-8998-59ea0355a0f7
-LOCATION:Bungalow\, TT Course\, IOM.\, IM4 5AF
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bilsdale (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220320T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220320T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211910Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215018Z
 UID:/races/5838ae2f-02e2-4faa-a8dc-25d8a08c058c
-DESCRIPTION:Bilsdale (AL)\nDate & time: Sun 20 Mar 2022 at 11:00\nDistance
- :23 km / 14.3 miles\nClimb:1300 m / 4265 ft\nVenue:Chop Gate Village Hall\
- , Bilsdale.\, TS9 7JN\nGrid reference:SE 559 993\nSkills:ER\, PM\, LK\, NS
- \nMinimum age:18\nNorth York Moors\, England\nFull up to date information 
- https://races.fellrunner.org.uk/races/5838ae2f-02e2-4faa-a8dc-25d8a08c058c
-LOCATION:Chop Gate Village Hall\, Bilsdale.\, TS9 7JN
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ian Roberts Memorial (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220320T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220320T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211910Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215018Z
 UID:/races/42c618c4-f563-4f52-be29-92033a88df54
-DESCRIPTION:Ian Roberts Memorial (BM)\nDate & time: Sun 20 Mar 2022 at 11:
- 00\nDistance:10.3 km / 6.4 miles\nClimb:260 m / 853 ft\nVenue:Marsden Cric
- ket Club\, Marsden\, HD7 6NN.\nGrid reference:046106\nSkills:PM\nMinimum a
- ge:18\nSouth/West Pennines\, England\nFull up to date information https://
- races.fellrunner.org.uk/races/42c618c4-f563-4f52-be29-92033a88df54
-LOCATION:Marsden Cricket Club\, Marsden\, HD7 6NN.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heptonstall (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220320T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220320T133000
-DTSTAMP;VALUE=DATE-TIME:20220106T211910Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215018Z
 UID:/races/f7a3d5a2-8338-4e8c-94b2-60fb68172f8c
-DESCRIPTION:Heptonstall (BL)\nDate & time: Sun 20 Mar 2022 at 11:30\nDista
- nce:24.8 km / 15.4 miles\nClimb:966 m / 3169 ft\nVenue:St Thomas Heptonsta
- ll Church\, Church Street\, Heptonstall\, HX7 7NT/Parking\; HX7 7EU\nGrid 
- reference:SD987282\nSkills:ER\, PM\, LK\, NS\nMinimum age:18\nSouth/West P
- ennines\, England\nFull up to date information https://races.fellrunner.or
- g.uk/races/f7a3d5a2-8338-4e8c-94b2-60fb68172f8c
-LOCATION:St Thomas Heptonstall Church\, Church Street\, Heptonstall\, HX7 
- 7NT/Parking\; HX7 7EU
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coledale Horseshoe (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220326T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220326T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211910Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215019Z
 UID:/races/87f05cb3-b35b-4fca-9076-1eb9b12c0416
-DESCRIPTION:Coledale Horseshoe (AM)\nDate & time: Sat 26 Mar 2022 at 11:00
- \nDistance:13.7 km / 8.5 miles\nClimb:915 m / 3002 ft\nVenue:Braithwaite L
- odge.\nGrid reference:NY232231\nSkills:ER\, LK\, NS\nMinimum age:18\nLake 
- District\, England\nFull up to date information https://races.fellrunner.o
- rg.uk/races/87f05cb3-b35b-4fca-9076-1eb9b12c0416
-LOCATION:Braithwaite Lodge.
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yr Aran (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220326T130000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220326T150000
-DTSTAMP;VALUE=DATE-TIME:20220106T211911Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215019Z
 UID:/races/b5c6905e-950c-4fbb-b30f-fca71f602f39
-DESCRIPTION:Yr Aran (AM)\nDate & time: Sat 26 Mar 2022 at 13:00\nDistance:
- 16.1 km / 10 miles\nClimb:945 m / 3100 ft\nVenue:Village Hall\, Llanuwchll
- yn\, nr Bala\,\, LL23 7NA\nGrid reference:SH872261\nSkills:ER\, PM\, LK\, 
- NS\nMinimum age:18\nNorth Wales\, Wales\nFull up to date information https
- ://races.fellrunner.org.uk/races/b5c6905e-950c-4fbb-b30f-fca71f602f39
-LOCATION:Village Hall\, Llanuwchllyn\, nr Bala\,\, LL23 7NA
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Don Morrison Memorial Edale Skyline (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220327T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220327T123000
-DTSTAMP;VALUE=DATE-TIME:20220106T211911Z
+DTSTAMP;VALUE=DATE-TIME:20220106T215019Z
 UID:/races/6e6bed60-a8a2-4f81-afbd-761d6a6252d2
-DESCRIPTION:Don Morrison Memorial Edale Skyline (AL)\nDate & time: Sun 27 
- Mar 2022 at 10:30\nDistance:34 km / 21.1 miles\nClimb:1373 m / 4505 ft\nVe
- nue:Edale Village Hall.\, S33 7ZA\nGrid reference:SK123862\nSkills:ER\, PM
- \, LK\, NS\nMinimum age:18\nPeak District\, England\nFull up to date infor
- mation https://races.fellrunner.org.uk/races/6e6bed60-a8a2-4f81-afbd-761d6
- a6252d2
-LOCATION:Edale Village Hall.\, S33 7ZA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mow Cop (BM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220327T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220327T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211911Z
-UID:/races/906341be-44eb-4f89-8ab4-92ae79f5603c
-DESCRIPTION:Mow Cop (BM)\nDate & time: Sun 27 Mar 2022 at 11:00\nDistance:
- 10.5 km / 6.5 miles\nClimb:400 m / 1312 ft\nVenue:Mount Pleasant/ Mow Cop 
- Village Hall\, Mount Pleasant Rd\, ST7 3LG.\, ST73LG\nGrid reference:84756
- 9\nSkills:PM\, LK\nMinimum age:18\nMidlands\, England\nFull up to date inf
- ormation https://races.fellrunner.org.uk/races/906341be-44eb-4f89-8ab4-92a
- e79f5603c
-LOCATION:Mount Pleasant/ Mow Cop Village Hall\, Mount Pleasant Rd\, ST7 3L
- G.\, ST73LG
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trunce 1 (BS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220328T184500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220328T204500
-DTSTAMP;VALUE=DATE-TIME:20220106T211911Z
-UID:/races/d8e55c49-01f4-4fda-8482-4ae65e267f1f
-DESCRIPTION:Trunce 1 (BS)\nDate & time: Mon 28 Mar 2022 at 18:45\nDistance
- :6.4 km / 4 miles\nClimb:170 m / 558 ft\nVenue:Oxspring Playing Field\, Ox
- spring\, Sheffield.\nGrid reference:SE272012\nSkills:LK\nMinimum age:16\nP
- eak District\, England\nFull up to date information https://races.fellrunn
- er.org.uk/races/d8e55c49-01f4-4fda-8482-4ae65e267f1f
-LOCATION:Oxspring Playing Field\, Oxspring\, Sheffield.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pete Hartley Memorial Liver Hill (BS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220329T184500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220329T204500
-DTSTAMP;VALUE=DATE-TIME:20220106T211911Z
-UID:/races/5a90308e-b71b-4a69-ac9b-d62df9245d81
-DESCRIPTION:Pete Hartley Memorial Liver Hill (BS)\nDate & time: Tue 29 Mar
-  2022 at 18:45\nDistance:7 km / 4.3 miles\nClimb:250 m / 820 ft\nVenue:Mar
- l Pits Sports Centre\, Newchurch Road\, Rawtenstall\, BB4 7SW\nGrid refere
- nce:SD820230\nSkills:PM\, LK\nMinimum age:14\nSouth/West Pennines\, Englan
- d\nFull up to date information https://races.fellrunner.org.uk/races/5a903
- 08e-b71b-4a69-ac9b-d62df9245d81
-LOCATION:Marl Pits Sports Centre\, Newchurch Road\, Rawtenstall\, BB4 7SW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Five Trigs (BL)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220402T100000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220402T120000
-DTSTAMP;VALUE=DATE-TIME:20220106T211911Z
-UID:/races/c8e499ff-0359-4ff7-a439-fa3e3236af9c
-DESCRIPTION:Five Trigs (BL)\nDate & time: Sat 2 Apr 2022 at 10:00\nDistanc
- e:30 km / 18.6 miles\nClimb:900 m / 2953 ft\nVenue:White Lion Pub\, Delph\
- , near Oldham\, OL3 5HX\nSkills:ER\, PM\, LK\, NS\nMinimum age:18\nSouth/W
- est Pennines\, England\nFull up to date information https://races.fellrunn
- er.org.uk/races/c8e499ff-0359-4ff7-a439-fa3e3236af9c
-LOCATION:White Lion Pub\, Delph\, near Oldham\, OL3 5HX
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dungeon Ghyll (AS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220402T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220402T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211912Z
-UID:/races/6b52878c-8e9d-4a23-b52a-246650d44e3f
-DESCRIPTION:Dungeon Ghyll (AS)\nDate & time: Sat 2 Apr 2022 at 11:00\nDist
- ance:5.6 km / 3.5 miles\nClimb:640 m / 2100 ft\nVenue:Stickle Barn Pub\, G
- reat Langdale\, Ambleside\, Cumbria.\, LA22 9JU\nSkills:ER\, LK\, NS\nMini
- mum age:18\nLake District\, England\nFull up to date information https://r
- aces.fellrunner.org.uk/races/6b52878c-8e9d-4a23-b52a-246650d44e3f
-LOCATION:Stickle Barn Pub\, Great Langdale\, Ambleside\, Cumbria.\, LA22 9
- JU
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Chicken Run (BM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220402T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220402T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211912Z
-UID:/races/b2de122b-bae9-4f1c-98bb-a5ebb678ba62
-DESCRIPTION:Chicken Run (BM)\nDate & time: Sat 2 Apr 2022 at 11:00\nDistan
- ce:13.4 km / 8.3 miles\nClimb:433 m / 1421 ft\nVenue:Hayfield Primary Scho
- ol\, Swallow House Lane\, SK22 2HB\nGrid reference:SK03118730\nMinimum age
- :18\nPeak District\, England\nFull up to date information https://races.fe
- llrunner.org.uk/races/b2de122b-bae9-4f1c-98bb-a5ebb678ba62
-LOCATION:Hayfield Primary School\, Swallow House Lane\, SK22 2HB
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Pendle Junior Fell Races (Junior races)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220402T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220402T140000
-DTSTAMP;VALUE=DATE-TIME:20220106T211912Z
-UID:/races/31eb1f26-87f9-4f02-afa6-4f72a0872e54
-DESCRIPTION:Pendle Junior Fell Races (Junior races)\nDate & time: Sat 2 Ap
- r 2022 at 12:00\nVenue:Barley Village Hall\, Barley\, nr Burnley.\nGrid re
- ference:823403\nMinimum age:6\nSouth/West Pennines\, England\nFull up to d
- ate information https://races.fellrunner.org.uk/races/31eb1f26-87f9-4f02-a
- fa6-4f72a0872e54
-LOCATION:Barley Village Hall\, Barley\, nr Burnley.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moorhouse's Pendle (AS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220402T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220402T160000
-DTSTAMP;VALUE=DATE-TIME:20220106T211912Z
-UID:/races/0741e841-a125-4fef-8b16-d7adfc503b24
-DESCRIPTION:Moorhouse's Pendle (AS)\nDate & time: Sat 2 Apr 2022 at 14:00\
- nDistance:7.3 km / 4.5 miles\nClimb:457 m / 1499 ft\nVenue:Barley Village 
- Hall\, Barley\, nr Burnley.\nGrid reference:823403\nSkills:PM\nMinimum age
- :16\nSouth/West Pennines\, England\nFull up to date information https://ra
- ces.fellrunner.org.uk/races/0741e841-a125-4fef-8b16-d7adfc503b24
-LOCATION:Barley Village Hall\, Barley\, nr Burnley.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Heartbeat Hobble (BM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220403T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220403T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211912Z
-UID:/races/b8cd39f8-6666-4fe3-831b-607baf9c4d14
-DESCRIPTION:Heartbeat Hobble (BM)\nDate & time: Sun 3 Apr 2022 at 11:00\nD
- istance:11 km / 6.8 miles\nClimb:290 m / 951 ft\nVenue:Nr\, Mallyan Spout 
- Hotel\, Goathland Village\, Whitby\,\, YO22 5AN\nGrid reference:NZ 826 006
- \nSkills:PM\, LK\, NS\nMinimum age:18\nNorth York Moors\, England\nFull up
-  to date information https://races.fellrunner.org.uk/races/b8cd39f8-6666-4
- fe3-831b-607baf9c4d14
-LOCATION:Nr\, Mallyan Spout Hotel\, Goathland Village\, Whitby\,\, YO22 5A
- N
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bunny Run 1 (CS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220405T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220405T210000
-DTSTAMP;VALUE=DATE-TIME:20220106T211913Z
-UID:/races/0d03f344-70ec-4fd8-8239-bd27d0e024b5
-DESCRIPTION:Bunny Run 1 (CS)\nDate & time: Tue 5 Apr 2022 at 19:00\nDistan
- ce:4.8 km / 3 miles\nClimb:100 m / 328 ft\nVenue:Old Sun Hotel\, Haworth\n
- Skills:PM\nMinimum age:12\nSouth/West Pennines\, England\nFull up to date 
- information https://races.fellrunner.org.uk/races/0d03f344-70ec-4fd8-8239-
- bd27d0e024b5
-LOCATION:Old Sun Hotel\, Haworth
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eskdale Elevation (AL)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220409T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220409T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211913Z
-UID:/races/2524bea3-23ef-4f58-9835-1ec6250fbd19
-DESCRIPTION:Eskdale Elevation (AL)\nDate & time: Sat 9 Apr 2022 at 11:00\n
- Distance:20.2 km / 12.6 miles\nClimb:1455 m / 4774 ft\nVenue:Boot\, Eskdal
- e\, Cumbria\, CA19 1TG.\nGrid reference:NY176011\nSkills:ER\, LK\, NS\nMin
- imum age:18\nLake District\, England\nFull up to date information https://
- races.fellrunner.org.uk/races/2524bea3-23ef-4f58-9835-1ec6250fbd19
-LOCATION:Boot\, Eskdale\, Cumbria\, CA19 1TG.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wardle Skyline (BM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220409T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220409T160000
-DTSTAMP;VALUE=DATE-TIME:20220106T211913Z
-UID:/races/ba00ab6d-dffc-4bac-b7ab-ebb838253df8
-DESCRIPTION:Wardle Skyline (BM)\nDate & time: Sat 9 Apr 2022 at 14:00\nDis
- tance:11.3 km / 7 miles\nClimb:381 m / 1250 ft\nVenue:Wardle Square\, off 
- A58 Rochdale/Littleborough Rd.\nGrid reference:912171\nSkills:PM\nMinimum 
- age:18\nSouth/West Pennines\, England\nFull up to date information https:/
- /races.fellrunner.org.uk/races/ba00ab6d-dffc-4bac-b7ab-ebb838253df8
-LOCATION:Wardle Square\, off A58 Rochdale/Littleborough Rd.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Llangollen Fell Race (AL)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220410T090000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220410T110000
-DTSTAMP;VALUE=DATE-TIME:20220106T211913Z
-UID:/races/d1534811-98c8-4f33-a93f-f1994e84a795
-DESCRIPTION:Llangollen Fell Race (AL)\nDate & time: Sun 10 Apr 2022 at 9:0
- 0\nDistance:28 km / 17.4 miles\nClimb:900 m / 2953 ft\nVenue:Llangollen Le
- isure Centre\, LL20 8TG\nGrid reference:SJ 21483 42517\nSkills:PM\, LK\nMi
- nimum age:18\nNorth Wales\, Wales\nFull up to date information https://rac
- es.fellrunner.org.uk/races/d1534811-98c8-4f33-a93f-f1994e84a795
-LOCATION:Llangollen Leisure Centre\, LL20 8TG
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trunce 2 (BS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220411T184500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220411T204500
-DTSTAMP;VALUE=DATE-TIME:20220106T211914Z
-UID:/races/a08267af-9516-4fbf-8101-1dba4ada5bd4
-DESCRIPTION:Trunce 2 (BS)\nDate & time: Mon 11 Apr 2022 at 18:45\nDistance
- :6.4 km / 4 miles\nClimb:170 m / 558 ft\nVenue:Oxspring Playing Field\, Ox
- spring\, Sheffield.\nGrid reference:SE272012\nSkills:LK\nMinimum age:16\nP
- eak District\, England\nFull up to date information https://races.fellrunn
- er.org.uk/races/a08267af-9516-4fbf-8101-1dba4ada5bd4
-LOCATION:Oxspring Playing Field\, Oxspring\, Sheffield.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bunny Run 2 (CS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220412T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220412T210000
-DTSTAMP;VALUE=DATE-TIME:20220106T211914Z
-UID:/races/e4310c6b-65ed-4f6a-9099-5c1925d9822c
-DESCRIPTION:Bunny Run 2 (CS)\nDate & time: Tue 12 Apr 2022 at 19:00\nDista
- nce:4.8 km / 3 miles\nClimb:100 m / 328 ft\nVenue:Old Sun HotelHaworth\nSk
- ills:PM\nMinimum age:12\nSouth/West Pennines\, England\nFull up to date in
- formation https://races.fellrunner.org.uk/races/e4310c6b-65ed-4f6a-9099-5c
- 1925d9822c
-LOCATION:Old Sun HotelHaworth
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Loughrigg (AS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220413T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220413T210000
-DTSTAMP;VALUE=DATE-TIME:20220106T211914Z
-UID:/races/2208e7c2-9ae9-4faf-ae69-e3fb4e4eddb8
-DESCRIPTION:Loughrigg (AS)\nDate & time: Wed 13 Apr 2022 at 19:00\nDistanc
- e:6.4 km / 4 miles\nClimb:330 m / 1083 ft\nVenue:Rothay Park\, Ambleside.\
- nGrid reference:374044\nSkills:ER\, LK\, NS\nMinimum age:14\nLake District
- \, England\nFull up to date information https://races.fellrunner.org.uk/ra
- ces/2208e7c2-9ae9-4faf-ae69-e3fb4e4eddb8
-LOCATION:Rothay Park\, Ambleside.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manx Mountain Marathon (AL)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220416T080000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220416T100000
-DTSTAMP;VALUE=DATE-TIME:20220106T211914Z
-UID:/races/b21cfdf9-20d9-4fa7-b71c-fd4bf18b846f
-DESCRIPTION:Manx Mountain Marathon (AL)\nDate & time: Sat 16 Apr 2022 at 8
- :00\nDistance:51 km / 31.7 miles\nClimb:2500 m / 8202 ft\nVenue:Market Squ
- are\, Ramsay\, IOM.\nGrid reference:454944\nSkills:ER\, PM\, LK\, NS\nMini
- mum age:18\nIsle of Man\, England\nFull up to date information https://rac
- es.fellrunner.org.uk/races/b21cfdf9-20d9-4fa7-b71c-fd4bf18b846f
-LOCATION:Market Square\, Ramsay\, IOM.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Half Manx Marathon (AL)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220416T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220416T150000
-DTSTAMP;VALUE=DATE-TIME:20220106T211914Z
-UID:/races/44a963b1-e93b-4050-b859-a05a91ae52f4
-DESCRIPTION:Half Manx Marathon (AL)\nDate & time: Sat 16 Apr 2022 at 13:00
- \nDistance:21.5 km / 13.4 miles\nClimb:1200 m / 3937 ft\nVenue:Railway Car
-  ParkSt Johns - next to primary school\, IM4 3BP\nGrid reference:277815\n
- Skills:ER\, PM\, LK\, NS\nMinimum age:18\nIsle of Man\, England\nFull up t
- o date information https://races.fellrunner.org.uk/races/44a963b1-e93b-405
- 0-b859-a05a91ae52f4
-LOCATION:Railway Car ParkSt Johns - next to primary school\, IM4 3BP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rivington Pike (BS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220416T150000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220416T170000
-DTSTAMP;VALUE=DATE-TIME:20220106T211914Z
-UID:/races/c1d4859f-7c2a-4ff6-a081-9f358bafb2ac
-DESCRIPTION:Rivington Pike (BS)\nDate & time: Sat 16 Apr 2022 at 15:00\nDi
- stance:5.2 km / 3.2 miles\nClimb:213 m / 699 ft\nVenue:Registration at Cro
- wn Hotel\, Horwich from 1pm. Start/finish at Lever Park Avenue.\, BL6 7QJ\
- nSkills:PM\nMinimum age:16\nSouth/West Pennines\, England\nFull up to date
-  information https://races.fellrunner.org.uk/races/c1d4859f-7c2a-4ff6-a081
- -9f358bafb2ac
-LOCATION:Registration at Crown Hotel\, Horwich from 1pm. Start/finish at L
- ever Park Avenue.\, BL6 7QJ
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bunny Run 3 (CS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220419T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220419T210000
-DTSTAMP;VALUE=DATE-TIME:20220106T211915Z
-UID:/races/33aa0f75-c8dd-4f52-a93f-81272eaea26f
-DESCRIPTION:Bunny Run 3 (CS)\nDate & time: Tue 19 Apr 2022 at 19:00\nDista
- nce:4.8 km / 3 miles\nClimb:100 m / 328 ft\nVenue:To be confirmed - Old Su
- n Hotel closed\nSkills:PM\nMinimum age:12\nSouth/West Pennines\, England\n
- Full up to date information https://races.fellrunner.org.uk/races/33aa0f75
- -c8dd-4f52-a93f-81272eaea26f
-LOCATION:To be confirmed - Old Sun Hotel closed
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grisedale Grind (AS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220420T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220420T210000
-DTSTAMP;VALUE=DATE-TIME:20220106T211915Z
-UID:/races/e74db1d0-87c8-4f44-9aad-ab89bd2e3a01
-DESCRIPTION:Grisedale Grind (AS)\nDate & time: Wed 20 Apr 2022 at 19:00\nD
- istance:4 km / 2.5 miles\nClimb:480 m / 1575 ft\nVenue:Revelin Moss\, oppo
- site Whinlatter Visitor Centre.\nSkills:LK\, NS\nMinimum age:16\nLake Dist
- rict\, England\nFull up to date information https://races.fellrunner.org.u
- k/races/e74db1d0-87c8-4f44-9aad-ab89bd2e3a01
-LOCATION:Revelin Moss\, opposite Whinlatter Visitor Centre.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Herod Farm (AS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220420T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220420T213000
-DTSTAMP;VALUE=DATE-TIME:20220106T211915Z
-UID:/races/c375f9d5-2a50-4fd7-a3fa-06f55afb7750
-DESCRIPTION:Herod Farm (AS)\nDate & time: Wed 20 Apr 2022 at 19:30\nDistan
- ce:4.8 km / 3 miles\nClimb:340 m / 1115 ft\nVenue:Reliance Garage\, Glosso
- p\, SK13 6JR\nGrid reference:SK 03321 92856\nSkills:ER\, PM\nMinimum age:1
- 4\nPeak District\, England\nFull up to date information https://races.fell
- runner.org.uk/races/c375f9d5-2a50-4fd7-a3fa-06f55afb7750
-LOCATION:Reliance Garage\, Glossop\, SK13 6JR
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Caradoc Classic Fell Race (BS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220420T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220420T213000
-DTSTAMP;VALUE=DATE-TIME:20220106T211915Z
-UID:/races/c18fb8c4-4f98-4f4e-9204-cd1c4048620d
-DESCRIPTION:Caradoc Classic Fell Race (BS)\nDate & time: Wed 20 Apr 2022 a
- t 19:30\nDistance:5.6 km / 3.5 miles\nClimb:268 m / 879 ft\nVenue:To be an
- nounced nearer the race day\nSkills:PM\, LK\nMinimum age:14\nShropshire/We
- lsh Borders\, England\nFull up to date information https://races.fellrunne
- r.org.uk/races/c18fb8c4-4f98-4f4e-9204-cd1c4048620d
-LOCATION:To be announced nearer the race day
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hartcliff Hill (BS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220421T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220421T213000
-DTSTAMP;VALUE=DATE-TIME:20220106T211915Z
-UID:/races/eb4a052b-d9f3-40c7-b36d-9e475d7ac7a8
-DESCRIPTION:Hartcliff Hill (BS)\nDate & time: Thu 21 Apr 2022 at 19:30\nDi
- stance:4 km / 2.5 miles\nClimb:150 m / 492 ft\nVenue:Langsett Barn\, S36 4
- GY.\nGrid reference:SE211005\nSkills:PM\nMinimum age:14\nPeak District\, E
- ngland\nFull up to date information https://races.fellrunner.org.uk/races/
- eb4a052b-d9f3-40c7-b36d-9e475d7ac7a8
-LOCATION:Langsett Barn\, S36 4GY.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenager With Altitude (AL)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220423T103000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220423T123000
-DTSTAMP;VALUE=DATE-TIME:20220106T211915Z
-UID:/races/cb52c0ee-ef06-48c4-9c29-003af11fa016
-DESCRIPTION:Teenager With Altitude (AL)\nDate & time: Sat 23 Apr 2022 at 1
- 0:30\nDistance:24.7 km / 15.3 miles\nClimb:2300 m / 7546 ft\nVenue:Stair V
- illage Hall\, Newlands valley\, CA12 5UF\, CA12 5UF\nGrid reference:NY2332
- 12\nSkills:ER\, LK\, NS\nMinimum age:18\nLake District\, England\nFull up 
- to date information https://races.fellrunner.org.uk/races/cb52c0ee-ef06-48
- c4-9c29-003af11fa016
-LOCATION:Stair Village Hall\, Newlands valley\, CA12 5UF\, CA12 5UF
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Newlands Memorial Race (AM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220423T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220423T133000
-DTSTAMP;VALUE=DATE-TIME:20220106T211915Z
-UID:/races/6e6078e0-f68a-42ff-ae10-9eb714ce7432
-DESCRIPTION:Newlands Memorial Race (AM)\nDate & time: Sat 23 Apr 2022 at 1
- 1:30\nDistance:18.5 km / 11.5 miles\nClimb:1100 m / 3609 ft\nVenue:Stair V
- illage Hall\, Newlands\, CA12 5UF\, CA12 5UF\nGrid reference:NY237212\nSki
- lls:ER\, LK\, NS\nMinimum age:18\nLake District\, England\nFull up to date
-  information https://races.fellrunner.org.uk/races/6e6078e0-f68a-42ff-ae10
- -9eb714ce7432
-LOCATION:Stair Village Hall\, Newlands\, CA12 5UF\, CA12 5UF
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blakey Blitz (AM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220424T103000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220424T123000
-DTSTAMP;VALUE=DATE-TIME:20220106T211916Z
-UID:/races/00cbef44-534a-4f76-92d1-595ef3d3c1f1
-DESCRIPTION:Blakey Blitz (AM)\nDate & time: Sun 24 Apr 2022 at 10:30\nDist
- ance:17 km / 10.6 miles\nClimb:855 m / 2805 ft\nVenue:Lion Inn\, nr Castle
- ton\, Whitby.\, YO62 7LQ\nGrid reference:678998\nSkills:PM\, LK\, NS\nMini
- mum age:18\nNorth York Moors\, England\nFull up to date information https:
- //races.fellrunner.org.uk/races/00cbef44-534a-4f76-92d1-595ef3d3c1f1
-LOCATION:Lion Inn\, nr Castleton\, Whitby.\, YO62 7LQ
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinder Downfall (BM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220424T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220424T133000
-DTSTAMP;VALUE=DATE-TIME:20220106T211916Z
-UID:/races/dbd538ae-bdc0-4f7f-a51f-139d45a4f67a
-DESCRIPTION:Kinder Downfall (BM)\nDate & time: Sun 24 Apr 2022 at 11:30\nD
- istance:15.4 km / 9.6 miles\nClimb:600 m / 1969 ft\nVenue:Scout Hut\, Swal
- low House Lane\nGrid reference:035873\nSkills:ER\, PM\, LK\, NS\nMinimum a
- ge:18\nPeak District\, England\nFull up to date information https://races.
- fellrunner.org.uk/races/dbd538ae-bdc0-4f7f-a51f-139d45a4f67a
-LOCATION:Scout Hut\, Swallow House Lane
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Black Combe Dash (AS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220424T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220424T163000
-DTSTAMP;VALUE=DATE-TIME:20220106T211916Z
-UID:/races/e3976c76-0ca8-4f15-9428-87e00be6867d
-DESCRIPTION:Black Combe Dash (AS)\nDate & time: Sun 24 Apr 2022 at 14:30\n
- Distance:7.2 km / 4.5 miles\nClimb:600 m / 1969 ft\nVenue:Whicham\, Silecr
- oft\, LA18 5LY\nGrid reference:SD 132 825\nSkills:ER\, PM\, LK\, NS\nMinim
- um age:16\nLake District\, England\nFull up to date information https://ra
- ces.fellrunner.org.uk/races/e3976c76-0ca8-4f15-9428-87e00be6867d
-LOCATION:Whicham\, Silecroft\, LA18 5LY
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wray Caton Moor (BM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220426T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220426T210000
-DTSTAMP;VALUE=DATE-TIME:20220106T211916Z
-UID:/races/26f04f5e-0c1e-4012-8d17-33fe9a43e242
-DESCRIPTION:Wray Caton Moor (BM)\nDate & time: Tue 26 Apr 2022 at 19:00\nD
- istance:11 km / 6.8 miles\nClimb:335 m / 1099 ft\nVenue:Bridge End Farm Te
- a Rooms\, Wray\, nr Lancaster.\, LA2 8QP\nGrid reference:SD605676\nSkills:
- PM\nMinimum age:18\nBowland/NW Lancs.\, England\nFull up to date informati
- on https://races.fellrunner.org.uk/races/26f04f5e-0c1e-4012-8d17-33fe9a43e
- 242
-LOCATION:Bridge End Farm Tea Rooms\, Wray\, nr Lancaster.\, LA2 8QP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bunny Run Relay (Relay)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220426T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220426T210000
-DTSTAMP;VALUE=DATE-TIME:20220106T211916Z
-UID:/races/11ebe272-3446-4ff1-bb53-f34c9ad56883
-DESCRIPTION:Bunny Run Relay (Relay)\nDate & time: Tue 26 Apr 2022 at 19:00
- \nVenue:Old Sun Hotel\, Haworth\nSkills:PM\nMinimum age:10\nSouth/West Pen
- nines\, England\nFull up to date information https://races.fellrunner.org.
- uk/races/11ebe272-3446-4ff1-bb53-f34c9ad56883
-LOCATION:Old Sun Hotel\, Haworth
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orchan Rocks (AS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220426T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220426T210000
-DTSTAMP;VALUE=DATE-TIME:20220106T211916Z
-UID:/races/0c46eebb-08d0-4dd4-8972-1c2af7987c94
-DESCRIPTION:Orchan Rocks (AS)\nDate & time: Tue 26 Apr 2022 at 19:00\nDist
- ance:5.4 km / 3.4 miles\nClimb:280 m / 919 ft\nVenue:Staff of Life pub\, 5
- 50 Burnley Rd\, Todmorden\, OL14 8JF\, OL14 8JF\nSkills:PM\, LK\nMinimum a
- ge:14\nSouth/West Pennines\, England\nFull up to date information https://
- races.fellrunner.org.uk/races/0c46eebb-08d0-4dd4-8972-1c2af7987c94
-LOCATION:Staff of Life pub\, 550 Burnley Rd\, Todmorden\, OL14 8JF\, OL14 
- 8JF
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tiger's Trail (BS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220427T183000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220427T203000
-DTSTAMP;VALUE=DATE-TIME:20220106T211917Z
-UID:/races/3dbe5e83-74e7-4f6e-b40c-a5da60d9b41c
-DESCRIPTION:Tiger's Trail (BS)\nDate & time: Wed 27 Apr 2022 at 18:30\nDis
- tance:8.8 km / 5.5 miles\nClimb:207 m / 679 ft\nVenue:Sheffield Tigers RUF
- C\, S17 3AB\nGrid reference:299821\nSkills:ER\, PM\, LK\nMinimum age:18\nP
- eak District\, England\nFull up to date information https://races.fellrunn
- er.org.uk/races/3dbe5e83-74e7-4f6e-b40c-a5da60d9b41c
-LOCATION:Sheffield Tigers RUFC\, S17 3AB
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fo(e) Edge (BS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220427T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220427T210000
-DTSTAMP;VALUE=DATE-TIME:20220106T211917Z
-UID:/races/c9b6fd1c-abab-4f26-94a4-bb70d1727703
-DESCRIPTION:Fo(e) Edge (BS)\nDate & time: Wed 27 Apr 2022 at 19:00\nDistan
- ce:6.6 km / 4.1 miles\nClimb:300 m / 984 ft\nVenue:Cowpe Village Hall\, Wa
- terfoot\, Rossendale\, BB4 7DP\nGrid reference:837212\nSkills:PM\nMinimum 
- age:16\nSouth/West Pennines\, England\nFull up to date information https:/
- /races.fellrunner.org.uk/races/c9b6fd1c-abab-4f26-94a4-bb70d1727703
-LOCATION:Cowpe Village Hall\, Waterfoot\, Rossendale\, BB4 7DP
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cockfield Chase (CS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220428T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220428T210000
-DTSTAMP;VALUE=DATE-TIME:20220106T211917Z
-UID:/races/1b78ad28-12fd-4f15-a699-a4e413adec51
-DESCRIPTION:Cockfield Chase (CS)\nDate & time: Thu 28 Apr 2022 at 19:00\nD
- istance:7 km / 4.3 miles\nClimb:160 m / 525 ft\nVenue:Top end of Cockfield
-  High Street\, County Durham.\, DL13 5HF\nGrid reference:115242\nMinimum a
- ge:14\nNorthumberland / Durham\, England\nFull up to date information http
- s://races.fellrunner.org.uk/races/1b78ad28-12fd-4f15-a699-a4e413adec51
-LOCATION:Top end of Cockfield High Street\, County Durham.\, DL13 5HF
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Cake Race (BM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220430T100000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220430T120000
-DTSTAMP;VALUE=DATE-TIME:20220106T211917Z
-UID:/races/76d915ac-0da9-4f71-b9cf-de84e18858ac
-DESCRIPTION:The Cake Race (BM)\nDate & time: Sat 30 Apr 2022 at 10:00\nDis
- tance:16 km / 9.9 miles\nClimb:518 m / 1699 ft\nVenue:Kiln Green Church\, 
- Diggle\, Saddleworth.\, OL3 5JZ\nGrid reference:SE 00720794\nSkills:PM\, L
- K\nMinimum age:18\nSouth/West Pennines\, England\nFull up to date informat
- ion https://races.fellrunner.org.uk/races/76d915ac-0da9-4f71-b9cf-de84e188
- 58ac
-LOCATION:Kiln Green Church\, Diggle\, Saddleworth.\, OL3 5JZ
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:67thThree Peaks (AL)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220430T103000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220430T123000
-DTSTAMP;VALUE=DATE-TIME:20220106T211918Z
-UID:/races/6d69da16-9d01-4fa3-9e06-eca733b6d596
-DESCRIPTION:67thThree Peaks (AL)\nDate & time: Sat 30 Apr 2022 at 10:30\nD
- istance:37.4 km / 23.2 miles\nClimb:1608 m / 5276 ft\nVenue:Playing fields
- \, Horton-in-Ribblesdale\, North Yorks.\nGrid reference:805727 on OS Explo
- rer OL2\nSkills:ER\, PM\, LK\, NS\nMinimum age:18\nYork. Dales\, England\n
- Full up to date information https://races.fellrunner.org.uk/races/6d69da16
- -9d01-4fa3-9e06-eca733b6d596
-LOCATION:Playing fields\, Horton-in-Ribblesdale\, North Yorks.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coniston (AM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220430T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220430T143000
-DTSTAMP;VALUE=DATE-TIME:20220106T211918Z
-UID:/races/77286412-23f0-4030-9017-aea7c0db3812
-DESCRIPTION:Coniston (AM)\nDate & time: Sat 30 Apr 2022 at 12:30\nDistance
- :14 km / 8.7 miles\nClimb:1065 m / 3494 ft\nVenue:Coniston Institute.\nSki
- lls:ER\, LK\, NS\nMinimum age:18\nLake District\, England\nFull up to date
-  information https://races.fellrunner.org.uk/races/77286412-23f0-4030-9017
- -aea7c0db3812
-LOCATION:Coniston Institute.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Guisborough 3 Tops (AM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220430T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220430T150000
-DTSTAMP;VALUE=DATE-TIME:20220106T211918Z
-UID:/races/38c0b13f-ac43-4f0f-9fec-c00825f65574
-DESCRIPTION:Guisborough 3 Tops (AM)\nDate & time: Sat 30 Apr 2022 at 13:00
- \nDistance:15.9 km / 9.9 miles\nClimb:800 m / 2625 ft\nVenue:Guisborough S
- ea Cadets Hall\, 74 Belmangate\, TS14 7AQ\, TS14 7AQ\nGrid reference:61615
- 5\nSkills:ER\, PM\, LK\, NS\nMinimum age:18\nNorth York Moors\, England\nF
- ull up to date information https://races.fellrunner.org.uk/races/38c0b13f-
- ac43-4f0f-9fec-c00825f65574
-LOCATION:Guisborough Sea Cadets Hall\, 74 Belmangate\, TS14 7AQ\, TS14 7AQ
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Mount Karrin (AM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220501T103000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220501T123000
-DTSTAMP;VALUE=DATE-TIME:20220106T211918Z
-UID:/races/0b950b02-e3d3-4f35-87bd-81d872cf7786
-DESCRIPTION:Mount Karrin (AM)\nDate & time: Sun 1 May 2022 at 10:30\nDista
- nce:14 km / 8.7 miles\nClimb:781 m / 2562 ft\nVenue:The Claddagh\, Sulby. 
- I.O.M\, IM72HE\nGrid reference:38505 93915\nSkills:ER\, PM\, LK\, NS\nMini
- mum age:18\nIsle of Man\, England\nFull up to date information https://rac
- es.fellrunner.org.uk/races/0b950b02-e3d3-4f35-87bd-81d872cf7786
-LOCATION:The Claddagh\, Sulby. I.O.M\, IM72HE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Great Hameldon Fell Race (BS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220501T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220501T140000
-DTSTAMP;VALUE=DATE-TIME:20220106T211918Z
-UID:/races/3f7d0a99-c55b-45e0-96b4-c70d6d73921d
-DESCRIPTION:Great Hameldon Fell Race (BS)\nDate & time: Sun 1 May 2022 at 
- 12:00\nDistance:9.6 km / 6 miles\nClimb:338 m / 1109 ft\nVenue:Peel Park H
- otel\, Turkey St\, Accrington\, BB5 6EW.\, BB5 6EW\nGrid reference:SD 7662
- 92\nSkills:PM\nMinimum age:16\nSouth/West Pennines\, England\nFull up to d
- ate information https://races.fellrunner.org.uk/races/3f7d0a99-c55b-45e0-9
- 6b4-c70d6d73921d
-LOCATION:Peel Park Hotel\, Turkey St\, Accrington\, BB5 6EW.\, BB5 6EW
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coiners Junior ()
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220502T103000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220502T123000
-DTSTAMP;VALUE=DATE-TIME:20220106T211918Z
-UID:/races/6b158f61-d1ae-4e0a-8fc6-356a664411d9
-DESCRIPTION:Coiners Junior ()\nDate & time: Mon 2 May 2022 at 10:30\nVenue
- :Mytholmroyd Community Centre\, HX7 5AF(But please note that race field/s
- tart is a c. 15-20 min walk from the MCC. See details on club website near
- er the time.)\, HX7 5AF\nGrid reference:SE011259\nSouth/West Pennines\, En
- gland\nFull up to date information https://races.fellrunner.org.uk/races/6
- b158f61-d1ae-4e0a-8fc6-356a664411d9
-LOCATION:Mytholmroyd Community Centre\, HX7 5AF(But please note that race
-  field/start is a c. 15-20 min walk from the MCC. See details on club webs
- ite nearer the time.)\, HX7 5AF
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Coiners (BM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220502T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220502T150000
-DTSTAMP;VALUE=DATE-TIME:20220106T211919Z
-UID:/races/1cdd7088-0bd0-4ff9-9ab3-479e6e24b95d
-DESCRIPTION:Coiners (BM)\nDate & time: Mon 2 May 2022 at 13:00\nDistance:1
- 0.8 km / 6.7 miles\nClimb:295 m / 968 ft\nVenue:Mytholmroyd Community and 
- Leisure Centre\, HX7 5AF\nGrid reference:SE011259\nMinimum age:18\nSouth/W
- est Pennines\, England\nFull up to date information https://races.fellrunn
- er.org.uk/races/1cdd7088-0bd0-4ff9-9ab3-479e6e24b95d
-LOCATION:Mytholmroyd Community and Leisure Centre\, HX7 5AF
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lords Seat (AS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220504T190000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220504T210000
-DTSTAMP;VALUE=DATE-TIME:20220106T211919Z
-UID:/races/ff682364-740d-4f90-89d9-21477991bc8c
-DESCRIPTION:Lords Seat (AS)\nDate & time: Wed 4 May 2022 at 19:00\nDistanc
- e:8 km / 5 miles\nClimb:430 m / 1411 ft\nVenue:Siskin's Cafe\, Whinlatter 
- Visitor Centre.\nSkills:LK\, NS\nMinimum age:16\nLake District\, England\n
- Full up to date information https://races.fellrunner.org.uk/races/ff682364
- -740d-4f90-89d9-21477991bc8c
-LOCATION:Siskin's Cafe\, Whinlatter Visitor Centre.
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rainow 5 (BS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220504T193000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220504T213000
-DTSTAMP;VALUE=DATE-TIME:20220106T211919Z
-UID:/races/e6975ec2-e90a-4cf9-8ac7-2191d0ed19e3
-DESCRIPTION:Rainow 5 (BS)\nDate & time: Wed 4 May 2022 at 19:30\nDistance:
- 8 km / 5 miles\nClimb:229 m / 751 ft\nVenue:Rainow Institute\, B5470 betwe
- en Macclesfield and Whaley Bridge.\, SK10 5XE\nSkills:PM\nMinimum age:16\n
- Peak District\, England\nFull up to date information https://races.fellrun
- ner.org.uk/races/e6975ec2-e90a-4cf9-8ac7-2191d0ed19e3
-LOCATION:Rainow Institute\, B5470 between Macclesfield and Whaley Bridge.\
- , SK10 5XE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Preseli Beast (BL)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220507T100000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220507T120000
-DTSTAMP;VALUE=DATE-TIME:20220106T211919Z
-UID:/races/4e12f0e3-e5ee-4fcd-906b-0ba5886aeab2
-DESCRIPTION:Preseli Beast (BL)\nDate & time: Sat 7 May 2022 at 10:00\nDist
- ance:38 km / 23.6 miles\nClimb:1450 m / 4757 ft\nVenue:Maenclochog Green\,
-  SA66 7LA.\, SA66 7LA\nGrid reference:SN083274\nSkills:ER\, PM\, LK\nMinim
- um age:18\nSouth Wales\, Wales\nFull up to date information https://races.
- fellrunner.org.uk/races/4e12f0e3-e5ee-4fcd-906b-0ba5886aeab2
-LOCATION:Maenclochog Green\, SA66 7LA.\, SA66 7LA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Preseli Ultrabeast (BL)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220507T100000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220507T120000
-DTSTAMP;VALUE=DATE-TIME:20220106T211919Z
-UID:/races/cb59b0ea-77c2-4f46-b1bb-92a2589c26b4
-DESCRIPTION:Preseli Ultrabeast (BL)\nDate & time: Sat 7 May 2022 at 10:00\
- nDistance:52 km / 32.3 miles\nClimb:1850 m / 6070 ft\nVenue:Maenclochog vi
- llage Green\,\, SA66 7LA\nGrid reference:SN083274\nSkills:ER\, PM\, LK\, N
- S\nMinimum age:18\nSouth Wales\, Wales\nFull up to date information https:
- //races.fellrunner.org.uk/races/cb59b0ea-77c2-4f46-b1bb-92a2589c26b4
-LOCATION:Maenclochog village Green\,\, SA66 7LA
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Todd Crag Juniors (AS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220507T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220507T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211920Z
-UID:/races/6d24fa10-e918-4fc7-b816-00fbdfa4601b
-DESCRIPTION:Todd Crag Juniors (AS)\nDate & time: Sat 7 May 2022 at 11:00\n
- Distance:0 km / 0 miles\nClimb:0 m / 0 ft\nVenue:Rothay Park\, Ambleside\,
-  LA22 9DH\nMinimum age:6\nLake District\, England\nFull up to date informa
- tion https://races.fellrunner.org.uk/races/6d24fa10-e918-4fc7-b816-00fbdfa
- 4601b
-LOCATION:Rothay Park\, Ambleside\, LA22 9DH
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Moorhouse's Pendle Cloughs (AL)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220507T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220507T130000
-DTSTAMP;VALUE=DATE-TIME:20220106T211920Z
-UID:/races/84c17733-c0e3-4fce-bdc8-340a093e95d1
-DESCRIPTION:Moorhouse's Pendle Cloughs (AL)\nDate & time: Sat 7 May 2022 a
- t 11:00\nDistance:22.5 km / 14 miles\nClimb:1250 m / 4101 ft\nVenue:Downha
- m\, nr Clitheroe\, Lancs\, BB7 4BJ\nSkills:ER\, PM\, LK\, NS\nMinimum age:
- 18\nSouth/West Pennines\, England\nFull up to date information https://rac
- es.fellrunner.org.uk/races/84c17733-c0e3-4fce-bdc8-340a093e95d1
-LOCATION:Downham\, nr Clitheroe\, Lancs\, BB7 4BJ
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Beast Bach (BM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220507T123000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220507T143000
-DTSTAMP;VALUE=DATE-TIME:20220106T211920Z
-UID:/races/6a67962d-54c2-4faa-849e-a22d2e0f0117
-DESCRIPTION:Beast Bach (BM)\nDate & time: Sat 7 May 2022 at 12:30\nDistanc
- e:17.7 km / 11 miles\nClimb:550 m / 1804 ft\nVenue:Maenclochog Green\, SA6
- 6 7LA.\, SA66 7LA\nGrid reference:SN083274\nSkills:PM\, LK\nMinimum age:18
- \nSouth Wales\, Wales\nFull up to date information https://races.fellrunne
- r.org.uk/races/6a67962d-54c2-4faa-849e-a22d2e0f0117
-LOCATION:Maenclochog Green\, SA66 7LA.\, SA66 7LA
 END:VEVENT
 END:VCALENDAR
