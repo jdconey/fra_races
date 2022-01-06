@@ -6,6 +6,7 @@ BEGIN:VEVENT
 SUMMARY:S O B ( Stile End - Outerside - Barrow )\, Kong Winter Series 3 (A
  S)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220108T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220109T000000
 DESCRIPTION:S O B ( Stile End - Outerside - Barrow )\, Kong Winter Series 
  3 (AS)\nLake District\, England\nMore Info: https://races.fellrunner.org.u
  k/races/cf6fd006-3496-4f85-944c-38ea744e1fcd
@@ -13,18 +14,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trigger (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220109T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220110T000000
 DESCRIPTION:Trigger (AL)\nPeak District\, England\nMore Info: https://race
  s.fellrunner.org.uk/races/cf2e4644-c87c-4fa9-9715-f79242261020
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Commondale Clart (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220109T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220110T000000
 DESCRIPTION:Commondale Clart (BS)\nNorth York Moors\, England\nMore Info: 
  https://races.fellrunner.org.uk/races/3faff4f3-3788-4f84-b311-9aa1f9a9710d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cannock Chase Trig Points (CL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220109T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220110T000000
 DESCRIPTION:Cannock Chase Trig Points (CL)\nMidlands\, England\nMore Info:
   https://races.fellrunner.org.uk/races/e14c270a-45bd-4f85-965b-a09f5ccbaf2
  2
@@ -32,12 +36,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scout Scar (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220109T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220110T000000
 DESCRIPTION:Scout Scar (CS)\nLake District\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/501a80c7-9705-4369-8b1d-2f6004bc0df7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stanbury Splash Juniors ()
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220116T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220117T000000
 DESCRIPTION:Stanbury Splash Juniors ()\nSouth/West Pennines\, England\nMor
  e Info: https://races.fellrunner.org.uk/races/5f7a785b-d6af-4f67-91af-6d1e
  a9e5e6d6
@@ -45,6 +51,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stanbury Splash (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220116T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220117T000000
 DESCRIPTION:Stanbury Splash (BM)\nSouth/West Pennines\, England\nMore Info
  : https://races.fellrunner.org.uk/races/23924685-4d52-4f7a-a152-1f4569fdc0
  e4
@@ -52,36 +59,42 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Giggleswick School (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220116T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220117T000000
 DESCRIPTION:Giggleswick School (CS)\nLake District\, England\nMore Info: h
  ttps://races.fellrunner.org.uk/races/8754bd16-79c6-4a1e-b402-d29726f17d60
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Box Hill (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220122T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220123T000000
 DESCRIPTION:Box Hill (BM)\nSouth East\, England\nMore Info: https://races.
  fellrunner.org.uk/races/325ee7e4-a48d-45f1-bc1b-1c200a5233e6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoofstones (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220122T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220123T000000
 DESCRIPTION:Hoofstones (BM)\nSouth/West Pennines\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/fd50ebb6-fc8d-4368-a3c3-5e5b8ac4ec49
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blake Fell (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220122T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220123T000000
 DESCRIPTION:Blake Fell (BS)\nLake District\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/078c4598-5a01-4242-a04a-2a01d3fde7b0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Whitestone (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220123T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220124T000000
 DESCRIPTION:Whitestone (CS)\nLake District\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/dd263413-eeb8-497c-910e-9ab9a201bbca
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Clough Head\, Kong Winter Series 4 (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220129T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220130T000000
 DESCRIPTION:Clough Head\, Kong Winter Series 4 (AS)\nLake District\, Engla
  nd\nMore Info: https://races.fellrunner.org.uk/races/16829a43-03a8-4f99-bc
  ec-ff9db7bcd378
@@ -89,30 +102,35 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tarrenhendre (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220129T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220130T000000
 DESCRIPTION:Tarrenhendre (AS)\nNorth Wales\, Wales\nMore Info: https://rac
  es.fellrunner.org.uk/races/40576107-c7c2-4fd0-8fed-abc16c56b186
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ard Whallin (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220129T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220130T000000
 DESCRIPTION:Ard Whallin (AM)\nIsle of Man\, England\nMore Info: https://ra
  ces.fellrunner.org.uk/races/cbadcd49-6897-436b-ba59-ec7e1317b3d4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Birkrigg Common (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220130T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220131T000000
 DESCRIPTION:Birkrigg Common (CS)\nLake District\, England\nMore Info: http
  s://races.fellrunner.org.uk/races/f97ddfa5-ff44-425a-9b3f-394bb37292c4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Runners And Riders (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220130T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220131T000000
 DESCRIPTION:Runners And Riders (BS)\nYork. Dales\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/574e8407-5d9e-4f58-9904-696b73992d48
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wadsworth Trog (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220205T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220206T000000
 DESCRIPTION:Wadsworth Trog (BL)\nSouth/West Pennines\, England\nMore Info:
   https://races.fellrunner.org.uk/races/28aab80e-160c-4f20-835d-8e0e2d35af4
  f
@@ -120,12 +138,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charnwood Hills (CL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220206T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220207T000000
 DESCRIPTION:Charnwood Hills (CL)\nMidlands\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/6ab0ccd2-dc1a-49e3-b5ad-fa256b4c7666
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Winter Half Tour Of Bradwell (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220212T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220213T000000
 DESCRIPTION:Winter Half Tour Of Bradwell (BL)\nPeak District\, England\nMo
  re Info: https://races.fellrunner.org.uk/races/87ca8f04-0346-4750-ac92-0ad
  1ca0ac33c
@@ -133,12 +153,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:New Chew (O)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220213T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220214T000000
 DESCRIPTION:New Chew (O)\nPeak District\, England\nMore Info: https://race
  s.fellrunner.org.uk/races/c985cb05-a449-4fd6-833c-d916436eb323
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sidmouth 4 Trigs Challenge (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220213T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220214T000000
 DESCRIPTION:Sidmouth 4 Trigs Challenge (BL)\nSouth West\, England\nMore In
  fo: https://races.fellrunner.org.uk/races/b419763f-db11-4f53-bf7d-af6e207c
  5b60
@@ -146,6 +168,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Loopy Latrigg\, Kong Winter Series 5 (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220219T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220220T000000
 DESCRIPTION:Loopy Latrigg\, Kong Winter Series 5 (AS)\nLake District\, Eng
  land\nMore Info: https://races.fellrunner.org.uk/races/ec861782-83ea-4fde-
  800b-59116893f132
@@ -153,12 +176,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Flower Scar (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220219T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220220T000000
 DESCRIPTION:Flower Scar (AM)\nSouth/West Pennines\, England\nMore Info: ht
  tps://races.fellrunner.org.uk/races/14e58375-97a4-4fd2-8a24-eb8aae808d0b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bleasdale Circle (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220219T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220220T000000
 DESCRIPTION:Bleasdale Circle (BS)\nBowland/NW Lancs.\, England\nMore Info:
   https://races.fellrunner.org.uk/races/6c9d17ac-6148-46ae-8968-ed23a1777e7
  f
@@ -166,6 +191,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Maybeck 3 Crosses (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220220T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220221T000000
 DESCRIPTION:Maybeck 3 Crosses (BM)\nNorth York Moors\, England\nMore Info:
   https://races.fellrunner.org.uk/races/fcfed6ff-ce82-4f60-9efc-8f5fd48a5e6
  1
@@ -173,12 +199,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Midgley Moor (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220220T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220221T000000
 DESCRIPTION:Midgley Moor (BS)\nSouth/West Pennines\, England\nMore Info: h
  ttps://races.fellrunner.org.uk/races/eff958bd-7be9-4f06-b9ad-ea8a144fb206
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Inov-8 High Cup Nick (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220226T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220227T000000
 DESCRIPTION:Inov-8 High Cup Nick (BM)\nNorth Pennines\, England\nMore Info
  : https://races.fellrunner.org.uk/races/27d23ff9-d7ab-4f33-8b26-90cb756ba3
  c5
@@ -186,30 +214,35 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slieau Ruy (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220226T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220227T000000
 DESCRIPTION:Slieau Ruy (AS)\nIsle of Man\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/e0460ac0-6ad2-4af0-bbbf-f2d1091d1431
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Terry's High 5 (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220227T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220228T000000
 DESCRIPTION:Terry's High 5 (BS)\nPeak District\, England\nMore Info: https
  ://races.fellrunner.org.uk/races/5b3ad0f3-d65e-4cc8-94c8-db80143a6503
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hoppits Hill (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220227T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220228T000000
 DESCRIPTION:Hoppits Hill (BS)\nPeak District\, England\nMore Info: https:/
  /races.fellrunner.org.uk/races/ab29c338-3ed4-4fa2-811f-6dd2a5f72224
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pipe Dream (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220305T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220306T000000
 DESCRIPTION:Pipe Dream (AS)\nNorth Wales\, Wales\nMore Info: https://races
  .fellrunner.org.uk/races/4c9ec43e-9eb8-4f4e-9e58-0afb63e32b54
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saddleworth Ten Res's (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220305T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220306T000000
 DESCRIPTION:Saddleworth Ten Res's (BL)\nSouth/West Pennines\, England\nMor
  e Info: https://races.fellrunner.org.uk/races/e6b24444-ae09-4ff4-b066-d71c
  c1a7563e
@@ -217,6 +250,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moorhouse's Stan Bradshaw Pendle Round (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220305T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220306T000000
 DESCRIPTION:Moorhouse's Stan Bradshaw Pendle Round (BM)\nSouth/West Pennin
  es\, England\nMore Info: https://races.fellrunner.org.uk/races/798f8200-0d
  bf-4114-9659-52f1fd030825
@@ -224,24 +258,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Black Combe (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220305T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220306T000000
 DESCRIPTION:Black Combe (AM)\nLake District\, England\nMore Info: https://
  races.fellrunner.org.uk/races/770d8a77-d35b-4f94-aad6-f660d9406770
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cloud Nine (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220306T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220307T000000
 DESCRIPTION:Cloud Nine (BM)\nPeak District\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/9caff7a4-3031-4f88-b9e2-4b87e3897a39
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ilkley Moor Fell Race (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220306T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220307T000000
 DESCRIPTION:Ilkley Moor Fell Race (AS)\nYork. Dales\, England\nMore Info: 
  https://races.fellrunner.org.uk/races/1fa637c5-74bb-4f68-ae66-8ca1615d581c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Haworth Hobble Ultra Marathon (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220312T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220313T000000
 DESCRIPTION:Haworth Hobble Ultra Marathon (BL)\nSouth/West Pennines\, Engl
  and\nMore Info: https://races.fellrunner.org.uk/races/2bccfce6-7796-4fcf-b
  9ab-d4536585d6c6
@@ -249,12 +287,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:At the double (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220312T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220313T000000
 DESCRIPTION:At the double (BM)\nNorth York Moors\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/ebe7680a-053c-4f9a-ad28-4e1d9b4cc476
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brough Law (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220313T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220314T000000
 DESCRIPTION:Brough Law (AS)\nNorthumberland / Durham\, England\nMore Info:
   https://races.fellrunner.org.uk/races/13def8df-e731-4f7f-9771-116435ff284
  b
@@ -262,24 +302,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carrock Fell (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220313T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220314T000000
 DESCRIPTION:Carrock Fell (AS)\nLake District\, England\nMore Info: https:/
  /races.fellrunner.org.uk/races/c4328848-ae9a-4f9b-bdd6-85364495954e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Muncaster Luck (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220313T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220314T000000
 DESCRIPTION:Muncaster Luck (BM)\nLake District\, England\nMore Info: https
  ://races.fellrunner.org.uk/races/c839eacc-ee4e-4f27-8b95-622a7ece4521
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jarrett's Jaunt (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220319T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220320T000000
 DESCRIPTION:Jarrett's Jaunt (AS)\nLake District\, England\nMore Info: http
  s://races.fellrunner.org.uk/races/32b90b34-f989-496f-8050-07210e135135
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Snaefell and the Tholtans (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220320T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220321T000000
 DESCRIPTION:Snaefell and the Tholtans (AS)\nIsle of Man\, England\nMore In
  fo: https://races.fellrunner.org.uk/races/c145a630-5342-41fe-8998-59ea0355
  a0f7
@@ -287,12 +331,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bilsdale (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220320T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220321T000000
 DESCRIPTION:Bilsdale (AL)\nNorth York Moors\, England\nMore Info: https://
  races.fellrunner.org.uk/races/5838ae2f-02e2-4faa-a8dc-25d8a08c058c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ian Roberts Memorial (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220320T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220321T000000
 DESCRIPTION:Ian Roberts Memorial (BM)\nSouth/West Pennines\, England\nMore
   Info: https://races.fellrunner.org.uk/races/42c618c4-f563-4f52-be29-92033
  a88df54
@@ -300,24 +346,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heptonstall (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220320T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220321T000000
 DESCRIPTION:Heptonstall (BL)\nSouth/West Pennines\, England\nMore Info: ht
  tps://races.fellrunner.org.uk/races/f7a3d5a2-8338-4e8c-94b2-60fb68172f8c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coledale Horseshoe (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220326T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220327T000000
 DESCRIPTION:Coledale Horseshoe (AM)\nLake District\, England\nMore Info: h
  ttps://races.fellrunner.org.uk/races/87f05cb3-b35b-4fca-9076-1eb9b12c0416
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yr Aran (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220326T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220327T000000
 DESCRIPTION:Yr Aran (AM)\nNorth Wales\, Wales\nMore Info: https://races.fe
  llrunner.org.uk/races/b5c6905e-950c-4fbb-b30f-fca71f602f39
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Don Morrison Memorial Edale Skyline (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220327T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220328T000000
 DESCRIPTION:Don Morrison Memorial Edale Skyline (AL)\nPeak District\, Engl
  and\nMore Info: https://races.fellrunner.org.uk/races/6e6bed60-a8a2-4f81-a
  fbd-761d6a6252d2
@@ -325,18 +375,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mow Cop (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220327T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220328T000000
 DESCRIPTION:Mow Cop (BM)\nMidlands\, England\nMore Info: https://races.fel
  lrunner.org.uk/races/906341be-44eb-4f89-8ab4-92ae79f5603c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trunce 1 (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220328T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220329T000000
 DESCRIPTION:Trunce 1 (BS)\nPeak District\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/d8e55c49-01f4-4fda-8482-4ae65e267f1f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pete Hartley Memorial Liver Hill (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220329T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220330T000000
 DESCRIPTION:Pete Hartley Memorial Liver Hill (BS)\nSouth/West Pennines\, E
  ngland\nMore Info: https://races.fellrunner.org.uk/races/5a90308e-b71b-4a6
  9-ac9b-d62df9245d81
@@ -344,24 +397,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Five Trigs (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220402T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220403T000000
 DESCRIPTION:Five Trigs (BL)\nSouth/West Pennines\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/c8e499ff-0359-4ff7-a439-fa3e3236af9c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dungeon Ghyll (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220402T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220403T000000
 DESCRIPTION:Dungeon Ghyll (AS)\nLake District\, England\nMore Info: https:
  //races.fellrunner.org.uk/races/6b52878c-8e9d-4a23-b52a-246650d44e3f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chicken Run (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220402T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220403T000000
 DESCRIPTION:Chicken Run (BM)\nPeak District\, England\nMore Info: https://
  races.fellrunner.org.uk/races/b2de122b-bae9-4f1c-98bb-a5ebb678ba62
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pendle Junior Fell Races (Junior races)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220402T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220403T000000
 DESCRIPTION:Pendle Junior Fell Races (Junior races)\nSouth/West Pennines\,
   England\nMore Info: https://races.fellrunner.org.uk/races/31eb1f26-87f9-4
  f02-afa6-4f72a0872e54
@@ -369,6 +426,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moorhouse's Pendle (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220402T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220403T000000
 DESCRIPTION:Moorhouse's Pendle (AS)\nSouth/West Pennines\, England\nMore I
  nfo: https://races.fellrunner.org.uk/races/0741e841-a125-4fef-8b16-d7adfc5
  03b24
@@ -376,24 +434,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heartbeat Hobble (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220403T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220404T000000
 DESCRIPTION:Heartbeat Hobble (BM)\nNorth York Moors\, England\nMore Info: 
  https://races.fellrunner.org.uk/races/b8cd39f8-6666-4fe3-831b-607baf9c4d14
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bunny Run 1 (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220405T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220406T000000
 DESCRIPTION:Bunny Run 1 (CS)\nSouth/West Pennines\, England\nMore Info: ht
  tps://races.fellrunner.org.uk/races/0d03f344-70ec-4fd8-8239-bd27d0e024b5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eskdale Elevation (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220409T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220410T000000
 DESCRIPTION:Eskdale Elevation (AL)\nLake District\, England\nMore Info: ht
  tps://races.fellrunner.org.uk/races/2524bea3-23ef-4f58-9835-1ec6250fbd19
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wardle Skyline (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220409T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220410T000000
 DESCRIPTION:Wardle Skyline (BM)\nSouth/West Pennines\, England\nMore Info:
   https://races.fellrunner.org.uk/races/ba00ab6d-dffc-4bac-b7ab-ebb838253df
  8
@@ -401,30 +463,35 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Llangollen Fell Race (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220410T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220411T000000
 DESCRIPTION:Llangollen Fell Race (AL)\nNorth Wales\, Wales\nMore Info: htt
  ps://races.fellrunner.org.uk/races/d1534811-98c8-4f33-a93f-f1994e84a795
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trunce 2 (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220411T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220412T000000
 DESCRIPTION:Trunce 2 (BS)\nPeak District\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/a08267af-9516-4fbf-8101-1dba4ada5bd4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bunny Run 2 (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220412T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220413T000000
 DESCRIPTION:Bunny Run 2 (CS)\nSouth/West Pennines\, England\nMore Info: ht
  tps://races.fellrunner.org.uk/races/e4310c6b-65ed-4f6a-9099-5c1925d9822c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Loughrigg (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220413T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220414T000000
 DESCRIPTION:Loughrigg (AS)\nLake District\, England\nMore Info: https://ra
  ces.fellrunner.org.uk/races/2208e7c2-9ae9-4faf-ae69-e3fb4e4eddb8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Manx Mountain Marathon (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220416T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220417T000000
 DESCRIPTION:Manx Mountain Marathon (AL)\nIsle of Man\, England\nMore Info:
   https://races.fellrunner.org.uk/races/b21cfdf9-20d9-4fa7-b71c-fd4bf18b846
  f
@@ -432,12 +499,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Half Manx Marathon (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220416T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220417T000000
 DESCRIPTION:Half Manx Marathon (AL)\nIsle of Man\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/44a963b1-e93b-4050-b859-a05a91ae52f4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rivington Pike (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220416T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220417T000000
 DESCRIPTION:Rivington Pike (BS)\nSouth/West Pennines\, England\nMore Info:
   https://races.fellrunner.org.uk/races/c1d4859f-7c2a-4ff6-a081-9f358bafb2a
  c
@@ -445,24 +514,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bunny Run 3 (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220419T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220420T000000
 DESCRIPTION:Bunny Run 3 (CS)\nSouth/West Pennines\, England\nMore Info: ht
  tps://races.fellrunner.org.uk/races/33aa0f75-c8dd-4f52-a93f-81272eaea26f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grisedale Grind (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220420T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220421T000000
 DESCRIPTION:Grisedale Grind (AS)\nLake District\, England\nMore Info: http
  s://races.fellrunner.org.uk/races/e74db1d0-87c8-4f44-9aad-ab89bd2e3a01
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Herod Farm (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220420T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220421T000000
 DESCRIPTION:Herod Farm (AS)\nPeak District\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/c375f9d5-2a50-4fd7-a3fa-06f55afb7750
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Caradoc Classic Fell Race (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220420T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220421T000000
 DESCRIPTION:Caradoc Classic Fell Race (BS)\nShropshire/Welsh Borders\, Eng
  land\nMore Info: https://races.fellrunner.org.uk/races/c18fb8c4-4f98-4f4e-
  9204-cd1c4048620d
@@ -470,12 +543,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hartcliff Hill (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220421T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220422T000000
 DESCRIPTION:Hartcliff Hill (BS)\nPeak District\, England\nMore Info: https
  ://races.fellrunner.org.uk/races/eb4a052b-d9f3-40c7-b36d-9e475d7ac7a8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Teenager With Altitude (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220423T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220424T000000
 DESCRIPTION:Teenager With Altitude (AL)\nLake District\, England\nMore Inf
  o: https://races.fellrunner.org.uk/races/cb52c0ee-ef06-48c4-9c29-003af11fa
  016
@@ -483,6 +558,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Newlands Memorial Race (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220423T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220424T000000
 DESCRIPTION:Newlands Memorial Race (AM)\nLake District\, England\nMore Inf
  o: https://races.fellrunner.org.uk/races/6e6078e0-f68a-42ff-ae10-9eb714ce7
  432
@@ -490,30 +566,35 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blakey Blitz (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220424T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220425T000000
 DESCRIPTION:Blakey Blitz (AM)\nNorth York Moors\, England\nMore Info: http
  s://races.fellrunner.org.uk/races/00cbef44-534a-4f76-92d1-595ef3d3c1f1
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kinder Downfall (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220424T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220425T000000
 DESCRIPTION:Kinder Downfall (BM)\nPeak District\, England\nMore Info: http
  s://races.fellrunner.org.uk/races/dbd538ae-bdc0-4f7f-a51f-139d45a4f67a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Black Combe Dash (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220424T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220425T000000
 DESCRIPTION:Black Combe Dash (AS)\nLake District\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/e3976c76-0ca8-4f15-9428-87e00be6867d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wray Caton Moor (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220426T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220427T000000
 DESCRIPTION:Wray Caton Moor (BM)\nBowland/NW Lancs.\, England\nMore Info: 
  https://races.fellrunner.org.uk/races/26f04f5e-0c1e-4012-8d17-33fe9a43e242
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bunny Run Relay (Relay)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220426T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220427T000000
 DESCRIPTION:Bunny Run Relay (Relay)\nSouth/West Pennines\, England\nMore I
  nfo: https://races.fellrunner.org.uk/races/11ebe272-3446-4ff1-bb53-f34c9ad
  56883
@@ -521,24 +602,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Orchan Rocks (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220426T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220427T000000
 DESCRIPTION:Orchan Rocks (AS)\nSouth/West Pennines\, England\nMore Info: h
  ttps://races.fellrunner.org.uk/races/0c46eebb-08d0-4dd4-8972-1c2af7987c94
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tiger's Trail (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220427T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220428T000000
 DESCRIPTION:Tiger's Trail (BS)\nPeak District\, England\nMore Info: https:
  //races.fellrunner.org.uk/races/3dbe5e83-74e7-4f6e-b40c-a5da60d9b41c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fo(e) Edge (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220427T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220428T000000
 DESCRIPTION:Fo(e) Edge (BS)\nSouth/West Pennines\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/c9b6fd1c-abab-4f26-94a4-bb70d1727703
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cockfield Chase (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220428T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220429T000000
 DESCRIPTION:Cockfield Chase (CS)\nNorthumberland / Durham\, England\nMore 
  Info: https://races.fellrunner.org.uk/races/1b78ad28-12fd-4f15-a699-a4e413
  adec51
@@ -546,24 +631,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Cake Race (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220430T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220501T000000
 DESCRIPTION:The Cake Race (BM)\nSouth/West Pennines\, England\nMore Info: 
  https://races.fellrunner.org.uk/races/76d915ac-0da9-4f71-b9cf-de84e18858ac
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:67thThree Peaks (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220430T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220501T000000
 DESCRIPTION:67thThree Peaks (AL)\nYork. Dales\, England\nMore Info: https:
  //races.fellrunner.org.uk/races/6d69da16-9d01-4fa3-9e06-eca733b6d596
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coniston (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220430T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220501T000000
 DESCRIPTION:Coniston (AM)\nLake District\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/77286412-23f0-4030-9017-aea7c0db3812
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guisborough 3 Tops (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220430T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220501T000000
 DESCRIPTION:Guisborough 3 Tops (AM)\nNorth York Moors\, England\nMore Info
  : https://races.fellrunner.org.uk/races/38c0b13f-ac43-4f0f-9fec-c00825f655
  74
@@ -571,12 +660,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mount Karrin (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220501T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220502T000000
 DESCRIPTION:Mount Karrin (AM)\nIsle of Man\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/0b950b02-e3d3-4f35-87bd-81d872cf7786
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Great Hameldon Fell Race (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220501T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220502T000000
 DESCRIPTION:Great Hameldon Fell Race (BS)\nSouth/West Pennines\, England\n
  More Info: https://races.fellrunner.org.uk/races/3f7d0a99-c55b-45e0-96b4-c
  70d6d73921d
@@ -584,48 +675,56 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coiners Junior ()
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220502T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220503T000000
 DESCRIPTION:Coiners Junior ()\nSouth/West Pennines\, England\nMore Info: h
  ttps://races.fellrunner.org.uk/races/6b158f61-d1ae-4e0a-8fc6-356a664411d9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coiners (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220502T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220503T000000
 DESCRIPTION:Coiners (BM)\nSouth/West Pennines\, England\nMore Info: https:
  //races.fellrunner.org.uk/races/1cdd7088-0bd0-4ff9-9ab3-479e6e24b95d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lords Seat (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220504T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220505T000000
 DESCRIPTION:Lords Seat (AS)\nLake District\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/ff682364-740d-4f90-89d9-21477991bc8c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rainow 5 (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220504T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220505T000000
 DESCRIPTION:Rainow 5 (BS)\nPeak District\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/e6975ec2-e90a-4cf9-8ac7-2191d0ed19e3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preseli Beast (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220507T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220508T000000
 DESCRIPTION:Preseli Beast (BL)\nSouth Wales\, Wales\nMore Info: https://ra
  ces.fellrunner.org.uk/races/4e12f0e3-e5ee-4fcd-906b-0ba5886aeab2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Preseli Ultrabeast (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220507T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220508T000000
 DESCRIPTION:Preseli Ultrabeast (BL)\nSouth Wales\, Wales\nMore Info: https
  ://races.fellrunner.org.uk/races/cb59b0ea-77c2-4f46-b1bb-92a2589c26b4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Todd Crag Juniors (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220507T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220508T000000
 DESCRIPTION:Todd Crag Juniors (AS)\nLake District\, England\nMore Info: ht
  tps://races.fellrunner.org.uk/races/6d24fa10-e918-4fc7-b816-00fbdfa4601b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moorhouse's Pendle Cloughs (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220507T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220508T000000
 DESCRIPTION:Moorhouse's Pendle Cloughs (AL)\nSouth/West Pennines\, England
  \nMore Info: https://races.fellrunner.org.uk/races/84c17733-c0e3-4fce-bdc8
  -340a093e95d1
@@ -633,24 +732,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beast Bach (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220507T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220508T000000
 DESCRIPTION:Beast Bach (BM)\nSouth Wales\, Wales\nMore Info: https://races
  .fellrunner.org.uk/races/6a67962d-54c2-4faa-849e-a22d2e0f0117
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Llanberis - Elio Ridge (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220507T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220508T000000
 DESCRIPTION:Llanberis - Elio Ridge (AM)\nNorth Wales\, Wales\nMore Info: h
  ttps://races.fellrunner.org.uk/races/894c493f-08da-4e72-a023-568354b6a2be
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trunce 3 (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220509T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220510T000000
 DESCRIPTION:Trunce 3 (BS)\nPeak District\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/249d3bd5-869a-4fb3-979e-b96add498749
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mearley Clough (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220510T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220511T000000
 DESCRIPTION:Mearley Clough (AS)\nSouth/West Pennines\, England\nMore Info:
   https://races.fellrunner.org.uk/races/d6e66248-fbcf-4f32-b762-b52eafb953a
  7
@@ -658,18 +761,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Jack Bloor Race (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220510T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220511T000000
 DESCRIPTION:Jack Bloor Race (BS)\nYork. Dales\, England\nMore Info: https:
  //races.fellrunner.org.uk/races/7e2aa848-a1d0-4a5c-8797-9e5958f570fb
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burbage Skyline (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220510T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220511T000000
 DESCRIPTION:Burbage Skyline (BS)\nPeak District\, England\nMore Info: http
  s://races.fellrunner.org.uk/races/0a4d6bd6-61b8-4ff4-b6a8-8dbb9f3ee018
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wrekin Streak (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220511T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220512T000000
 DESCRIPTION:Wrekin Streak (AS)\nShropshire/Welsh Borders\, England\nMore I
  nfo: https://races.fellrunner.org.uk/races/e0180d5b-8608-4f08-9543-381ab10
  32c8f
@@ -677,6 +783,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rangers Alderman's Ascent (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220514T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220515T000000
 DESCRIPTION:Rangers Alderman's Ascent (AS)\nSouth/West Pennines\, England\
  nMore Info: https://races.fellrunner.org.uk/races/f9bfdc48-a64f-4f6b-a564-
  31ca38d764fb
@@ -684,6 +791,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Isle Of Man Junior Hill Championships ()
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220514T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220515T000000
 DESCRIPTION:Isle Of Man Junior Hill Championships ()\nIsle of Man\, Englan
  d\nMore Info: https://races.fellrunner.org.uk/races/52bca36d-1716-4f8e-beb
  7-067a410a8f0a
@@ -691,6 +799,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Calderdale Way Relay (Relay)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220515T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220516T000000
 DESCRIPTION:Calderdale Way Relay (Relay)\nSouth/West Pennines\, England\nM
  ore Info: https://races.fellrunner.org.uk/races/d96ec37e-3860-4aeb-b4ce-dc
  a717de4513
@@ -698,6 +807,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fox &amp\; Hounds (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220515T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220516T000000
 DESCRIPTION:Fox &amp\; Hounds (BM)\nNorth York Moors\, England\nMore Info:
   https://races.fellrunner.org.uk/races/75beabd6-e8ee-46a6-8eaa-6d4da5f7b06
  2
@@ -705,12 +815,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lantern Pike Dash (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220515T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220516T000000
 DESCRIPTION:Lantern Pike Dash (AS)\nPeak District\, England\nMore Info: ht
  tps://races.fellrunner.org.uk/races/6554c23d-c4cb-4fbb-8dd7-6838c6e7c37d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Gt Whernside\, the Spring Edition! (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220515T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220516T000000
 DESCRIPTION:Gt Whernside\, the Spring Edition! (AS)\nYork. Dales\, England
  \nMore Info: https://races.fellrunner.org.uk/races/80678be9-3299-4f88-8adc
  -ec90104f971f
@@ -718,18 +830,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fairfield Horseshoe (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220515T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220516T000000
 DESCRIPTION:Fairfield Horseshoe (AM)\nLake District\, England\nMore Info: 
  https://races.fellrunner.org.uk/races/72849276-4bf4-480a-ba3c-516472e61848
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Great Orme (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220517T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220518T000000
 DESCRIPTION:Great Orme (AS)\nNorth Wales\, Wales\nMore Info: https://races
  .fellrunner.org.uk/races/e0a16acd-76e2-4f99-883a-dfbf67faea15
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Batch Bash (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220518T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220519T000000
 DESCRIPTION:Batch Bash (AS)\nShropshire/Welsh Borders\, England\nMore Info
  : https://races.fellrunner.org.uk/races/112eec9b-0a1f-4f40-a901-fa30ba848a
  ff
@@ -737,12 +852,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Caw (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220518T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220519T000000
 DESCRIPTION:Caw (AS)\nLake District\, England\nMore Info: https://races.fe
  llrunner.org.uk/races/2b9d43b8-fb64-4f16-88f2-cab310ecb35c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blackstone Edge (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220518T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220519T000000
 DESCRIPTION:Blackstone Edge (AS)\nSouth/West Pennines\, England\nMore Info
  : https://races.fellrunner.org.uk/races/40d9bf85-943d-4fcb-959d-5bfcb3c222
  45
@@ -750,24 +867,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hayfield May Queen (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220520T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220521T000000
 DESCRIPTION:Hayfield May Queen (BS)\nPeak District\, England\nMore Info: h
  ttps://races.fellrunner.org.uk/races/11d87884-ac86-4fdd-a422-e3a01695ae62
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Old County Tops (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220521T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220522T000000
 DESCRIPTION:Old County Tops (AL)\nLake District\, England\nMore Info: http
  s://races.fellrunner.org.uk/races/7d000444-005f-4f9d-8008-1528f3352e36
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mount Famine (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220521T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220522T000000
 DESCRIPTION:Mount Famine (AS)\nPeak District\, England\nMore Info: https:/
  /races.fellrunner.org.uk/races/f4aee965-26a5-49f8-a7a2-25863d716bb2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lower Borrowdale Skyline (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220521T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220522T000000
 DESCRIPTION:Lower Borrowdale Skyline (AM)\nLake District\, England\nMore I
  nfo: https://races.fellrunner.org.uk/races/143c93f1-a23f-4ffa-b3a8-7957a84
  21a38
@@ -775,12 +896,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Y Gader ( Cader Idris) (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220521T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220522T000000
 DESCRIPTION:Y Gader ( Cader Idris) (AM)\nNorth Wales\, Wales\nMore Info: h
  ttps://races.fellrunner.org.uk/races/d9ab3ad6-45a7-4f3f-8759-22d5660f0ad7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Baldwin Valleys (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220521T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220522T000000
 DESCRIPTION:Baldwin Valleys (AM)\nIsle of Man\, England\nMore Info: https:
  //races.fellrunner.org.uk/races/081f60fa-bbb8-484d-bf8b-715033007102
 END:VEVENT
@@ -788,6 +911,7 @@ BEGIN:VEVENT
 SUMMARY:Guisborough Woods Junior Classic (Junior races age appropriate dis
  tances)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220522T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220523T000000
 DESCRIPTION:Guisborough Woods Junior Classic (Junior races age appropriate
   distances)\nNorth York Moors\, England\nMore Info: https://races.fellrunn
  er.org.uk/races/54f0e6ad-0b96-47a4-8a9b-16cd9c0449ed
@@ -795,6 +919,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charlesworth Chase ( Simon's Seat) (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220522T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220523T000000
 DESCRIPTION:Charlesworth Chase ( Simon's Seat) (BS)\nYork. Dales\, England
  \nMore Info: https://races.fellrunner.org.uk/races/a399123f-aefa-47c5-a4bb
  -33e7ae103d56
@@ -802,42 +927,49 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Glaramara (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220522T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220523T000000
 DESCRIPTION:Glaramara (AS)\nLake District\, England\nMore Info: https://ra
  ces.fellrunner.org.uk/races/1e07a45d-d351-4ffb-b6a6-f7d4e97d51ba
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shutlingsloe (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220522T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220523T000000
 DESCRIPTION:Shutlingsloe (AS)\nPeak District\, England\nMore Info: https:/
  /races.fellrunner.org.uk/races/1bca4303-4acc-4ff9-8794-00617b573573
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Totley Moor (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220524T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220525T000000
 DESCRIPTION:Totley Moor (BM)\nPeak District\, England\nMore Info: https://
  races.fellrunner.org.uk/races/40a0b98a-38f8-4f69-9fe8-58369db04ad9
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Latterbarrow Loop (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220525T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220526T000000
 DESCRIPTION:Latterbarrow Loop (AS)\nLake District\, England\nMore Info: ht
  tps://races.fellrunner.org.uk/races/b2bd51bd-fea2-4f9c-9e68-4fa289d45734
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Welsh 1000m Peaks (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220528T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220529T000000
 DESCRIPTION:Welsh 1000m Peaks (AL)\nNorth Wales\, Wales\nMore Info: https:
  //races.fellrunner.org.uk/races/b99247b5-e155-4f53-9b2c-e4b5e7ca095f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Isle of Jura (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220528T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220529T000000
 DESCRIPTION:Isle of Jura (AL)\nIslands (Scotland)\, Scotland\nMore Info: h
  ttps://races.fellrunner.org.uk/races/ee9559e0-18e0-4054-9aa5-0b903f2e01e5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Helvellyn And The Dodds (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220528T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220529T000000
 DESCRIPTION:Helvellyn And The Dodds (AL)\nLake District\, England\nMore In
  fo: https://races.fellrunner.org.uk/races/aad930f8-2257-4f4a-9e7b-6211e8ef
  a8eb
@@ -845,6 +977,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shepherds Crook (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220528T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220529T000000
 DESCRIPTION:Shepherds Crook (BM)\nSouth/West Pennines\, England\nMore Info
  : https://races.fellrunner.org.uk/races/8f608b73-2212-422b-9224-b09eefdc78
  85
@@ -852,6 +985,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hutton Roof Crags Fell Race (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220528T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220529T000000
 DESCRIPTION:Hutton Roof Crags Fell Race (BM)\nLake District\, England\nMor
  e Info: https://races.fellrunner.org.uk/races/09e05f8f-b22f-4f37-ac4b-6738
  611cf5f2
@@ -859,6 +993,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coniston Gullies ( B O F R A ) (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220529T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220530T000000
 DESCRIPTION:Coniston Gullies ( B O F R A ) (AS)\nLake District\, England\n
  More Info: https://races.fellrunner.org.uk/races/fce4a662-e173-4f9d-88ba-6
  4b0b2313ed5
@@ -866,24 +1001,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trunce 4 (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220530T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220531T000000
 DESCRIPTION:Trunce 4 (BS)\nPeak District\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/9ad0f4d6-ac9f-4fee-813f-99315535c9e3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blencathra (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220601T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220602T000000
 DESCRIPTION:Blencathra (AM)\nLake District\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/d0e52643-1455-4fa3-af42-448a52ca7486
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Otley Chevin (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220601T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220602T000000
 DESCRIPTION:Otley Chevin (CS)\nYork. Dales\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/22a24975-ef8c-4fe5-8651-1186d4e35cc5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bamford Sheepdog Trials (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220602T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220603T000000
 DESCRIPTION:Bamford Sheepdog Trials (BS)\nPeak District\, England\nMore In
  fo: https://races.fellrunner.org.uk/races/d41896e2-fdb1-4f0c-b34b-1289a2e6
  16a2
@@ -891,12 +1030,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Austwick Amble (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220602T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220603T000000
 DESCRIPTION:Austwick Amble (BM)\nYork. Dales\, England\nMore Info: https:/
  /races.fellrunner.org.uk/races/94b1bd95-7d5c-4e0b-8113-6a3a208d0613
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leo Pollard Memorial Race (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220602T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220603T000000
 DESCRIPTION:Leo Pollard Memorial Race (BM)\nSouth/West Pennines\, England\
  nMore Info: https://races.fellrunner.org.uk/races/9069fb94-82ba-4f98-85fd-
  4b8e2385a255
@@ -904,12 +1045,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duddon Valley (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220604T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220605T000000
 DESCRIPTION:Duddon Valley (AL)\nLake District\, England\nMore Info: https:
  //races.fellrunner.org.uk/races/8b9e1259-d547-4681-ac7f-c5b4cfb9813f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mynydd Myfyr (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220604T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220605T000000
 DESCRIPTION:Mynydd Myfyr (CS)\nShropshire/Welsh Borders\, England\nMore In
  fo: https://races.fellrunner.org.uk/races/96945cf5-5f5e-4fba-baad-522ac06c
  a0cd
@@ -917,18 +1060,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Duddon Valley Short (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220604T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220605T000000
 DESCRIPTION:Duddon Valley Short (AM)\nLake District\, England\nMore Info: 
  https://races.fellrunner.org.uk/races/7caf6c41-a3de-480c-a08f-301aa42f599d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Coombe Hill (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220605T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220606T000000
 DESCRIPTION:Coombe Hill (BS)\nSouth East\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/03461be9-20c3-4f73-8124-150e438c7b82
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kettlewell ( B O F R A ) (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220605T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220606T000000
 DESCRIPTION:Kettlewell ( B O F R A ) (AS)\nYork. Dales\, England\nMore Inf
  o: https://races.fellrunner.org.uk/races/f1336adc-f0d3-4f46-99c8-23caf92da
  84b
@@ -936,18 +1082,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Paddy's Pole (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220607T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220608T000000
 DESCRIPTION:Paddy's Pole (AS)\nBowland/NW Lancs.\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/1a503be6-5714-4f74-b894-1ee81be34d07
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Boar's Head (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220608T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220609T000000
 DESCRIPTION:Boar's Head (BM)\nPeak District\, England\nMore Info: https://
  races.fellrunner.org.uk/races/020b6a7f-df5a-4f6a-ad8d-f2fec14e593c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Walsh Two Lads (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220609T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220610T000000
 DESCRIPTION:Walsh Two Lads (BS)\nSouth/West Pennines\, England\nMore Info:
   https://races.fellrunner.org.uk/races/f319d7d6-3a1c-4fba-b52a-c3e4ba55209
  9
@@ -955,6 +1104,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kettlewell Anniversary (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220609T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220610T000000
 DESCRIPTION:Kettlewell Anniversary (AS)\nYork. Dales\, England\nMore Info:
   https://races.fellrunner.org.uk/races/6431aa59-4f6a-4fca-9221-56916b3edc0
  f
@@ -962,12 +1112,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ennerdale Horseshoe (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220611T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220612T000000
 DESCRIPTION:Ennerdale Horseshoe (AL)\nLake District\, England\nMore Info: 
  https://races.fellrunner.org.uk/races/0abfe7d5-61e9-4ff9-a654-4ce45df7ae23
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Knowl Hill  Fell Race (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220612T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220613T000000
 DESCRIPTION:Knowl Hill  Fell Race (BS)\nSouth/West Pennines\, England\nMor
  e Info: https://races.fellrunner.org.uk/races/ad4b92a4-38d7-4ea6-abce-d2a4
  fb458c83
@@ -975,18 +1127,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bridestone (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220614T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220615T000000
 DESCRIPTION:Bridestone (AS)\nSouth/West Pennines\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/9593ab35-1350-49c3-bfd6-5a676000c7b0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Langstrath (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220615T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220616T000000
 DESCRIPTION:Langstrath (AS)\nLake District\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/6e637dce-36db-4fd9-8215-dc69bc395ebe
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brown Wardle (and A Bit Moor) (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220615T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220616T000000
 DESCRIPTION:Brown Wardle (and A Bit Moor) (AS)\nSouth/West Pennines\, Engl
  and\nMore Info: https://races.fellrunner.org.uk/races/33408649-ba56-4f0a-9
  9d4-6ac7dff70e98
@@ -994,30 +1149,35 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beamsley Beacon (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220616T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220617T000000
 DESCRIPTION:Beamsley Beacon (BS)\nYork. Dales\, England\nMore Info: https:
  //races.fellrunner.org.uk/races/954aea23-614c-4fbe-8530-37a7af5e5527
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grindleford (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220616T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220617T000000
 DESCRIPTION:Grindleford (BS)\nPeak District\, England\nMore Info: https://
  races.fellrunner.org.uk/races/1faebb4f-ed06-4ff7-b958-4e5fa3211267
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Great Lakes (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220618T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220619T000000
 DESCRIPTION:Great Lakes (AL)\nLake District\, England\nMore Info: https://
  races.fellrunner.org.uk/races/e91913a5-a938-4f6e-875e-8f86ecd0c1b4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buckden Pike (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220618T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220619T000000
 DESCRIPTION:Buckden Pike (AS)\nYork. Dales\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/62840803-0d7d-486e-b0d3-acbb2d690bd6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Windy Gyle (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220619T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220620T000000
 DESCRIPTION:Windy Gyle (BM)\nNorthumberland / Durham\, England\nMore Info:
   https://races.fellrunner.org.uk/races/09e7f7ee-a33b-4fd2-8e4b-55e79ef1e1f
  b
@@ -1025,6 +1185,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Glaisdale Rigg May Race (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220619T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220620T000000
 DESCRIPTION:Glaisdale Rigg May Race (BM)\nNorth York Moors\, England\nMore
   Info: https://races.fellrunner.org.uk/races/b7f677ee-5094-4a43-b445-46d32
  dc17dd7
@@ -1032,6 +1193,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hawkswick Dash ( B O F R A ) (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220619T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220620T000000
 DESCRIPTION:Hawkswick Dash ( B O F R A ) (AS)\nYork. Dales\, England\nMore
   Info: https://races.fellrunner.org.uk/races/01435049-5e45-4fb1-b831-f04b5
  a0cc22f
@@ -1039,12 +1201,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trunce 5 (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220620T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220621T000000
 DESCRIPTION:Trunce 5 (BS)\nPeak District\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/cbdb387b-5a6e-4fe4-bf15-5f24396f0df4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trevor Milner Riber Run (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220621T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220622T000000
 DESCRIPTION:Trevor Milner Riber Run (BS)\nPeak District\, England\nMore In
  fo: https://races.fellrunner.org.uk/races/9509149f-b6dd-4fe3-aff8-11fc2c8b
  afe6
@@ -1052,12 +1216,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Summer Solstice (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220622T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220623T000000
 DESCRIPTION:Summer Solstice (BS)\nSouth West\, England\nMore Info: https:/
  /races.fellrunner.org.uk/races/d748a359-845c-4f82-bd1b-fcb3fd3b64a5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ogden Midsummer Madness (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220622T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220623T000000
 DESCRIPTION:Ogden Midsummer Madness (AS)\nSouth/West Pennines\, England\nM
  ore Info: https://races.fellrunner.org.uk/races/6a94946b-75b9-4d85-bdb4-d8
  fb036bcc7b
@@ -1065,6 +1231,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Aggie's Staircase (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220623T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220624T000000
 DESCRIPTION:Aggie's Staircase (AS)\nSouth/West Pennines\, England\nMore In
  fo: https://races.fellrunner.org.uk/races/c4e3275d-95e0-424b-a6fc-9d08e6d1
  19ba
@@ -1072,12 +1239,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tideswell Fell Race (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220624T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220625T000000
 DESCRIPTION:Tideswell Fell Race (BS)\nPeak District\, England\nMore Info: 
  https://races.fellrunner.org.uk/races/62509e1a-5bc9-4f8d-a6b9-d482741a8d7d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Darren Holloway Memorial Race ( Buttermere Horseshoe ) (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220625T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220626T000000
 DESCRIPTION:Darren Holloway Memorial Race ( Buttermere Horseshoe ) (AL)\nL
  ake District\, England\nMore Info: https://races.fellrunner.org.uk/races/4
  3838a02-e460-4fc9-a108-f5a1677ccb74
@@ -1085,6 +1254,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Darren Holloway Memorial Race Short (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220625T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220626T000000
 DESCRIPTION:Darren Holloway Memorial Race Short (AL)\nLake District\, Engl
  and\nMore Info: https://races.fellrunner.org.uk/races/2ef144a1-10d6-4f6f-b
  bd8-928fd1481b5d
@@ -1092,24 +1262,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Whaley Waltz (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220625T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220626T000000
 DESCRIPTION:Whaley Waltz (BS)\nPeak District\, England\nMore Info: https:/
  /races.fellrunner.org.uk/races/cd37beab-4000-4fcd-b2e2-64aa6b7e78aa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:James Blakeley (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220625T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220626T000000
 DESCRIPTION:James Blakeley (BS)\nPeak District\, England\nMore Info: https
  ://races.fellrunner.org.uk/races/e37e37fe-0288-4f34-b81f-6f46b6df3a6f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eldwick Gala (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220625T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220626T000000
 DESCRIPTION:Eldwick Gala (BS)\nSouth/West Pennines\, England\nMore Info: h
  ttps://races.fellrunner.org.uk/races/82438017-c118-4f25-806c-9a007bb6751c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peter Brinsley Bosley Fete (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220625T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220626T000000
 DESCRIPTION:Peter Brinsley Bosley Fete (BS)\nPeak District\, England\nMore
   Info: https://races.fellrunner.org.uk/races/331b2dae-9696-4fc4-8034-7ecdd
  d69309c
@@ -1117,12 +1291,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bradda (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220626T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220627T000000
 DESCRIPTION:Bradda (AL)\nIsle of Man\, England\nMore Info: https://races.f
  ellrunner.org.uk/races/e78695c9-27b8-4f7a-b19e-a631722ad522
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:North Devon A O N B Marathon (CL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220626T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220627T000000
 DESCRIPTION:North Devon A O N B Marathon (CL)\nSouth West\, England\nMore 
  Info: https://races.fellrunner.org.uk/races/9ee30805-e3e6-4b30-a9b8-1b966d
  94f8d0
@@ -1130,6 +1306,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:North Devon A O N B Half Marathon (CL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220626T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220627T000000
 DESCRIPTION:North Devon A O N B Half Marathon (CL)\nSouth West\, England\n
  More Info: https://races.fellrunner.org.uk/races/f114f3cf-d401-4350-a796-d
  efae836ea3c
@@ -1137,6 +1314,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bakewell Pudding Race (CM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220626T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220627T000000
 DESCRIPTION:Bakewell Pudding Race (CM)\nPeak District\, England\nMore Info
  : https://races.fellrunner.org.uk/races/4c425180-ce0e-4f98-9749-1f865920c8
  7c
@@ -1144,18 +1322,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kinder Trog (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220626T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220627T000000
 DESCRIPTION:Kinder Trog (BL)\nPeak District\, England\nMore Info: https://
  races.fellrunner.org.uk/races/10e05e79-3cae-4d5c-bdc0-d569479b6310
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cragg Vale (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220629T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220630T000000
 DESCRIPTION:Cragg Vale (BS)\nSouth/West Pennines\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/03274931-bf15-4fb3-a31a-3d28d9b5e78f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eddies Revenge (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220629T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220630T000000
 DESCRIPTION:Eddies Revenge (AS)\nSouth/West Pennines\, England\nMore Info:
   https://races.fellrunner.org.uk/races/0d7ad288-671b-4f72-b59d-15c3a33863b
  8
@@ -1163,12 +1344,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Weaver Hills (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220701T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220702T000000
 DESCRIPTION:Weaver Hills (AS)\nPeak District\, England\nMore Info: https:/
  /races.fellrunner.org.uk/races/9332f06c-645e-4fc4-bb8d-82f22d280998
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saunders Lakeland Mountain Marathon (MM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220702T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220703T000000
 DESCRIPTION:Saunders Lakeland Mountain Marathon (MM)\nLake District\, Engl
  and\nMore Info: https://races.fellrunner.org.uk/races/cb0bb04f-7906-4fcd-8
  a98-7fba296cc12a
@@ -1176,12 +1359,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Charmouth Challenge (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220702T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220703T000000
 DESCRIPTION:Charmouth Challenge (BM)\nSouth West\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/b06b8199-76de-4e44-ac6c-fb0f2dd09d4a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chevy Chase (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220702T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220703T000000
 DESCRIPTION:Chevy Chase (BL)\nNorthumberland / Durham\, England\nMore Info
  : https://races.fellrunner.org.uk/races/3693c0b4-bce4-4ae1-858e-bcaf5f8523
  d3
@@ -1189,6 +1374,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Heptonstall Festival (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220702T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220703T000000
 DESCRIPTION:Heptonstall Festival (AS)\nSouth/West Pennines\, England\nMore
   Info: https://races.fellrunner.org.uk/races/71b8d1b9-6fdf-4a1e-9250-30690
  432d360
@@ -1196,36 +1382,42 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Great Hucklow (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220703T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220704T000000
 DESCRIPTION:Great Hucklow (BM)\nPeak District\, England\nMore Info: https:
  //races.fellrunner.org.uk/races/133120bd-f975-490b-8fa2-e34ce96d2a01
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Skiddaw (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220703T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220704T000000
 DESCRIPTION:Skiddaw (AM)\nLake District\, England\nMore Info: https://race
  s.fellrunner.org.uk/races/8a829711-1676-4f6c-a036-235137a64340
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Langley Fete (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220703T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220704T000000
 DESCRIPTION:Langley Fete (BS)\nPeak District\, England\nMore Info: https:/
  /races.fellrunner.org.uk/races/781032d0-ccd1-4c87-8259-c9aa119d3b0d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:20 Barriers (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220705T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220706T000000
 DESCRIPTION:20 Barriers (CS)\nBowland/NW Lancs.\, England\nMore Info: http
  s://races.fellrunner.org.uk/races/2ccc4ca1-0994-4f44-9c31-a36e136f8742
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Danefield Relay (Relay)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220705T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220706T000000
 DESCRIPTION:Danefield Relay (Relay)\nYork. Dales\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/3246c9ec-7ab9-4fee-8f31-8cd167001093
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Commondale Beacon (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220706T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220707T000000
 DESCRIPTION:Commondale Beacon (BM)\nNorth York Moors\, England\nMore Info:
   https://races.fellrunner.org.uk/races/54e676b9-6d17-4fe8-a763-4bfcf8fd5a2
  f
@@ -1233,6 +1425,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Don Ashton Memorial Tockholes (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220707T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220708T000000
 DESCRIPTION:Don Ashton Memorial Tockholes (BS)\nSouth/West Pennines\, Engl
  and\nMore Info: https://races.fellrunner.org.uk/races/716f6132-42a4-4ffa-a
  c3e-077e13da6c9c
@@ -1240,18 +1433,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wasdale (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220709T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220710T000000
 DESCRIPTION:Wasdale (AL)\nLake District\, England\nMore Info: https://race
  s.fellrunner.org.uk/races/3337c98c-f27e-4f47-a4b0-32c379da3e25
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Addingham Gala (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220709T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220710T000000
 DESCRIPTION:Addingham Gala (BS)\nYork. Dales\, England\nMore Info: https:/
  /races.fellrunner.org.uk/races/353ce7d4-ce80-4e27-8418-1697e72e95e0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bollington Nostalgia (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220710T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220711T000000
 DESCRIPTION:Bollington Nostalgia (BM)\nPeak District\, England\nMore Info:
   https://races.fellrunner.org.uk/races/849de489-8204-4f06-a9f8-461fe65934c
  f
@@ -1259,12 +1455,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:The Dore Dozen (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220710T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220711T000000
 DESCRIPTION:The Dore Dozen (BM)\nPeak District\, England\nMore Info: https
  ://races.fellrunner.org.uk/races/9dc22b43-b6c8-4fd7-9920-84fb9f9a5001
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peak Forest Fell Race (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220710T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220711T000000
 DESCRIPTION:Peak Forest Fell Race (BS)\nPeak District\, England\nMore Info
  : https://races.fellrunner.org.uk/races/193c9814-e8e5-4fab-9ac5-25cb02f4b8
  89
@@ -1272,42 +1470,49 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dollar (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220710T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220711T000000
 DESCRIPTION:Dollar (AM)\nCentral Scotland\, Scotland\nMore Info: https://r
  aces.fellrunner.org.uk/races/304b9b02-6b7d-47ae-b078-ad529d1ae022
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trunce 6 (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220711T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220712T000000
 DESCRIPTION:Trunce 6 (BS)\nPeak District\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/c726c45f-d7c3-4f7b-a411-a0455748530b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beater Clough (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220712T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220713T000000
 DESCRIPTION:Beater Clough (AM)\nSouth/West Pennines\, England\nMore Info: 
  https://races.fellrunner.org.uk/races/d4d47672-a9ec-4de8-8659-8e26b968cecf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chapelfell Top (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220712T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220713T000000
 DESCRIPTION:Chapelfell Top (AS)\nNorth Pennines\, England\nMore Info: http
  s://races.fellrunner.org.uk/races/e2faf27d-e1b9-4ffd-964f-646ce975a9ba
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Widdop Junior ()
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220713T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220714T000000
 DESCRIPTION:Widdop Junior ()\nSouth/West Pennines\, England\nMore Info: ht
  tps://races.fellrunner.org.uk/races/210993d4-4730-4f68-b086-a77b0ecd8323
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Carraghan (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220713T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220714T000000
 DESCRIPTION:Carraghan (AS)\nIsle of Man\, England\nMore Info: https://race
  s.fellrunner.org.uk/races/b34ccacf-7e67-4f2e-9767-624314b4c216
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stipperstones Fell race (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220713T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220714T000000
 DESCRIPTION:Stipperstones Fell race (AS)\nShropshire/Welsh Borders\, Engla
  nd\nMore Info: https://races.fellrunner.org.uk/races/67aa85e5-7312-46ca-b3
  0d-f7ab6a68f1fb
@@ -1315,24 +1520,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Widdop (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220713T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220714T000000
 DESCRIPTION:Widdop (BM)\nSouth/West Pennines\, England\nMore Info: https:/
  /races.fellrunner.org.uk/races/f45d9584-bdb4-4746-9004-1e27f324270a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Black Rocks (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220713T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220714T000000
 DESCRIPTION:Black Rocks (BS)\nPeak District\, England\nMore Info: https://
  races.fellrunner.org.uk/races/a6a46083-573b-4fc6-bfd0-af420747334d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cracoe ( B O F R A ) (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220717T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220718T000000
 DESCRIPTION:Cracoe ( B O F R A ) (AS)\nYork. Dales\, England\nMore Info: h
  ttps://races.fellrunner.org.uk/races/60f11f9b-9a70-4f69-9ee3-6a0047af5ef3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Pete Bland Kentmere Horseshoe (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220717T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220718T000000
 DESCRIPTION:Pete Bland Kentmere Horseshoe (AM)\nLake District\, England\nM
  ore Info: https://races.fellrunner.org.uk/races/462db076-fd04-48b0-a07b-4b
  d8de7f6838
@@ -1340,24 +1549,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ingleborough (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220717T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220718T000000
 DESCRIPTION:Ingleborough (AM)\nYork. Dales\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/7c336fc7-193a-4f01-b761-2bc1b0d84bbb
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blisco Dash (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220720T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220721T000000
 DESCRIPTION:Blisco Dash (AS)\nLake District\, England\nMore Info: https://
  races.fellrunner.org.uk/races/d673a655-f3f2-4ffd-91e5-1a3217b8f1b0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fellside (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220720T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220721T000000
 DESCRIPTION:Fellside (AM)\nLake District\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/fe5480af-59e1-4fe4-b18a-7e00348a4a3b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cock Howe and Beyond (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220720T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220721T000000
 DESCRIPTION:Cock Howe and Beyond (BS)\nNorth York Moors\, England\nMore In
  fo: https://races.fellrunner.org.uk/races/751954d3-b46e-441e-9c5b-64ba9c9f
  2c9d
@@ -1365,42 +1578,49 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sheldon (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220721T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220722T000000
 DESCRIPTION:Sheldon (BS)\nPeak District\, England\nMore Info: https://race
  s.fellrunner.org.uk/races/fb574ca1-a6f8-4f25-96ae-47661c1bc9a4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Old Crown Round (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220723T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220724T000000
 DESCRIPTION:Old Crown Round (AL)\nLake District\, England\nMore Info: http
  s://races.fellrunner.org.uk/races/33abe2f7-0f65-4fa5-8fd5-2798051902e8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bingley Show (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220723T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220724T000000
 DESCRIPTION:Bingley Show (BM)\nSouth/West Pennines\, England\nMore Info: h
  ttps://races.fellrunner.org.uk/races/f2ea8ab2-527f-4f7a-8b71-dc04a9345596
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Turnslack (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220723T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220724T000000
 DESCRIPTION:Turnslack (BM)\nSouth/West Pennines\, England\nMore Info: http
  s://races.fellrunner.org.uk/races/f56997f3-e569-4fa3-82de-3e68621e134b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Holme Moss (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220724T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220725T000000
 DESCRIPTION:Holme Moss (AL)\nPeak District\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/c8aa875b-1c03-4fee-a930-37826b3f558a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lee Mill (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220727T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220728T000000
 DESCRIPTION:Lee Mill (BM)\nSouth/West Pennines\, England\nMore Info: https
  ://races.fellrunner.org.uk/races/132fd0e6-5282-4f56-9f8f-f9466799b931
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Brassington Hill Race (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220728T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220729T000000
 DESCRIPTION:Brassington Hill Race (BS)\nPeak District\, England\nMore Info
  : https://races.fellrunner.org.uk/races/d60018ad-3bec-4fba-a6b2-85a508af31
  2b
@@ -1408,12 +1628,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stoney Middleton (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220728T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220729T000000
 DESCRIPTION:Stoney Middleton (CS)\nPeak District\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/6e7cb624-7208-4aed-ad8b-064d8ea15847
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ben Rinnes Five Tops (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220730T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220731T000000
 DESCRIPTION:Ben Rinnes Five Tops (AL)\nNorth Scotland\, Scotland\nMore Inf
  o: https://races.fellrunner.org.uk/races/bd097a15-60df-42a4-adce-8c6bb6ebf
  a4f
@@ -1421,30 +1643,35 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slooby Dhoo (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220730T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220731T000000
 DESCRIPTION:Slooby Dhoo (AM)\nIsle of Man\, England\nMore Info: https://ra
  ces.fellrunner.org.uk/races/cee4a9db-778b-4f04-afe4-7c7740a5ec80
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Beetham Sports (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220730T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220731T000000
 DESCRIPTION:Beetham Sports (BS)\nLake District\, England\nMore Info: https
  ://races.fellrunner.org.uk/races/081dce36-c3b8-4fc0-b319-15417bf13c62
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:James Herriot Run (CM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220731T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220801T000000
 DESCRIPTION:James Herriot Run (CM)\nYork. Dales\, England\nMore Info: http
  s://races.fellrunner.org.uk/races/e7df20f5-c94b-47ed-96d8-3f958290b616
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trunce 7 (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220801T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220802T000000
 DESCRIPTION:Trunce 7 (BS)\nPeak District\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/ec990f01-3e67-4fdd-baac-d51ae6b16c32
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Parwich Panoramic Five (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220802T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220803T000000
 DESCRIPTION:Parwich Panoramic Five (CS)\nPeak District\, England\nMore Inf
  o: https://races.fellrunner.org.uk/races/73164658-0f9f-4faa-958b-57fea3460
  3b2
@@ -1452,12 +1679,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Whittle Pike (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220803T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220804T000000
 DESCRIPTION:Whittle Pike (AS)\nSouth/West Pennines\, England\nMore Info: h
  ttps://races.fellrunner.org.uk/races/bffc8595-de46-4fd9-ae4f-c5f6457f6a39
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eshton Moor ( B O F R A ) (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220804T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220805T000000
 DESCRIPTION:Eshton Moor ( B O F R A ) (CS)\nYork. Dales\, England\nMore In
  fo: https://races.fellrunner.org.uk/races/2be32cae-4a83-4f59-a933-e3cbe775
  13d8
@@ -1465,18 +1694,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Borrowdale (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220806T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220807T000000
 DESCRIPTION:Borrowdale (AL)\nLake District\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/8702fc82-48b8-4f8b-8f94-e0db3dff2055
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Osmotherley Show (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220806T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220807T000000
 DESCRIPTION:Osmotherley Show (BS)\nNorth York Moors\, England\nMore Info: 
  https://races.fellrunner.org.uk/races/f9dd306c-706c-4261-a77a-c4c9bd58fe54
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saddleworth Round (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220807T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220808T000000
 DESCRIPTION:Saddleworth Round (BL)\nSouth/West Pennines\, England\nMore In
  fo: https://races.fellrunner.org.uk/races/4ba7246d-060d-4f81-a4b6-f5af0ab7
  d047
@@ -1484,36 +1716,42 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Round Hill (CM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220807T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220808T000000
 DESCRIPTION:Round Hill (CM)\nYork. Dales\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/e89f62e8-d66e-4f9d-b16a-3f030279a146
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Killer Mile (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220810T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220811T000000
 DESCRIPTION:Killer Mile (AS)\nIsle of Man\, England\nMore Info: https://ra
  ces.fellrunner.org.uk/races/6bd42e67-e34c-4f9d-8873-2a2028c07e31
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Steel Fell (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220810T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220811T000000
 DESCRIPTION:Steel Fell (AS)\nLake District\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/8a51fca9-20f8-4f06-a358-f2738eed15b7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ricky's Race (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220811T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220812T000000
 DESCRIPTION:Ricky's Race (BS)\nPeak District\, England\nMore Info: https:/
  /races.fellrunner.org.uk/races/09e95107-4c72-4fa0-aed1-9f30fc89fbcf
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kings Challenge (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220811T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220812T000000
 DESCRIPTION:Kings Challenge (BS)\nYork. Dales\, England\nMore Info: https:
  //races.fellrunner.org.uk/races/328eeb46-3561-4f42-a29f-ca08c663bde6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Denis Stitt Memorial Race (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220811T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220812T000000
 DESCRIPTION:Denis Stitt Memorial Race (AS)\nPeak District\, England\nMore 
  Info: https://races.fellrunner.org.uk/races/2ee7fcee-f173-4fb0-83bc-dfaacc
  7d3161
@@ -1521,18 +1759,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hob Hurst's (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220812T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220813T000000
 DESCRIPTION:Hob Hurst's (BS)\nPeak District\, England\nMore Info: https://
  races.fellrunner.org.uk/races/10443e42-ecdc-4ff5-a528-36747226f329
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bradwell (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220813T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220814T000000
 DESCRIPTION:Bradwell (AS)\nPeak District\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/eb23357f-90f9-4990-bd5b-f01d638a4047
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arncliffe Gala ( B O F R A ) (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220813T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220814T000000
 DESCRIPTION:Arncliffe Gala ( B O F R A ) (BS)\nYork. Dales\, England\nMore
   Info: https://races.fellrunner.org.uk/races/8f4835d1-ae37-477c-9ea2-9f3eb
  781c523
@@ -1540,12 +1781,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lowther Lakeland (CL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220814T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220815T000000
 DESCRIPTION:Lowther Lakeland (CL)\nLake District\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/986b23b0-7b10-47ce-a81e-a755cc03c19c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ragleth Inn Fell Race (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220817T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220818T000000
 DESCRIPTION:Ragleth Inn Fell Race (AS)\nShropshire/Welsh Borders\, England
  \nMore Info: https://races.fellrunner.org.uk/races/cde02565-187e-4f0e-897c
  -7d86d326c9d4
@@ -1553,18 +1796,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rusland 5 (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220820T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220821T000000
 DESCRIPTION:Rusland 5 (BS)\nLake District\, England\nMore Info: https://ra
  ces.fellrunner.org.uk/races/6f332941-a4e2-4f53-802a-3a3da8a3fa13
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burnsall Classic (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220820T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220821T000000
 DESCRIPTION:Burnsall Classic (AS)\nYork. Dales\, England\nMore Info: https
  ://races.fellrunner.org.uk/races/04b2a61e-d9df-4311-8c29-86ab1ca6aee2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:James Coulson Laxey Fell (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220821T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220822T000000
 DESCRIPTION:James Coulson Laxey Fell (AM)\nIsle of Man\, England\nMore Inf
  o: https://races.fellrunner.org.uk/races/e8c498a3-b6a8-4fb8-93d8-2686f0a88
  a25
@@ -1572,12 +1818,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Piethorne (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220821T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220822T000000
 DESCRIPTION:Piethorne (BS)\nSouth/West Pennines\, England\nMore Info: http
  s://races.fellrunner.org.uk/races/b1028919-124c-4fed-8064-5cbbed0be5e2
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lakeland Country Fair Senior Race (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220821T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220822T000000
 DESCRIPTION:Lakeland Country Fair Senior Race (AS)\nLake District\, Englan
  d\nMore Info: https://races.fellrunner.org.uk/races/d8873ab3-a624-4fd1-9b3
  f-64b0d2315779
@@ -1585,30 +1833,35 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trunce 8 (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220822T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220823T000000
 DESCRIPTION:Trunce 8 (BS)\nPeak District\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/1d898b4f-5f3f-4f26-936e-a38eca84e3d4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shipman Knotts (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220823T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220824T000000
 DESCRIPTION:Shipman Knotts (AS)\nLake District\, England\nMore Info: https
  ://races.fellrunner.org.uk/races/62801b9a-7d11-4fc6-acb2-9c0fce249bfe
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ochil 2000s (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220827T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220828T000000
 DESCRIPTION:Ochil 2000s (AL)\nCentral Scotland\, Scotland\nMore Info: http
  s://races.fellrunner.org.uk/races/259df84e-3d79-47b3-bd8a-848beb007840
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Chipping Show (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220827T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220828T000000
 DESCRIPTION:Chipping Show (BM)\nBowland/NW Lancs.\, England\nMore Info: ht
  tps://races.fellrunner.org.uk/races/c88f7d59-94d1-4f7e-9b2f-e31d79ae7daa
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bellingham Show (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220827T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220828T000000
 DESCRIPTION:Bellingham Show (BS)\nNorthumberland / Durham\, England\nMore 
  Info: https://races.fellrunner.org.uk/races/67ee0c95-30be-4fb2-95ba-d3fcc0
  f93115
@@ -1616,6 +1869,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Arnison Crag Horseshoe (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220827T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220828T000000
 DESCRIPTION:Arnison Crag Horseshoe (AS)\nLake District\, England\nMore Inf
  o: https://races.fellrunner.org.uk/races/1eb39618-a701-4f43-9dc5-02bc6d5f0
  397
@@ -1623,6 +1877,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grasmere Senior Guides Race (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220828T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220829T000000
 DESCRIPTION:Grasmere Senior Guides Race (AS)\nLake District\, England\nMor
  e Info: https://races.fellrunner.org.uk/races/285f80a7-314e-4e04-8ac2-43d9
  17e5366a
@@ -1630,6 +1885,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dark Side Of The Combe (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220829T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220830T000000
 DESCRIPTION:Dark Side Of The Combe (AM)\nLake District\, England\nMore Inf
  o: https://races.fellrunner.org.uk/races/60851d20-6699-4f8b-bc37-7448dcc24
  221
@@ -1637,6 +1893,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kilnsey Crag ( B O F R A ) (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220830T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220831T000000
 DESCRIPTION:Kilnsey Crag ( B O F R A ) (AS)\nYork. Dales\, England\nMore I
  nfo: https://races.fellrunner.org.uk/races/2df0dc1d-3008-4fb0-894f-b645019
  1a182
@@ -1644,18 +1901,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ennerdale Show (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220831T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220901T000000
 DESCRIPTION:Ennerdale Show (AS)\nLake District\, England\nMore Info: https
  ://races.fellrunner.org.uk/races/d9a62160-12da-4fcb-96f0-98235d553e7b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hades Hill (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220901T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220902T000000
 DESCRIPTION:Hades Hill (BS)\nSouth/West Pennines\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/3339ada9-f14b-4481-a154-9b1efaac438f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Great Longstone Chase (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220902T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220903T000000
 DESCRIPTION:Great Longstone Chase (BS)\nPeak District\, England\nMore Info
  : https://races.fellrunner.org.uk/races/614002e9-e341-4fdb-b5fb-4d3c738fbb
  0a
@@ -1663,6 +1923,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Longshaw Sheepdog Trial Fell Race (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220903T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220904T000000
 DESCRIPTION:Longshaw Sheepdog Trial Fell Race (BS)\nPeak District\, Englan
  d\nMore Info: https://races.fellrunner.org.uk/races/2b8dc050-2e97-4ffe-b75
  2-2d60a6954a12
@@ -1670,12 +1931,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Grisedale Horseshoe (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220903T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220904T000000
 DESCRIPTION:Grisedale Horseshoe (AM)\nLake District\, England\nMore Info: 
  https://races.fellrunner.org.uk/races/bf55b667-9e17-43ed-817e-cd9b534d709e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Blackshaw Head Fete (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220903T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220904T000000
 DESCRIPTION:Blackshaw Head Fete (BS)\nSouth/West Pennines\, England\nMore 
  Info: https://races.fellrunner.org.uk/races/dd3574a1-19ef-4cac-8cc3-3b8ad1
  1da1b9
@@ -1683,6 +1946,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stretton Skyline (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220904T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220905T000000
 DESCRIPTION:Stretton Skyline (BL)\nShropshire/Welsh Borders\, England\nMor
  e Info: https://races.fellrunner.org.uk/races/ec86db80-463f-41aa-9a5b-16bd
  64c8a833
@@ -1690,6 +1954,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Burnsall ( B O F R A ) (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220904T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220905T000000
 DESCRIPTION:Burnsall ( B O F R A ) (AS)\nYork. Dales\, England\nMore Info:
   https://races.fellrunner.org.uk/races/04292b8a-ac09-4f43-9e54-427604b98b9
  4
@@ -1697,12 +1962,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lost Shepherd (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220910T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220911T000000
 DESCRIPTION:Lost Shepherd (BL)\nSouth/West Pennines\, England\nMore Info: 
  https://races.fellrunner.org.uk/races/fc3b6e80-cdfe-4ffc-8aca-b0d1367817b4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Nine Edges Endurance (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220910T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220911T000000
 DESCRIPTION:Nine Edges Endurance (BL)\nPeak District\, England\nMore Info:
   https://races.fellrunner.org.uk/races/ae3fc0aa-29df-44ba-a5cc-f0bc8b29887
  e
@@ -1710,24 +1977,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Groovy Kinder Love (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220910T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220911T000000
 DESCRIPTION:Groovy Kinder Love (AL)\nPeak District\, England\nMore Info: h
  ttps://races.fellrunner.org.uk/races/833d0dcd-69ce-4fa1-b473-0616d66342ea
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:St  Boniface Fell (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220910T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220911T000000
 DESCRIPTION:St  Boniface Fell (AS)\nSouth East\, England\nMore Info: https
  ://races.fellrunner.org.uk/races/1170d648-1e12-45ed-9495-64ff59732f0a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Scafell Pike (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220910T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220911T000000
 DESCRIPTION:Scafell Pike (AS)\nLake District\, England\nMore Info: https:/
  /races.fellrunner.org.uk/races/50a7e5ac-e87c-4fe4-b678-e9af4a15cae7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hodder Valley Show (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220910T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220911T000000
 DESCRIPTION:Hodder Valley Show (BS)\nBowland/NW Lancs.\, England\nMore Inf
  o: https://races.fellrunner.org.uk/races/2a787b65-a577-4f2f-a6a2-3fd3c7a25
  3c3
@@ -1735,18 +2006,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ventnor Horseshoe (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220910T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220911T000000
 DESCRIPTION:Ventnor Horseshoe (BM)\nSouth East\, England\nMore Info: https
  ://races.fellrunner.org.uk/races/7b5a236c-15ed-4dca-a125-9e05964a0d1a
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Axnfell (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220911T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220912T000000
 DESCRIPTION:Axnfell (AL)\nIsle of Man\, England\nMore Info: https://races.
  fellrunner.org.uk/races/a83c84e3-9dc0-4f0f-9585-5f4b86e26e98
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peak Raid3 Autumn Series Round 1 of 4 (MM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220911T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220912T000000
 DESCRIPTION:Peak Raid3 Autumn Series Round 1 of 4 (MM)\nPeak District\, En
  gland\nMore Info: https://races.fellrunner.org.uk/races/19c6febd-d26b-4f37
  -8189-888f818f55a6
@@ -1754,6 +2028,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La Sportiva Lake District Mountain Trial (O)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220911T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220912T000000
 DESCRIPTION:La Sportiva Lake District Mountain Trial (O)\nLake District\, 
  England\nMore Info: https://races.fellrunner.org.uk/races/a9fde7da-31ba-42
  f8-9869-db7c33deb238
@@ -1761,18 +2036,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bleaklow Blitz (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220911T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220912T000000
 DESCRIPTION:Bleaklow Blitz (AM)\nPeak District\, England\nMore Info: https
  ://races.fellrunner.org.uk/races/f8f94c57-006d-4ffd-968c-e9db6a8d3c8b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Wroxall Round (CL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220911T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220912T000000
 DESCRIPTION:Wroxall Round (CL)\nSouth East\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/52907449-116e-429c-8069-ee5d7c674b9c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yorkshireman Off Road Marathon (CL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220911T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220912T000000
 DESCRIPTION:Yorkshireman Off Road Marathon (CL)\nSouth/West Pennines\, Eng
  land\nMore Info: https://races.fellrunner.org.uk/races/d709db9d-5d53-4f90-
  80ac-80f25d800f34
@@ -1780,6 +2058,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Yorkshireman Off Road Half Marathon (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220911T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220912T000000
 DESCRIPTION:Yorkshireman Off Road Half Marathon (BL)\nSouth/West Pennines\
  , England\nMore Info: https://races.fellrunner.org.uk/races/6c3b901a-7b8d-
  4fd6-bc04-91a1346dd9c2
@@ -1787,24 +2066,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Trunce 9 (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220912T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220913T000000
 DESCRIPTION:Trunce 9 (BS)\nPeak District\, England\nMore Info: https://rac
  es.fellrunner.org.uk/races/45e5d7ad-a7c8-4f5d-b94d-514065936309
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Three Shires (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220917T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220918T000000
 DESCRIPTION:Three Shires (AL)\nLake District\, England\nMore Info: https:/
  /races.fellrunner.org.uk/races/c2ed4a93-5743-4f7c-92e9-c4c8bd2e150f
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Great Whernside (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220917T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220918T000000
 DESCRIPTION:Great Whernside (AS)\nYork. Dales\, England\nMore Info: https:
  //races.fellrunner.org.uk/races/9969363b-6a0d-4632-9dbc-19851762e678
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cross Keys Road &amp\; Fell Relay (Relay)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220917T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220918T000000
 DESCRIPTION:Cross Keys Road &amp\; Fell Relay (Relay)\nSouth/West Pennines
  \, England\nMore Info: https://races.fellrunner.org.uk/races/67e131ed-df65
  -4fb5-8a6a-e0909d637acb
@@ -1812,24 +2095,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cronkley (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220917T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220918T000000
 DESCRIPTION:Cronkley (BM)\nNorthumberland / Durham\, England\nMore Info: h
  ttps://races.fellrunner.org.uk/races/71f8b1f7-3d80-4ffe-bfbf-ed693b2bdc5d
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Simonside (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220917T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220918T000000
 DESCRIPTION:Simonside (BM)\nNorthumberland / Durham\, England\nMore Info: 
  https://races.fellrunner.org.uk/races/4fe3eda6-4d63-4f60-aabe-02a30a106180
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Fryup Frazzler (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220918T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220919T000000
 DESCRIPTION:Fryup Frazzler (AS)\nNorth York Moors\, England\nMore Info: ht
  tps://races.fellrunner.org.uk/races/dbb135ba-2117-4f73-9802-3ca6403e557b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:B O F R A Malham Charity Relays (Relay)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220918T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220919T000000
 DESCRIPTION:B O F R A Malham Charity Relays (Relay)\nYork. Dales\, England
  \nMore Info: https://races.fellrunner.org.uk/races/d993436f-1d20-4ff0-b91e
  -608810978292
@@ -1837,6 +2124,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Thieveley Pike (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220924T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220925T000000
 DESCRIPTION:Thieveley Pike (AS)\nSouth/West Pennines\, England\nMore Info:
   https://races.fellrunner.org.uk/races/bd6d9344-10a3-4f8c-b4d8-bdd4969e8d4
  d
@@ -1844,6 +2132,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rombald's Romp Fell Race (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220924T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220925T000000
 DESCRIPTION:Rombald's Romp Fell Race (BM)\nYork. Dales\, England\nMore Inf
  o: https://races.fellrunner.org.uk/races/1066b59e-2aee-4f0d-a494-52a58c75f
  207
@@ -1851,24 +2140,28 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eskdale Show (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220924T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220925T000000
 DESCRIPTION:Eskdale Show (BS)\nLake District\, England\nMore Info: https:/
  /races.fellrunner.org.uk/races/c55c6cfe-b45c-407c-b7f2-0fb73d76f670
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Waddington (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220925T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220926T000000
 DESCRIPTION:Waddington (BM)\nBowland/NW Lancs.\, England\nMore Info: https
  ://races.fellrunner.org.uk/races/18236185-5d7b-4f57-99dc-2dd4e0778a12
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Curbar Commotion (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221001T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221002T000000
 DESCRIPTION:Curbar Commotion (BM)\nPeak District\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/c824eeac-55fe-4f15-ac23-714db0821b58
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Hodgson Brothers Mountain Relay (Relay)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221002T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221003T000000
 DESCRIPTION:Hodgson Brothers Mountain Relay (Relay)\nLake District\, Engla
  nd\nMore Info: https://races.fellrunner.org.uk/races/9aa8d99c-01b4-4fb2-9e
  59-df3bb3e51802
@@ -1876,18 +2169,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Langdale Horseshoe (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221008T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221009T000000
 DESCRIPTION:Langdale Horseshoe (AL)\nLake District\, England\nMore Info: h
  ttps://races.fellrunner.org.uk/races/bfbec876-1616-4fc3-b44d-6134d7a7b2c7
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Slieuwhallian (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221008T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221009T000000
 DESCRIPTION:Slieuwhallian (BS)\nIsle of Man\, England\nMore Info: https://
  races.fellrunner.org.uk/races/5a8dcb30-7046-4f52-8ef1-dd06a36686b6
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Withins Junior Curly Wurly Rat Runs ()
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221016T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221017T000000
 DESCRIPTION:Withins Junior Curly Wurly Rat Runs ()\nSouth/West Pennines\, 
  England\nMore Info: https://races.fellrunner.org.uk/races/cea4397c-5119-4f
  9e-bef4-65da77c857f9
@@ -1895,12 +2191,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Mendip Muddle (CL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221016T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221017T000000
 DESCRIPTION:Mendip Muddle (CL)\nSouth West\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/847ee540-8746-4f30-bf23-d5411f51ccac
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Withins Skyline (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221016T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221017T000000
 DESCRIPTION:Withins Skyline (BM)\nSouth/West Pennines\, England\nMore Info
  : https://races.fellrunner.org.uk/races/de822a14-df8e-4e92-b1c4-a3694291d0
  8a
@@ -1908,12 +2206,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Castle Carr (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221023T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221024T000000
 DESCRIPTION:Castle Carr (AL)\nSouth/West Pennines\, England\nMore Info: ht
  tps://races.fellrunner.org.uk/races/cce6229b-ed9e-4f15-9f24-3e0034a37cff
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Buttermere Shepherd's Meet (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221023T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221024T000000
 DESCRIPTION:Buttermere Shepherd's Meet (AS)\nLake District\, England\nMore
   Info: https://races.fellrunner.org.uk/races/0d78b8c3-0368-4845-94b9-0ecf1
  24bf384
@@ -1921,6 +2221,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Castle Carr Half (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221023T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221024T000000
 DESCRIPTION:Castle Carr Half (BM)\nSouth/West Pennines\, England\nMore Inf
  o: https://races.fellrunner.org.uk/races/8b486ff2-7fd6-4f65-941d-8523560c3
  34d
@@ -1928,6 +2229,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Race You To The Summit (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221029T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221030T000000
 DESCRIPTION:Race You To The Summit (BS)\nSouth/West Pennines\, England\nMo
  re Info: https://races.fellrunner.org.uk/races/a87d271d-7dff-4fc6-b0b7-b66
  50124a2f8
@@ -1935,12 +2237,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rhobell Fawr (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221105T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221106T000000
 DESCRIPTION:Rhobell Fawr (AM)\nNorth Wales\, Wales\nMore Info: https://rac
  es.fellrunner.org.uk/races/88793278-15f9-4fe7-a501-fabed968b933
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peak Raid3 Autumn Series Round 2 of 4 (MM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221106T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221107T000000
 DESCRIPTION:Peak Raid3 Autumn Series Round 2 of 4 (MM)\nPeak District\, En
  gland\nMore Info: https://races.fellrunner.org.uk/races/1622db94-3f19-4f69
  -9ff5-40a393625126
@@ -1948,30 +2252,35 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Soyland Moor (CL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221106T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221107T000000
 DESCRIPTION:Soyland Moor (CL)\nSouth/West Pennines\, England\nMore Info: h
  ttps://races.fellrunner.org.uk/races/05e5ce6f-43ac-4fd6-8b37-733b89a9de0b
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cop Hill (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221106T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221107T000000
 DESCRIPTION:Cop Hill (CS)\nSouth/West Pennines\, England\nMore Info: https
  ://races.fellrunner.org.uk/races/899c3b9c-9fca-44c9-93a9-cd48ded30e98
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Dunnerdale (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221112T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221113T000000
 DESCRIPTION:Dunnerdale (AS)\nLake District\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/451114b8-89e2-4f3e-bd60-774d3484ce41
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cringle Hill (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221112T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221113T000000
 DESCRIPTION:Cringle Hill (CS)\nIsle of Man\, England\nMore Info: https://r
  aces.fellrunner.org.uk/races/8ed4080f-7da8-4f20-baa1-cc9eb96244fd
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Saltergate Gallows (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221113T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221114T000000
 DESCRIPTION:Saltergate Gallows (BL)\nNorth York Moors\, England\nMore Info
  : https://races.fellrunner.org.uk/races/924ee885-cadc-4f81-b860-b2a61f3459
  7e
@@ -1979,12 +2288,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Roaches (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221113T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221114T000000
 DESCRIPTION:Roaches (BL)\nPeak District\, England\nMore Info: https://race
  s.fellrunner.org.uk/races/ac178a02-78ca-4f84-a867-21b944d13fb0
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Leg It Round Lathkil (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221113T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221114T000000
 DESCRIPTION:Leg It Round Lathkil (BM)\nPeak District\, England\nMore Info:
   https://races.fellrunner.org.uk/races/b5e5f8df-5166-4f91-969a-e7b3039fc6c
  0
@@ -1992,18 +2303,21 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Litton Birks Loop (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221113T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221114T000000
 DESCRIPTION:Litton Birks Loop (BS)\nYork. Dales\, England\nMore Info: http
  s://races.fellrunner.org.uk/races/a22b4be1-9637-4f2f-adb3-9c3c2e7293d5
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Penmaenmawr Fell Race (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221119T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221120T000000
 DESCRIPTION:Penmaenmawr Fell Race (BM)\nNorth Wales\, Wales\nMore Info: ht
  tps://races.fellrunner.org.uk/races/04347bd8-0ec1-4019-afbc-0df07208736c
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Tour Of Pendle (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221119T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221120T000000
 DESCRIPTION:Tour Of Pendle (AL)\nSouth/West Pennines\, England\nMore Info:
   https://races.fellrunner.org.uk/races/2f6c78be-3426-4f3d-af39-56ae5e5f120
  e
@@ -2011,6 +2325,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peak Raid3 Autumn Series Round 3 of 4 (MM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221120T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221121T000000
 DESCRIPTION:Peak Raid3 Autumn Series Round 3 of 4 (MM)\nPeak District\, En
  gland\nMore Info: https://races.fellrunner.org.uk/races/23df7368-6b66-4fc0
  -bf8f-05bbca336f02
@@ -2018,12 +2333,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Kirkby Moor (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221126T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221127T000000
 DESCRIPTION:Kirkby Moor (BM)\nLake District\, England\nMore Info: https://
  races.fellrunner.org.uk/races/52a3c449-a6ea-4636-876e-c842c1228653
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Lee Mill Relay (Relay)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221127T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221128T000000
 DESCRIPTION:Lee Mill Relay (Relay)\nSouth/West Pennines\, England\nMore In
  fo: https://races.fellrunner.org.uk/races/defc7c46-f8fd-4f7c-b08e-108bc817
  b1e7
@@ -2031,6 +2348,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Peak Raid3 Autumn Series Round 4 of 4 (MM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221204T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221205T000000
 DESCRIPTION:Peak Raid3 Autumn Series Round 4 of 4 (MM)\nPeak District\, En
  gland\nMore Info: https://races.fellrunner.org.uk/races/5c2a85ae-4ce7-4f46
  -b744-e056cc475dea
@@ -2038,12 +2356,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Eskdale Eureka (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221204T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221205T000000
 DESCRIPTION:Eskdale Eureka (BM)\nNorth York Moors\, England\nMore Info: ht
  tps://races.fellrunner.org.uk/races/616435d1-6ba5-490d-8b62-22c87b9f2eb3
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Cardington Cracker (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221204T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221205T000000
 DESCRIPTION:Cardington Cracker (AM)\nShropshire/Welsh Borders\, England\nM
  ore Info: https://races.fellrunner.org.uk/races/0f1c1a48-4c05-45c3-ba85-02
  cfde1c3d36
@@ -2051,6 +2371,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Moors The Merrier 21 (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221210T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221211T000000
 DESCRIPTION:Moors The Merrier 21 (BL)\nSouth/West Pennines\, England\nMore
   Info: https://races.fellrunner.org.uk/races/8b53dc5a-d2ab-4fa0-8097-a7c48
  f1bef20
@@ -2058,6 +2379,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Crag Fell Handicap race (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221210T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221211T000000
 DESCRIPTION:Crag Fell Handicap race (AS)\nLake District\, England\nMore In
  fo: https://races.fellrunner.org.uk/races/53199b7a-107e-48d7-b1ef-499be2e6
  b138
@@ -2065,12 +2387,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Colden Winter Hill (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221210T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221211T000000
 DESCRIPTION:Colden Winter Hill (BS)\nIsle of Man\, England\nMore Info: htt
  ps://races.fellrunner.org.uk/races/38127c07-24b6-4f0a-8845-8dce642698c8
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Bollihope Carrs (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221211T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221212T000000
 DESCRIPTION:Bollihope Carrs (BM)\nNorthumberland / Durham\, England\nMore 
  Info: https://races.fellrunner.org.uk/races/a28cddd4-a4f6-4f0c-91f2-22c8fe
  206ce1
@@ -2078,6 +2402,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Simonside Cairns (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221211T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221212T000000
 DESCRIPTION:Simonside Cairns (BM)\nNorthumberland / Durham\, England\nMore
   Info: https://races.fellrunner.org.uk/races/0cdf4295-8c7e-4ff9-9693-9aea9
  9bbabd4
@@ -2085,6 +2410,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stoop Junior Curly Wurly Races ()
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221218T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221219T000000
 DESCRIPTION:Stoop Junior Curly Wurly Races ()\nSouth/West Pennines\, Engla
  nd\nMore Info: https://races.fellrunner.org.uk/races/304ef083-11bb-4f6c-8d
  e5-0a89f2f5861e
@@ -2092,12 +2418,14 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Stoop (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221218T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221219T000000
 DESCRIPTION:Stoop (BS)\nSouth/West Pennines\, England\nMore Info: https://
  races.fellrunner.org.uk/races/252957dd-b020-4803-8207-a133dcdec6f4
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Silent Night (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221219T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221220T000000
 DESCRIPTION:Silent Night (AS)\nNorthumberland / Durham\, England\nMore Inf
  o: https://races.fellrunner.org.uk/races/957ecbcf-590a-4fce-8ace-76df0b10d
  5a7
@@ -2105,6 +2433,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Whinberry Naze (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221226T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221227T000000
 DESCRIPTION:Whinberry Naze (BS)\nSouth/West Pennines\, England\nMore Info:
   https://races.fellrunner.org.uk/races/2d14ea96-a9a4-4f6e-90d7-e46fcbef4e6
  a
@@ -2112,6 +2441,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Guisborough Woods (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221227T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221228T000000
 DESCRIPTION:Guisborough Woods (BS)\nNorth York Moors\, England\nMore Info:
   https://races.fellrunner.org.uk/races/ede7995f-b191-443f-b04a-707508a68c8
  a
@@ -2119,6 +2449,7 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Daleside Brewery Auld Lang syne (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221231T000000
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230101T000000
 DESCRIPTION:Daleside Brewery Auld Lang syne (BM)\nSouth/West Pennines\, En
  gland\nMore Info: https://races.fellrunner.org.uk/races/c2fae8c7-aebe-4fb6
  -9cc9-c622982f4bb6
