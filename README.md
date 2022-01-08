@@ -8,7 +8,9 @@ I should add this repo is completely unofficial and nothing to do with the FRA. 
 
 This is probably why you're here. There are 300+ races scheduled in 2022 so far so bear in mind how clogged your calendar might be.
 
-## Google (web). Not found a way to do it on mobile yet
+## Google (web). 
+Not found a way to do it on mobile yet, but it'll sync across to your phone if you've got a Google Calendar
+
 1. Copy the following link https://raw.githubusercontent.com/jdconey/fra_races/main/fra_calendar.ics
 2. On the Google Calendar Sidebar, click the plus (+) button next to 'Other Calendars'
 3. In the dropdown, click on 'From URL'
