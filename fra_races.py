@@ -72,7 +72,7 @@ def extract_event_info(url):
                 dt = dt.replace('.',':')
                 
                 dt = dt2+' at '+dt
-                extra_info.append("Start time info: "+dt)
+                extra_info.append("Date & time: "+dt)
         if "Venue:" in str(k):
             venue = str(k)
             venue = venue.replace("<li>","")
