@@ -43,6 +43,9 @@ def extract_event_info(url):
     pg = requests.get(url)
     soup2 = bs4.BeautifulSoup(pg.content,'html.parser')
     listy = soup2.find_all("li")
+    full_str=''
+    for k1 in listy:
+        full_str=full_str+str(k1)
     extra_info=[]
     for k in listy:
         if "Date &amp; time" in str(k):
@@ -52,6 +55,24 @@ def extract_event_info(url):
             dt = dt.replace("  ","")
             dt = dt.replace('\n','')
             extra_info.append("Date & time: "+dt)
+        elif "Start time info" in str(k):
+            if "Date &amp; time" not in full_str:
+                for k2 in listy:
+                    if 'Date' in str(k2):
+                        dt2=str(k2)
+                        dt2 = dt2.replace("<li>\n<strong>Date:</strong>",'')
+                        dt2 = dt2.replace("</li>","")
+                        dt2 = dt2.replace("  ","")
+                        dt2 = dt2.replace('\n','')
+                dt = str(k)
+                dt = dt.replace("<li>\n<strong>Start time info:</strong>",'')
+                dt = dt.replace("</li>","")
+                dt = dt.replace("  ","")
+                dt = dt.replace('\n','')
+                dt = dt.replace('.',':')
+                
+                dt = dt2+' at '+dt
+                extra_info.append("Start time info: "+dt)
         if "Venue:" in str(k):
             venue = str(k)
             venue = venue.replace("<li>","")
@@ -64,7 +85,7 @@ def extract_event_info(url):
             venue = venue.replace(":","\:")
           #  venue = venue.encode()
 #        if "Distance:" in str(k) or "Climb:" in str(k) or "Venue:" in str(k) or "Grid reference:" in str(k) or "Skills:" in str(k) or "Minimum age:" in str(k)  or "Entry:" in str(k):
-        if "Distance:" in str(k) or "Climb:" in str(k) or "Grid reference:" in str(k) or "Entry:" in str(k):
+        if "Distance:" in str(k) or "Climb:" in str(k) or "Grid reference:" in str(k) or "Entry" in str(k) or "entry" in str(k):
  
             info = str(k)
             info = info.replace("<li>","")
@@ -109,7 +130,7 @@ def make_cal(race_dict):
     for entry in race_dict:
         event = Event()
         info = race_dict[entry]
-
+     #   print(info['link'])
         dt,venue,extra_info = extract_event_info(info['link'])
         desc = info['name']+' ('+info['cat']+')'
         for part in extra_info:
@@ -153,7 +174,7 @@ for pg in pgs:
 
 cal = make_cal(race_dict)
 
-f = open('fra_calendar_v2.ics', 'wb')
+f = open('fra_calendar.ics', 'wb')
 as_string = cal.to_ical()
 #as_string = as_string[:17]+bytes('\r\nPRODID:jdconey//EN\r\nVERSION:1.0\r\nBEGIN:VTIMEZONE\r\nTZID:Europe/London\r\nBEGIN:DAYLIGHT\r\nDTSTART:20200329T010000\r\nRRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU\r\nTZOFFSETFROM:0000\r\nTZOFFSETTO:0100\r\nTZNAME:BST\r\nEND:DAYLIGHT\r\nBEGIN:STANDARD\r\nDTSTART:20201025T010000\r\nRRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU\r\nTZOFFSETFROM:0100\r\nTZOFFSETTO:0000\r\nTZNAME:GMT\r\nEND:STANDARD\r\nEND:VTIMEZONE\r\n', 'utf-8')+as_string[17:]
 f.write(as_string)
