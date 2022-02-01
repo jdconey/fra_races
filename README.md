@@ -1,6 +1,6 @@
 # fra_races
 
-This repo contains a (.ics) calendar file containing details of fell races (mostly) in England as listed on the Fell Runners Association (FRA) website. Hopefully the calendar will be updated relatively regularly. There is also the python script used to generate the code. It's not commented and rather poor.
+This repo contains a (.ics) calendar file containing details of fell races (mostly) in England as listed on the Fell Runners Association (FRA) website. Hopefully the calendar will be updated relatively regularly (aiming for the 1st of each month). There is also the python script used to generate the code. It's not commented and rather poor.
 
 I should add this repo is completely unofficial and nothing to do with the FRA. For full up to date information, you should consult the FRA handbook and/or the online calendar at https://races.fellrunner.org.uk/races/. There is some missing information, so I'd suggest using the "official" means to check. I've set the start time to the time listed on the calendar, with a duration of two hours for all events.
 
