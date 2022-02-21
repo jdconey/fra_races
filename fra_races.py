@@ -79,7 +79,7 @@ def extract_event_info(url):
                     dt = str(k)
                     dt = dt.replace("<li>\n<strong>Date:</strong>",'')
                     dt = dt.replace("</li>","")
-                    dt = dt.replace(" ","")
+                    dt = dt.replace("  ","")
                     dt = dt.replace("\n","")
                     dt = dt.replace(".",":")
                     dt = dt+" at 00:00"
