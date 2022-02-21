@@ -95,6 +95,7 @@ def extract_event_info(url):
             info = info.replace("\n","")
             info = info.replace("  ","")
             extra_info.append(info)
+    print(url)
     return dt,venue,extra_info
         
     
