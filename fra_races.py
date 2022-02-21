@@ -73,6 +73,16 @@ def extract_event_info(url):
                 
                 dt = dt2+' at '+dt
                 extra_info.append("Date & time: "+dt)
+        elif "Date:" in str(k):
+            if  "Date &amp; time" not in full_str:
+                if "Start time info" not in full_str:
+                    dt = str(k)
+                    dt = dt.replace("<li>\n<strong>Date:</strong>",'')
+                    dt = dt.replace("</li>","")
+                    dt = dt.replace(" ","")
+                    dt = dt.replace("\n","")
+                    dt = dt.replace(".",":")
+                    dt = dt+" at 00:00"
         if "Venue:" in str(k):
             venue = str(k)
             venue = venue.replace("<li>","")
