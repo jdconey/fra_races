@@ -171,11 +171,12 @@ core = 'https://races.fellrunner.org.uk/races/upcoming?page='
 page = requests.get(core)
 soup = bs4.BeautifulSoup(page.content, 'html.parser')
 pgs=[]
-for i in range(2,30):
-    oot=soup.find_all('a',text=str(i))
-    if len(oot)==1:
-        pgs.append(i)
-        
+#for i in range(2,30):
+#    oot=soup.find_all('a',text=str(i))
+#    if len(oot)==1:
+#        pgs.append(i)
+pgs = list(range(2,8))
+print(pgs)        
 race_dict = get_races_from_page(soup)
 #for pg in [2]:
 for pg in pgs:
