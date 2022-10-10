@@ -21,311 +21,10 @@ TZOFFSETTO:+0100
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-<<<<<<< Updated upstream
-SUMMARY:Three Shires (AL)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220917T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220917T130000
-DTSTAMP;VALUE=DATE-TIME:20220916T204735Z
-UID:/races/c2ed4a93-5743-4f7c-92e9-c4c8bd2e150f
-DESCRIPTION:Three Shires (AL)\nDate & time: Sat 17 Sep 2022 at 11:00\nDist
- ance:20 km / 12.4 miles\nClimb:1220 m / 4003 ft\nGrid reference:317034\nEn
- try on day:No\nPre-entry:Yes\nPre-entry fee (members):£14.00\nLake Distri
- ct\, England\nFull information: https://races.fellrunner.org.uk/races/c2ed
- 4a93-5743-4f7c-92e9-c4c8bd2e150f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Great Whernside (AS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220917T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220917T140000
-DTSTAMP;VALUE=DATE-TIME:20220916T204736Z
-UID:/races/9969363b-6a0d-4632-9dbc-19851762e678
-DESCRIPTION:Great Whernside (AS)\nDate & time: Sat 17 Sep 2022 at 12:00\nD
- istance:6.5 km / 4 miles\nClimb:475 m / 1558 ft\nGrid reference:975726\nEn
- try on day:Yes\nEntry on day fee:£8.00\nPre-entry:Yes\nPre-entry fee:£8.
- 00\nEntry includes free parking\; do not park elsewhere in village. Detail
- s about parking and pre entry on race website.\nYork. Dales\, England\nFul
- l information: https://races.fellrunner.org.uk/races/9969363b-6a0d-4632-9d
- bc-19851762e678
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cross Keys Road &amp\; Fell Relay (Relay)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220917T130000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220917T150000
-DTSTAMP;VALUE=DATE-TIME:20220916T204736Z
-UID:/races/67e131ed-df65-4fb5-8a6a-e0909d637acb
-DESCRIPTION:Cross Keys Road &amp\; Fell Relay (Relay)\nDate & time: Sat 17
-  Sep 2022 at 13:00\nDistance:5 km / 3.1 miles\nClimb:150 m / 492 ft\nGrid 
- reference:SE008062\nEntry on day:Yes\nEntry on day fee:£10.00\nPre-entry:
- Yes\nPre-entry fee:£10.00\nSouth/West Pennines\, England\nFull informatio
- n: https://races.fellrunner.org.uk/races/67e131ed-df65-4fb5-8a6a-e0909d637
- acb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cronkley (BM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220917T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220917T160000
-DTSTAMP;VALUE=DATE-TIME:20220916T204737Z
-UID:/races/71f8b1f7-3d80-4ffe-bfbf-ed693b2bdc5d
-DESCRIPTION:Cronkley (BM)\nDate & time: Sat 17 Sep 2022 at 14:00\nDistance
- :17.1 km / 10.6 miles\nClimb:560 m / 1837 ft\nGrid reference:NY 91092 2668
- 6\nEntry on day:Yes\nEntry on day fee (members):£7.00\nEntry on day fee (
- non-members):£8.00\nPre-entry:Yes\nPre-entry fee (members):£7.00\nPre-en
- try fee (non-members):£8.00\nPre-entry via SiEntries. On the day also ava
- ilable but there is a strict participant limit of 150\nMaps provided. Full
-  body cover to be carried - will be enforced. Entry fee includes chip butt
- y and hot drink from Farmhouse Kitchen\nNorthumberland / Durham\, England\
- nFull information: https://races.fellrunner.org.uk/races/71f8b1f7-3d80-4ff
- e-bfbf-ed693b2bdc5d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Simonside (BM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220917T143000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220917T163000
-DTSTAMP;VALUE=DATE-TIME:20220916T204737Z
-UID:/races/4fe3eda6-4d63-4f60-aabe-02a30a106180
-DESCRIPTION:Simonside (BM)\nDate & time: Sat 17 Sep 2022 at 14:30\nDistanc
- e:10.9 km / 6.8 miles\nClimb:365 m / 1198 ft\nGrid reference:NU031027\nEnt
- ry on day:Yes\nEntry on day fee (members):£3.00\nEntry on day fee (non-me
- mbers):£5.00\nPre-entry:No\nPay entry to showfield\, race included.\nNort
- humberland / Durham\, England\nFull information: https://races.fellrunner.
- org.uk/races/4fe3eda6-4d63-4f60-aabe-02a30a106180
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fryup Frazzler (AS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220918T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220918T130000
-DTSTAMP;VALUE=DATE-TIME:20220916T204737Z
-UID:/races/dbb135ba-2117-4f73-9802-3ca6403e557b
-DESCRIPTION:Fryup Frazzler (AS)\nDate & time: Sun 18 Sep 2022 at 11:00\nDi
- stance:9.4 km / 5.8 miles\nClimb:475 m / 1558 ft\nGrid reference:NZ 720047
- \nEntry on day:Yes\nEntry on day fee (members):£6.00\nEntry on day fee (n
- on-members):£7.00\nPre-entry:No\nNorth York Moors\, England\nFull informa
- tion: https://races.fellrunner.org.uk/races/dbb135ba-2117-4f73-9802-3ca640
- 3e557b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fat Boys Stanage Struggle (BS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220918T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220918T130000
-DTSTAMP;VALUE=DATE-TIME:20220916T204738Z
-UID:/races/18853c32-b837-4b41-90f0-f37a0c168be1
-DESCRIPTION:Fat Boys Stanage Struggle (BS)\nDate & time: Sun 18 Sep 2022 a
- t 11:00\nDistance:9.9 km / 6.2 miles\nClimb:355 m / 1165 ft\nEntry on day:
- Yes\nEntry on day fee:£7.00\nPre-entry:Yes\nPre-entry fee:£7.00\nRegistr
- ation from 9.30 a.m. Online pre-entry is strongly advised: there may be ve
- ry limited or no places available for on the day registration. Lookup our 
- Facebook page for more information and updates!\nPeak District\, England\n
- Full information: https://races.fellrunner.org.uk/races/18853c32-b837-4b41
- -90f0-f37a0c168be1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:B O F R A Malham Charity Relays (Relay)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220918T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220918T133000
-DTSTAMP;VALUE=DATE-TIME:20220916T204738Z
-UID:/races/d993436f-1d20-4ff0-b91e-608810978292
-DESCRIPTION:B O F R A Malham Charity Relays (Relay)\nDate & time: Sun 18 S
- ep 2022 at 11:30\nDistance:1.1 km / 0.7 miles\nClimb:73 m / 240 ft\nEntry 
- on day:Yes\nEntry on day fee:£3.00\nPre-entry:No\nYork. Dales\, England\n
- Full information: https://races.fellrunner.org.uk/races/d993436f-1d20-4ff0
- -b91e-608810978292
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Thieveley Pike (AS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220924T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220924T130000
-DTSTAMP;VALUE=DATE-TIME:20220916T204739Z
-UID:/races/bd6d9344-10a3-4f8c-b4d8-bdd4969e8d4d
-DESCRIPTION:Thieveley Pike (AS)\nDate & time: Sat 24 Sep 2022 at 11:00\nDi
- stance:7 km / 4.3 miles\nClimb:400 m / 1312 ft\nGrid reference:SD875285\nE
- ntry on day:Yes\nEntry on day fee (members):£5.00\nEntry on day fee (non-
- members):£7.00\nPre-entry:No\nSouth/West Pennines\, England\nFull informa
- tion: https://races.fellrunner.org.uk/races/bd6d9344-10a3-4f8c-b4d8-bdd496
- 9e8d4d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Rombald's Romp Fell Race (BM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220924T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220924T133000
-DTSTAMP;VALUE=DATE-TIME:20220916T204739Z
-UID:/races/1066b59e-2aee-4f0d-a494-52a58c75f207
-DESCRIPTION:Rombald's Romp Fell Race (BM)\nDate & time: Sat 24 Sep 2022 at
-  11:30\nDistance:13 km / 8.1 miles\nClimb:370 m / 1214 ft\nGrid reference:
- SE 117 472\nEntry on day:Yes\nEntry on day fee:£8.00\nPre-entry:Yes\nPre-
- entry fee:£8.00\nRace route\, parking and other details on the website. O
- nline entry via www.racebest.com\nYork. Dales\, England\nFull information:
-  https://races.fellrunner.org.uk/races/1066b59e-2aee-4f0d-a494-52a58c75f20
- 7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Eskdale Show (BS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220924T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220924T160000
-DTSTAMP;VALUE=DATE-TIME:20220916T204739Z
-UID:/races/c55c6cfe-b45c-407c-b7f2-0fb73d76f670
-DESCRIPTION:Eskdale Show (BS)\nDate & time: Sat 24 Sep 2022 at 14:00\nDist
- ance:6.9 km / 4.3 miles\nClimb:277 m / 909 ft\nGrid reference:SD149996\nEn
- try on day:Yes\nEntry on day fee (members):£4.00\nEntry on day fee (non-m
- embers):£5.00\nPre-entry:No\nEntry included with show entry fees. Free ca
- r parking.\nLake District\, England\nFull information: https://races.fellr
- unner.org.uk/races/c55c6cfe-b45c-407c-b7f2-0fb73d76f670
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orton (BS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220924T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220924T160000
-DTSTAMP;VALUE=DATE-TIME:20220916T204740Z
-UID:/races/c3050e7b-23ba-414e-8221-eb300decde1c
-DESCRIPTION:Orton (BS)\nDate & time: Sat 24 Sep 2022 at 14:00\nDistance:10
-  km / 6.2 miles\nClimb:258 m / 846 ft\nEntry on day:Yes\nEntry on day fee:
- £8.00\nPre-entry:Yes\nPre-entry fee:£8.00\nPre-entry on FRA form to race
-  organiser.\nLake District\, England\nFull information: https://races.fell
- runner.org.uk/races/c3050e7b-23ba-414e-8221-eb300decde1c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kong Mini Mm Round 2 (MM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220925T000000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220925T020000
-DTSTAMP;VALUE=DATE-TIME:20220916T204740Z
-UID:/races/6ae635cd-3994-4796-ae58-9f80f8533c39
-DESCRIPTION:Kong Mini Mm Round 2 (MM)\nDate & time: Sun 25 Sep 2022 at 0:0
- 0\nEntry on day:Yes\nEntry on day fee (members):£28.00\nEntry on day fee 
- (non-members):£31.00\nPre-entry:Yes\nPre-entry fee (members):£25.00\nPre
- -entry fee (non-members):£28.00\nFor pre-entry\, see website.\nPeak Distr
- ict\, England\nFull information: https://races.fellrunner.org.uk/races/6ae
- 635cd-3994-4796-ae58-9f80f8533c39
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lancashireman Off-road Marathon (BL)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220925T080000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220925T100000
-DTSTAMP;VALUE=DATE-TIME:20220916T204740Z
-UID:/races/5ea01926-f0a6-4200-8638-bf9009f8a7cf
-DESCRIPTION:Lancashireman Off-road Marathon (BL)\nDate & time: Sun 25 Sep 
- 2022 at 8:00\nDistance:43 km / 26.7 miles\nClimb:1310 m / 4298 ft\nGrid re
- ference:SD 834 326\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members
- ):£22.00\nPre-entry fee (non-members):£24.00\nPre-Entry only on SI Entri
- es opens 1st Feb. 2020. Paired Entry £20 each. Relays option. Full detail
- s at www.trawdenac.co.uk\nSouth/West Pennines\, England\nFull information:
-  https://races.fellrunner.org.uk/races/5ea01926-f0a6-4200-8638-bf9009f8a7c
- f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lancashireman Off-road Relay (Relay)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220925T080000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220925T100000
-DTSTAMP;VALUE=DATE-TIME:20220916T204741Z
-UID:/races/00c7ff7c-c779-462a-9ab0-3c85b2b71613
-DESCRIPTION:Lancashireman Off-road Relay (Relay)\nDate & time: Sun 25 Sep 
- 2022 at 8:00\nDistance:43 km / 26.7 miles\nClimb:1310 m / 4298 ft\nGrid re
- ference:SD 834 326\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members
- ):£12.00\nPre-entry fee (non-members):£14.00\nPre-Entry only on SI Entri
- es opens 1st Feb 2020Team of 3 (3x solo legs) - £12 eachTeam of 6 (3x pai
- red legs) - £12 eachFull details at www.trawdenac.co.uk\nSouth/West Penni
- nes\, England\nFull information: https://races.fellrunner.org.uk/races/00c
- 7ff7c-c779-462a-9ab0-3c85b2b71613
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arnside Tower Junior (Cross Country)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220925T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220925T130000
-DTSTAMP;VALUE=DATE-TIME:20220916T204741Z
-UID:/races/fad490dd-abc3-4519-9a6a-b2c4d280317d
-DESCRIPTION:Arnside Tower Junior (Cross Country)\nDate & time: Sun 25 Sep 
- 2022 at 11:00\nDistance:4 km / 2.5 miles\nClimb:50 m / 164 ft\nGrid refere
- nce:54°10'55.6"N 2°50'20.1"W\nEntry on day:Yes\nEntry on day fee:£1.00\
- nPre-entry:No\nLake District\, England\nFull information: https://races.fe
- llrunner.org.uk/races/fad490dd-abc3-4519-9a6a-b2c4d280317d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:John Hewitt Memorial Shelf Moor (AS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220925T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220925T130000
-DTSTAMP;VALUE=DATE-TIME:20220916T204742Z
-UID:/races/5c67265a-d4e2-4f1b-844e-3d7a2a6bc70b
-DESCRIPTION:John Hewitt Memorial Shelf Moor (AS)\nDate & time: Sun 25 Sep 
- 2022 at 11:00\nDistance:9.1 km / 5.7 miles\nClimb:457 m / 1499 ft\nGrid re
- ference:SK042949\nEntry on day:Yes\nEntry on day fee:£10.00\nPre-entry:Ye
- s\nPre-entry fee:£9.00\nPeak District\, England\nFull information: https:
- //races.fellrunner.org.uk/races/5c67265a-d4e2-4f1b-844e-3d7a2a6bc70b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Waddington (BM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20220925T140000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20220925T160000
-DTSTAMP;VALUE=DATE-TIME:20220916T204742Z
-UID:/races/18236185-5d7b-4f57-99dc-2dd4e0778a12
-DESCRIPTION:Waddington (BM)\nDate & time: Sun 25 Sep 2022 at 14:00\nDistan
- ce:11.3 km / 7 miles\nClimb:415 m / 1362 ft\nGrid reference:SD 730 436\nEn
- try on day:No\nPre-entry:Yes\nPre-entry fee:£5.00\nEntry via SiEntries li
- mited to 120.\nBowland/NW Lancs.\, England\nFull information: https://race
- s.fellrunner.org.uk/races/18236185-5d7b-4f57-99dc-2dd4e0778a12
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Curbar Commotion (BM)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221001T100000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221001T120000
-DTSTAMP;VALUE=DATE-TIME:20220916T204742Z
-UID:/races/c824eeac-55fe-4f15-ac23-714db0821b58
-DESCRIPTION:Curbar Commotion (BM)\nDate & time: Sat 1 Oct 2022 at 10:00\nD
- istance:16 km / 9.9 miles\nClimb:415 m / 1362 ft\nGrid reference:SK248739\
- nEntry on day:Yes\nEntry on day fee:£12.00\nPre-entry:Yes\nPre-entry fee 
- (members):£10.00\nPre-entry fee (non-members):£12.00\nPeak District\, En
- gland\nFull information: https://races.fellrunner.org.uk/races/c824eeac-55
- fe-4f15-ac23-714db0821b58
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:English Schools Fell Running Championships ()
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221001T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221001T130000
-DTSTAMP;VALUE=DATE-TIME:20220916T204743Z
-UID:/races/1655321f-b089-4fd4-8ebc-e310b0847e10
-DESCRIPTION:English Schools Fell Running Championships ()\nDate & time: Sa
- t 1 Oct 2022 at 11:00\nEntry on day:No\nPre-entry:Yes\nPre-entry fee:£7.5
- 0\nYork. Dales\, England\nFull information: https://races.fellrunner.org.u
- k/races/1655321f-b089-4fd4-8ebc-e310b0847e10
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hodgson Brothers Mountain Relay (Relay)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221002T091500
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221002T111500
-DTSTAMP;VALUE=DATE-TIME:20220916T204743Z
-UID:/races/9aa8d99c-01b4-4fb2-9e59-df3bb3e51802
-DESCRIPTION:Hodgson Brothers Mountain Relay (Relay)\nDate & time: Sun 2 Oc
- t 2022 at 9:15\nDistance:40 km / 24.9 miles\nClimb:2450 m / 8038 ft\nGrid 
- reference:NY 389 160\nEntry on day:No\nPre-entry:Yes\nPre-entry fee:£120.
- 00\nLake District\, England\nFull information: https://races.fellrunner.or
- g.uk/races/9aa8d99c-01b4-4fb2-9e59-df3bb3e51802
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Langdale Horseshoe (AL)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221008T110000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221008T130000
-DTSTAMP;VALUE=DATE-TIME:20220916T204744Z
-UID:/races/bfbec876-1616-4fc3-b44d-6134d7a7b2c7
-DESCRIPTION:Langdale Horseshoe (AL)\nDate & time: Sat 8 Oct 2022 at 11:00\
- nDistance:21.1 km / 13.1 miles\nClimb:1450 m / 4757 ft\nGrid reference:286
- 062\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):£12.00\nPre-
- entry fee (non-members):£15.00\nLake District\, England\nFull information
- : https://races.fellrunner.org.uk/races/bfbec876-1616-4fc3-b44d-6134d7a7b2
- c7
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Slieuwhallian (BS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221008T133000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221008T153000
-DTSTAMP;VALUE=DATE-TIME:20220916T204744Z
-UID:/races/5a8dcb30-7046-4f52-8ef1-dd06a36686b6
-DESCRIPTION:Slieuwhallian (BS)\nDate & time: Sat 8 Oct 2022 at 13:30\nDist
- ance:5 km / 3.1 miles\nClimb:156 m / 512 ft\nGrid reference:275817\nEntry 
- on day:Yes\nEntry on day fee:£5.00\nPre-entry:Yes\nPre-entry fee:£5.00\n
- No entry fee for juniors\nIsle of Man\, England\nFull information: https:/
- /races.fellrunner.org.uk/races/5a8dcb30-7046-4f52-8ef1-dd06a36686b6
-=======
 SUMMARY:GoBigMoor (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221015T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221015T123000
-DTSTAMP;VALUE=DATE-TIME:20221010T105924Z
+DTSTAMP;VALUE=DATE-TIME:20221010T110719Z
 UID:/races/348dcfc5-4e8f-46fc-987c-fae363e5e8d7
 DESCRIPTION:GoBigMoor (BL)\nDate & time: Sat 15 Oct 2022 at 10:30\nDistanc
  e:21 km / 13 miles\nClimb:540 m / 1772 ft\nGrid reference:SK 320777\nEntry
@@ -335,17 +34,12 @@ DESCRIPTION:GoBigMoor (BL)\nDate & time: Sat 15 Oct 2022 at 10:30\nDistanc
  d runners should collect their numbers from Holmesfield Village Hall on th
  e day of the race.\nPeak District\, England\nFull information: https://rac
  es.fellrunner.org.uk/races/348dcfc5-4e8f-46fc-987c-fae363e5e8d7
->>>>>>> Stashed changes
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:British Athletics Fell and Hill Relays (Relay)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221015T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221015T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204744Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T105929Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110722Z
 UID:/races/e8830f44-b4a0-4c66-8ba0-788baeb74f59
 DESCRIPTION:British Athletics Fell and Hill Relays (Relay)\nDate & time: S
  at 15 Oct 2022 at 11:00\nGrid reference:NT119374\nEntry on day:No\nPre-ent
@@ -360,11 +54,7 @@ BEGIN:VEVENT
 SUMMARY:British Fell and Hill Relay Championships (Relay)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221015T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221015T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204745Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T105933Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110726Z
 UID:/races/d43723eb-3aed-4b7e-b88b-6107cacf9672
 DESCRIPTION:British Fell and Hill Relay Championships (Relay)\nDate & time
  : Sat 15 Oct 2022 at 11:00\nGrid reference:NT119374\nEntry on day:No\nPre-
@@ -378,11 +68,7 @@ BEGIN:VEVENT
 SUMMARY:East Mill Tor Loop (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221015T160000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221015T180000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204745Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T105937Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110730Z
 UID:/races/ce4369ff-a5c6-4b4f-86b7-caf31ddf5d89
 DESCRIPTION:East Mill Tor Loop (BS)\nDate & time: Sat 15 Oct 2022 at 16:00
  \nDistance:9.9 km / 6.2 miles\nClimb:380 m / 1247 ft\nGrid reference:Ol28 
@@ -397,11 +83,7 @@ BEGIN:VEVENT
 SUMMARY:Withins Junior Curly Wurly Rat Runs ()
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221016T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221016T123000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204746Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T105941Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110733Z
 UID:/races/cea4397c-5119-4f9e-bef4-65da77c857f9
 DESCRIPTION:Withins Junior Curly Wurly Rat Runs ()\nDate & time: Sun 16 Oc
  t 2022 at 10:30\nGrid reference:025364\nEntry on day:Yes\nEntry on day fee
@@ -415,11 +97,7 @@ BEGIN:VEVENT
 SUMMARY:Mendip Muddle (CL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221016T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221016T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204746Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T105944Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110737Z
 UID:/races/847ee540-8746-4f30-bf23-d5411f51ccac
 DESCRIPTION:Mendip Muddle (CL)\nDate & time: Sun 16 Oct 2022 at 11:00\nDis
  tance:20 km / 12.4 miles\nClimb:420 m / 1378 ft\nGrid reference:502558\nEn
@@ -433,11 +111,7 @@ BEGIN:VEVENT
 SUMMARY:Withins Skyline (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221016T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221016T133000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204746Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T105947Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110740Z
 UID:/races/de822a14-df8e-4e92-b1c4-a3694291d08a
 DESCRIPTION:Withins Skyline (BM)\nDate & time: Sun 16 Oct 2022 at 11:30\nD
  istance:10.1 km / 6.3 miles\nClimb:300 m / 984 ft\nGrid reference:025364\n
@@ -449,11 +123,7 @@ BEGIN:VEVENT
 SUMMARY:Dale Head (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221016T133000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221016T153000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204747Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T105951Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110744Z
 UID:/races/7ef6dc89-8866-4008-8861-c58fc9be586e
 DESCRIPTION:Dale Head (AS)\nDate & time: Sun 16 Oct 2022 at 13:30\nDistanc
  e:7.8 km / 4.8 miles\nClimb:675 m / 2215 ft\nGrid reference:259 148\nEntry
@@ -465,11 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Lockton Limping (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221023T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221023T123000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204747Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T105954Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110748Z
 UID:/races/8f937a11-bc8b-474f-b851-0ed3847a28da
 DESCRIPTION:Lockton Limping (BM)\nDate & time: Sun 23 Oct 2022 at 10:30\nD
  istance:11.2 km / 7 miles\nClimb:350 m / 1148 ft\nGrid reference:846900\nE
@@ -482,11 +148,7 @@ BEGIN:VEVENT
 SUMMARY:Andrew Heywood Memorial Windgather (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221023T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221023T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204748Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T105958Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110752Z
 UID:/races/c3b48035-d2d2-4cd4-b35d-ec65c54d7ad4
 DESCRIPTION:Andrew Heywood Memorial Windgather (BL)\nDate & time: Sun 23 O
  ct 2022 at 11:00\nDistance:21.7 km / 13.5 miles\nClimb:762 m / 2500 ft\nGr
@@ -500,7 +162,7 @@ BEGIN:VEVENT
 SUMMARY:Stuart Learmouth Wirksworth Undulator (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221023T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221023T130000
-DTSTAMP;VALUE=DATE-TIME:20221010T110002Z
+DTSTAMP;VALUE=DATE-TIME:20221010T110755Z
 UID:/races/2ef6a313-e179-4d7e-b2ec-c9645d847020
 DESCRIPTION:Stuart Learmouth Wirksworth Undulator (BM)\nDate & time: Sun 2
  3 Oct 2022 at 11:00\nDistance:13.5 km / 8.4 miles\nClimb:384 m / 1260 ft\n
@@ -514,11 +176,7 @@ BEGIN:VEVENT
 SUMMARY:Castle Carr (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221023T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221023T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204748Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110005Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110759Z
 UID:/races/cce6229b-ed9e-4f15-9f24-3e0034a37cff
 DESCRIPTION:Castle Carr (AL)\nDate & time: Sun 23 Oct 2022 at 11:00\nDista
  nce:24 km / 14.9 miles\nClimb:1200 m / 3937 ft\nGrid reference:SE005280\nE
@@ -532,11 +190,7 @@ BEGIN:VEVENT
 SUMMARY:Buttermere Shepherd's Meet (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221023T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221023T133000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204748Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110008Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110802Z
 UID:/races/0d78b8c3-0368-4845-94b9-0ecf124bf384
 DESCRIPTION:Buttermere Shepherd's Meet (AS)\nDate & time: Sun 23 Oct 2022 
  at 11:30\nDistance:5 km / 3.1 miles\nClimb:600 m / 1969 ft\nGrid reference
@@ -551,11 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Castle Carr Half (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221023T130000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221023T150000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204749Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110012Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110806Z
 UID:/races/8b486ff2-7fd6-4f65-941d-8523560c334d
 DESCRIPTION:Castle Carr Half (BM)\nDate & time: Sun 23 Oct 2022 at 13:00\n
  Distance:10.6 km / 6.6 miles\nClimb:470 m / 1542 ft\nGrid reference:SE0052
@@ -569,11 +219,7 @@ BEGIN:VEVENT
 SUMMARY:Race You To The Summit (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221029T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221029T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204749Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110016Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110809Z
 UID:/races/a87d271d-7dff-4fc6-b0b7-b6650124a2f8
 DESCRIPTION:Race You To The Summit (BS)\nDate & time: Sat 29 Oct 2022 at 1
  1:00\nDistance:7 km / 4.3 miles\nClimb:260 m / 853 ft\nGrid reference:9461
@@ -586,11 +232,7 @@ BEGIN:VEVENT
 SUMMARY:Really Wild Boar (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221029T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221029T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204749Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110020Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110812Z
 UID:/races/7b2b15f4-f2be-455d-b13e-43b5f90e09e0
 DESCRIPTION:Really Wild Boar (AS)\nDate & time: Sat 29 Oct 2022 at 11:00\n
  Distance:8 km / 5 miles\nClimb:427 m / 1401 ft\nGrid reference:NY 7430 015
@@ -602,11 +244,7 @@ BEGIN:VEVENT
 SUMMARY:Black Lane Ends (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221029T140000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221029T160000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204750Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110023Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110816Z
 UID:/races/2c38b6e9-5adf-4d56-a0ab-c70a3847e0f2
 DESCRIPTION:Black Lane Ends (AS)\nDate & time: Sat 29 Oct 2022 at 14:00\nD
  istance:6.3 km / 3.9 miles\nClimb:315 m / 1033 ft\nGrid reference:SD 929 4
@@ -618,11 +256,7 @@ BEGIN:VEVENT
 SUMMARY:HellRaiser (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221030T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221030T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204750Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110027Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110820Z
 UID:/races/a2a74ee1-85c4-44e8-b93f-deb194be129b
 DESCRIPTION:HellRaiser (AS)\nDate & time: Sun 30 Oct 2022 at 11:00\nDistan
  ce:8.5 km / 5.3 miles\nClimb:590 m / 1936 ft\nGrid reference:NY342151\nEnt
@@ -634,11 +268,7 @@ BEGIN:VEVENT
 SUMMARY:Padfield Plum Fair Scamper (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221030T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221030T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204750Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110030Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110825Z
 UID:/races/954999cc-b888-4890-8175-ac7b83ddb194
 DESCRIPTION:Padfield Plum Fair Scamper (BS)\nDate & time: Sun 30 Oct 2022 
  at 11:00\nDistance:8.8 km / 5.5 miles\nClimb:320 m / 1050 ft\nEntry on day
@@ -650,11 +280,7 @@ BEGIN:VEVENT
 SUMMARY:Bronte Way (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221030T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221030T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204751Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110034Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110829Z
 UID:/races/099bc1f6-b248-403c-ba19-0b3926b09230
 DESCRIPTION:Bronte Way (BM)\nDate & time: Sun 30 Oct 2022 at 11:00\nDistan
  ce:12 km / 7.5 miles\nClimb:351 m / 1152 ft\nGrid reference:SD932391\nEntr
@@ -666,11 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Rhobell Fawr (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221105T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221105T140000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204751Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110038Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110834Z
 UID:/races/88793278-15f9-4fe7-a501-fabed968b933
 DESCRIPTION:Rhobell Fawr (AM)\nDate & time: Sat 5 Nov 2022 at 12:00\nDista
  nce:10.3 km / 6.4 miles\nClimb:562 m / 1844 ft\nGrid reference:SH756225\nE
@@ -682,11 +304,7 @@ BEGIN:VEVENT
 SUMMARY:Shepherds Skyline (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221105T130000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221105T150000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204751Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110042Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110838Z
 UID:/races/a0539f0f-2c5a-4a9b-baf1-ef7b5674862f
 DESCRIPTION:Shepherds Skyline (BS)\nDate & time: Sat 5 Nov 2022 at 13:00\n
  Distance:10 km / 6.2 miles\nClimb:350 m / 1148 ft\nGrid reference:945232\n
@@ -698,11 +316,7 @@ BEGIN:VEVENT
 SUMMARY:Peak Raid Mountain Marathon 2 (MM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221106T080000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221106T100000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204752Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110045Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110842Z
 UID:/races/1622db94-3f19-4f69-9ff5-40a393625126
 DESCRIPTION:Peak Raid Mountain Marathon 2 (MM)\nDate & time: Sun 6 Nov 202
  2 at 8:00\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):£18.00
@@ -716,11 +330,7 @@ BEGIN:VEVENT
 SUMMARY:Soyland Moor (CL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221106T100000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221106T120000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204752Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110048Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110847Z
 UID:/races/05e5ce6f-43ac-4fd6-8b37-733b89a9de0b
 DESCRIPTION:Soyland Moor (CL)\nDate & time: Sun 6 Nov 2022 at 10:00\nDista
  nce:22 km / 13.7 miles\nClimb:400 m / 1312 ft\nEntry on day:Yes\nEntry on 
@@ -733,11 +343,7 @@ BEGIN:VEVENT
 SUMMARY:Cop Hill (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221106T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221106T123000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204753Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110052Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110852Z
 UID:/races/899c3b9c-9fca-44c9-93a9-cd48ded30e98
 DESCRIPTION:Cop Hill (CS)\nDate & time: Sun 6 Nov 2022 at 10:30\nDistance:
  10 km / 6.2 miles\nClimb:274 m / 899 ft\nEntry on day:Yes\nEntry on day fe
@@ -746,29 +352,10 @@ DESCRIPTION:Cop Hill (CS)\nDate & time: Sun 6 Nov 2022 at 10:30\nDistance:
  rg.uk/races/899c3b9c-9fca-44c9-93a9-cd48ded30e98
 END:VEVENT
 BEGIN:VEVENT
-<<<<<<< Updated upstream
-SUMMARY:David Staff Memorial Race (AS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221106T113000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221106T133000
-DTSTAMP;VALUE=DATE-TIME:20220916T204753Z
-UID:/races/2b361728-3174-4b08-a396-87a151bc3f64
-DESCRIPTION:David Staff Memorial Race (AS)\nDate & time: Sun 6 Nov 2022 at
-  11:30\nDistance:6 km / 3.7 miles\nClimb:305 m / 1001 ft\nEntry on day:Yes
- \nEntry on day fee:£5.00\nPre-entry:No\nSouth/West Pennines\, England\nFu
- ll information: https://races.fellrunner.org.uk/races/2b361728-3174-4b08-a
- 396-87a151bc3f64
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Dunnerdale (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221112T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221112T140000
-DTSTAMP;VALUE=DATE-TIME:20220916T204753Z
-=======
-SUMMARY:Dunnerdale (AS)
-DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221112T120000
-DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221112T140000
-DTSTAMP;VALUE=DATE-TIME:20221010T110056Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110855Z
 UID:/races/451114b8-89e2-4f3e-bd60-774d3484ce41
 DESCRIPTION:Dunnerdale (AS)\nDate & time: Sat 12 Nov 2022 at 12:00\nDistan
  ce:8 km / 5 miles\nClimb:550 m / 1804 ft\nGrid reference:223905\nEntry on 
@@ -780,11 +367,7 @@ BEGIN:VEVENT
 SUMMARY:Cringle Hill (CS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221112T133000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221112T153000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204754Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110059Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110900Z
 UID:/races/8ed4080f-7da8-4f20-baa1-cc9eb96244fd
 DESCRIPTION:Cringle Hill (CS)\nDate & time: Sat 12 Nov 2022 at 13:30\nDist
  ance:3 km / 1.9 miles\nClimb:75 m / 246 ft\nGrid reference:251742\nEntry o
@@ -796,11 +379,7 @@ BEGIN:VEVENT
 SUMMARY:Saltergate Gallows (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221113T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221113T123000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204754Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110102Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110904Z
 UID:/races/924ee885-cadc-4f81-b860-b2a61f34597e
 DESCRIPTION:Saltergate Gallows (BL)\nDate & time: Sun 13 Nov 2022 at 10:30
  \nDistance:20 km / 12.4 miles\nClimb:500 m / 1640 ft\nEntry on day:Yes\nEn
@@ -813,11 +392,7 @@ BEGIN:VEVENT
 SUMMARY:Roaches (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221113T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221113T123000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204754Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110106Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110908Z
 UID:/races/ac178a02-78ca-4f84-a867-21b944d13fb0
 DESCRIPTION:Roaches (BL)\nDate & time: Sun 13 Nov 2022 at 10:30\nDistance:
  24.1 km / 15 miles\nClimb:1128 m / 3701 ft\nGrid reference:987608\nEntry o
@@ -829,11 +404,7 @@ BEGIN:VEVENT
 SUMMARY:Drogo 10 (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221113T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221113T123000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204755Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110109Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110912Z
 UID:/races/ee48ba9c-af7e-4a69-a20f-b91b66c4e482
 DESCRIPTION:Drogo 10 (BM)\nDate & time: Sun 13 Nov 2022 at 10:30\nDistance
  :16 km / 9.9 miles\nClimb:536 m / 1759 ft\nGrid reference:SX721900\nEntry 
@@ -846,11 +417,7 @@ BEGIN:VEVENT
 SUMMARY:Leg It Round Lathkil (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221113T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221113T133000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204755Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110113Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110916Z
 UID:/races/b5e5f8df-5166-4f91-969a-e7b3039fc6c0
 DESCRIPTION:Leg It Round Lathkil (BM)\nDate & time: Sun 13 Nov 2022 at 11:
  30\nDistance:11.5 km / 7.1 miles\nClimb:290 m / 951 ft\nGrid reference:207
@@ -863,11 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Wadsworth Half Trog (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221113T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221113T133000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204755Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110116Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110920Z
 UID:/races/43f12053-84da-4a19-9d01-12f4380138f9
 DESCRIPTION:Wadsworth Half Trog (BM)\nDate & time: Sun 13 Nov 2022 at 11:3
  0\nDistance:15 km / 9.3 miles\nClimb:420 m / 1378 ft\nGrid reference:SE005
@@ -881,11 +444,7 @@ BEGIN:VEVENT
 SUMMARY:Litton Birks Loop (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221113T120000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221113T140000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204756Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110119Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110923Z
 UID:/races/a22b4be1-9637-4f2f-adb3-9c3c2e7293d5
 DESCRIPTION:Litton Birks Loop (BS)\nDate & time: Sun 13 Nov 2022 at 12:00\
  nDistance:7.7 km / 4.8 miles\nClimb:372 m / 1220 ft\nGrid reference:SD 914
@@ -900,11 +459,7 @@ BEGIN:VEVENT
 SUMMARY:Penmaenmawr Fell Race (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221119T100000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221119T120000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204756Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110123Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110926Z
 UID:/races/04347bd8-0ec1-4019-afbc-0df07208736c
 DESCRIPTION:Penmaenmawr Fell Race (BM)\nDate & time: Sat 19 Nov 2022 at 10
  :00\nDistance:16.1 km / 10 miles\nClimb:594 m / 1949 ft\nGrid reference:74
@@ -917,11 +472,7 @@ BEGIN:VEVENT
 SUMMARY:Tour Of Pendle (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221119T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221119T123000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204756Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110126Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110930Z
 UID:/races/2f6c78be-3426-4f3d-af39-56ae5e5f120e
 DESCRIPTION:Tour Of Pendle (AL)\nDate & time: Sat 19 Nov 2022 at 10:30\nDi
  stance:27 km / 16.8 miles\nClimb:1473 m / 4833 ft\nGrid reference:823403\n
@@ -936,7 +487,7 @@ BEGIN:VEVENT
 SUMMARY:Two Riggs\, Kong Winter Series 1 (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221119T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221119T130000
-DTSTAMP;VALUE=DATE-TIME:20221010T110130Z
+DTSTAMP;VALUE=DATE-TIME:20221010T110933Z
 UID:/races/2753d1a5-64fb-4b15-9b5d-b9b2da881e9d
 DESCRIPTION:Two Riggs\, Kong Winter Series 1 (AS)\nDate & time: Sat 19 Nov
   2022 at 11:00\nDistance:9 km / 5.6 miles\nClimb:300 m / 984 ft\nEntry on 
@@ -949,11 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Harriers V Cyclists (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221119T140000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221119T160000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204757Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110133Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110937Z
 UID:/races/e96657c9-015b-40a5-8dcd-6044c227cc79
 DESCRIPTION:Harriers V Cyclists (BS)\nDate & time: Sat 19 Nov 2022 at 14:0
  0\nDistance:8.5 km / 5.3 miles\nClimb:288 m / 945 ft\nGrid reference:SE117
@@ -966,11 +513,7 @@ BEGIN:VEVENT
 SUMMARY:Peak Raid Mountain Marathon 3 (MM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221120T080000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221120T100000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204757Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110136Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110940Z
 UID:/races/23df7368-6b66-4fc0-bf8f-05bbca336f02
 DESCRIPTION:Peak Raid Mountain Marathon 3 (MM)\nDate & time: Sun 20 Nov 20
  22 at 8:00\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):£18.0
@@ -984,11 +527,7 @@ BEGIN:VEVENT
 SUMMARY:Arnside Knott (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221120T121500
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221120T141500
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204757Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110140Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110944Z
 UID:/races/22c1f0ed-dc43-4193-8caa-097b8b8155be
 DESCRIPTION:Arnside Knott (BS)\nDate & time: Sun 20 Nov 2022 at 12:15\nDis
  tance:9.7 km / 6 miles\nClimb:333 m / 1093 ft\nGrid reference:452765\nEntr
@@ -1002,11 +541,7 @@ BEGIN:VEVENT
 SUMMARY:Baslow Bolt (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221126T100000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221126T120000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204758Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110143Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110947Z
 UID:/races/7a0871bb-3cfb-4ba2-b5f6-0103d2e691a0
 DESCRIPTION:Baslow Bolt (BM)\nDate & time: Sat 26 Nov 2022 at 10:00\nDista
  nce:12 km / 7.5 miles\nClimb:400 m / 1312 ft\nEntry on day:No\nPre-entry:Y
@@ -1018,11 +553,7 @@ BEGIN:VEVENT
 SUMMARY:Kirkby Moor (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221126T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221126T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204758Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110147Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110951Z
 UID:/races/52a3c449-a6ea-4636-876e-c842c1228653
 DESCRIPTION:Kirkby Moor (BM)\nDate & time: Sat 26 Nov 2022 at 11:00\nDista
  nce:10.5 km / 6.5 miles\nClimb:490 m / 1608 ft\nGrid reference:SD233823\nE
@@ -1034,11 +565,7 @@ BEGIN:VEVENT
 SUMMARY:Kong Mini Mm Round 3 (MM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221127T000000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221127T020000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204758Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110150Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T110954Z
 UID:/races/0597cfcc-bef5-455b-8a25-d89c0e865027
 DESCRIPTION:Kong Mini Mm Round 3 (MM)\nDate & time: Sun 27 Nov 2022 at 0:0
  0\nEntry on day:Yes\nEntry on day fee (members):£28.00\nEntry on day fee 
@@ -1051,11 +578,7 @@ BEGIN:VEVENT
 SUMMARY:Lee Mill Relay (Relay)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221127T100000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221127T120000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204759Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110154Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111001Z
 UID:/races/defc7c46-f8fd-4f7c-b08e-108bc817b1e7
 DESCRIPTION:Lee Mill Relay (Relay)\nDate & time: Sun 27 Nov 2022 at 10:00\
  nDistance:10 km / 6.2 miles\nClimb:340 m / 1115 ft\nGrid reference:SD86621
@@ -1068,7 +591,7 @@ BEGIN:VEVENT
 SUMMARY:David Staff Memorial Race (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221127T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221127T133000
-DTSTAMP;VALUE=DATE-TIME:20221010T110157Z
+DTSTAMP;VALUE=DATE-TIME:20221010T111005Z
 UID:/races/2b361728-3174-4b08-a396-87a151bc3f64
 DESCRIPTION:David Staff Memorial Race (AS)\nDate & time: Sun 27 Nov 2022 a
  t 11:30\nDistance:6 km / 3.7 miles\nClimb:305 m / 1001 ft\nEntry on day:Ye
@@ -1080,11 +603,7 @@ BEGIN:VEVENT
 SUMMARY:Peak Raid Mountain Marathon 4 (MM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221204T080000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221204T100000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204759Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110200Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111010Z
 UID:/races/5c2a85ae-4ce7-4f46-b744-e056cc475dea
 DESCRIPTION:Peak Raid Mountain Marathon 4 (MM)\nDate & time: Sun 4 Dec 202
  2 at 8:00\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):£18.00
@@ -1098,11 +617,7 @@ BEGIN:VEVENT
 SUMMARY:Eskdale Eureka (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221204T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221204T123000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204759Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110203Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111015Z
 UID:/races/616435d1-6ba5-490d-8b62-22c87b9f2eb3
 DESCRIPTION:Eskdale Eureka (BM)\nDate & time: Sun 4 Dec 2022 at 10:30\nDis
  tance:14.3 km / 8.9 miles\nClimb:470 m / 1542 ft\nGrid reference:NZ 684082
@@ -1115,11 +630,7 @@ BEGIN:VEVENT
 SUMMARY:Bill Fox Gravy Pud Race (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221204T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221204T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204800Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110206Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111019Z
 UID:/races/f0f52592-e9cb-420b-aa87-16bb310eb719
 DESCRIPTION:Bill Fox Gravy Pud Race (BS)\nDate & time: Sun 4 Dec 2022 at 1
  1:00\nDistance:8 km / 5 miles\nClimb:305 m / 1001 ft\nGrid reference:02497
@@ -1131,11 +642,7 @@ BEGIN:VEVENT
 SUMMARY:Cardington Cracker (AM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221204T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221204T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204800Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110210Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111024Z
 UID:/races/0f1c1a48-4c05-45c3-ba85-02cfde1c3d36
 DESCRIPTION:Cardington Cracker (AM)\nDate & time: Sun 4 Dec 2022 at 11:00\
  nDistance:14.5 km / 9 miles\nClimb:793 m / 2602 ft\nEntry on day:No\nPre-e
@@ -1147,11 +654,7 @@ BEGIN:VEVENT
 SUMMARY:Mytholmroyd fell race (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221204T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221204T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204800Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110213Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111029Z
 UID:/races/30b58214-901f-4f23-bac4-e50e8b2466ef
 DESCRIPTION:Mytholmroyd fell race (BS)\nDate & time: Sun 4 Dec 2022 at 11:
  00\nDistance:10 km / 6.2 miles\nClimb:500 m / 1640 ft\nGrid reference:0112
@@ -1164,11 +667,7 @@ BEGIN:VEVENT
 SUMMARY:Moors The Merrier 21 (BL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221210T090000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221210T110000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204801Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110217Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111033Z
 UID:/races/8b53dc5a-d2ab-4fa0-8097-a7c48f1bef20
 DESCRIPTION:Moors The Merrier 21 (BL)\nDate & time: Sat 10 Dec 2022 at 9:0
  0\nDistance:34 km / 21.1 miles\nClimb:1220 m / 4003 ft\nGrid reference:009
@@ -1181,11 +680,7 @@ BEGIN:VEVENT
 SUMMARY:Crag Fell Handicap race (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221210T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221210T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204801Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110220Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111036Z
 UID:/races/53199b7a-107e-48d7-b1ef-499be2e6b138
 DESCRIPTION:Crag Fell Handicap race (AS)\nDate & time: Sat 10 Dec 2022 at 
  11:00\nDistance:4 km / 2.5 miles\nClimb:410 m / 1345 ft\nGrid reference:NY
@@ -1197,7 +692,7 @@ BEGIN:VEVENT
 SUMMARY:Stybarrow Dodd\, Kong Winter Series 2 (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221210T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221210T130000
-DTSTAMP;VALUE=DATE-TIME:20221010T110224Z
+DTSTAMP;VALUE=DATE-TIME:20221010T111041Z
 UID:/races/9588ee54-1173-4ee6-ad2f-bccda3ebf2a2
 DESCRIPTION:Stybarrow Dodd\, Kong Winter Series 2 (AS)\nDate & time: Sat 1
  0 Dec 2022 at 11:00\nDistance:6.5 km / 4 miles\nClimb:700 m / 2297 ft\nGri
@@ -1210,11 +705,7 @@ BEGIN:VEVENT
 SUMMARY:Colden Winter Hill (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221210T130000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221210T150000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204802Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110227Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111044Z
 UID:/races/38127c07-24b6-4f0a-8845-8dce642698c8
 DESCRIPTION:Colden Winter Hill (BS)\nDate & time: Sat 10 Dec 2022 at 13:00
  \nDistance:4.5 km / 2.8 miles\nClimb:150 m / 492 ft\nGrid reference:382743
@@ -1227,11 +718,7 @@ BEGIN:VEVENT
 SUMMARY:Bollihope Carrs (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221211T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221211T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204802Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110230Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111048Z
 UID:/races/a28cddd4-a4f6-4f0c-91f2-22c8fe206ce1
 DESCRIPTION:Bollihope Carrs (BM)\nDate & time: Sun 11 Dec 2022 at 11:00\nD
  istance:10.5 km / 6.5 miles\nClimb:380 m / 1247 ft\nGrid reference:NZ 008 
@@ -1245,11 +732,7 @@ BEGIN:VEVENT
 SUMMARY:Simonside Cairns (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221211T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221211T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204803Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110233Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111051Z
 UID:/races/0cdf4295-8c7e-4ff9-9693-9aea99bbabd4
 DESCRIPTION:Simonside Cairns (BM)\nDate & time: Sun 11 Dec 2022 at 11:00\n
  Distance:17.7 km / 11 miles\nClimb:540 m / 1772 ft\nGrid reference:058017\
@@ -1261,11 +744,7 @@ BEGIN:VEVENT
 SUMMARY:Stoop Junior Curly Wurly Races ()
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221218T103000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221218T123000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204803Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110237Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111055Z
 UID:/races/304ef083-11bb-4f6c-8de5-0a89f2f5861e
 DESCRIPTION:Stoop Junior Curly Wurly Races ()\nDate & time: Sun 18 Dec 202
  2 at 10:30\nGrid reference:025364\nEntry on day:Yes\nEntry on day fee:£2.
@@ -1277,11 +756,7 @@ BEGIN:VEVENT
 SUMMARY:Stoop (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221218T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221218T133000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204803Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110240Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111059Z
 UID:/races/252957dd-b020-4803-8207-a133dcdec6f4
 DESCRIPTION:Stoop (BS)\nDate & time: Sun 18 Dec 2022 at 11:30\nDistance:8 
  km / 5 miles\nClimb:250 m / 820 ft\nGrid reference:025364\nEntry on day:Ye
@@ -1293,11 +768,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night (AS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221219T190000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221219T210000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204804Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110243Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111102Z
 UID:/races/957ecbcf-590a-4fce-8ace-76df0b10d5a7
 DESCRIPTION:Silent Night (AS)\nDate & time: Mon 19 Dec 2022 at 19:00\nDist
  ance:7 km / 4.3 miles\nClimb:400 m / 1312 ft\nGrid reference:NY885360\nEnt
@@ -1310,11 +781,7 @@ BEGIN:VEVENT
 SUMMARY:Totley Two Turtle Doves (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221226T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221226T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204804Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110247Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111105Z
 UID:/races/686b83a0-1153-4de8-b7f1-e925f45ed701
 DESCRIPTION:Totley Two Turtle Doves (BS)\nDate & time: Mon 26 Dec 2022 at 
  11:00\nDistance:7.8 km / 4.8 miles\nClimb:250 m / 820 ft\nGrid reference:S
@@ -1326,11 +793,7 @@ BEGIN:VEVENT
 SUMMARY:Whinberry Naze (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221226T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221226T133000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204805Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110250Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111109Z
 UID:/races/2d14ea96-a9a4-4f6e-90d7-e46fcbef4e6a
 DESCRIPTION:Whinberry Naze (BS)\nDate & time: Mon 26 Dec 2022 at 11:30\nDi
  stance:6.4 km / 4 miles\nClimb:229 m / 751 ft\nGrid reference:821230\nEntr
@@ -1342,11 +805,7 @@ BEGIN:VEVENT
 SUMMARY:Guisborough Woods (BS)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221227T110000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221227T130000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204805Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110253Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111114Z
 UID:/races/ede7995f-b191-443f-b04a-707508a68c8a
 DESCRIPTION:Guisborough Woods (BS)\nDate & time: Tue 27 Dec 2022 at 11:00\
  nDistance:8.8 km / 5.5 miles\nClimb:376 m / 1234 ft\nGrid reference:NZ6141
@@ -1362,11 +821,7 @@ BEGIN:VEVENT
 SUMMARY:Daleside Brewery Auld Lang syne (BM)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20221231T113000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20221231T133000
-<<<<<<< Updated upstream
-DTSTAMP;VALUE=DATE-TIME:20220916T204806Z
-=======
-DTSTAMP;VALUE=DATE-TIME:20221010T110256Z
->>>>>>> Stashed changes
+DTSTAMP;VALUE=DATE-TIME:20221010T111119Z
 UID:/races/c2fae8c7-aebe-4fb6-9cc9-c622982f4bb6
 DESCRIPTION:Daleside Brewery Auld Lang syne (BM)\nDate & time: Sat 31 Dec 
  2022 at 11:30\nDistance:10.8 km / 6.7 miles\nClimb:300 m / 984 ft\nGrid re
@@ -1378,7 +833,7 @@ BEGIN:VEVENT
 SUMMARY:Trigger (AL)
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:20230108T083000
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:20230108T103000
-DTSTAMP;VALUE=DATE-TIME:20221010T110300Z
+DTSTAMP;VALUE=DATE-TIME:20221010T111122Z
 UID:/races/62250e94-3d8e-4c54-8001-b9a88d807dcc
 DESCRIPTION:Trigger (AL)\nDate & time: Sun 8 Jan 2023 at 8:30\nDistance:33
   km / 20.5 miles\nClimb:1650 m / 5413 ft\nGrid reference:SE044106\nEntry o
