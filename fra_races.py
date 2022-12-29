@@ -175,7 +175,7 @@ pgs=[]
 #    oot=soup.find_all('a',text=str(i))
 #    if len(oot)==1:
 #        pgs.append(i)
-pgs = list(range(2,8))
+pgs = list(range(2,9))
 print(pgs)        
 race_dict = get_races_from_page(soup)
 #for pg in [2]:
