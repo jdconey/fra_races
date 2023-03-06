@@ -184,7 +184,7 @@ for pg in pgs:
     soup = bs4.BeautifulSoup(page.content,'html.parser')
     try:
         race_dict.update(get_races_from_page(soup))
-    except Exeption as e:
+    except Exception as e:
         print(e)
 
 cal = make_cal(race_dict)
