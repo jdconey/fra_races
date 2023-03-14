@@ -6,6 +6,10 @@ I should add this repo is completely unofficial and nothing to do with the FRA. 
 
 That said, I think if you are interested in fell running in England, then you should definitely consider joining the FRA (similar organisations exist in Wales (Welsh Fell Runners Association) and Scotland (Scottish Hill Runners)). For £16 a year, you get three quality Fellrunner magazines through the post, a printed copy of the fixtures calendar, first dibs for entry to English Championship races, as well as some races offering you cheaper entry. The FRA also wants to protect the fragile upland environment from our sport, and also works to ensure that in the face of large, expensive, commercial "trail"/"mountain"/"skyrunning" events that there is a place in the future for cheap, non-commercial, low-key fell races.
 
+## New (2023-03-06): BOFRA races
+
+I've now added the BOFRA race calendar as a separate file. This is likely to break at any time due to the particular formatting on the BOFRA website. There's some cross posting with some races appearing on both the FRA and BOFRA calendar. All BOFRA races have (BOFRA) after the name of the race. More information on http://bofra.org.uk/. 
+
 # Adding fell races to your personal (Google, Outlook etc) calendar:
 
 This is probably why you're here. There are 300+ races scheduled in 2022 so far so bear in mind how clogged your calendar might be.
