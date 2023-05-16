@@ -31,6 +31,7 @@ def get_races_from_page(soup):
             date = date.replace(' noon','.00 pm')
             date = date.replace("June","Jun")
             date = date.replace('0p','0 p')
+            date = date.replace('5p','5 p')
             date = date.replace('st','')
             date=date.replace('nd','')
             date = date.replace('rd','')
