@@ -21,599 +21,23 @@ TZOFFSETTO:+0100
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Great Longstone Chase (BS)
-DTSTART;TZID=Europe/London:20230901T183000
-DTEND;TZID=Europe/London:20230901T203000
-DTSTAMP:20230901T130742Z
-UID:/races/c25ab0b8-2441-4394-8ceb-d3b2a6332cdb
-DESCRIPTION:Great Longstone Chase (BS)\nDate & time: Fri 1 Sep 2023 at 18:
- 30\nDistance:7.7 km / 4.8 miles\nClimb:290 m / 951 ft\nGrid reference:SK20
- 1716\nEntry on day:No\nPre-entry:Yes\nPre-entry fee:£8.00\nFRA U7 1km\, U
- 9 and U11 2km. Race starts at 5.30 p.m. £2 entry on the day.Contact for J
- unior Race: Paul Stephenson\, <a class="__cf_email__" data-cfemail="c6b6b5
- b2a3b6aea3a8b5a9a8f2f1f186a1aba7afaae8a5a9ab" href="/cdn-cgi/l/email-prote
- ction">[email protected]</a>\, 07903 115139\nPeak District\, England\nFul
- l information: https://races.fellrunner.org.uk/races/c25ab0b8-2441-4394-8c
- eb-d3b2a6332cdb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Longshaw Sheepdog Trial Fell Race (BS)
-DTSTART;TZID=Europe/London:20230902T103000
-DTEND;TZID=Europe/London:20230902T123000
-DTSTAMP:20230901T130743Z
-UID:/races/ddcc9640-5c2a-4f88-bedf-66540719c377
-DESCRIPTION:Longshaw Sheepdog Trial Fell Race (BS)\nDate & time: Sat 2 Sep
-  2023 at 10:30\nDistance:8.6 km / 5.3 miles\nClimb:320 m / 1050 ft\nGrid r
- eference:265800\nEntry on day:No\nPre-entry:Yes\nPre-entry fee:£6.00\nPar
- t of the world's oldest sheepdog trials. Entry to the fell race grants fre
- e entry to the sheepdog trails. Please check the website and Facebook page
-  (https://www.facebook.com/Longshaw-Sheepdog-Trials-Fell-Race-160684670944
- 3899/) for latest information\nPeak District\, England\nFull information: 
- https://races.fellrunner.org.uk/races/ddcc9640-5c2a-4f88-bedf-66540719c377
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Grisedale Horseshoe (AM)
-DTSTART;TZID=Europe/London:20230902T110000
-DTEND;TZID=Europe/London:20230902T130000
-DTSTAMP:20230901T130743Z
-UID:/races/0e0286e1-cc9f-4da8-b179-d5bfa4fba2f1
-DESCRIPTION:Grisedale Horseshoe (AM)\nDate & time: Sat 2 Sep 2023 at 11:00
- \nDistance:16 km / 9.9 miles\nClimb:1525 m / 5003 ft\nGrid reference:38617
- 2\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):£12.00\nPre-en
- try fee (non-members):£15.00\nEnter by SI entries from early August 2023.
-  Entry limit 200. EOD if limit not reached. Race start is a 10 minute walk
-  from car parking. Car Parking (£5 cash) at King George V playing fields\
- , CA11 0PJ. Compulsory kit check and registration at Glenridding Village H
- all. Soup and sandwiches after.\nLake District\, England\nFull information
- : https://races.fellrunner.org.uk/races/0e0286e1-cc9f-4da8-b179-d5bfa4fba2
- f1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Blackshaw Head Fete (BS)
-DTSTART;TZID=Europe/London:20230902T130000
-DTEND;TZID=Europe/London:20230902T150000
-DTSTAMP:20230901T130743Z
-UID:/races/da20a47d-fc37-4249-8bec-eb7a2e54eef3
-DESCRIPTION:Blackshaw Head Fete (BS)\nDate & time: Sat 2 Sep 2023 at 13:00
- \nDistance:8.9 km / 5.5 miles\nClimb:274 m / 899 ft\nGrid reference:959276
-  on OL21\nEntry on day:Yes\nEntry on day fee:£6.00\nPre-entry:No\nSouth/W
- est Pennines\, England\nFull information: https://races.fellrunner.org.uk/
- races/da20a47d-fc37-4249-8bec-eb7a2e54eef3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Exterminator (AL)
-DTSTART;TZID=Europe/London:20230903T103000
-DTEND;TZID=Europe/London:20230903T123000
-DTSTAMP:20230901T130743Z
-UID:/races/80ac41cc-cabf-451c-b8ab-48799d5d8f1d
-DESCRIPTION:Exterminator (AL)\nDate & time: Sun 3 Sep 2023 at 10:30\nDista
- nce:25.7 km / 16 miles\nClimb:1290 m / 4232 ft\nGrid reference:303800\nEnt
- ry on day:Yes\nEntry on day fee:£12.00\nPre-entry:Yes\nPre-entry fee (mem
- bers):£0.00\nPre-entry fee (non-members):£11.00\nPeak District\, England
- \nFull information: https://races.fellrunner.org.uk/races/80ac41cc-cabf-45
- 1c-b8ab-48799d5d8f1d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Stretton Skyline (BL)
-DTSTART;TZID=Europe/London:20230903T110000
-DTEND;TZID=Europe/London:20230903T130000
-DTSTAMP:20230901T130744Z
-UID:/races/55a2e0d7-b592-4714-af6e-a6ca582473a5
-DESCRIPTION:Stretton Skyline (BL)\nDate & time: Sun 3 Sep 2023 at 11:00\nD
- istance:30.5 km / 19 miles\nClimb:1357 m / 4452 ft\nGrid reference:SO 455 
- 938\nEntry on day:Yes\nEntry on day fee:£8.00\nPre-entry:No\nShropshire/W
- elsh Borders\, England\nFull information: https://races.fellrunner.org.uk/
- races/55a2e0d7-b592-4714-af6e-a6ca582473a5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Burnsall ( B O F R A ) (AS)
-DTSTART;TZID=Europe/London:20230903T120000
-DTEND;TZID=Europe/London:20230903T140000
-DTSTAMP:20230901T130744Z
-UID:/races/81dd8351-20ec-401e-9edf-d87361c1c156
-DESCRIPTION:Burnsall ( B O F R A ) (AS)\nDate & time: Sun 3 Sep 2023 at 12
- :00\nDistance:2 km / 1.2 miles\nClimb:350 m / 1148 ft\nEntry on day:Yes\nE
- ntry on day fee:£5.00\nPre-entry:No\nJunior races U9\, U12\, U14\, U17 en
- try £2. Category based on age at 1st May.  Min age 6 on day of race. Sta
- rt at 12.00pm prompt\nYork. Dales\, England\nFull information: https://rac
- es.fellrunner.org.uk/races/81dd8351-20ec-401e-9edf-d87361c1c156
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Loweswater Show (AS)
-DTSTART;TZID=Europe/London:20230903T130000
-DTEND;TZID=Europe/London:20230903T150000
-DTSTAMP:20230901T130744Z
-UID:/races/f0f5152e-ebb4-43a0-bcf8-d674ffca80c2
-DESCRIPTION:Loweswater Show (AS)\nDate & time: Sun 3 Sep 2023 at 13:00\nDi
- stance:4.2 km / 2.6 miles\nClimb:305 m / 1001 ft\nGrid reference:156239\nE
- ntry on day:Yes\nPre-entry:No\nLake District\, England\nFull information: 
- https://races.fellrunner.org.uk/races/f0f5152e-ebb4-43a0-bcf8-d674ffca80c2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trunce 9 (BS)
-DTSTART;TZID=Europe/London:20230904T184500
-DTEND;TZID=Europe/London:20230904T204500
-DTSTAMP:20230901T130745Z
-UID:/races/aaca5f00-e297-4e58-b507-0578e55ef8d2
-DESCRIPTION:Trunce 9 (BS)\nDate & time: Mon 4 Sep 2023 at 18:45\nDistance:
- 6.4 km / 4 miles\nClimb:170 m / 558 ft\nGrid reference:SE272012\nEntry on 
- day:Yes\nEntry on day fee:£2.00\nPre-entry:No\nPeak District\, England\nF
- ull information: https://races.fellrunner.org.uk/races/aaca5f00-e297-4e58-
- b507-0578e55ef8d2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ilkley Junior Sprint Relays (Relay)
-DTSTART;TZID=Europe/London:20230906T180000
-DTEND;TZID=Europe/London:20230906T200000
-DTSTAMP:20230901T130745Z
-UID:/races/7752b3df-432e-4e52-be8e-763b6e232c83
-DESCRIPTION:Ilkley Junior Sprint Relays (Relay)\nDate & time: Wed 6 Sep 20
- 23 at 18:00\nDistance:0.8 km / 0.5 miles\nClimb:30 m / 98 ft\nEntry on day
- :Yes\nEntry on day fee:£4.00\nPre-entry:No\nYork. Dales\, England\nFull i
- nformation: https://races.fellrunner.org.uk/races/7752b3df-432e-4e52-be8e-
- 763b6e232c83
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:GATEGILL FELL RACE (AS)
-DTSTART;TZID=Europe/London:20230906T190000
-DTEND;TZID=Europe/London:20230906T210000
-DTSTAMP:20230901T130745Z
-UID:/races/8dad7f9d-0876-4dca-b267-51a0c063dadf
-DESCRIPTION:GATEGILL FELL RACE (AS)\nDate & time: Wed 6 Sep 2023 at 19:00\
- nDistance:3.6 km / 2.2 miles\nClimb:506 m / 1660 ft\nGrid reference:319254
- \nEntry on day:Yes\nEntry on day fee:£5.00\nPre-entry:No\nLake District\,
-  England\nFull information: https://races.fellrunner.org.uk/races/8dad7f9d
- -0876-4dca-b267-51a0c063dadf
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sourton Tors Fell Race (AS)
-DTSTART;TZID=Europe/London:20230906T190000
-DTEND;TZID=Europe/London:20230906T210000
-DTSTAMP:20230901T130745Z
-UID:/races/d5595962-acd9-4b10-ad6f-df007ad21c99
-DESCRIPTION:Sourton Tors Fell Race (AS)\nDate & time: Wed 6 Sep 2023 at 19
- :00\nDistance:4.5 km / 2.8 miles\nClimb:300 m / 984 ft\nGrid reference:SX 
- 52812 88807\nAge info:Prizes for the first male and female and age categor
- ies will be awarded.No mementoes – reflected in the low entry fee.Held u
- nder the rules of the Fell Runners Association\, race classification AS.\n
- Entry on day:No\nPre-entry:Yes\nPre-entry fee:£6.00\nSouth West\, England
- \nFull information: https://races.fellrunner.org.uk/races/d5595962-acd9-4b
- 10-ad6f-df007ad21c99
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ilkley Incline (CS)
-DTSTART;TZID=Europe/London:20230906T190000
-DTEND;TZID=Europe/London:20230906T210000
-DTSTAMP:20230901T130745Z
-UID:/races/9e8aa94d-4423-4172-afea-048b9f84c8fd
-DESCRIPTION:Ilkley Incline (CS)\nDate & time: Wed 6 Sep 2023 at 19:00\nDis
- tance:1.6 km / 1 miles\nClimb:171 m / 561 ft\nGrid reference:115470\nEntry
-  on day:Yes\nEntry on day fee:£4.00\nPre-entry:Yes\nPre-entry fee:£3.00\
- nYork. Dales\, England\nFull information: https://races.fellrunner.org.uk/
- races/9e8aa94d-4423-4172-afea-048b9f84c8fd
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hades Hill (BS)
-DTSTART;TZID=Europe/London:20230907T184500
-DTEND;TZID=Europe/London:20230907T204500
-DTSTAMP:20230901T130746Z
-UID:/races/02a3bc38-b1c4-40cc-a808-1b48984377a5
-DESCRIPTION:Hades Hill (BS)\nDate & time: Thu 7 Sep 2023 at 18:45\nDistanc
- e:8 km / 5 miles\nClimb:360 m / 1181 ft\nGrid reference:SD885177\nEntry on
-  day:Yes\nEntry on day fee (members):£5.00\nEntry on day fee (non-members
- ):£6.00\nPre-entry:No\nSouth/West Pennines\, England\nFull information: h
- ttps://races.fellrunner.org.uk/races/02a3bc38-b1c4-40cc-a808-1b48984377a5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Manx Wilderness Challenge (MM)
-DTSTART;TZID=Europe/London:20230909T100000
-DTEND;TZID=Europe/London:20230909T120000
-DTSTAMP:20230901T130746Z
-UID:/races/18a9260b-80de-49d7-9c8a-16739374cda2
-DESCRIPTION:Manx Wilderness Challenge (MM)\nDate & time: Sat 9 Sep 2023 at
-  10:00\nEntry on day:No\nPre-entry:Yes\nPre-entry fee:£10.00\nIsle of Man
- \, England\nFull information: https://races.fellrunner.org.uk/races/18a926
- 0b-80de-49d7-9c8a-16739374cda2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Nine Edges Endurance (BL)
-DTSTART;TZID=Europe/London:20230909T100000
-DTEND;TZID=Europe/London:20230909T120000
-DTSTAMP:20230901T130746Z
-UID:/races/113e4b45-bd8d-4637-ab85-6ff3bf5d8c8d
-DESCRIPTION:Nine Edges Endurance (BL)\nDate & time: Sat 9 Sep 2023 at 10:0
- 0\nDistance:32.8 km / 20.4 miles\nClimb:893 m / 2930 ft\nGrid reference:SK
- 173893\nEntry on day:No\nPre-entry:Yes\nPre-entry fee:£30.00\nPeak Distri
- ct\, England\nFull information: https://races.fellrunner.org.uk/races/113e
- 4b45-bd8d-4637-ab85-6ff3bf5d8c8d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:St  Boniface Fell (AS)
-DTSTART;TZID=Europe/London:20230909T110000
-DTEND;TZID=Europe/London:20230909T130000
-DTSTAMP:20230901T130746Z
-UID:/races/a537c6ef-a0a3-4a83-a5a8-997bd5f20650
-DESCRIPTION:St  Boniface Fell (AS)\nDate & time: Sat 9 Sep 2023 at 11:00\n
- Distance:3.9 km / 2.4 miles\nClimb:235 m / 771 ft\nGrid reference:SZ562776
- \nAge info:Under 18 entry fee £6.00\nEntry on day:Yes\nEntry on day fee:
- £8.00\nPre-entry:Yes\nPre-entry fee:£8.00\nSouth East\, England\nFull in
- formation: https://races.fellrunner.org.uk/races/a537c6ef-a0a3-4a83-a5a8-9
- 97bd5f20650
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hodder Valley Show (BM)
-DTSTART;TZID=Europe/London:20230909T130000
-DTEND;TZID=Europe/London:20230909T150000
-DTSTAMP:20230901T130747Z
-UID:/races/7f5cfe35-063d-4181-9733-078e057c0eeb
-DESCRIPTION:Hodder Valley Show (BM)\nDate & time: Sat 9 Sep 2023 at 13:00\
- nDistance:13.1 km / 8.1 miles\nClimb:417 m / 1368 ft\nEntry on day:Yes\nEn
- try on day fee:£15.00\nPre-entry:Yes\nPre-entry fee:£13.50\nPay entry to
-  show and fell race entry is included.  Discounted pre-entry at www.hodde
- rvalleyshow.co.uk\nBowland/NW Lancs.\, England\nFull information: https://
- races.fellrunner.org.uk/races/7f5cfe35-063d-4181-9733-078e057c0eeb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Scafell Pike (AS)
-DTSTART;TZID=Europe/London:20230909T130000
-DTEND;TZID=Europe/London:20230909T150000
-DTSTAMP:20230901T130747Z
-UID:/races/23ae416c-13e6-4311-9e35-a2a81063bb7f
-DESCRIPTION:Scafell Pike (AS)\nDate & time: Sat 9 Sep 2023 at 13:00\nDista
- nce:7.2 km / 4.5 miles\nClimb:914 m / 2999 ft\nGrid reference:184074\nEntr
- y on day:Yes\nEntry on day fee (members):£13.00\nEntry on day fee (non-me
- mbers):£16.00\nPre-entry:Yes\nPre-entry fee (members):£10.00\nPre-entry 
- fee (non-members):£13.00\nCheques to "CFRA". Limit 250. See website for e
- ntry form.\nLake District\, England\nFull information: https://races.fellr
- unner.org.uk/races/23ae416c-13e6-4311-9e35-a2a81063bb7f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cronkley (BM)
-DTSTART;TZID=Europe/London:20230909T140000
-DTEND;TZID=Europe/London:20230909T160000
-DTSTAMP:20230901T130747Z
-UID:/races/783bf83e-0254-4900-939b-139548046c1a
-DESCRIPTION:Cronkley (BM)\nDate & time: Sat 9 Sep 2023 at 14:00\nDistance:
- 17.1 km / 10.6 miles\nClimb:560 m / 1837 ft\nGrid reference:NY 91092 26686
- \nEntry on day:Yes\nEntry on day fee (members):£7.00\nEntry on day fee (n
- on-members):£8.00\nPre-entry:Yes\nPre-entry fee (members):£7.00\nPre-ent
- ry fee (non-members):£8.00\nPre-entry via SiEntries from March 1st 2023. 
- On the day also available but there is a strict participant limit of 150\n
- Due to the inaccessibility for emergency vehicles etc. on the upper reache
- s of the route\, full FRA kit is required and will be enforced. Entry fee 
- includes chip butty and hot drink from Farmhouse Kitchen\nNorthumberland /
-  Durham\, England\nFull information: https://races.fellrunner.org.uk/races
- /783bf83e-0254-4900-939b-139548046c1a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Castleton Junior (Junior races only)
-DTSTART;TZID=Europe/London:20230909T150000
-DTEND;TZID=Europe/London:20230909T170000
-DTSTAMP:20230901T130748Z
-UID:/races/07d0d164-87d4-453d-af5e-5fee42c1daf2
-DESCRIPTION:Castleton Junior (Junior races only)\nDate & time: Sat 9 Sep 2
- 023 at 15:00\nGrid reference:NZ 685083\nEntry on day:Yes\nEntry on day fee
- :£0.50\nPre-entry:No\nNorth York Moors\, England\nFull information: https
- ://races.fellrunner.org.uk/races/07d0d164-87d4-453d-af5e-5fee42c1daf2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Ventnor Horseshoe (BM)
-DTSTART;TZID=Europe/London:20230909T150000
-DTEND;TZID=Europe/London:20230909T170000
-DTSTAMP:20230901T130748Z
-UID:/races/94d730fb-49ea-4db0-8514-28828e7a903f
-DESCRIPTION:Ventnor Horseshoe (BM)\nDate & time: Sat 9 Sep 2023 at 15:00\n
- Distance:12 km / 7.5 miles\nClimb:443 m / 1453 ft\nGrid reference:SZ562776
- \nEntry on day:Yes\nEntry on day fee:£8.00\nPre-entry:Yes\nPre-entry fee:
- £8.00\nSouth East\, England\nFull information: https://races.fellrunner.o
- rg.uk/races/94d730fb-49ea-4db0-8514-28828e7a903f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lyon Equipment Lake District Mountain Trial (O)
-DTSTART;TZID=Europe/London:20230910T083000
-DTEND;TZID=Europe/London:20230910T103000
-DTSTAMP:20230901T130749Z
-UID:/races/bc524ed6-5d93-4a4b-b5ae-5221511bd381
-DESCRIPTION:Lyon Equipment Lake District Mountain Trial (O)\nDate & time: 
- Sun 10 Sep 2023 at 8:30\nEntry on day:No\nPre-entry:Yes\nPre-entry fee:£2
- 2.00\nLake District\, England\nFull information: https://races.fellrunner.
- org.uk/races/bc524ed6-5d93-4a4b-b5ae-5221511bd381
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Sandstone Trail Races (CL)
-DTSTART;TZID=Europe/London:20230910T090000
-DTEND;TZID=Europe/London:20230910T110000
-DTSTAMP:20230901T130749Z
-UID:/races/ac57c18c-9bae-48fe-82ac-7738e12d939a
-DESCRIPTION:Sandstone Trail Races (CL)\nDate & time: Sun 10 Sep 2023 at 9:
- 00\nDistance:27.5 km / 17.1 miles\nClimb:655 m / 2149 ft\nGrid reference:S
- J494526 on OS117\nEntry on day:No\nPre-entry:Yes\nPre-entry fee:£22.00\nA
-  race pre-entry £22\, B race pre-entry £22. Entries vi www.runcheshire.c
- om\nMidlands\, England\nFull information: https://races.fellrunner.org.uk/
- races/ac57c18c-9bae-48fe-82ac-7738e12d939a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bleaklow Blitz (AM)
-DTSTART;TZID=Europe/London:20230910T090000
-DTEND;TZID=Europe/London:20230910T110000
-DTSTAMP:20230901T130750Z
-UID:/races/316cc2d9-3efe-495e-9c0d-94142c0e9311
-DESCRIPTION:Bleaklow Blitz (AM)\nDate & time: Sun 10 Sep 2023 at 9:00\nDis
- tance:12.9 km / 8 miles\nClimb:452 m / 1483 ft\nGrid reference:SK 0686 983
- 4\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):£7.00\nPre-ent
- ry fee (non-members):£8.00\nPeak District\, England\nFull information: ht
- tps://races.fellrunner.org.uk/races/316cc2d9-3efe-495e-9c0d-94142c0e9311
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yorkshireman Off Road Marathon (CL)
-DTSTART;TZID=Europe/London:20230910T093000
-DTEND;TZID=Europe/London:20230910T113000
-DTSTAMP:20230901T130750Z
-UID:/races/ab313a49-76bf-4640-bc8c-3aa0a8be9fc5
-DESCRIPTION:Yorkshireman Off Road Marathon (CL)\nDate & time: Sun 10 Sep 2
- 023 at 9:30\nDistance:42.1 km / 26.2 miles\nClimb:1000 m / 3281 ft\nGrid r
- eference:032374\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):
- £18.00\nPre-entry fee (non-members):£22.00\nEntry on-line via SI entries
-  from 1/10/22. Free deferrals available to 2024 race until 25/7/23. Free n
- ame substitution available to 25/8/23. £8 extra via SI Entries for T-shir
- t. Pairs entries available. Free to swop between half and full until 25/8/
- 23.\nSouth/West Pennines\, England\nFull information: https://races.fellru
- nner.org.uk/races/ab313a49-76bf-4640-bc8c-3aa0a8be9fc5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wroxall Round (CL)
-DTSTART;TZID=Europe/London:20230910T100000
-DTEND;TZID=Europe/London:20230910T120000
-DTSTAMP:20230901T130750Z
-UID:/races/1325967c-d390-43ab-8ee3-2cfdce66b7cc
-DESCRIPTION:Wroxall Round (CL)\nDate & time: Sun 10 Sep 2023 at 10:00\nDis
- tance:21.1 km / 13.1 miles\nClimb:487 m / 1598 ft\nGrid reference:SZ562776
- \nEntry on day:Yes\nEntry on day fee:£8.00\nPre-entry:Yes\nPre-entry fee:
- £8.00\nSouth East\, England\nFull information: https://races.fellrunner.o
- rg.uk/races/1325967c-d390-43ab-8ee3-2cfdce66b7cc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Lost Shepherd (BL)
-DTSTART;TZID=Europe/London:20230910T100000
-DTEND;TZID=Europe/London:20230910T120000
-DTSTAMP:20230901T130751Z
-UID:/races/e029054e-948e-4b3e-bca4-36302dd864d1
-DESCRIPTION:Lost Shepherd (BL)\nDate & time: Sun 10 Sep 2023 at 10:00\nDis
- tance:24 km / 14.9 miles\nClimb:820 m / 2690 ft\nGrid reference:SE 040 271
- \nEntry on day:Yes\nEntry on day fee:£12.00\nPre-entry:Yes\nPre-entry fee
-  (members):£10.00\nPre-entry fee (non-members):£12.00\nSouth/West Pennin
- es\, England\nFull information: https://races.fellrunner.org.uk/races/e029
- 054e-948e-4b3e-bca4-36302dd864d1
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The Bosun (AS)
-DTSTART;TZID=Europe/London:20230910T103000
-DTEND;TZID=Europe/London:20230910T123000
-DTSTAMP:20230901T130751Z
-UID:/races/9469b559-d6f8-4116-a038-179038026303
-DESCRIPTION:The Bosun (AS)\nDate & time: Sun 10 Sep 2023 at 10:30\nDistanc
- e:8.9 km / 5.5 miles\nClimb:485 m / 1591 ft\nGrid reference:SY 4208 9178\n
- Entry on day:Yes\nEntry on day fee:£17.50\nPre-entry:Yes\nPre-entry fee:
- £17.50\nSouth West\, England\nFull information: https://races.fellrunner.
- org.uk/races/9469b559-d6f8-4116-a038-179038026303
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:The CapTEN (AM)
-DTSTART;TZID=Europe/London:20230910T103000
-DTEND;TZID=Europe/London:20230910T123000
-DTSTAMP:20230901T130751Z
-UID:/races/de9de0dc-2375-4849-a517-4b6d2e4c79fb
-DESCRIPTION:The CapTEN (AM)\nDate & time: Sun 10 Sep 2023 at 10:30\nDistan
- ce:17.8 km / 11.1 miles\nClimb:971 m / 3186 ft\nGrid reference:SY 4208 917
- 8\nEntry on day:Yes\nEntry on day fee:£20.00\nPre-entry:Yes\nPre-entry fe
- e:£20.00\nEntry via SI Entries: https://www.sientries.co.uk/event.php?eve
- nt_id=10807\nSouth West\, England\nFull information: https://races.fellrun
- ner.org.uk/races/de9de0dc-2375-4849-a517-4b6d2e4c79fb
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Yorkshireman Off Road Half Marathon (BL)
-DTSTART;TZID=Europe/London:20230910T103000
-DTEND;TZID=Europe/London:20230910T123000
-DTSTAMP:20230901T130751Z
-UID:/races/a165a2cd-ccf7-4cc2-988f-4bd6962c518d
-DESCRIPTION:Yorkshireman Off Road Half Marathon (BL)\nDate & time: Sun 10 
- Sep 2023 at 10:30\nDistance:24 km / 14.9 miles\nClimb:650 m / 2133 ft\nGri
- d reference:032374\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members
- ):£18.00\nPre-entry fee (non-members):£22.00\nEntry on-line via SI entri
- es from October 2022. Free deferral available to 2024 raceuntil 25/7/23.Fr
- ee substitutions to 25/8/2023. T-shirt £8extra via SI Entries.\nSouth/Wes
- t Pennines\, England\nFull information: https://races.fellrunner.org.uk/ra
- ces/a165a2cd-ccf7-4cc2-988f-4bd6962c518d
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bradley ( B O F R A ) (BS)
-DTSTART;TZID=Europe/London:20230910T132000
-DTEND;TZID=Europe/London:20230910T152000
-DTSTAMP:20230901T130751Z
-UID:/races/88cf7fe1-8883-4cd9-9d02-3696ac287643
-DESCRIPTION:Bradley ( B O F R A ) (BS)\nDate & time: Sun 10 Sep 2023 at 13
- :20\nDistance:6 km / 3.7 miles\nClimb:230 m / 755 ft\nGrid reference:00348
- 3\nEntry on day:Yes\nEntry on day fee:£5.00\nPre-entry:No\nBOFRA Champion
- ship race. Under 9\, 12\, 14 and 17 from approx 12:15pm. Age categories ar
- e based on age on 1 May 2023 Entry £2.\nYork. Dales\, England\nFull infor
- mation: https://races.fellrunner.org.uk/races/88cf7fe1-8883-4cd9-9d02-3696
- ac287643
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bollington 3 Peaks (BS)
-DTSTART;TZID=Europe/London:20230910T140000
-DTEND;TZID=Europe/London:20230910T160000
-DTSTAMP:20230901T130752Z
-UID:/races/376ef33c-8999-415f-87d3-95cf7fff3f29
-DESCRIPTION:Bollington 3 Peaks (BS)\nDate & time: Sun 10 Sep 2023 at 14:00
- \nDistance:9 km / 5.6 miles\nClimb:370 m / 1214 ft\nGrid reference:SJ93178
- 1\nEntry on day:No\nPre-entry:Yes\nPre-entry fee:£12.00\nEntry Online onl
- y this year from June at www.bollingtonbrewing.co.uk. Includes food and re
- freshments in the Brewery.\nPeak District\, England\nFull information: ht
- tps://races.fellrunner.org.uk/races/376ef33c-8999-415f-87d3-95cf7fff3f29
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Minions 4 tors (BS)
-DTSTART;TZID=Europe/London:20230913T190000
-DTEND;TZID=Europe/London:20230913T210000
-DTSTAMP:20230901T130752Z
-UID:/races/53fa97af-f534-46a8-8143-be4b56fe275c
-DESCRIPTION:Minions 4 tors (BS)\nDate & time: Wed 13 Sep 2023 at 19:00\nDi
- stance:9.5 km / 5.9 miles\nClimb:247 m / 810 ft\nGrid reference:gr 263713\
- nEntry on day:Yes\nEntry on day fee (members):£6.50\nEntry on day fee (no
- n-members):£7.00\nPre-entry:No\nSouth West\, England\nFull information: h
- ttps://races.fellrunner.org.uk/races/53fa97af-f534-46a8-8143-be4b56fe275c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Three Shires (AL)
-DTSTART;TZID=Europe/London:20230916T110000
-DTEND;TZID=Europe/London:20230916T130000
-DTSTAMP:20230901T130752Z
-UID:/races/63e90ef5-4f48-43c1-8927-c1768616580f
-DESCRIPTION:Three Shires (AL)\nDate & time: Sat 16 Sep 2023 at 11:00\nDist
- ance:20 km / 12.4 miles\nClimb:1220 m / 4003 ft\nGrid reference:317034\nEn
- try on day:No\nPre-entry:Yes\nPre-entry fee (members):£12.00\nPre-entry f
- ee (non-members):£14.00\nLake District\, England\nFull information: https
- ://races.fellrunner.org.uk/races/63e90ef5-4f48-43c1-8927-c1768616580f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Groovy Kinder Love (AL)
-DTSTART;TZID=Europe/London:20230916T110000
-DTEND;TZID=Europe/London:20230916T130000
-DTSTAMP:20230901T130752Z
-UID:/races/aaf2b474-ae69-4b22-86b8-c6f42edce8db
-DESCRIPTION:Groovy Kinder Love (AL)\nDate & time: Sat 16 Sep 2023 at 11:00
- \nDistance:24.5 km / 15.2 miles\nClimb:1290 m / 4232 ft\nGrid reference:03
- 4871\nEntry on day:Yes\nEntry on day fee:£10.00\nPre-entry:Yes\nPre-entry
-  fee:£9.00\nhttps://pennineridgefellrunner.blogspot.com/2017/09/groovy-ki
- nder-love-online-entry.html<br/><br/>Please use online entry form via abo
- ve link whether planning to enter and pay on the day or beforehand\nPeak D
- istrict\, England\nFull information: https://races.fellrunner.org.uk/races
- /aaf2b474-ae69-4b22-86b8-c6f42edce8db
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Great Whernside (AS)
-DTSTART;TZID=Europe/London:20230916T120000
-DTEND;TZID=Europe/London:20230916T140000
-DTSTAMP:20230901T130753Z
-UID:/races/15174dd7-b0fc-4c55-925c-f89c172a33c3
-DESCRIPTION:Great Whernside (AS)\nDate & time: Sat 16 Sep 2023 at 12:00\nD
- istance:6.5 km / 4 miles\nClimb:475 m / 1558 ft\nGrid reference:975726\nEn
- try on day:Yes\nEntry on day fee:£8.00\nPre-entry:Yes\nPre-entry fee:£8.
- 00\nEntry includes free parking\; do not park elsewhere in village. Detail
- s about parking and pre entry on race website.\nYork. Dales\, England\nFul
- l information: https://races.fellrunner.org.uk/races/15174dd7-b0fc-4c55-92
- 5c-f89c172a33c3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cross Keys Road &amp\; Fell Relay (Relay)
-DTSTART;TZID=Europe/London:20230916T130000
-DTEND;TZID=Europe/London:20230916T150000
-DTSTAMP:20230901T130753Z
-UID:/races/c7f0cae5-e233-474d-8ff9-681e25cda179
-DESCRIPTION:Cross Keys Road &amp\; Fell Relay (Relay)\nDate & time: Sat 16
-  Sep 2023 at 13:00\nDistance:5 km / 3.1 miles\nClimb:150 m / 492 ft\nGrid 
- reference:SE008062\nEntry on day:Yes\nEntry on day fee:£20.00\nPre-entry:
- Yes\nPre-entry fee:£20.00\nSouth/West Pennines\, England\nFull informatio
- n: https://races.fellrunner.org.uk/races/c7f0cae5-e233-474d-8ff9-681e25cda
- 179
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Simonside (BM)
-DTSTART;TZID=Europe/London:20230916T140000
-DTEND;TZID=Europe/London:20230916T160000
-DTSTAMP:20230901T130753Z
-UID:/races/efb62485-80a0-497c-84bd-9bd5f5e82157
-DESCRIPTION:Simonside (BM)\nDate & time: Sat 16 Sep 2023 at 14:00\nDistanc
- e:10.9 km / 6.8 miles\nClimb:365 m / 1198 ft\nGrid reference:NU031027\nEnt
- ry on day:Yes\nEntry on day fee (members):£3.00\nEntry on day fee (non-me
- mbers):£5.00\nPre-entry:No\nNorthumberland / Durham\, England\nFull infor
- mation: https://races.fellrunner.org.uk/races/efb62485-80a0-497c-84bd-9bd5
- f5e82157
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Arnside Tower Junior (Cross Country)
-DTSTART;TZID=Europe/London:20230917T110000
-DTEND;TZID=Europe/London:20230917T130000
-DTSTAMP:20230901T130753Z
-UID:/races/fd375150-bd0e-4275-8132-d06d4d5ed299
-DESCRIPTION:Arnside Tower Junior (Cross Country)\nDate & time: Sun 17 Sep 
- 2023 at 11:00\nDistance:4 km / 2.5 miles\nClimb:50 m / 164 ft\nGrid refere
- nce:54°10'55.6"N 2°50'20.1"W\nEntry on day:Yes\nEntry on day fee:£1.00\
- nPre-entry:No\nLake District\, England\nFull information: https://races.fe
- llrunner.org.uk/races/fd375150-bd0e-4275-8132-d06d4d5ed299
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fryup Frazzler (AS)
-DTSTART;TZID=Europe/London:20230917T110000
-DTEND;TZID=Europe/London:20230917T130000
-DTSTAMP:20230901T130753Z
-UID:/races/5f3a69da-120b-4343-bb02-83f837cb4e8a
-DESCRIPTION:Fryup Frazzler (AS)\nDate & time: Sun 17 Sep 2023 at 11:00\nDi
- stance:9.4 km / 5.8 miles\nClimb:475 m / 1558 ft\nGrid reference:NZ 720047
- \nEntry on day:Yes\nEntry on day fee (members):£6.00\nEntry on day fee (n
- on-members):£7.00\nPre-entry:No\nNorth York Moors\, England\nFull informa
- tion: https://races.fellrunner.org.uk/races/5f3a69da-120b-4343-bb02-83f837
- cb4e8a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fat Boys Stanage Struggle (BS)
-DTSTART;TZID=Europe/London:20230917T110000
-DTEND;TZID=Europe/London:20230917T130000
-DTSTAMP:20230901T130754Z
-UID:/races/18eef460-e5a0-4598-8cfa-a812ce511a8b
-DESCRIPTION:Fat Boys Stanage Struggle (BS)\nDate & time: Sun 17 Sep 2023 a
- t 11:00\nDistance:9.9 km / 6.2 miles\nClimb:355 m / 1165 ft\nEntry on day:
- Yes\nEntry on day fee:£7.00\nPre-entry:Yes\nPre-entry fee:£7.00\nRegistr
- ation from 9.30 a.m. Online pre-entry is strongly advised: there may be ve
- ry limited or no places available for on the day registration. Lookup our 
- Facebook page for more information and updates!\nPeak District\, England\n
- Full information: https://races.fellrunner.org.uk/races/18eef460-e5a0-4598
- -8cfa-a812ce511a8b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Padfield (AS)
-DTSTART;TZID=Europe/London:20230917T110000
-DTEND;TZID=Europe/London:20230917T130000
-DTSTAMP:20230901T130754Z
-UID:/races/a0d40e3d-c9a3-4808-b2ff-79497b5e7f56
-DESCRIPTION:Padfield (AS)\nDate & time: Sun 17 Sep 2023 at 11:00\nDistance
- :8.8 km / 5.5 miles\nClimb:320 m / 1050 ft\nEntry on day:Yes\nEntry on day
-  fee (members):£7.00\nEntry on day fee (non-members):£8.00\nPre-entry:Ye
- s\nPre-entry fee (members):£5.00\nPre-entry fee (non-members):£6.00\nPea
- k District\, England\nFull information: https://races.fellrunner.org.uk/ra
- ces/a0d40e3d-c9a3-4808-b2ff-79497b5e7f56
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:B O F R A Malham Charity Relays (Relay)
-DTSTART;TZID=Europe/London:20230917T113000
-DTEND;TZID=Europe/London:20230917T133000
-DTSTAMP:20230901T130754Z
-UID:/races/3dde677c-e8c0-4ccb-961c-cb2144ddc076
-DESCRIPTION:B O F R A Malham Charity Relays (Relay)\nDate & time: Sun 17 S
- ep 2023 at 11:30\nDistance:1.1 km / 0.7 miles\nClimb:73 m / 240 ft\nEntry 
- on day:Yes\nEntry on day fee:£3.00\nPre-entry:No\nYork. Dales\, England\n
- Full information: https://races.fellrunner.org.uk/races/3dde677c-e8c0-4ccb
- -961c-cb2144ddc076
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:John Hewitt Memorial Shelf Moor (AS)
-DTSTART;TZID=Europe/London:20230923T103000
-DTEND;TZID=Europe/London:20230923T123000
-DTSTAMP:20230901T130754Z
+DTSTART;TZID=Europe/London:20230923T110000
+DTEND;TZID=Europe/London:20230923T130000
+DTSTAMP:20230918T100632Z
 UID:/races/aacfa407-b73e-4c44-84a0-b586b32011ce
 DESCRIPTION:John Hewitt Memorial Shelf Moor (AS)\nDate & time: Sat 23 Sep 
- 2023 at 10:30\nDistance:9.1 km / 5.7 miles\nClimb:457 m / 1499 ft\nGrid re
- ference:SK042949\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):
- £10.00\nPre-entry fee (non-members):£12.00\nPeak District\, England\nFul
- l information: https://races.fellrunner.org.uk/races/aacfa407-b73e-4c44-84
- a0-b586b32011ce
+ 2023 at 11:00\nDistance:9.6 km / 6 miles\nClimb:457 m / 1499 ft\nGrid refe
+ rence:SK042949\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):£
+ 10.00\nPre-entry fee (non-members):£12.00\nPeak District\, England\nFull 
+ information: https://races.fellrunner.org.uk/races/aacfa407-b73e-4c44-84a0
+ -b586b32011ce
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Rombald's Romp (BM)
 DTSTART;TZID=Europe/London:20230923T110000
 DTEND;TZID=Europe/London:20230923T130000
-DTSTAMP:20230901T130754Z
+DTSTAMP:20230918T100632Z
 UID:/races/4c7bc000-e468-4297-bfac-f9ca2dfa479b
 DESCRIPTION:Rombald's Romp (BM)\nDate & time: Sat 23 Sep 2023 at 11:00\nDi
  stance:13 km / 8.1 miles\nClimb:370 m / 1214 ft\nGrid reference:SE 117 472
@@ -628,7 +52,7 @@ BEGIN:VEVENT
 SUMMARY:Orton (BS)
 DTSTART;TZID=Europe/London:20230923T140000
 DTEND;TZID=Europe/London:20230923T160000
-DTSTAMP:20230901T130755Z
+DTSTAMP:20230918T100632Z
 UID:/races/c7cf338d-43a2-4ed6-83ff-51b11b8d5066
 DESCRIPTION:Orton (BS)\nDate & time: Sat 23 Sep 2023 at 14:00\nDistance:10
   km / 6.2 miles\nClimb:258 m / 846 ft\nGrid reference:NY 62382 08087\nEntr
@@ -640,7 +64,7 @@ BEGIN:VEVENT
 SUMMARY:Kong Mini Mm Round 2 (MM)
 DTSTART;TZID=Europe/London:20230924T000000
 DTEND;TZID=Europe/London:20230924T020000
-DTSTAMP:20230901T130755Z
+DTSTAMP:20230918T100633Z
 UID:/races/175d0391-9c8e-4ade-b4b8-6fe238d352c3
 DESCRIPTION:Kong Mini Mm Round 2 (MM)\nDate & time: Sun 24 Sep 2023 at 0:0
  0\nEntry on day:Yes\nEntry on day fee (members):£28.00\nEntry on day fee 
@@ -653,7 +77,7 @@ BEGIN:VEVENT
 SUMMARY:Lancashireman Off-road Marathon (BL)
 DTSTART;TZID=Europe/London:20230924T080000
 DTEND;TZID=Europe/London:20230924T100000
-DTSTAMP:20230901T130755Z
+DTSTAMP:20230918T100633Z
 UID:/races/32bc9fe7-e3e9-4096-98e4-47774f8d12d3
 DESCRIPTION:Lancashireman Off-road Marathon (BL)\nDate & time: Sun 24 Sep 
  2023 at 8:00\nDistance:43 km / 26.7 miles\nClimb:1310 m / 4298 ft\nGrid re
@@ -667,7 +91,7 @@ BEGIN:VEVENT
 SUMMARY:Lancashireman Off-road Relay (Relay)
 DTSTART;TZID=Europe/London:20230924T080000
 DTEND;TZID=Europe/London:20230924T100000
-DTSTAMP:20230901T130755Z
+DTSTAMP:20230918T100633Z
 UID:/races/ea394d73-3024-4ba3-a7cf-0282d8cbeb7f
 DESCRIPTION:Lancashireman Off-road Relay (Relay)\nDate & time: Sun 24 Sep 
  2023 at 8:00\nDistance:43 km / 26.7 miles\nClimb:1310 m / 4298 ft\nGrid re
@@ -682,7 +106,7 @@ BEGIN:VEVENT
 SUMMARY:Stuart Learmouth Wirksworth Undulator (BM)
 DTSTART;TZID=Europe/London:20230924T110000
 DTEND;TZID=Europe/London:20230924T130000
-DTSTAMP:20230901T130756Z
+DTSTAMP:20230918T100634Z
 UID:/races/a487b19c-3e38-42a3-9c73-ad69ec02cb8c
 DESCRIPTION:Stuart Learmouth Wirksworth Undulator (BM)\nDate & time: Sun 2
  4 Sep 2023 at 11:00\nDistance:13.5 km / 8.4 miles\nClimb:384 m / 1260 ft\n
@@ -696,7 +120,7 @@ BEGIN:VEVENT
 SUMMARY:English Schools Fell Running Championships (BS)
 DTSTART;TZID=Europe/London:20230924T110000
 DTEND;TZID=Europe/London:20230924T130000
-DTSTAMP:20230901T130756Z
+DTSTAMP:20230918T100634Z
 UID:/races/eb51a9c0-95a2-4957-b1d7-2f6e9b5afae2
 DESCRIPTION:English Schools Fell Running Championships (BS)\nDate & time: 
  Sun 24 Sep 2023 at 11:00\nEntry on day:No\nPre-entry:Yes\nPre-entry fee:£
@@ -707,7 +131,7 @@ BEGIN:VEVENT
 SUMMARY:Waddington (BM)
 DTSTART;TZID=Europe/London:20230924T140000
 DTEND;TZID=Europe/London:20230924T160000
-DTSTAMP:20230901T130756Z
+DTSTAMP:20230918T100634Z
 UID:/races/c3487039-7206-4107-84a3-c24dfc4f07aa
 DESCRIPTION:Waddington (BM)\nDate & time: Sun 24 Sep 2023 at 14:00\nDistan
  ce:11.3 km / 7 miles\nClimb:415 m / 1362 ft\nGrid reference:SD 730 436\nEn
@@ -719,7 +143,7 @@ BEGIN:VEVENT
 SUMMARY:East Mill Tor Loop (BS)
 DTSTART;TZID=Europe/London:20230930T103000
 DTEND;TZID=Europe/London:20230930T123000
-DTSTAMP:20230901T130756Z
+DTSTAMP:20230918T100634Z
 UID:/races/39b8e773-f485-4424-a84e-af349c1ee083
 DESCRIPTION:East Mill Tor Loop (BS)\nDate & time: Sat 30 Sep 2023 at 10:30
  \nDistance:9.9 km / 6.2 miles\nClimb:380 m / 1247 ft\nGrid reference:Ol28 
@@ -734,7 +158,7 @@ BEGIN:VEVENT
 SUMMARY:Thieveley Pike (AS)
 DTSTART;TZID=Europe/London:20230930T110000
 DTEND;TZID=Europe/London:20230930T130000
-DTSTAMP:20230901T130757Z
+DTSTAMP:20230918T100635Z
 UID:/races/f0e09ccd-d575-4a00-947a-b89f3fcdf5fe
 DESCRIPTION:Thieveley Pike (AS)\nDate & time: Sat 30 Sep 2023 at 11:00\nDi
  stance:7 km / 4.3 miles\nClimb:400 m / 1312 ft\nGrid reference:SD875285\nE
@@ -747,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Eskdale Show (BS)
 DTSTART;TZID=Europe/London:20230930T140000
 DTEND;TZID=Europe/London:20230930T160000
-DTSTAMP:20230901T130757Z
+DTSTAMP:20230918T100635Z
 UID:/races/c140aa8a-fc9d-43ab-89ea-17dae4d4f14e
 DESCRIPTION:Eskdale Show (BS)\nDate & time: Sat 30 Sep 2023 at 14:00\nDist
  ance:6.9 km / 4.3 miles\nClimb:277 m / 909 ft\nGrid reference:SD149996\nEn
@@ -760,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY:Peak Raid Mountain Marathon 1 (MM)
 DTSTART;TZID=Europe/London:20231001T080000
 DTEND;TZID=Europe/London:20231001T100000
-DTSTAMP:20230901T130757Z
+DTSTAMP:20230918T100635Z
 UID:/races/0cb2ba2a-c893-484b-af7b-95b8f55b7fbe
 DESCRIPTION:Peak Raid Mountain Marathon 1 (MM)\nDate & time: Sun 1 Oct 202
  3 at 8:00\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):£18.00
@@ -774,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Hodgson Brothers Mountain Relay (Relay)
 DTSTART;TZID=Europe/London:20231001T091500
 DTEND;TZID=Europe/London:20231001T111500
-DTSTAMP:20230901T130758Z
+DTSTAMP:20230918T100635Z
 UID:/races/9aa8d99c-01b4-4fb2-9e59-df3bb3e51802
 DESCRIPTION:Hodgson Brothers Mountain Relay (Relay)\nDate & time: Sun 1 Oc
  t 2023 at 9:15\nDistance:36 km / 22.4 miles\nClimb:2800 m / 9186 ft\nGrid 
@@ -786,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Curbar Commotion (BM)
 DTSTART;TZID=Europe/London:20231007T100000
 DTEND;TZID=Europe/London:20231007T120000
-DTSTAMP:20230901T130758Z
+DTSTAMP:20230918T100635Z
 UID:/races/b021d9c2-2783-41d1-8534-9918e5fb39c5
 DESCRIPTION:Curbar Commotion (BM)\nDate & time: Sat 7 Oct 2023 at 10:00\nD
  istance:16 km / 9.9 miles\nClimb:415 m / 1362 ft\nGrid reference:SK248739\
@@ -799,7 +223,7 @@ BEGIN:VEVENT
 SUMMARY:Langdale Horseshoe (AL)
 DTSTART;TZID=Europe/London:20231007T110000
 DTEND;TZID=Europe/London:20231007T130000
-DTSTAMP:20230901T130758Z
+DTSTAMP:20230918T100636Z
 UID:/races/b9659ef1-8372-4805-aa07-d852c9b62c33
 DESCRIPTION:Langdale Horseshoe (AL)\nDate & time: Sat 7 Oct 2023 at 11:00\
  nDistance:21.1 km / 13.1 miles\nClimb:1450 m / 4757 ft\nGrid reference:286
@@ -812,7 +236,7 @@ BEGIN:VEVENT
 SUMMARY:Withins Junior Curly Wurly Rat Runs ()
 DTSTART;TZID=Europe/London:20231008T103000
 DTEND;TZID=Europe/London:20231008T123000
-DTSTAMP:20230901T130759Z
+DTSTAMP:20230918T100636Z
 UID:/races/13dd811c-e41a-41ae-b3c3-cdfdb42a2b89
 DESCRIPTION:Withins Junior Curly Wurly Rat Runs ()\nDate & time: Sun 8 Oct
   2023 at 10:30\nGrid reference:025364\nEntry on day:Yes\nEntry on day fee:
@@ -822,10 +246,23 @@ DESCRIPTION:Withins Junior Curly Wurly Rat Runs ()\nDate & time: Sun 8 Oct
  //races.fellrunner.org.uk/races/13dd811c-e41a-41ae-b3c3-cdfdb42a2b89
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Mow Cop Spunch (O)
+DTSTART;TZID=Europe/London:20231014T100000
+DTEND;TZID=Europe/London:20231014T120000
+DTSTAMP:20230918T100636Z
+UID:/races/305eff4a-e791-47c9-8d21-45021a04cd08
+DESCRIPTION:Mow Cop Spunch (O)\nDate & time: Sat 14 Oct 2023 at 10:00\nEnt
+ ry on day:Yes\nEntry on day fee:£7.00\nPre-entry:Yes\nPre-entry fee:£6.0
+ 0\nPre-entry and entry on-the-day available at SiEntries<br/>https://www.
+ sientries.co.uk/<br/>Entry fee includes pre-marked waterproof map\nMidlan
+ ds\, England\nFull information: https://races.fellrunner.org.uk/races/305e
+ ff4a-e791-47c9-8d21-45021a04cd08
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Castle Carr (AL)
 DTSTART;TZID=Europe/London:20231015T110000
 DTEND;TZID=Europe/London:20231015T130000
-DTSTAMP:20230901T130800Z
+DTSTAMP:20230918T100636Z
 UID:/races/dd5419f7-9059-4c66-8660-4b62cdb17803
 DESCRIPTION:Castle Carr (AL)\nDate & time: Sun 15 Oct 2023 at 11:00\nDista
  nce:24 km / 14.9 miles\nClimb:1200 m / 3937 ft\nGrid reference:SE005280\nE
@@ -839,7 +276,7 @@ BEGIN:VEVENT
 SUMMARY:Withins Skyline (BM)
 DTSTART;TZID=Europe/London:20231015T113000
 DTEND;TZID=Europe/London:20231015T133000
-DTSTAMP:20230901T130800Z
+DTSTAMP:20230918T100637Z
 UID:/races/a75e7523-0117-4824-8549-3dbf4f5b8ec0
 DESCRIPTION:Withins Skyline (BM)\nDate & time: Sun 15 Oct 2023 at 11:30\nD
  istance:10.1 km / 6.3 miles\nClimb:300 m / 984 ft\nGrid reference:025364\n
@@ -848,10 +285,23 @@ DESCRIPTION:Withins Skyline (BM)\nDate & time: Sun 15 Oct 2023 at 11:30\nD
  7523-0117-4824-8549-3dbf4f5b8ec0
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:The Lion\, The Lamb and The Crags (AM)
+DTSTART;TZID=Europe/London:20231015T120000
+DTEND;TZID=Europe/London:20231015T140000
+DTSTAMP:20230918T100637Z
+UID:/races/5912baf7-3421-4e9b-aaa3-ee6e0c65c1c9
+DESCRIPTION:The Lion\, The Lamb and The Crags (AM)\nDate & time: Sun 15 Oc
+ t 2023 at 12:00\nDistance:13.9 km / 8.6 miles\nClimb:756 m / 2480 ft\nEntr
+ y on day:Yes\nEntry on day fee (members):£8.00\nEntry on day fee (non-mem
+ bers):£10.00\nPre-entry:No\nOn the day Entry Only\nLake District\, Englan
+ d\nFull information: https://races.fellrunner.org.uk/races/5912baf7-3421-4
+ e9b-aaa3-ee6e0c65c1c9
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Castle Carr Half (BM)
 DTSTART;TZID=Europe/London:20231015T130000
 DTEND;TZID=Europe/London:20231015T150000
-DTSTAMP:20230901T130800Z
+DTSTAMP:20230918T100637Z
 UID:/races/b6ab68c2-f38f-4a77-8f0b-ec276f2ca771
 DESCRIPTION:Castle Carr Half (BM)\nDate & time: Sun 15 Oct 2023 at 13:00\n
  Distance:10.6 km / 6.6 miles\nClimb:470 m / 1542 ft\nGrid reference:SE0052
@@ -865,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:British Athletics Fell and Hill Relays (Relay)
 DTSTART;TZID=Europe/London:20231021T110000
 DTEND;TZID=Europe/London:20231021T130000
-DTSTAMP:20230901T130800Z
+DTSTAMP:20230918T100637Z
 UID:/races/2548fa64-81c4-4356-bffd-b93a8799c960
 DESCRIPTION:British Athletics Fell and Hill Relays (Relay)\nDate & time: S
  at 21 Oct 2023 at 11:00\nEntry on day:No\nPre-entry:Yes\nAll competitors m
@@ -879,7 +329,7 @@ BEGIN:VEVENT
 SUMMARY:Screes (AS)
 DTSTART;TZID=Europe/London:20231021T143000
 DTEND;TZID=Europe/London:20231021T163000
-DTSTAMP:20230901T130800Z
+DTSTAMP:20230918T100638Z
 UID:/races/f88f35ad-c462-4fea-b402-91cc37ab0be4
 DESCRIPTION:Screes (AS)\nDate & time: Sat 21 Oct 2023 at 14:30\nDistance:7
  .9 km / 4.9 miles\nClimb:475 m / 1558 ft\nGrid reference:NY124040\nEntry o
@@ -891,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:Peak Raid Mountain Marathon 2 (MM)
 DTSTART;TZID=Europe/London:20231022T080000
 DTEND;TZID=Europe/London:20231022T100000
-DTSTAMP:20230901T130801Z
+DTSTAMP:20230918T100638Z
 UID:/races/ecd23ba8-f46b-4575-b369-296784633bb1
 DESCRIPTION:Peak Raid Mountain Marathon 2 (MM)\nDate & time: Sun 22 Oct 20
  23 at 8:00\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):£18.0
@@ -905,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:Andrew Heywood Memorial Windgather (BL)
 DTSTART;TZID=Europe/London:20231022T110000
 DTEND;TZID=Europe/London:20231022T130000
-DTSTAMP:20230901T130801Z
+DTSTAMP:20230918T100638Z
 UID:/races/ade1cc08-725d-4253-8c0d-dd9cdcf6e025
 DESCRIPTION:Andrew Heywood Memorial Windgather (BL)\nDate & time: Sun 22 O
  ct 2023 at 11:00\nDistance:21.7 km / 13.5 miles\nClimb:762 m / 2500 ft\nGr
@@ -919,7 +369,7 @@ BEGIN:VEVENT
 SUMMARY:Race You To The Summit (BS)
 DTSTART;TZID=Europe/London:20231028T110000
 DTEND;TZID=Europe/London:20231028T130000
-DTSTAMP:20230901T130801Z
+DTSTAMP:20230918T100638Z
 UID:/races/2eaa2708-7044-4b1c-8795-f2c41b08d4de
 DESCRIPTION:Race You To The Summit (BS)\nDate & time: Sat 28 Oct 2023 at 1
  1:00\nDistance:7 km / 4.3 miles\nClimb:260 m / 853 ft\nGrid reference:9461
@@ -931,7 +381,7 @@ BEGIN:VEVENT
 SUMMARY:Lockton Limping (BM)
 DTSTART;TZID=Europe/London:20231029T103000
 DTEND;TZID=Europe/London:20231029T123000
-DTSTAMP:20230901T130801Z
+DTSTAMP:20230918T100638Z
 UID:/races/65056802-e92f-49eb-9675-463841f05a9c
 DESCRIPTION:Lockton Limping (BM)\nDate & time: Sun 29 Oct 2023 at 10:30\nD
  istance:11.2 km / 7 miles\nClimb:350 m / 1148 ft\nGrid reference:846900\nE
@@ -941,10 +391,23 @@ DESCRIPTION:Lockton Limping (BM)\nDate & time: Sun 29 Oct 2023 at 10:30\nD
  056802-e92f-49eb-9675-463841f05a9c
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Padfield (AS)
+DTSTART;TZID=Europe/London:20231029T110000
+DTEND;TZID=Europe/London:20231029T130000
+DTSTAMP:20230918T100639Z
+UID:/races/0e6b8bb4-0fa6-4a46-8736-32250d8d5f84
+DESCRIPTION:Padfield (AS)\nDate & time: Sun 29 Oct 2023 at 11:00\nDistance
+ :8.8 km / 5.5 miles\nClimb:320 m / 1050 ft\nEntry on day:Yes\nEntry on day
+  fee (members):£7.00\nEntry on day fee (non-members):£8.00\nPre-entry:Ye
+ s\nPre-entry fee (members):£5.00\nPre-entry fee (non-members):£6.00\nPea
+ k District\, England\nFull information: https://races.fellrunner.org.uk/ra
+ ces/0e6b8bb4-0fa6-4a46-8736-32250d8d5f84
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Bronte Way (BM)
 DTSTART;TZID=Europe/London:20231029T110000
 DTEND;TZID=Europe/London:20231029T130000
-DTSTAMP:20230901T130802Z
+DTSTAMP:20230918T100639Z
 UID:/races/d6eee99c-544f-4a1f-841f-23799be65fc7
 DESCRIPTION:Bronte Way (BM)\nDate & time: Sun 29 Oct 2023 at 11:00\nDistan
  ce:12 km / 7.5 miles\nClimb:351 m / 1152 ft\nGrid reference:SD932391\nEntr
@@ -956,7 +419,7 @@ BEGIN:VEVENT
 SUMMARY:Buttermere Shepherd's Meet (AS)
 DTSTART;TZID=Europe/London:20231029T113000
 DTEND;TZID=Europe/London:20231029T133000
-DTSTAMP:20230901T130802Z
+DTSTAMP:20230918T100639Z
 UID:/races/92a2be14-7a43-42f1-8a59-64cc4d7ce296
 DESCRIPTION:Buttermere Shepherd's Meet (AS)\nDate & time: Sun 29 Oct 2023 
  at 11:30\nDistance:5 km / 3.1 miles\nClimb:600 m / 1969 ft\nGrid reference
@@ -971,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Shepherds Skyline (BS)
 DTSTART;TZID=Europe/London:20231104T130000
 DTEND;TZID=Europe/London:20231104T150000
-DTSTAMP:20230901T130802Z
+DTSTAMP:20230918T100639Z
 UID:/races/076658c9-7659-4167-a5ed-9df3fef35bee
 DESCRIPTION:Shepherds Skyline (BS)\nDate & time: Sat 4 Nov 2023 at 13:00\n
  Distance:10 km / 6.2 miles\nClimb:350 m / 1148 ft\nGrid reference:945232\n
@@ -983,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:Peak Raid Mountain Marathon 3 (MM)
 DTSTART;TZID=Europe/London:20231105T080000
 DTEND;TZID=Europe/London:20231105T100000
-DTSTAMP:20230901T130802Z
+DTSTAMP:20230918T100640Z
 UID:/races/e716090b-7250-4427-810a-159230e621ba
 DESCRIPTION:Peak Raid Mountain Marathon 3 (MM)\nDate & time: Sun 5 Nov 202
  3 at 8:00\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):£18.00
@@ -997,7 +460,7 @@ BEGIN:VEVENT
 SUMMARY:Soyland Moor (CL)
 DTSTART;TZID=Europe/London:20231105T100000
 DTEND;TZID=Europe/London:20231105T120000
-DTSTAMP:20230901T130803Z
+DTSTAMP:20230918T100640Z
 UID:/races/60265059-af6d-41a2-a2ec-1b141a1fe9dd
 DESCRIPTION:Soyland Moor (CL)\nDate & time: Sun 5 Nov 2023 at 10:00\nDista
  nce:22 km / 13.7 miles\nClimb:400 m / 1312 ft\nEntry on day:Yes\nEntry on 
@@ -1010,7 +473,7 @@ BEGIN:VEVENT
 SUMMARY:Cop Hill (CS)
 DTSTART;TZID=Europe/London:20231105T103000
 DTEND;TZID=Europe/London:20231105T123000
-DTSTAMP:20230901T130803Z
+DTSTAMP:20230918T100640Z
 UID:/races/13524a62-672e-437c-b2f6-da44b035c43d
 DESCRIPTION:Cop Hill (CS)\nDate & time: Sun 5 Nov 2023 at 10:30\nDistance:
  10 km / 6.2 miles\nClimb:274 m / 899 ft\nEntry on day:Yes\nEntry on day fe
@@ -1023,7 +486,7 @@ BEGIN:VEVENT
 SUMMARY:Dunnerdale (AS)
 DTSTART;TZID=Europe/London:20231111T120000
 DTEND;TZID=Europe/London:20231111T140000
-DTSTAMP:20230901T130803Z
+DTSTAMP:20230918T100640Z
 UID:/races/46bfac5a-185d-49e8-aea9-96cf0af339c8
 DESCRIPTION:Dunnerdale (AS)\nDate & time: Sat 11 Nov 2023 at 12:00\nDistan
  ce:8 km / 5 miles\nClimb:550 m / 1804 ft\nGrid reference:223905\nEntry on 
@@ -1035,7 +498,7 @@ BEGIN:VEVENT
 SUMMARY:Cringle Hill (CS)
 DTSTART;TZID=Europe/London:20231111T133000
 DTEND;TZID=Europe/London:20231111T153000
-DTSTAMP:20230901T130803Z
+DTSTAMP:20230918T100640Z
 UID:/races/360fe39e-7221-4c25-ac1a-1a048ba388c8
 DESCRIPTION:Cringle Hill (CS)\nDate & time: Sat 11 Nov 2023 at 13:30\nDist
  ance:3 km / 1.9 miles\nClimb:75 m / 246 ft\nGrid reference:251742\nEntry o
@@ -1047,7 +510,7 @@ BEGIN:VEVENT
 SUMMARY:Saltergate Gallows (BL)
 DTSTART;TZID=Europe/London:20231112T103000
 DTEND;TZID=Europe/London:20231112T123000
-DTSTAMP:20230901T130804Z
+DTSTAMP:20230918T100641Z
 UID:/races/32a86021-79ef-4fde-8c20-7caae5fb094f
 DESCRIPTION:Saltergate Gallows (BL)\nDate & time: Sun 12 Nov 2023 at 10:30
  \nDistance:20 km / 12.4 miles\nClimb:500 m / 1640 ft\nEntry on day:Yes\nEn
@@ -1060,7 +523,7 @@ BEGIN:VEVENT
 SUMMARY:Roaches (BL)
 DTSTART;TZID=Europe/London:20231112T103000
 DTEND;TZID=Europe/London:20231112T123000
-DTSTAMP:20230901T130804Z
+DTSTAMP:20230918T100641Z
 UID:/races/700deb82-d0a9-4d75-aa0f-89ccb1b1b2e1
 DESCRIPTION:Roaches (BL)\nDate & time: Sun 12 Nov 2023 at 10:30\nDistance:
  24.1 km / 15 miles\nClimb:1128 m / 3701 ft\nGrid reference:987608\nEntry o
@@ -1072,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:Drogo 10 (BM)
 DTSTART;TZID=Europe/London:20231112T103000
 DTEND;TZID=Europe/London:20231112T123000
-DTSTAMP:20230901T130804Z
+DTSTAMP:20230918T100641Z
 UID:/races/11ebc008-89c2-4643-bb04-3d122c326d25
 DESCRIPTION:Drogo 10 (BM)\nDate & time: Sun 12 Nov 2023 at 10:30\nDistance
  :16 km / 9.9 miles\nClimb:536 m / 1759 ft\nGrid reference:SX721900\nEntry 
@@ -1085,7 +548,7 @@ BEGIN:VEVENT
 SUMMARY:Leg It Round Lathkil (BM)
 DTSTART;TZID=Europe/London:20231112T113000
 DTEND;TZID=Europe/London:20231112T133000
-DTSTAMP:20230901T130804Z
+DTSTAMP:20230918T100641Z
 UID:/races/0b73fd75-69d4-4172-a6cd-76c743bff93c
 DESCRIPTION:Leg It Round Lathkil (BM)\nDate & time: Sun 12 Nov 2023 at 11:
  30\nDistance:11.5 km / 7.1 miles\nClimb:290 m / 951 ft\nGrid reference:207
@@ -1098,7 +561,7 @@ BEGIN:VEVENT
 SUMMARY:Middle Fell (AM)
 DTSTART;TZID=Europe/London:20231118T103000
 DTEND;TZID=Europe/London:20231118T123000
-DTSTAMP:20230901T130804Z
+DTSTAMP:20230918T100641Z
 UID:/races/7d7745ac-059c-483d-8759-e698c567eb4d
 DESCRIPTION:Middle Fell (AM)\nDate & time: Sat 18 Nov 2023 at 10:30\nDista
  nce:10.6 km / 6.6 miles\nClimb:518 m / 1699 ft\nGrid reference:NY123040\nE
@@ -1111,7 +574,7 @@ BEGIN:VEVENT
 SUMMARY:Tour Of Pendle (AL)
 DTSTART;TZID=Europe/London:20231118T103000
 DTEND;TZID=Europe/London:20231118T123000
-DTSTAMP:20230901T130805Z
+DTSTAMP:20230918T100642Z
 UID:/races/1eaae402-c450-44fa-baaa-41b077d22ab6
 DESCRIPTION:Tour Of Pendle (AL)\nDate & time: Sat 18 Nov 2023 at 10:30\nDi
  stance:27 km / 16.8 miles\nClimb:1473 m / 4833 ft\nGrid reference:823403\n
@@ -1126,7 +589,7 @@ BEGIN:VEVENT
 SUMMARY:David Staff Memorial Race (AS)
 DTSTART;TZID=Europe/London:20231119T113000
 DTEND;TZID=Europe/London:20231119T133000
-DTSTAMP:20230901T130805Z
+DTSTAMP:20230918T100642Z
 UID:/races/37fd6f78-2406-4b1d-9d66-1675237713d9
 DESCRIPTION:David Staff Memorial Race (AS)\nDate & time: Sun 19 Nov 2023 a
  t 11:30\nDistance:6 km / 3.7 miles\nClimb:305 m / 1001 ft\nEntry on day:Ye
@@ -1138,7 +601,7 @@ BEGIN:VEVENT
 SUMMARY:Arnside Knott (BS)
 DTSTART;TZID=Europe/London:20231119T121500
 DTEND;TZID=Europe/London:20231119T141500
-DTSTAMP:20230901T130805Z
+DTSTAMP:20230918T100642Z
 UID:/races/8e03e5fa-14af-4e59-bf0d-554390275aa4
 DESCRIPTION:Arnside Knott (BS)\nDate & time: Sun 19 Nov 2023 at 12:15\nDis
  tance:9.7 km / 6 miles\nClimb:333 m / 1093 ft\nGrid reference:452765\nEntr
@@ -1152,7 +615,7 @@ BEGIN:VEVENT
 SUMMARY:Baslow Bolt (BM)
 DTSTART;TZID=Europe/London:20231125T100000
 DTEND;TZID=Europe/London:20231125T120000
-DTSTAMP:20230901T130805Z
+DTSTAMP:20230918T100642Z
 UID:/races/681e9f80-d5ed-4c29-9314-4a23e3221885
 DESCRIPTION:Baslow Bolt (BM)\nDate & time: Sat 25 Nov 2023 at 10:00\nDista
  nce:12 km / 7.5 miles\nClimb:400 m / 1312 ft\nEntry on day:No\nPre-entry:Y
@@ -1164,7 +627,7 @@ BEGIN:VEVENT
 SUMMARY:Kirkby Moor (BM)
 DTSTART;TZID=Europe/London:20231125T110000
 DTEND;TZID=Europe/London:20231125T130000
-DTSTAMP:20230901T130805Z
+DTSTAMP:20230918T100643Z
 UID:/races/b12d2b53-3b89-4cad-8f4f-9eb2e59c1177
 DESCRIPTION:Kirkby Moor (BM)\nDate & time: Sat 25 Nov 2023 at 11:00\nDista
  nce:10.5 km / 6.5 miles\nClimb:490 m / 1608 ft\nGrid reference:SD233823\nE
@@ -1176,7 +639,7 @@ BEGIN:VEVENT
 SUMMARY:Lee Mill Relay (Relay)
 DTSTART;TZID=Europe/London:20231126T100000
 DTEND;TZID=Europe/London:20231126T120000
-DTSTAMP:20230901T130806Z
+DTSTAMP:20230918T100643Z
 UID:/races/0b85ab4e-d7bd-4227-8d57-9b5c9bc1d863
 DESCRIPTION:Lee Mill Relay (Relay)\nDate & time: Sun 26 Nov 2023 at 10:00\
  nDistance:10.7 km / 6.6 miles\nClimb:340 m / 1115 ft\nGrid reference:SD866
@@ -1189,7 +652,7 @@ BEGIN:VEVENT
 SUMMARY:Eskdale Eureka (BM)
 DTSTART;TZID=Europe/London:20231202T103000
 DTEND;TZID=Europe/London:20231202T123000
-DTSTAMP:20230901T130806Z
+DTSTAMP:20230918T100643Z
 UID:/races/470931cf-3930-4e13-be42-e1f126e6a010
 DESCRIPTION:Eskdale Eureka (BM)\nDate & time: Sat 2 Dec 2023 at 10:30\nDis
  tance:14.3 km / 8.9 miles\nClimb:470 m / 1542 ft\nGrid reference:NZ 684 08
@@ -1202,7 +665,7 @@ BEGIN:VEVENT
 SUMMARY:Really Wild Boar (AS)
 DTSTART;TZID=Europe/London:20231202T110000
 DTEND;TZID=Europe/London:20231202T130000
-DTSTAMP:20230901T130806Z
+DTSTAMP:20230918T100643Z
 UID:/races/de8f4a38-a531-43d6-9dcb-276b3912a9db
 DESCRIPTION:Really Wild Boar (AS)\nDate & time: Sat 2 Dec 2023 at 11:00\nD
  istance:8 km / 5 miles\nClimb:427 m / 1401 ft\nGrid reference:NY 7430 0150
@@ -1215,7 +678,7 @@ BEGIN:VEVENT
 SUMMARY:Peak Raid Mountain Marathon 4 (MM)
 DTSTART;TZID=Europe/London:20231203T080000
 DTEND;TZID=Europe/London:20231203T100000
-DTSTAMP:20230901T130807Z
+DTSTAMP:20230918T100643Z
 UID:/races/80919fb1-5b27-4e5d-94ca-60843b878b41
 DESCRIPTION:Peak Raid Mountain Marathon 4 (MM)\nDate & time: Sun 3 Dec 202
  3 at 8:00\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):£18.00
@@ -1229,7 +692,7 @@ BEGIN:VEVENT
 SUMMARY:Cardington Cracker (AM)
 DTSTART;TZID=Europe/London:20231203T110000
 DTEND;TZID=Europe/London:20231203T130000
-DTSTAMP:20230901T130807Z
+DTSTAMP:20230918T100644Z
 UID:/races/a16b6a40-b4c6-4fa9-a073-39ce4a376015
 DESCRIPTION:Cardington Cracker (AM)\nDate & time: Sun 3 Dec 2023 at 11:00\
  nDistance:14.5 km / 9 miles\nClimb:793 m / 2602 ft\nEntry on day:No\nPre-e
@@ -1241,7 +704,7 @@ BEGIN:VEVENT
 SUMMARY:Moors The Merrier 21 (BL)
 DTSTART;TZID=Europe/London:20231209T090000
 DTEND;TZID=Europe/London:20231209T110000
-DTSTAMP:20230901T130807Z
+DTSTAMP:20230918T100644Z
 UID:/races/52235d4a-a728-4644-93b9-b7b346f9d835
 DESCRIPTION:Moors The Merrier 21 (BL)\nDate & time: Sat 9 Dec 2023 at 9:00
  \nDistance:34 km / 21.1 miles\nClimb:1220 m / 4003 ft\nGrid reference:0095
@@ -1254,7 +717,7 @@ BEGIN:VEVENT
 SUMMARY:Crag Fell Handicap race (AS)
 DTSTART;TZID=Europe/London:20231209T110000
 DTEND;TZID=Europe/London:20231209T130000
-DTSTAMP:20230901T130808Z
+DTSTAMP:20230918T100644Z
 UID:/races/16b1d4d1-e783-4e47-b37b-e5cea95eee94
 DESCRIPTION:Crag Fell Handicap race (AS)\nDate & time: Sat 9 Dec 2023 at 1
  1:00\nDistance:4 km / 2.5 miles\nClimb:410 m / 1345 ft\nGrid reference:NY 
@@ -1269,7 +732,7 @@ BEGIN:VEVENT
 SUMMARY:Colden Winter Hill (BS)
 DTSTART;TZID=Europe/London:20231209T133000
 DTEND;TZID=Europe/London:20231209T153000
-DTSTAMP:20230901T130808Z
+DTSTAMP:20230918T100644Z
 UID:/races/d326b939-7348-48d0-970a-812ab8254e93
 DESCRIPTION:Colden Winter Hill (BS)\nDate & time: Sat 9 Dec 2023 at 13:30\
  nDistance:4.5 km / 2.8 miles\nClimb:150 m / 492 ft\nGrid reference:382743\
@@ -1281,7 +744,7 @@ BEGIN:VEVENT
 SUMMARY:Simonside Cairns (BM)
 DTSTART;TZID=Europe/London:20231210T110000
 DTEND;TZID=Europe/London:20231210T130000
-DTSTAMP:20230901T130808Z
+DTSTAMP:20230918T100645Z
 UID:/races/269cc3b4-ac51-49ef-9aad-efe00e77abc9
 DESCRIPTION:Simonside Cairns (BM)\nDate & time: Sun 10 Dec 2023 at 11:00\n
  Distance:17.7 km / 11 miles\nClimb:540 m / 1772 ft\nGrid reference:058017\
@@ -1293,7 +756,7 @@ BEGIN:VEVENT
 SUMMARY:Bollihope Carrs (BM)
 DTSTART;TZID=Europe/London:20231216T110000
 DTEND;TZID=Europe/London:20231216T130000
-DTSTAMP:20230901T130809Z
+DTSTAMP:20230918T100645Z
 UID:/races/846082d7-4874-472b-ad3a-35c4a963b4c1
 DESCRIPTION:Bollihope Carrs (BM)\nDate & time: Sat 16 Dec 2023 at 11:00\nD
  istance:10.5 km / 6.5 miles\nClimb:380 m / 1247 ft\nGrid reference:NZ 008 
@@ -1309,7 +772,7 @@ BEGIN:VEVENT
 SUMMARY:Stoop Junior Quarry Run ()
 DTSTART;TZID=Europe/London:20231217T103000
 DTEND;TZID=Europe/London:20231217T123000
-DTSTAMP:20230901T130809Z
+DTSTAMP:20230918T100645Z
 UID:/races/b53ad042-c39a-4638-9fc9-2668350f6617
 DESCRIPTION:Stoop Junior Quarry Run ()\nDate & time: Sun 17 Dec 2023 at 10
  :30\nGrid reference:025364\nEntry on day:Yes\nEntry on day fee:£2.00\nPre
@@ -1320,7 +783,7 @@ BEGIN:VEVENT
 SUMMARY:Stoop (BS)
 DTSTART;TZID=Europe/London:20231217T113000
 DTEND;TZID=Europe/London:20231217T133000
-DTSTAMP:20230901T130810Z
+DTSTAMP:20230918T100646Z
 UID:/races/1f97c796-1ef5-4298-b9e8-c778f78fe343
 DESCRIPTION:Stoop (BS)\nDate & time: Sun 17 Dec 2023 at 11:30\nDistance:8 
  km / 5 miles\nClimb:250 m / 820 ft\nGrid reference:025364\nEntry on day:Ye
@@ -1332,7 +795,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night (AS)
 DTSTART;TZID=Europe/London:20231218T190000
 DTEND;TZID=Europe/London:20231218T210000
-DTSTAMP:20230901T130810Z
+DTSTAMP:20230918T100646Z
 UID:/races/4cd4c0bc-528c-4518-afa1-fd6b2b73afcd
 DESCRIPTION:Silent Night (AS)\nDate & time: Mon 18 Dec 2023 at 19:00\nDist
  ance:7 km / 4.3 miles\nClimb:400 m / 1312 ft\nGrid reference:NY885360\nEnt
@@ -1345,7 +808,7 @@ BEGIN:VEVENT
 SUMMARY:Totley Two Turtle Doves (BS)
 DTSTART;TZID=Europe/London:20231226T110000
 DTEND;TZID=Europe/London:20231226T130000
-DTSTAMP:20230901T130811Z
+DTSTAMP:20230918T100646Z
 UID:/races/076e7cdc-f8fe-469d-891c-b9f62b5f3612
 DESCRIPTION:Totley Two Turtle Doves (BS)\nDate & time: Tue 26 Dec 2023 at 
  11:00\nDistance:7.8 km / 4.8 miles\nClimb:250 m / 820 ft\nGrid reference:S
@@ -1357,7 +820,7 @@ BEGIN:VEVENT
 SUMMARY:Whinberry Naze (BS)
 DTSTART;TZID=Europe/London:20231226T113000
 DTEND;TZID=Europe/London:20231226T133000
-DTSTAMP:20230901T130811Z
+DTSTAMP:20230918T100646Z
 UID:/races/b36ec025-1265-4d30-8b85-668eea8f4fa1
 DESCRIPTION:Whinberry Naze (BS)\nDate & time: Tue 26 Dec 2023 at 11:30\nDi
  stance:6.4 km / 4 miles\nClimb:229 m / 751 ft\nGrid reference:821230\nEntr
@@ -1369,7 +832,7 @@ BEGIN:VEVENT
 SUMMARY:Guisborough Woods (BS)
 DTSTART;TZID=Europe/London:20231227T110000
 DTEND;TZID=Europe/London:20231227T130000
-DTSTAMP:20230901T130811Z
+DTSTAMP:20230918T100646Z
 UID:/races/87b1a2b5-f8a6-4948-af56-ceee89352daf
 DESCRIPTION:Guisborough Woods (BS)\nDate & time: Wed 27 Dec 2023 at 11:00\
  nDistance:8.8 km / 5.5 miles\nClimb:376 m / 1234 ft\nGrid reference:NZ6141
@@ -1388,7 +851,7 @@ BEGIN:VEVENT
 SUMMARY:Wansfell (AS)
 DTSTART;TZID=Europe/London:20231227T120000
 DTEND;TZID=Europe/London:20231227T140000
-DTSTAMP:20230901T130811Z
+DTSTAMP:20230918T100647Z
 UID:/races/33bf5eab-3095-4b6e-ac2e-4ccbe0a6dcc6
 DESCRIPTION:Wansfell (AS)\nDate & time: Wed 27 Dec 2023 at 12:00\nDistance
  :4 km / 2.5 miles\nClimb:405 m / 1329 ft\nEntry on day:No\nPre-entry:Yes\n
@@ -1400,7 +863,7 @@ BEGIN:VEVENT
 SUMMARY:Bowstones (BM)
 DTSTART;TZID=Europe/London:20231231T100000
 DTEND;TZID=Europe/London:20231231T120000
-DTSTAMP:20230901T130811Z
+DTSTAMP:20230918T100647Z
 UID:/races/6abeef8d-eeed-4436-9d8f-132fd0628583
 DESCRIPTION:Bowstones (BM)\nDate & time: Sun 31 Dec 2023 at 10:00\nDistanc
  e:11 km / 6.8 miles\nClimb:325 m / 1066 ft\nGrid reference:SJ943833\nEntry
@@ -1412,7 +875,7 @@ BEGIN:VEVENT
 SUMMARY:Wormstones (AS)
 DTSTART;TZID=Europe/London:20231231T110000
 DTEND;TZID=Europe/London:20231231T130000
-DTSTAMP:20230901T130812Z
+DTSTAMP:20230918T100647Z
 UID:/races/b817029a-3168-4ff5-9af3-a39518687052
 DESCRIPTION:Wormstones (AS)\nDate & time: Sun 31 Dec 2023 at 11:00\nDistan
  ce:6.4 km / 4 miles\nClimb:411 m / 1348 ft\nGrid reference:037933\nEntry o
@@ -1425,7 +888,7 @@ BEGIN:VEVENT
 SUMMARY:Daleside Brewery Auld Lang syne (BM)
 DTSTART;TZID=Europe/London:20231231T113000
 DTEND;TZID=Europe/London:20231231T133000
-DTSTAMP:20230901T130812Z
+DTSTAMP:20230918T100647Z
 UID:/races/8e74a73b-20ab-4101-9c6b-e7320bfb8920
 DESCRIPTION:Daleside Brewery Auld Lang syne (BM)\nDate & time: Sun 31 Dec 
  2023 at 11:30\nDistance:10.8 km / 6.7 miles\nClimb:300 m / 984 ft\nGrid re
@@ -1437,7 +900,7 @@ BEGIN:VEVENT
 SUMMARY:Hathersage Gala (BS)
 DTSTART;TZID=Europe/London:20240701T193000
 DTEND;TZID=Europe/London:20240701T213000
-DTSTAMP:20230901T130812Z
+DTSTAMP:20230918T100647Z
 UID:/races/42a20281-3e94-475d-b773-fac6b103b0e7
 DESCRIPTION:Hathersage Gala (BS)\nDate & time: Mon 1 Jul 2024 at 19:30\nDi
  stance:7.2 km / 4.5 miles\nClimb:325 m / 1066 ft\nGrid reference:SK234818\
