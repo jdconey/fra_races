@@ -12,6 +12,7 @@ from pytz import timezone,country_timezones
 from datetime import datetime,timedelta
 
 current_year = datetime.now().strftime('%Y')
+current_year='2024'
 
 
 def get_races_from_page(soup):
