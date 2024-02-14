@@ -35,8 +35,8 @@ def get_races_from_page(soup):
                     'region':region,
                     'link':'https://races.fellrunner.org.uk'+name_link[0]
                      }
-        except:
-            print('error')
+        except Exception as e:
+            print('error',e)
     return race_dict
 
 def extract_event_info(url):
