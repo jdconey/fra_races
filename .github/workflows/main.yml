@@ -2,7 +2,7 @@ name: run fra_races.py
 
 on:
   schedule:
-    - cron: '30 13 1,17 * *' 
+    - cron: '0 14 1,17 * *' 
 
 jobs:
   build:
