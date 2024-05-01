@@ -21,315 +21,10 @@ TZOFFSETTO:+0100
 END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:Grisedale Grind (AS)
-DTSTART;TZID=Europe/London:20240417T190000
-DTEND;TZID=Europe/London:20240417T210000
-DTSTAMP:20240417T143659Z
-UID:/races/67db5f94-9e00-4ac1-9c6a-bf0da3e14055
-DESCRIPTION:Grisedale Grind (AS)\nDate & time: Wed 17 Apr 2024 at 19:00\nD
- istance:4 km / 2.5 miles\nClimb:480 m / 1575 ft\nEntry on day:Yes\nEntry o
- n day fee:£6.00\nPre-entry:No\nLake District\, England\nFull information:
-  https://races.fellrunner.org.uk/races/67db5f94-9e00-4ac1-9c6a-bf0da3e1405
- 5
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Herod Farm (AS)
-DTSTART;TZID=Europe/London:20240417T193000
-DTEND;TZID=Europe/London:20240417T213000
-DTSTAMP:20240417T143700Z
-UID:/races/c80f821c-9b48-4bfa-ab3e-a4ed5f9afb9c
-DESCRIPTION:Herod Farm (AS)\nDate & time: Wed 17 Apr 2024 at 19:30\nDistan
- ce:4.8 km / 3 miles\nClimb:340 m / 1115 ft\nGrid reference:SK 032931\nEntr
- y on day:Yes\nEntry on day fee:£7.00\nPre-entry:Yes\nPre-entry fee:£6.00
- \nPeak District\, England\nFull information: https://races.fellrunner.org.
- uk/races/c80f821c-9b48-4bfa-ab3e-a4ed5f9afb9c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Caradoc Classic (BS)
-DTSTART;TZID=Europe/London:20240417T193000
-DTEND;TZID=Europe/London:20240417T213000
-DTSTAMP:20240417T143700Z
-UID:/races/73439298-3a8e-4e3c-a752-3d1fe9cd2292
-DESCRIPTION:Caradoc Classic (BS)\nDate & time: Wed 17 Apr 2024 at 19:30\nD
- istance:5.6 km / 3.5 miles\nClimb:268 m / 879 ft\nGrid reference:942460\nE
- ntry on day:Yes\nEntry on day fee:£10.00\nPre-entry:No\n1st race in Summe
- r Series. Entry updates and race information will be shared on the Shropsh
- ire Fell Running Facebook page. Please keep checking for the most up to da
- te information.\nShropshire/Welsh Borders\, England\nFull information: htt
- ps://races.fellrunner.org.uk/races/73439298-3a8e-4e3c-a752-3d1fe9cd2292
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2024 European Athletics Off-Road Running Championships Senior Uphi
- ll OnlyTrial (AS)
-DTSTART;TZID=Europe/London:20240419T160000
-DTEND;TZID=Europe/London:20240419T180000
-DTSTAMP:20240417T143701Z
-UID:/races/fa70f457-fad5-4923-ae66-97b3fd323f0b
-DESCRIPTION:2024 European Athletics Off-Road Running Championships Senior 
- Uphill OnlyTrial (AS)\nDate & time: Fri 19 Apr 2024 at 16:00\nDistance:6.5
-  km / 4 miles\nClimb:900 m / 2953 ft\nEntry on day:No\nPre-entry:Yes\nPre-
- entry fee (members):£15.00\nLake District\, England\nFull information: ht
- tps://races.fellrunner.org.uk/races/fa70f457-fad5-4923-ae66-97b3fd323f0b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:2024 European Athletics Off-Road Running ChampionshipsOnlyTrial (A
- S)
-DTSTART;TZID=Europe/London:20240419T160500
-DTEND;TZID=Europe/London:20240419T180500
-DTSTAMP:20240417T143701Z
-UID:/races/32f6f521-9db5-4cb8-b474-2f2a669afb99
-DESCRIPTION:2024 European Athletics Off-Road Running ChampionshipsOnlyTria
- l (AS)\nDate & time: Fri 19 Apr 2024 at 16:05\nDistance:5 km / 3.1 miles\n
- Climb:595 m / 1952 ft\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (memb
- ers):£15.00\nLake District\, England\nFull information: https://races.fel
- lrunner.org.uk/races/32f6f521-9db5-4cb8-b474-2f2a669afb99
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Teenager With Altitude (AL)
-DTSTART;TZID=Europe/London:20240420T103000
-DTEND;TZID=Europe/London:20240420T123000
-DTSTAMP:20240417T143702Z
-UID:/races/86a969fa-3437-4634-9fd4-9a45dd5dc7fd
-DESCRIPTION:Teenager With Altitude (AL)\nDate & time: Sat 20 Apr 2024 at 1
- 0:30\nDistance:24.7 km / 15.3 miles\nClimb:2300 m / 7546 ft\nGrid referenc
- e:NY237213\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):£14.0
- 0\nPre-entry fee (non-members):£18.00\nLake District\, England\nFull info
- rmation: https://races.fellrunner.org.uk/races/86a969fa-3437-4634-9fd4-9a4
- 5dd5dc7fd
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Newlands Memorial Race (AM)
-DTSTART;TZID=Europe/London:20240420T113000
-DTEND;TZID=Europe/London:20240420T133000
-DTSTAMP:20240417T143702Z
-UID:/races/8f8f6d86-d8c3-4773-81cd-66d1c875439c
-DESCRIPTION:Newlands Memorial Race (AM)\nDate & time: Sat 20 Apr 2024 at 1
- 1:30\nDistance:18.5 km / 11.5 miles\nClimb:1100 m / 3609 ft\nGrid referenc
- e:NY237212\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):£14.0
- 0\nPre-entry fee (non-members):£17.00\nEntry through race website which o
- pens at the end of December.\nLake District\, England\nFull information: h
- ttps://races.fellrunner.org.uk/races/8f8f6d86-d8c3-4773-81cd-66d1c875439c
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Gisborough Moors (BL)
-DTSTART;TZID=Europe/London:20240421T103000
-DTEND;TZID=Europe/London:20240421T123000
-DTSTAMP:20240417T143703Z
-UID:/races/70682a57-c4b0-4b02-b961-4df4f9b0efd3
-DESCRIPTION:Gisborough Moors (BL)\nDate & time: Sun 21 Apr 2024 at 10:30\n
- Distance:20 km / 12.4 miles\nClimb:850 m / 2789 ft\nGrid reference:616155\
- nEntry on day:Yes\nEntry on day fee (members):£7.00\nEntry on day fee (no
- n-members):£8.00\nPre-entry:Yes\nPre-entry fee (members):£7.00\nPre-entr
- y fee (non-members):£8.00\nUse universal entry form.\nNorth York Moors\, 
- England\nFull information: https://races.fellrunner.org.uk/races/70682a57-
- c4b0-4b02-b961-4df4f9b0efd3
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kinder Downfall (BM)
-DTSTART;TZID=Europe/London:20240421T113000
-DTEND;TZID=Europe/London:20240421T133000
-DTSTAMP:20240417T143703Z
-UID:/races/91b522c1-e54e-4243-a189-4ee8ebfe2777
-DESCRIPTION:Kinder Downfall (BM)\nDate & time: Sun 21 Apr 2024 at 11:30\nD
- istance:15.4 km / 9.6 miles\nClimb:600 m / 1969 ft\nGrid reference:035873\
- nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):£10.00\nPre-entr
- y fee (non-members):£15.00\nPeak District\, England\nFull information: ht
- tps://races.fellrunner.org.uk/races/91b522c1-e54e-4243-a189-4ee8ebfe2777
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Dean Barwick Dash (BS)
-DTSTART;TZID=Europe/London:20240421T120000
-DTEND;TZID=Europe/London:20240421T140000
-DTSTAMP:20240417T143704Z
-UID:/races/f7488bc1-27ba-4ab7-b0c4-14cedd3deb94
-DESCRIPTION:Dean Barwick Dash (BS)\nDate & time: Sun 21 Apr 2024 at 12:00\
- nDistance:10 km / 6.2 miles\nClimb:340 m / 1115 ft\nGrid reference:SD43483
- 9\nEntry on day:Yes\nEntry on day fee (members):£6.00\nEntry on day fee (
- non-members):£8.00\nPre-entry:No\nEntry forms available on the day - no p
- re-entry. Registration opens at 10:00 and closes 11.45. Prizegiving 13:30.
-  Refreshments provided by Friends of Dean Barwick School (bring cash)\nLak
- e District\, England\nFull information: https://races.fellrunner.org.uk/ra
- ces/f7488bc1-27ba-4ab7-b0c4-14cedd3deb94
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Duddon Dash &amp\; Junior Championship (AS)
-DTSTART;TZID=Europe/London:20240421T133000
-DTEND;TZID=Europe/London:20240421T153000
-DTSTAMP:20240417T143704Z
-UID:/races/e5768165-d48b-42d0-9953-940eec755823
-DESCRIPTION:Duddon Dash &amp\; Junior Championship (AS)\nDate & time: Sun 
- 21 Apr 2024 at 13:30\nDistance:9.4 km / 5.8 miles\nClimb:703 m / 2306 ft\n
- Grid reference:SD 228 959\nEntry on day:Yes\nEntry on day fee (members):£
- 10.00\nEntry on day fee (non-members):£12.00\nPre-entry:Yes\nPre-entry fe
- e (members):£8.00\nPre-entry fee (non-members):£10.00\nU9(over 6)/U11/U1
- 3/U15/U17/U19 Junior Championship.<br/>Start 11am. Discounted full series
-  entry available for all six races. Use the same number for the series<br/
- >Junior races will be fully marked.<br/>Under 19 will run in the Senior 
- race.\nLake District\, England\nFull information: https://races.fellrunner
- .org.uk/races/e5768165-d48b-42d0-9953-940eec755823
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Trunce 2 (BS)
-DTSTART;TZID=Europe/London:20240422T184500
-DTEND;TZID=Europe/London:20240422T204500
-DTSTAMP:20240417T143705Z
-UID:/races/d89dd446-3083-40b6-9559-86f324a9f5c0
-DESCRIPTION:Trunce 2 (BS)\nDate & time: Mon 22 Apr 2024 at 18:45\nDistance
- :6.4 km / 4 miles\nClimb:170 m / 558 ft\nGrid reference:SE272012\nEntry on
-  day:Yes\nEntry on day fee:£2.00\nPre-entry:No\nPeak District\, England\n
- Full information: https://races.fellrunner.org.uk/races/d89dd446-3083-40b6
- -9559-86f324a9f5c0
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Bunny Run Relay (Relay)
-DTSTART;TZID=Europe/London:20240423T190000
-DTEND;TZID=Europe/London:20240423T210000
-DTSTAMP:20240417T143705Z
-UID:/races/c14cbb77-88ab-4a6b-beb8-75153554dadd
-DESCRIPTION:Bunny Run Relay (Relay)\nDate & time: Tue 23 Apr 2024 at 19:00
- \nDistance:2.4 km / 1.5 miles\nClimb:60 m / 197 ft\nEntry on day:Yes\nEntr
- y on day fee:£10.00\nPre-entry:No\nSouth/West Pennines\, England\nFull in
- formation: https://races.fellrunner.org.uk/races/c14cbb77-88ab-4a6b-beb8-7
- 5153554dadd
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Hartcliff Hill (BS)
-DTSTART;TZID=Europe/London:20240424T190000
-DTEND;TZID=Europe/London:20240424T210000
-DTSTAMP:20240417T143706Z
-UID:/races/91e3568a-0538-4740-bcda-7b9e15a1b588
-DESCRIPTION:Hartcliff Hill (BS)\nDate & time: Wed 24 Apr 2024 at 19:00\nDi
- stance:7 km / 4.3 miles\nClimb:230 m / 755 ft\nGrid reference:SE211005\nEn
- try on day:Yes\nEntry on day fee (members):£5.00\nEntry on day fee (non-m
- embers):£6.00\nPre-entry:No\nPeak District\, England\nFull information: h
- ttps://races.fellrunner.org.uk/races/91e3568a-0538-4740-bcda-7b9e15a1b588
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Tiger's Trail (BS)
-DTSTART;TZID=Europe/London:20240424T190000
-DTEND;TZID=Europe/London:20240424T210000
-DTSTAMP:20240417T143706Z
-UID:/races/59548a45-b6df-4470-88d0-2dbe9a5e86a6
-DESCRIPTION:Tiger's Trail (BS)\nDate & time: Wed 24 Apr 2024 at 19:00\nDis
- tance:10 km / 6.2 miles\nClimb:259 m / 850 ft\nGrid reference:OOS Grid Ref
- : SK 29075 83756\nEntry on day:Yes\nEntry on day fee:£7.00\nPre-entry:Yes
- \nPre-entry fee:£7.00\nPeak District\, England\nFull information: https:/
- /races.fellrunner.org.uk/races/59548a45-b6df-4470-88d0-2dbe9a5e86a6
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Fo(e) Edge (BS)
-DTSTART;TZID=Europe/London:20240424T190000
-DTEND;TZID=Europe/London:20240424T210000
-DTSTAMP:20240417T143707Z
-UID:/races/de43b3a8-6fa2-4870-8683-8492f89e1cec
-DESCRIPTION:Fo(e) Edge (BS)\nDate & time: Wed 24 Apr 2024 at 19:00\nDistan
- ce:6.6 km / 4.1 miles\nClimb:300 m / 984 ft\nGrid reference:837212\nEntry 
- on day:Yes\nEntry on day fee:£5.00\nPre-entry:No\nSouth/West Pennines\, E
- ngland\nFull information: https://races.fellrunner.org.uk/races/de43b3a8-6
- fa2-4870-8683-8492f89e1cec
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Runup Time Trial: Shutlingsloe (Runup)
-DTSTART;TZID=Europe/London:20240425T183000
-DTEND;TZID=Europe/London:20240425T203000
-DTSTAMP:20240417T143707Z
-UID:/races/6966fc3a-d8d9-4a93-a27f-288619a8b519
-DESCRIPTION:Runup Time Trial: Shutlingsloe (Runup)\nDate & time: Thu 25 Ap
- r 2024 at 18:30\nDistance:2.2 km / 1.4 miles\nClimb:250 m / 820 ft\nEntry 
- on day:Yes\nEntry on day fee:£8.00\nPre-entry:Yes\nPre-entry fee:£6.00\n
- Peak District\, England\nFull information: https://races.fellrunner.org.uk
- /races/6966fc3a-d8d9-4a93-a27f-288619a8b519
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Cockfield Chase (CS)
-DTSTART;TZID=Europe/London:20240425T190000
-DTEND;TZID=Europe/London:20240425T210000
-DTSTAMP:20240417T143707Z
-UID:/races/509bdd0d-db96-4fdc-bb48-488a898357cc
-DESCRIPTION:Cockfield Chase (CS)\nDate & time: Thu 25 Apr 2024 at 19:00\nD
- istance:7 km / 4.3 miles\nClimb:160 m / 525 ft\nGrid reference:115242\nEnt
- ry on day:Yes\nEntry on day fee (members):£5.00\nEntry on day fee (non-me
- mbers):£6.00\nPre-entry:Yes\nPre-entry fee (members):£5.00\nPre-entry fe
- e (non-members):£6.00\nNorthumberland / Durham\, England\nFull informatio
- n: https://races.fellrunner.org.uk/races/509bdd0d-db96-4fdc-bb48-488a89835
- 7cc
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:69th Three Peaks (AL)
-DTSTART;TZID=Europe/London:20240427T103000
-DTEND;TZID=Europe/London:20240427T123000
-DTSTAMP:20240417T143708Z
-UID:/races/8ecfc83f-2311-47fa-abce-182db364e43f
-DESCRIPTION:69th Three Peaks (AL)\nDate & time: Sat 27 Apr 2024 at 10:30\n
- Distance:37.4 km / 23.2 miles\nClimb:1608 m / 5276 ft\nGrid reference:8057
- 27 on OS Explorer OL2\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (memb
- ers):£35.00\nPre-entry fee (non-members):£37.00\nOn-line entries only fr
- om October 1 to April 3rd or earlier if 999 limit reached. Places guarante
- ed to first 10 men and first 5 ladies from 2022. Substitutions accepted up
-  to closing date and not restricted to same club but subject to race entry
-  qualifications. Entry fee includes post race meal &amp\; £1 donation to 
- "Friends of the Three Peaks".\nYork. Dales\, England\nFull information: ht
- tps://races.fellrunner.org.uk/races/8ecfc83f-2311-47fa-abce-182db364e43f
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:69thThree Peaks (AL)
-DTSTART;TZID=Europe/London:20240427T103000
-DTEND;TZID=Europe/London:20240427T123000
-DTSTAMP:20240417T143708Z
-UID:/races/6275bc2f-dc21-4504-a11f-b551f61c6e0b
-DESCRIPTION:69thThree Peaks (AL)\nDate & time: Sat 27 Apr 2024 at 10:30\nD
- istance:37.4 km / 23.2 miles\nClimb:1608 m / 5276 ft\nGrid reference:80572
- 7 on OS Explorer OL2\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (membe
- rs):£35.00\nPre-entry fee (non-members):£37.00\nOn-line entries only fro
- m October 1 to April 3rd or earlier if 999 limit reached. Places guarantee
- d to first 10 men and first 5 ladies from 2023. Substitutions accepted up 
- to closing date and not restricted to same club but subject to race entry 
- qualifications. Entry fee includes post race meal &amp\; £1 donation to "
- Friends of the Three Peaks"\nYork. Dales\, England\nFull information: http
- s://races.fellrunner.org.uk/races/6275bc2f-dc21-4504-a11f-b551f61c6e0b
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Kettleshulme Fell Race (BS)
-DTSTART;TZID=Europe/London:20240428T100000
-DTEND;TZID=Europe/London:20240428T120000
-DTSTAMP:20240417T143709Z
-UID:/races/1c4b7ccd-b339-4c82-915a-7b3f9e3bbb8a
-DESCRIPTION:Kettleshulme Fell Race (BS)\nDate & time: Sun 28 Apr 2024 at 1
- 0:00\nDistance:9 km / 5.6 miles\nClimb:355 m / 1165 ft\nEntry on day:Yes\n
- Entry on day fee:£12.00\nPre-entry:Yes\nPre-entry fee:£10.00\nonline ent
- ry via website.\nPeak District\, England\nFull information: https://races.
- fellrunner.org.uk/races/1c4b7ccd-b339-4c82-915a-7b3f9e3bbb8a
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Wray Caton Moor (BS)
-DTSTART;TZID=Europe/London:20240430T190000
-DTEND;TZID=Europe/London:20240430T210000
-DTSTAMP:20240417T143709Z
-UID:/races/18e6543b-1cc0-4e62-a219-d4cc15723de2
-DESCRIPTION:Wray Caton Moor (BS)\nDate & time: Tue 30 Apr 2024 at 19:00\nD
- istance:10 km / 6.2 miles\nClimb:335 m / 1099 ft\nGrid reference:SD605676\
- nEntry on day:Yes\nEntry on day fee:£5.00\nPre-entry:No\nEntry on the day
-  only\nBowland/NW Lancs.\, England\nFull information: https://races.fellru
- nner.org.uk/races/18e6543b-1cc0-4e62-a219-d4cc15723de2
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Orchan Rocks (AS)
-DTSTART;TZID=Europe/London:20240430T190000
-DTEND;TZID=Europe/London:20240430T210000
-DTSTAMP:20240417T143709Z
-UID:/races/c0160497-0e13-422d-a965-31d7387abbb3
-DESCRIPTION:Orchan Rocks (AS)\nDate & time: Tue 30 Apr 2024 at 19:00\nDist
- ance:5.4 km / 3.4 miles\nClimb:280 m / 919 ft\nEntry on day:Yes\nEntry on 
- day fee (members):£6.00\nEntry on day fee (non-members):£7.00\nPre-entry
- :Yes\nPre-entry fee (members):£5.00\nPre-entry fee (non-members):£6.00\n
- South/West Pennines\, England\nFull information: https://races.fellrunner.
- org.uk/races/c0160497-0e13-422d-a965-31d7387abbb3
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Lords Seat (AS)
 DTSTART;TZID=Europe/London:20240501T190000
 DTEND;TZID=Europe/London:20240501T210000
-DTSTAMP:20240417T143710Z
+DTSTAMP:20240501T143656Z
 UID:/races/818b1729-241f-43c6-90b7-953083d3ae7e
 DESCRIPTION:Lords Seat (AS)\nDate & time: Wed 1 May 2024 at 19:00\nDistanc
  e:8 km / 5 miles\nClimb:430 m / 1411 ft\nEntry on day:Yes\nEntry on day fe
@@ -340,7 +35,7 @@ BEGIN:VEVENT
 SUMMARY:Rainow 5 (BS)
 DTSTART;TZID=Europe/London:20240501T193000
 DTEND;TZID=Europe/London:20240501T213000
-DTSTAMP:20240417T143710Z
+DTSTAMP:20240501T143657Z
 UID:/races/c174633b-fcb6-410c-9d28-cd7f6ea892c3
 DESCRIPTION:Rainow 5 (BS)\nDate & time: Wed 1 May 2024 at 19:30\nDistance:
  8 km / 5 miles\nClimb:230 m / 755 ft\nEntry on day:Yes\nEntry on day fee:
@@ -352,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Dick Hudson's (BM)
 DTSTART;TZID=Europe/London:20240502T190000
 DTEND;TZID=Europe/London:20240502T210000
-DTSTAMP:20240417T143711Z
+DTSTAMP:20240501T143658Z
 UID:/races/d87364a1-0e78-4ca0-a182-019791f53821
 DESCRIPTION:Dick Hudson's (BM)\nDate & time: Thu 2 May 2024 at 19:00\nDist
  ance:11.2 km / 7 miles\nClimb:335 m / 1099 ft\nGrid reference:SE117471\nEn
@@ -364,7 +59,7 @@ BEGIN:VEVENT
 SUMMARY:Bilsdale (AM)
 DTSTART;TZID=Europe/London:20240504T110000
 DTEND;TZID=Europe/London:20240504T130000
-DTSTAMP:20240417T143711Z
+DTSTAMP:20240501T143659Z
 UID:/races/445bef92-6d36-402d-9f5b-490884847f03
 DESCRIPTION:Bilsdale (AM)\nDate & time: Sat 4 May 2024 at 11:00\nDistance:
  18.2 km / 11.3 miles\nClimb:950 m / 3117 ft\nGrid reference:SE 559 993\nEn
@@ -377,7 +72,7 @@ BEGIN:VEVENT
 SUMMARY:Coniston (AM)
 DTSTART;TZID=Europe/London:20240504T120000
 DTEND;TZID=Europe/London:20240504T140000
-DTSTAMP:20240417T143711Z
+DTSTAMP:20240501T143700Z
 UID:/races/0d5afc47-4d16-4cc6-a11c-cb814e8620e4
 DESCRIPTION:Coniston (AM)\nDate & time: Sat 4 May 2024 at 12:00\nDistance:
  14 km / 8.7 miles\nClimb:1065 m / 3494 ft\nEntry on day:No\nPre-entry:Yes\
@@ -389,7 +84,7 @@ BEGIN:VEVENT
 SUMMARY:Isle Of Man Junior Hill Championships ()
 DTSTART;TZID=Europe/London:20240504T133000
 DTEND;TZID=Europe/London:20240504T153000
-DTSTAMP:20240417T143712Z
+DTSTAMP:20240501T143701Z
 UID:/races/9f47a77a-a72b-413c-9d49-4607bebda022
 DESCRIPTION:Isle Of Man Junior Hill Championships ()\nDate & time: Sat 4 M
  ay 2024 at 13:30\nEntry on day:Yes\nPre-entry:Yes\nFree entry mostly throu
@@ -400,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Great Hameldon Fell Race (BS)
 DTSTART;TZID=Europe/London:20240505T120000
 DTEND;TZID=Europe/London:20240505T140000
-DTSTAMP:20240417T143712Z
+DTSTAMP:20240501T143702Z
 UID:/races/138d66c4-da84-49ba-aa11-6b278ba2dda8
 DESCRIPTION:Great Hameldon Fell Race (BS)\nDate & time: Sun 5 May 2024 at 
  12:00\nDistance:9.6 km / 6 miles\nClimb:338 m / 1109 ft\nGrid reference:SD
@@ -413,7 +108,7 @@ BEGIN:VEVENT
 SUMMARY:Coiners Junior ()
 DTSTART;TZID=Europe/London:20240506T103000
 DTEND;TZID=Europe/London:20240506T123000
-DTSTAMP:20240417T143713Z
+DTSTAMP:20240501T143703Z
 UID:/races/a1da1fa2-c566-4c18-9f87-5e9829fad8ec
 DESCRIPTION:Coiners Junior ()\nDate & time: Mon 6 May 2024 at 10:30\nGrid 
  reference:SE011259\nEntry on day:Yes\nPre-entry:No\nSouth/West Pennines\, 
@@ -424,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Coiners (BM)
 DTSTART;TZID=Europe/London:20240506T133000
 DTEND;TZID=Europe/London:20240506T153000
-DTSTAMP:20240417T143713Z
+DTSTAMP:20240501T143703Z
 UID:/races/5a612fed-8e2e-47fa-94bb-e5056f6740f1
 DESCRIPTION:Coiners (BM)\nDate & time: Mon 6 May 2024 at 13:30\nDistance:1
  0.8 km / 6.7 miles\nClimb:295 m / 968 ft\nGrid reference:SE011259\nEntry o
@@ -440,7 +135,7 @@ BEGIN:VEVENT
 SUMMARY:Cautley Horseshoe (AS)
 DTSTART;TZID=Europe/London:20240508T190000
 DTEND;TZID=Europe/London:20240508T210000
-DTSTAMP:20240417T143714Z
+DTSTAMP:20240501T143704Z
 UID:/races/1ddf1ff8-a942-4eaf-8eb0-be50b4b8911b
 DESCRIPTION:Cautley Horseshoe (AS)\nDate & time: Wed 8 May 2024 at 19:00\n
  Distance:7.5 km / 4.7 miles\nClimb:805 m / 2641 ft\nGrid reference:SD69897
@@ -452,7 +147,7 @@ BEGIN:VEVENT
 SUMMARY:Lothersdale (BS)
 DTSTART;TZID=Europe/London:20240508T191500
 DTEND;TZID=Europe/London:20240508T211500
-DTSTAMP:20240417T143715Z
+DTSTAMP:20240501T143705Z
 UID:/races/86ad789c-e2c4-4b34-ab7b-a269ea245c6c
 DESCRIPTION:Lothersdale (BS)\nDate & time: Wed 8 May 2024 at 19:15\nDistan
  ce:5.4 km / 3.4 miles\nClimb:180 m / 591 ft\nEntry on day:Yes\nEntry on da
@@ -464,7 +159,7 @@ BEGIN:VEVENT
 SUMMARY:Shining Tor (BS)
 DTSTART;TZID=Europe/London:20240508T193000
 DTEND;TZID=Europe/London:20240508T213000
-DTSTAMP:20240417T143715Z
+DTSTAMP:20240501T143706Z
 UID:/races/d71318af-fe4c-4b9d-9d38-d1f1e17b4b05
 DESCRIPTION:Shining Tor (BS)\nDate & time: Wed 8 May 2024 at 19:30\nDistan
  ce:10 km / 6.2 miles\nClimb:311 m / 1020 ft\nGrid reference:017756 on Whit
@@ -476,7 +171,7 @@ BEGIN:VEVENT
 SUMMARY:Wrekin Streak (AS)
 DTSTART;TZID=Europe/London:20240508T193000
 DTEND;TZID=Europe/London:20240508T213000
-DTSTAMP:20240417T143716Z
+DTSTAMP:20240501T143706Z
 UID:/races/19a1ecef-ac67-4998-9f72-ea0cf5dfe61e
 DESCRIPTION:Wrekin Streak (AS)\nDate & time: Wed 8 May 2024 at 19:30\nDist
  ance:4.5 km / 2.8 miles\nClimb:247 m / 810 ft\nGrid reference:638093\nEntr
@@ -491,7 +186,7 @@ BEGIN:VEVENT
 SUMMARY:Pinhaw (BS)
 DTSTART;TZID=Europe/London:20240510T193000
 DTEND;TZID=Europe/London:20240510T213000
-DTSTAMP:20240417T143716Z
+DTSTAMP:20240501T143707Z
 UID:/races/9d998773-57d1-439b-9049-39297ea12597
 DESCRIPTION:Pinhaw (BS)\nDate & time: Fri 10 May 2024 at 19:30\nDistance:8
   km / 5 miles\nClimb:213 m / 699 ft\nEntry on day:Yes\nEntry on day fee:£
@@ -502,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Preseli Beast (BL)
 DTSTART;TZID=Europe/London:20240511T100000
 DTEND;TZID=Europe/London:20240511T120000
-DTSTAMP:20240417T143717Z
+DTSTAMP:20240501T143708Z
 UID:/races/0b3f16a4-b2d9-4d58-bda0-236637e44934
 DESCRIPTION:Preseli Beast (BL)\nDate & time: Sat 11 May 2024 at 10:00\nDis
  tance:39.7 km / 24.7 miles\nClimb:1655 m / 5430 ft\nGrid reference:SN08327
@@ -515,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Cressbrook Crawl (BM)
 DTSTART;TZID=Europe/London:20240511T104500
 DTEND;TZID=Europe/London:20240511T124500
-DTSTAMP:20240417T143717Z
+DTSTAMP:20240501T143708Z
 UID:/races/9465ee3c-44f5-413b-a540-e6068d637198
 DESCRIPTION:Cressbrook Crawl (BM)\nDate & time: Sat 11 May 2024 at 10:45\n
  Distance:10.5 km / 6.5 miles\nClimb:400 m / 1312 ft\nEntry on day:No\nPre-
@@ -527,7 +222,7 @@ BEGIN:VEVENT
 SUMMARY:Fairfield Horseshoe (AM)
 DTSTART;TZID=Europe/London:20240511T110000
 DTEND;TZID=Europe/London:20240511T130000
-DTSTAMP:20240417T143717Z
+DTSTAMP:20240501T143709Z
 UID:/races/cf4e8ff3-2f1f-4dca-a3ed-320bd0b2bf15
 DESCRIPTION:Fairfield Horseshoe (AM)\nDate & time: Sat 11 May 2024 at 11:0
  0\nDistance:14.5 km / 9 miles\nClimb:914 m / 2999 ft\nGrid reference:NY 36
@@ -540,7 +235,7 @@ BEGIN:VEVENT
 SUMMARY:Pendle Cloughs (AL)
 DTSTART;TZID=Europe/London:20240511T110000
 DTEND;TZID=Europe/London:20240511T130000
-DTSTAMP:20240417T143718Z
+DTSTAMP:20240501T143710Z
 UID:/races/67e13110-f955-466f-9726-cb81d70f6f27
 DESCRIPTION:Pendle Cloughs (AL)\nDate & time: Sat 11 May 2024 at 11:00\nDi
  stance:22.5 km / 14 miles\nClimb:1250 m / 4101 ft\nGrid reference:SD787439
@@ -554,7 +249,7 @@ BEGIN:VEVENT
 SUMMARY:The Cake Race (BM)
 DTSTART;TZID=Europe/London:20240511T110000
 DTEND;TZID=Europe/London:20240511T130000
-DTSTAMP:20240417T143718Z
+DTSTAMP:20240501T143710Z
 UID:/races/a15932d1-1862-4086-8489-e2849e959afc
 DESCRIPTION:The Cake Race (BM)\nDate & time: Sat 11 May 2024 at 11:00\nDis
  tance:16 km / 9.9 miles\nClimb:518 m / 1699 ft\nGrid reference:SE 00720794
@@ -570,7 +265,7 @@ BEGIN:VEVENT
 SUMMARY:Beast Bach (BM)
 DTSTART;TZID=Europe/London:20240511T123000
 DTEND;TZID=Europe/London:20240511T143000
-DTSTAMP:20240417T143718Z
+DTSTAMP:20240501T143711Z
 UID:/races/927fbf63-e7aa-40e3-9535-9de75cfdb49b
 DESCRIPTION:Beast Bach (BM)\nDate & time: Sat 11 May 2024 at 12:30\nDistan
  ce:18.2 km / 11.3 miles\nClimb:730 m / 2395 ft\nGrid reference:SN083274\nE
@@ -582,7 +277,7 @@ BEGIN:VEVENT
 SUMMARY:Peak Raid 10th anniversary celebration (MM)
 DTSTART;TZID=Europe/London:20240511T170000
 DTEND;TZID=Europe/London:20240511T190000
-DTSTAMP:20240417T143719Z
+DTSTAMP:20240501T143711Z
 UID:/races/83e42497-a9f7-49c2-95b3-887d073173cb
 DESCRIPTION:Peak Raid 10th anniversary celebration (MM)\nDate & time: Sat 
  11 May 2024 at 17:00\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (membe
@@ -597,7 +292,7 @@ BEGIN:VEVENT
 SUMMARY:Fox &amp\; Hounds (BM)
 DTSTART;TZID=Europe/London:20240512T103000
 DTEND;TZID=Europe/London:20240512T123000
-DTSTAMP:20240417T143719Z
+DTSTAMP:20240501T143712Z
 UID:/races/f9a99f0e-adf5-4496-9825-7520d5a943f8
 DESCRIPTION:Fox &amp\; Hounds (BM)\nDate & time: Sun 12 May 2024 at 10:30\
  nDistance:13.6 km / 8.5 miles\nClimb:580 m / 1903 ft\nGrid reference:72004
@@ -610,7 +305,7 @@ BEGIN:VEVENT
 SUMMARY:Thornton in Craven 15k fell race (BM)
 DTSTART;TZID=Europe/London:20240512T110000
 DTEND;TZID=Europe/London:20240512T130000
-DTSTAMP:20240417T143719Z
+DTSTAMP:20240501T143712Z
 UID:/races/88d5e5d1-fbe8-4477-a342-5a1e1378fbbd
 DESCRIPTION:Thornton in Craven 15k fell race (BM)\nDate & time: Sun 12 May
   2024 at 11:00\nDistance:15 km / 9.3 miles\nClimb:536 m / 1759 ft\nGrid re
@@ -622,7 +317,7 @@ BEGIN:VEVENT
 SUMMARY:Thornton in Craven 5k fell race. (BS)
 DTSTART;TZID=Europe/London:20240512T110000
 DTEND;TZID=Europe/London:20240512T130000
-DTSTAMP:20240417T143720Z
+DTSTAMP:20240501T143713Z
 UID:/races/b8f76dc5-8221-468c-b37b-0d1d9aea0af3
 DESCRIPTION:Thornton in Craven 5k fell race. (BS)\nDate & time: Sun 12 May
   2024 at 11:00\nDistance:5 km / 3.1 miles\nClimb:164 m / 538 ft\nGrid refe
@@ -634,7 +329,7 @@ BEGIN:VEVENT
 SUMMARY:Junior FRA National Championships - Sedbergh (AS)
 DTSTART;TZID=Europe/London:20240512T120000
 DTEND;TZID=Europe/London:20240512T140000
-DTSTAMP:20240417T143720Z
+DTSTAMP:20240501T143714Z
 UID:/races/08eb024a-8f88-4779-93f9-07fc674097c5
 DESCRIPTION:Junior FRA National Championships - Sedbergh (AS)\nDate & time
  : Sun 12 May 2024 at 12:00\nDistance:6 km / 3.7 miles\nClimb:600 m / 1969 
@@ -646,7 +341,7 @@ BEGIN:VEVENT
 SUMMARY:Trunce 3 (BS)
 DTSTART;TZID=Europe/London:20240513T184500
 DTEND;TZID=Europe/London:20240513T204500
-DTSTAMP:20240417T143721Z
+DTSTAMP:20240501T143714Z
 UID:/races/a7b1f707-97bd-4a8a-8d2e-ba1569dfaa85
 DESCRIPTION:Trunce 3 (BS)\nDate & time: Mon 13 May 2024 at 18:45\nDistance
  :6.4 km / 4 miles\nClimb:170 m / 558 ft\nGrid reference:SE272012\nEntry on
@@ -658,7 +353,7 @@ BEGIN:VEVENT
 SUMMARY:Mearley Clough Fell Race (AS)
 DTSTART;TZID=Europe/London:20240514T191500
 DTEND;TZID=Europe/London:20240514T211500
-DTSTAMP:20240417T143721Z
+DTSTAMP:20240501T143715Z
 UID:/races/d811fe42-0d8e-4728-8901-b5416afb095b
 DESCRIPTION:Mearley Clough Fell Race (AS)\nDate & time: Tue 14 May 2024 at
   19:15\nDistance:5.6 km / 3.5 miles\nClimb:380 m / 1247 ft\nGrid reference
@@ -671,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:Jack Bloor Race (BS)
 DTSTART;TZID=Europe/London:20240514T191500
 DTEND;TZID=Europe/London:20240514T211500
-DTSTAMP:20240417T143721Z
+DTSTAMP:20240501T143716Z
 UID:/races/e8bea5ce-518b-42aa-97f7-050de4f7969b
 DESCRIPTION:Jack Bloor Race (BS)\nDate & time: Tue 14 May 2024 at 19:15\nD
  istance:8.4 km / 5.2 miles\nClimb:350 m / 1148 ft\nGrid reference:SE117470
@@ -683,7 +378,7 @@ BEGIN:VEVENT
 SUMMARY:Great Orme / Y Gogarth (AS)
 DTSTART;TZID=Europe/London:20240514T191500
 DTEND;TZID=Europe/London:20240514T211500
-DTSTAMP:20240417T143722Z
+DTSTAMP:20240501T143716Z
 UID:/races/a391be97-4691-4e99-a3b7-ddf890617db3
 DESCRIPTION:Great Orme / Y Gogarth (AS)\nDate & time: Tue 14 May 2024 at 1
  9:15\nDistance:6.6 km / 4.1 miles\nClimb:398 m / 1306 ft\nEntry on day:Yes
@@ -696,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Latrigg (AS)
 DTSTART;TZID=Europe/London:20240515T190000
 DTEND;TZID=Europe/London:20240515T210000
-DTSTAMP:20240417T143722Z
+DTSTAMP:20240501T143716Z
 UID:/races/b639c1e0-f5b1-4562-a881-e4663e00420c
 DESCRIPTION:Latrigg (AS)\nDate & time: Wed 15 May 2024 at 19:00\nDistance:
  4.8 km / 3 miles\nClimb:290 m / 951 ft\nGrid reference:268238\nEntry on da
@@ -708,7 +403,7 @@ BEGIN:VEVENT
 SUMMARY:Caw (AS)
 DTSTART;TZID=Europe/London:20240515T191500
 DTEND;TZID=Europe/London:20240515T211500
-DTSTAMP:20240417T143723Z
+DTSTAMP:20240501T143717Z
 UID:/races/59396ba6-14a8-49ee-9488-53214efd7b8f
 DESCRIPTION:Caw (AS)\nDate & time: Wed 15 May 2024 at 19:15\nDistance:9.3 
  km / 5.8 miles\nClimb:550 m / 1804 ft\nGrid reference:223906\nEntry on day
@@ -720,7 +415,7 @@ BEGIN:VEVENT
 SUMMARY:Parks Life (BS)
 DTSTART;TZID=Europe/London:20240516T190000
 DTEND;TZID=Europe/London:20240516T210000
-DTSTAMP:20240417T143723Z
+DTSTAMP:20240501T143718Z
 UID:/races/3b03aaee-0818-431f-ae5f-e961b1d7eb73
 DESCRIPTION:Parks Life (BS)\nDate & time: Thu 16 May 2024 at 19:00\nDistan
  ce:7 km / 4.3 miles\nClimb:210 m / 689 ft\nEntry on day:Yes\nEntry on day 
@@ -735,7 +430,7 @@ BEGIN:VEVENT
 SUMMARY:Hayfield May Queen (BS)
 DTSTART;TZID=Europe/London:20240517T193000
 DTEND;TZID=Europe/London:20240517T213000
-DTSTAMP:20240417T143723Z
+DTSTAMP:20240501T143718Z
 UID:/races/fcc6ae96-889a-4994-99ad-15d7b0db14e8
 DESCRIPTION:Hayfield May Queen (BS)\nDate & time: Fri 17 May 2024 at 19:30
  \nDistance:4.7 km / 2.9 miles\nClimb:200 m / 656 ft\nGrid reference:SK 034
@@ -747,7 +442,7 @@ BEGIN:VEVENT
 SUMMARY:Old County Tops (AL)
 DTSTART;TZID=Europe/London:20240518T080000
 DTEND;TZID=Europe/London:20240518T100000
-DTSTAMP:20240417T143724Z
+DTSTAMP:20240501T143719Z
 UID:/races/61b2db17-8c6c-477f-9bfd-f10c113701f9
 DESCRIPTION:Old County Tops (AL)\nDate & time: Sat 18 May 2024 at 8:00\nDi
  stance:59 km / 36.7 miles\nClimb:3050 m / 10007 ft\nGrid reference:296064\
@@ -760,7 +455,7 @@ BEGIN:VEVENT
 SUMMARY:Two Tops Dash (AS)
 DTSTART;TZID=Europe/London:20240518T110000
 DTEND;TZID=Europe/London:20240518T130000
-DTSTAMP:20240417T143724Z
+DTSTAMP:20240501T143720Z
 UID:/races/e7186576-6ae6-4ec1-9c54-1b6ae8a02455
 DESCRIPTION:Two Tops Dash (AS)\nDate & time: Sat 18 May 2024 at 11:00\nDis
  tance:9.6 km / 6 miles\nClimb:574 m / 1883 ft\nGrid reference:NY 191 301\n
@@ -773,7 +468,7 @@ BEGIN:VEVENT
 SUMMARY:Mark Boulton Memorial Mount Famine (AS)
 DTSTART;TZID=Europe/London:20240518T110000
 DTEND;TZID=Europe/London:20240518T130000
-DTSTAMP:20240417T143724Z
+DTSTAMP:20240501T143720Z
 UID:/races/83413bb3-2316-4d8d-9742-dfc4ddcd280e
 DESCRIPTION:Mark Boulton Memorial Mount Famine (AS)\nDate & time: Sat 18 M
  ay 2024 at 11:00\nDistance:8 km / 5 miles\nClimb:564 m / 1850 ft\nGrid ref
@@ -786,7 +481,7 @@ BEGIN:VEVENT
 SUMMARY:Sedbergh ( B O F R A ) (AS)
 DTSTART;TZID=Europe/London:20240518T131500
 DTEND;TZID=Europe/London:20240518T151500
-DTSTAMP:20240417T143725Z
+DTSTAMP:20240501T143721Z
 UID:/races/a68b92c2-7eb2-4edf-b379-83cd15a7995c
 DESCRIPTION:Sedbergh ( B O F R A ) (AS)\nDate & time: Sat 18 May 2024 at 1
  3:15\nDistance:3.5 km / 2.2 miles\nClimb:336 m / 1102 ft\nEntry on day:Yes
@@ -798,7 +493,7 @@ BEGIN:VEVENT
 SUMMARY:Marilyn's Meldon Madness (AS)
 DTSTART;TZID=Europe/London:20240518T140000
 DTEND;TZID=Europe/London:20240518T160000
-DTSTAMP:20240417T143725Z
+DTSTAMP:20240501T143722Z
 UID:/races/990c1642-d270-4368-967e-a6b6b1804e4b
 DESCRIPTION:Marilyn's Meldon Madness (AS)\nDate & time: Sat 18 May 2024 at
   14:00\nDistance:8 km / 5 miles\nClimb:415 m / 1362 ft\nGrid reference:SX5
@@ -812,7 +507,7 @@ BEGIN:VEVENT
 SUMMARY:Calderdale Way Relay (Relay)
 DTSTART;TZID=Europe/London:20240519T080000
 DTEND;TZID=Europe/London:20240519T100000
-DTSTAMP:20240417T143726Z
+DTSTAMP:20240501T143722Z
 UID:/races/6606afc2-ea29-4b2f-9b53-e2146f1a1674
 DESCRIPTION:Calderdale Way Relay (Relay)\nDate & time: Sun 19 May 2024 at 
  8:00\nDistance:80.5 km / 50 miles\nClimb:3660 m / 12008 ft\nGrid reference
@@ -825,7 +520,7 @@ BEGIN:VEVENT
 SUMMARY:Lantern Pike Dash (AS)
 DTSTART;TZID=Europe/London:20240519T110000
 DTEND;TZID=Europe/London:20240519T130000
-DTSTAMP:20240417T143726Z
+DTSTAMP:20240501T143723Z
 UID:/races/94e27fd6-f50b-4135-8fac-5ad67be70116
 DESCRIPTION:Lantern Pike Dash (AS)\nDate & time: Sun 19 May 2024 at 11:00\
  nDistance:2 km / 1.2 miles\nClimb:200 m / 656 ft\nGrid reference:034884\nE
@@ -837,7 +532,7 @@ BEGIN:VEVENT
 SUMMARY:Youlgrave's Pommie Panter (BS)
 DTSTART;TZID=Europe/London:20240519T110000
 DTEND;TZID=Europe/London:20240519T130000
-DTSTAMP:20240417T143726Z
+DTSTAMP:20240501T143723Z
 UID:/races/93b429aa-66af-449e-94ae-d51c3b9ab16a
 DESCRIPTION:Youlgrave's Pommie Panter (BS)\nDate & time: Sun 19 May 2024 a
  t 11:00\nDistance:9.3 km / 5.8 miles\nClimb:267 m / 876 ft\nGrid reference
@@ -850,7 +545,7 @@ BEGIN:VEVENT
 SUMMARY:Glaramara (AS)
 DTSTART;TZID=Europe/London:20240519T130000
 DTEND;TZID=Europe/London:20240519T150000
-DTSTAMP:20240417T143727Z
+DTSTAMP:20240501T143724Z
 UID:/races/7ff1c600-fef7-49a0-afa4-88080ca42c5b
 DESCRIPTION:Glaramara (AS)\nDate & time: Sun 19 May 2024 at 13:00\nDistanc
  e:8 km / 5 miles\nClimb:700 m / 2297 ft\nGrid reference:247137\nEntry on d
@@ -861,25 +556,26 @@ DESCRIPTION:Glaramara (AS)\nDate & time: Sun 19 May 2024 at 13:00\nDistanc
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Shutlingsloe (AS)
-DTSTART;TZID=Europe/London:20240519T144500
-DTEND;TZID=Europe/London:20240519T164500
-DTSTAMP:20240417T143727Z
+DTSTART;TZID=Europe/London:20240519T150000
+DTEND;TZID=Europe/London:20240519T170000
+DTSTAMP:20240501T143724Z
 UID:/races/712080d7-ff7f-4a63-96a2-dadb5397439e
-DESCRIPTION:Shutlingsloe (AS)\nDate & time: Sun 19 May 2024 at 14:45\nDist
+DESCRIPTION:Shutlingsloe (AS)\nDate & time: Sun 19 May 2024 at 15:00\nDist
  ance:3 km / 1.9 miles\nClimb:270 m / 886 ft\nGrid reference:SJ988689\nEntr
  y on day:Yes\nEntry on day fee (members):£8.00\nEntry on day fee (non-mem
  bers):£10.00\nPre-entry:Yes\nPre-entry fee (members):£6.00\nPre-entry fe
  e (non-members):£8.00\nPre-entry only. U9(over 6)/U11/U13/U15/U17/U19 Jun
- ior Championship. Start from 1:30pm. Discounted full series entry availabl
- e for all six races. Use the same number for the series.\nPeak District\, 
- England\nFull information: https://races.fellrunner.org.uk/races/712080d7-
- ff7f-4a63-96a2-dadb5397439e
+ ior Championship. Start from 1:15pm. Discounted full series entry availabl
+ e for all six races. Use the same number for the series. https://fellrunne
+ r.niftyentries.com/Shutlingsloe-Fell-Race-2024\nPeak District\, England\nF
+ ull information: https://races.fellrunner.org.uk/races/712080d7-ff7f-4a63-
+ 96a2-dadb5397439e
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Totley Moor (BM)
 DTSTART;TZID=Europe/London:20240521T193000
 DTEND;TZID=Europe/London:20240521T213000
-DTSTAMP:20240417T143727Z
+DTSTAMP:20240501T143725Z
 UID:/races/5fba53a6-49a2-4f51-a32c-0fa167bda5ba
 DESCRIPTION:Totley Moor (BM)\nDate & time: Tue 21 May 2024 at 19:30\nDista
  nce:10.5 km / 6.5 miles\nClimb:440 m / 1444 ft\nGrid reference:302799\nEnt
@@ -891,7 +587,7 @@ BEGIN:VEVENT
 SUMMARY:Kildwick (BS)
 DTSTART;TZID=Europe/London:20240521T193000
 DTEND;TZID=Europe/London:20240521T213000
-DTSTAMP:20240417T143728Z
+DTSTAMP:20240501T143725Z
 UID:/races/3b18bd1e-2791-4728-992f-7c44d263bfc8
 DESCRIPTION:Kildwick (BS)\nDate & time: Tue 21 May 2024 at 19:30\nDistance
  :6 km / 3.7 miles\nClimb:245 m / 804 ft\nGrid reference:SE011457\nEntry on
@@ -904,7 +600,7 @@ BEGIN:VEVENT
 SUMMARY:Latterbarrow Loop (AS)
 DTSTART;TZID=Europe/London:20240522T190000
 DTEND;TZID=Europe/London:20240522T210000
-DTSTAMP:20240417T143728Z
+DTSTAMP:20240501T143726Z
 UID:/races/e6cadb6a-2552-4ec7-ba20-9a4e7df18779
 DESCRIPTION:Latterbarrow Loop (AS)\nDate & time: Wed 22 May 2024 at 19:00\
  nDistance:4.8 km / 3 miles\nClimb:250 m / 820 ft\nGrid reference:NY061119\
@@ -916,7 +612,7 @@ BEGIN:VEVENT
 SUMMARY:Blackstone Edge (AS)
 DTSTART;TZID=Europe/London:20240522T190000
 DTEND;TZID=Europe/London:20240522T210000
-DTSTAMP:20240417T143729Z
+DTSTAMP:20240501T143727Z
 UID:/races/82eb4e8c-db78-4c34-87d0-ea6c3869facb
 DESCRIPTION:Blackstone Edge (AS)\nDate & time: Wed 22 May 2024 at 19:00\nD
  istance:5.6 km / 3.5 miles\nClimb:366 m / 1201 ft\nEntry on day:No\nPre-en
@@ -928,7 +624,7 @@ BEGIN:VEVENT
 SUMMARY:Gun Run (BS)
 DTSTART;TZID=Europe/London:20240522T191500
 DTEND;TZID=Europe/London:20240522T211500
-DTSTAMP:20240417T143729Z
+DTSTAMP:20240501T143728Z
 UID:/races/0d9a0d22-f80f-43b9-a8c6-466eed1e9e26
 DESCRIPTION:Gun Run (BS)\nDate & time: Wed 22 May 2024 at 19:15\nDistance:
  9.9 km / 6.2 miles\nClimb:250 m / 820 ft\nGrid reference:965 682\nEntry on
@@ -941,7 +637,7 @@ BEGIN:VEVENT
 SUMMARY:Batch Bash (AS)
 DTSTART;TZID=Europe/London:20240522T193000
 DTEND;TZID=Europe/London:20240522T213000
-DTSTAMP:20240417T143730Z
+DTSTAMP:20240501T143728Z
 UID:/races/570a3e8a-f9ec-4f83-98c0-66c1720fc7a7
 DESCRIPTION:Batch Bash (AS)\nDate & time: Wed 22 May 2024 at 19:30\nDistan
  ce:4.8 km / 3 miles\nClimb:305 m / 1001 ft\nEntry on day:Yes\nEntry on day
@@ -953,7 +649,7 @@ BEGIN:VEVENT
 SUMMARY:That's So Hebden Bridge (BM)
 DTSTART;TZID=Europe/London:20240523T184500
 DTEND;TZID=Europe/London:20240523T204500
-DTSTAMP:20240417T143730Z
+DTSTAMP:20240501T143729Z
 UID:/races/d96d69f6-d3bd-4330-9c30-7259fff93630
 DESCRIPTION:That's So Hebden Bridge (BM)\nDate & time: Thu 23 May 2024 at 
  18:45\nDistance:10.4 km / 6.5 miles\nClimb:350 m / 1148 ft\nGrid reference
@@ -965,7 +661,7 @@ BEGIN:VEVENT
 SUMMARY:Nicky Nook (BS)
 DTSTART;TZID=Europe/London:20240523T190000
 DTEND;TZID=Europe/London:20240523T210000
-DTSTAMP:20240417T143730Z
+DTSTAMP:20240501T143729Z
 UID:/races/9af92a5c-754a-4c7f-85a6-360dbb761aa9
 DESCRIPTION:Nicky Nook (BS)\nDate & time: Thu 23 May 2024 at 19:00\nDistan
  ce:8.1 km / 5 miles\nClimb:313 m / 1027 ft\nGrid reference:SD509 492\nEntr
@@ -979,7 +675,7 @@ BEGIN:VEVENT
 SUMMARY:Mickle Fell (BL)
 DTSTART;TZID=Europe/London:20240525T100000
 DTEND;TZID=Europe/London:20240525T120000
-DTSTAMP:20240417T143731Z
+DTSTAMP:20240501T143730Z
 UID:/races/e71e85fb-83b8-4e95-98ce-4e862ae6a21a
 DESCRIPTION:Mickle Fell (BL)\nDate & time: Sat 25 May 2024 at 10:00\nDista
  nce:30 km / 18.6 miles\nClimb:900 m / 2953 ft\nGrid reference:NY 81482 308
@@ -993,7 +689,7 @@ BEGIN:VEVENT
 SUMMARY:Isle of Jura (AL)
 DTSTART;TZID=Europe/London:20240525T103000
 DTEND;TZID=Europe/London:20240525T123000
-DTSTAMP:20240417T143731Z
+DTSTAMP:20240501T143730Z
 UID:/races/05ae505c-112a-406a-bec3-e7d232406b85
 DESCRIPTION:Isle of Jura (AL)\nDate & time: Sat 25 May 2024 at 10:30\nDist
  ance:28 km / 17.4 miles\nClimb:2370 m / 7776 ft\nGrid reference:GR 527670\
@@ -1006,7 +702,7 @@ BEGIN:VEVENT
 SUMMARY:Helvellyn And The Dodds (AL)
 DTSTART;TZID=Europe/London:20240525T110000
 DTEND;TZID=Europe/London:20240525T130000
-DTSTAMP:20240417T143731Z
+DTSTAMP:20240501T143731Z
 UID:/races/086bcbf4-c769-4ccb-b1a9-106138179f2d
 DESCRIPTION:Helvellyn And The Dodds (AL)\nDate & time: Sat 25 May 2024 at 
  11:00\nDistance:24 km / 14.9 miles\nClimb:1337 m / 4386 ft\nGrid reference
@@ -1020,7 +716,7 @@ BEGIN:VEVENT
 SUMMARY:Hutton Roof Crags (BM)
 DTSTART;TZID=Europe/London:20240525T141500
 DTEND;TZID=Europe/London:20240525T161500
-DTSTAMP:20240417T143732Z
+DTSTAMP:20240501T143731Z
 UID:/races/c5a18ca1-ac93-4db2-81ef-fae25265c2b3
 DESCRIPTION:Hutton Roof Crags (BM)\nDate & time: Sat 25 May 2024 at 14:15\
  nDistance:11 km / 6.8 miles\nClimb:402 m / 1319 ft\nGrid reference:SD57078
@@ -1032,7 +728,7 @@ BEGIN:VEVENT
 SUMMARY:Bradda Niarbyl (AL)
 DTSTART;TZID=Europe/London:20240526T110000
 DTEND;TZID=Europe/London:20240526T130000
-DTSTAMP:20240417T143732Z
+DTSTAMP:20240501T143732Z
 UID:/races/f349fccf-4306-49dd-b516-19304f813f6f
 DESCRIPTION:Bradda Niarbyl (AL)\nDate & time: Sun 26 May 2024 at 11:00\nDi
  stance:25 km / 15.5 miles\nClimb:1789 m / 5869 ft\nEntry on day:Yes\nEntry
@@ -1044,7 +740,7 @@ BEGIN:VEVENT
 SUMMARY:Mynydd Myfyr (CS)
 DTSTART;TZID=Europe/London:20240526T110000
 DTEND;TZID=Europe/London:20240526T130000
-DTSTAMP:20240417T143733Z
+DTSTAMP:20240501T143732Z
 UID:/races/0707a9e1-9f4d-4e71-8a7e-e428268de3a3
 DESCRIPTION:Mynydd Myfyr (CS)\nDate & time: Sun 26 May 2024 at 11:00\nDist
  ance:6.5 km / 4 miles\nClimb:150 m / 492 ft\nEntry on day:Yes\nEntry on da
@@ -1056,7 +752,7 @@ BEGIN:VEVENT
 SUMMARY:Coniston Gullies ( B O F R A ) (AS)
 DTSTART;TZID=Europe/London:20240526T120000
 DTEND;TZID=Europe/London:20240526T140000
-DTSTAMP:20240417T143733Z
+DTSTAMP:20240501T143733Z
 UID:/races/13b21d34-d93e-400e-b9e7-1bde2671d5ca
 DESCRIPTION:Coniston Gullies ( B O F R A ) (AS)\nDate & time: Sun 26 May 2
  024 at 12:00\nDistance:2 km / 1.2 miles\nClimb:350 m / 1148 ft\nEntry on d
@@ -1068,7 +764,7 @@ BEGIN:VEVENT
 SUMMARY:Ilkley Trail Juniors ()
 DTSTART;TZID=Europe/London:20240527T100000
 DTEND;TZID=Europe/London:20240527T120000
-DTSTAMP:20240417T143733Z
+DTSTAMP:20240501T143733Z
 UID:/races/7424a7a2-f6eb-42c2-b266-d5416bceffb5
 DESCRIPTION:Ilkley Trail Juniors ()\nDate & time: Mon 27 May 2024 at 10:00
  \nDistance:2 km / 1.2 miles\nEntry on day:Yes\nEntry on day fee:£2.00\nPr
@@ -1079,7 +775,7 @@ BEGIN:VEVENT
 SUMMARY:Bowley Hill (CS)
 DTSTART;TZID=Europe/London:20240527T110000
 DTEND;TZID=Europe/London:20240527T130000
-DTSTAMP:20240417T143734Z
+DTSTAMP:20240501T143734Z
 UID:/races/d41ff734-1ca8-4853-8e78-98057f034ec8
 DESCRIPTION:Bowley Hill (CS)\nDate & time: Mon 27 May 2024 at 11:00\nDista
  nce:9.4 km / 5.8 miles\nClimb:225 m / 738 ft\nGrid reference:SD744329\nEnt
@@ -1094,7 +790,7 @@ BEGIN:VEVENT
 SUMMARY:Ilkley Trail (CM)
 DTSTART;TZID=Europe/London:20240527T113000
 DTEND;TZID=Europe/London:20240527T133000
-DTSTAMP:20240417T143734Z
+DTSTAMP:20240501T143734Z
 UID:/races/f0c3ffc0-0673-42f2-9092-07f9c8533ade
 DESCRIPTION:Ilkley Trail (CM)\nDate & time: Mon 27 May 2024 at 11:30\nDist
  ance:11.1 km / 6.9 miles\nClimb:247 m / 810 ft\nEntry on day:Yes\nEntry on
@@ -1107,7 +803,7 @@ BEGIN:VEVENT
 SUMMARY:Bamford Sheepdog Trials (BS)
 DTSTART;TZID=Europe/London:20240527T130000
 DTEND;TZID=Europe/London:20240527T150000
-DTSTAMP:20240417T143734Z
+DTSTAMP:20240501T143735Z
 UID:/races/adcb9c4d-5881-475f-bbd2-5a8e158a8755
 DESCRIPTION:Bamford Sheepdog Trials (BS)\nDate & time: Mon 27 May 2024 at 
  13:00\nDistance:7.2 km / 4.5 miles\nClimb:305 m / 1001 ft\nGrid reference:
@@ -1121,7 +817,7 @@ BEGIN:VEVENT
 SUMMARY:Austwick Amble (BM)
 DTSTART;TZID=Europe/London:20240527T130000
 DTEND;TZID=Europe/London:20240527T150000
-DTSTAMP:20240417T143735Z
+DTSTAMP:20240501T143735Z
 UID:/races/d025185d-c4ae-41ce-a765-933a8cbc30ab
 DESCRIPTION:Austwick Amble (BM)\nDate & time: Mon 27 May 2024 at 13:00\nDi
  stance:13 km / 8.1 miles\nClimb:365 m / 1198 ft\nGrid reference:767685\nEn
@@ -1135,7 +831,7 @@ BEGIN:VEVENT
 SUMMARY:Gavel Fell Race (BS)
 DTSTART;TZID=Europe/London:20240529T190000
 DTEND;TZID=Europe/London:20240529T210000
-DTSTAMP:20240417T143735Z
+DTSTAMP:20240501T143736Z
 UID:/races/3bbf23f9-cbe9-4dc6-b996-69357551c607
 DESCRIPTION:Gavel Fell Race (BS)\nDate & time: Wed 29 May 2024 at 19:00\nD
  istance:8 km / 5 miles\nClimb:330 m / 1083 ft\nGrid reference:NY087182\nEn
@@ -1147,7 +843,7 @@ BEGIN:VEVENT
 SUMMARY:Glaisdale Rigg May Race (BM)
 DTSTART;TZID=Europe/London:20240529T190000
 DTEND;TZID=Europe/London:20240529T210000
-DTSTAMP:20240417T143735Z
+DTSTAMP:20240501T143737Z
 UID:/races/a1ff97f2-8388-4624-b6da-675924682e3f
 DESCRIPTION:Glaisdale Rigg May Race (BM)\nDate & time: Wed 29 May 2024 at 
  19:00\nDistance:13.7 km / 8.5 miles\nClimb:562 m / 1844 ft\nGrid reference
@@ -1162,7 +858,7 @@ BEGIN:VEVENT
 SUMMARY:Stanhill (BS)
 DTSTART;TZID=Europe/London:20240529T193000
 DTEND;TZID=Europe/London:20240529T213000
-DTSTAMP:20240417T143736Z
+DTSTAMP:20240501T143737Z
 UID:/races/e91575d2-c50c-4e25-bff0-c20079ac5cb2
 DESCRIPTION:Stanhill (BS)\nDate & time: Wed 29 May 2024 at 19:30\nDistance
  :8 km / 5 miles\nClimb:250 m / 820 ft\nEntry on day:Yes\nEntry on day fee 
@@ -1174,7 +870,7 @@ BEGIN:VEVENT
 SUMMARY:Kelbrook (BS)
 DTSTART;TZID=Europe/London:20240601T103000
 DTEND;TZID=Europe/London:20240601T123000
-DTSTAMP:20240417T143736Z
+DTSTAMP:20240501T143738Z
 UID:/races/ff9f89e3-3c0e-4380-9830-b3ba40130f7e
 DESCRIPTION:Kelbrook (BS)\nDate & time: Sat 1 Jun 2024 at 10:30\nDistance:
  5.5 km / 3.4 miles\nClimb:213 m / 699 ft\nGrid reference:SD903447\nEntry o
@@ -1186,7 +882,7 @@ BEGIN:VEVENT
 SUMMARY:Duddon Valley (AL)
 DTSTART;TZID=Europe/London:20240601T110000
 DTEND;TZID=Europe/London:20240601T130000
-DTSTAMP:20240417T143737Z
+DTSTAMP:20240501T143739Z
 UID:/races/0c3bef16-0579-4055-969b-03e1183ddff7
 DESCRIPTION:Duddon Valley (AL)\nDate & time: Sat 1 Jun 2024 at 11:00\nDist
  ance:29 km / 18 miles\nClimb:1830 m / 6004 ft\nGrid reference:227960\nEntr
@@ -1199,7 +895,7 @@ BEGIN:VEVENT
 SUMMARY:Duddon Valley Short (AM)
 DTSTART;TZID=Europe/London:20240601T113000
 DTEND;TZID=Europe/London:20240601T133000
-DTSTAMP:20240417T143737Z
+DTSTAMP:20240501T143739Z
 UID:/races/72d98fef-e596-4e19-9c6a-3cc449d8ac31
 DESCRIPTION:Duddon Valley Short (AM)\nDate & time: Sat 1 Jun 2024 at 11:30
  \nDistance:15.3 km / 9.5 miles\nClimb:915 m / 3002 ft\nGrid reference:2279
@@ -1212,7 +908,7 @@ BEGIN:VEVENT
 SUMMARY:Pen Y Ghent (AM)
 DTSTART;TZID=Europe/London:20240601T150000
 DTEND;TZID=Europe/London:20240601T170000
-DTSTAMP:20240417T143737Z
+DTSTAMP:20240501T143739Z
 UID:/races/66b2d601-62d2-47cc-923d-bea7681471aa
 DESCRIPTION:Pen Y Ghent (AM)\nDate & time: Sat 1 Jun 2024 at 15:00\nDistan
  ce:10.5 km / 6.5 miles\nClimb:564 m / 1850 ft\nGrid reference:805728\nEntr
@@ -1225,7 +921,7 @@ BEGIN:VEVENT
 SUMMARY:Oke Croak (BM)
 DTSTART;TZID=Europe/London:20240602T100000
 DTEND;TZID=Europe/London:20240602T120000
-DTSTAMP:20240417T143738Z
+DTSTAMP:20240501T143740Z
 UID:/races/f017745e-d8ab-4654-89ed-7135e4276a24
 DESCRIPTION:Oke Croak (BM)\nDate & time: Sun 2 Jun 2024 at 10:00\nDistance
  :16.7 km / 10.4 miles\nClimb:628 m / 2060 ft\nGrid reference:SX 591946\nEn
@@ -1237,7 +933,7 @@ BEGIN:VEVENT
 SUMMARY:Edenfield (BM)
 DTSTART;TZID=Europe/London:20240602T103000
 DTEND;TZID=Europe/London:20240602T123000
-DTSTAMP:20240417T143738Z
+DTSTAMP:20240501T143741Z
 UID:/races/a6f92eef-6ac1-4c83-a0fd-c662d1bf26fd
 DESCRIPTION:Edenfield (BM)\nDate & time: Sun 2 Jun 2024 at 10:30\nDistance
  :10.2 km / 6.3 miles\nClimb:396 m / 1299 ft\nGrid reference:GR802192\nEntr
@@ -1250,7 +946,7 @@ BEGIN:VEVENT
 SUMMARY:Passing Clouds (BM)
 DTSTART;TZID=Europe/London:20240602T110000
 DTEND;TZID=Europe/London:20240602T130000
-DTSTAMP:20240417T143738Z
+DTSTAMP:20240501T143741Z
 UID:/races/1046aec5-d70c-4b98-88d3-96a00b9f365d
 DESCRIPTION:Passing Clouds (BM)\nDate & time: Sun 2 Jun 2024 at 11:00\nDis
  tance:15.7 km / 9.8 miles\nClimb:565 m / 1854 ft\nGrid reference:SK994602\
@@ -1263,7 +959,7 @@ BEGIN:VEVENT
 SUMMARY:Coombe Hill (BS)
 DTSTART;TZID=Europe/London:20240602T110000
 DTEND;TZID=Europe/London:20240602T130000
-DTSTAMP:20240417T143739Z
+DTSTAMP:20240501T143742Z
 UID:/races/a6711624-d5e8-448a-8b59-a5ebba846e25
 DESCRIPTION:Coombe Hill (BS)\nDate & time: Sun 2 Jun 2024 at 11:00\nDistan
  ce:7 km / 4.3 miles\nClimb:220 m / 722 ft\nEntry on day:Yes\nEntry on day 
@@ -1275,7 +971,7 @@ BEGIN:VEVENT
 SUMMARY:Kettlewell ( B O F R A ) (AS)
 DTSTART;TZID=Europe/London:20240602T120000
 DTEND;TZID=Europe/London:20240602T140000
-DTSTAMP:20240417T143739Z
+DTSTAMP:20240501T143742Z
 UID:/races/59cc6f27-578f-45df-9c33-e280054dea3d
 DESCRIPTION:Kettlewell ( B O F R A ) (AS)\nDate & time: Sun 2 Jun 2024 at 
  12:00\nDistance:2.5 km / 1.6 miles\nClimb:250 m / 820 ft\nEntry on day:Yes
@@ -1288,7 +984,7 @@ BEGIN:VEVENT
 SUMMARY:Trunce 4 (BS)
 DTSTART;TZID=Europe/London:20240603T184500
 DTEND;TZID=Europe/London:20240603T204500
-DTSTAMP:20240417T143739Z
+DTSTAMP:20240501T143743Z
 UID:/races/2a54e183-0ccd-45a2-bcf9-4f85cbdd00a5
 DESCRIPTION:Trunce 4 (BS)\nDate & time: Mon 3 Jun 2024 at 18:45\nDistance:
  6.4 km / 4 miles\nClimb:170 m / 558 ft\nGrid reference:SE272012\nEntry on 
@@ -1300,7 +996,7 @@ BEGIN:VEVENT
 SUMMARY:Paddy's Pole (AS)
 DTSTART;TZID=Europe/London:20240604T191500
 DTEND;TZID=Europe/London:20240604T211500
-DTSTAMP:20240417T143740Z
+DTSTAMP:20240501T143743Z
 UID:/races/e07bd356-75d3-433e-a7c2-172723f794fb
 DESCRIPTION:Paddy's Pole (AS)\nDate & time: Tue 4 Jun 2024 at 19:15\nDista
  nce:6 km / 3.7 miles\nClimb:336 m / 1102 ft\nGrid reference:602442\nEntry 
@@ -1315,7 +1011,7 @@ BEGIN:VEVENT
 SUMMARY:Coppice (BS)
 DTSTART;TZID=Europe/London:20240604T193000
 DTEND;TZID=Europe/London:20240604T213000
-DTSTAMP:20240417T143740Z
+DTSTAMP:20240501T143744Z
 UID:/races/0c865de1-4020-4600-aee4-581453e61882
 DESCRIPTION:Coppice (BS)\nDate & time: Tue 4 Jun 2024 at 19:30\nDistance:8
   km / 5 miles\nClimb:310 m / 1017 ft\nEntry on day:Yes\nEntry on day fee (
@@ -1327,7 +1023,7 @@ BEGIN:VEVENT
 SUMMARY:Blencathra (AM)
 DTSTART;TZID=Europe/London:20240605T190000
 DTEND;TZID=Europe/London:20240605T210000
-DTSTAMP:20240417T143741Z
+DTSTAMP:20240501T143744Z
 UID:/races/12362f9f-5ce4-426b-ba20-4f8a281c93bf
 DESCRIPTION:Blencathra (AM)\nDate & time: Wed 5 Jun 2024 at 19:00\nDistanc
  e:13 km / 8.1 miles\nClimb:825 m / 2707 ft\nGrid reference:NY363302\nEntry
@@ -1340,7 +1036,7 @@ BEGIN:VEVENT
 SUMMARY:Whorlton Run (BM)
 DTSTART;TZID=Europe/London:20240605T191500
 DTEND;TZID=Europe/London:20240605T211500
-DTSTAMP:20240417T143741Z
+DTSTAMP:20240501T143744Z
 UID:/races/c15f726a-c98b-48db-b78e-7af0ec219111
 DESCRIPTION:Whorlton Run (BM)\nDate & time: Wed 5 Jun 2024 at 19:15\nDista
  nce:11 km / 6.8 miles\nClimb:427 m / 1401 ft\nGrid reference:NZ 47712 0202
@@ -1353,7 +1049,7 @@ BEGIN:VEVENT
 SUMMARY:Boar's Head (BM)
 DTSTART;TZID=Europe/London:20240605T193000
 DTEND;TZID=Europe/London:20240605T213000
-DTSTAMP:20240417T143741Z
+DTSTAMP:20240501T143745Z
 UID:/races/124f0e92-04fb-4fb2-ac39-32e318db1a33
 DESCRIPTION:Boar's Head (BM)\nDate & time: Wed 5 Jun 2024 at 19:30\nDistan
  ce:12.9 km / 8 miles\nClimb:402 m / 1319 ft\nGrid reference:SJ943833\nEntr
@@ -1365,7 +1061,7 @@ BEGIN:VEVENT
 SUMMARY:Otley Chevin (CS)
 DTSTART;TZID=Europe/London:20240605T193000
 DTEND;TZID=Europe/London:20240605T213000
-DTSTAMP:20240417T143742Z
+DTSTAMP:20240501T143746Z
 UID:/races/8f81de49-4f46-4369-a319-b35e42545d26
 DESCRIPTION:Otley Chevin (CS)\nDate & time: Wed 5 Jun 2024 at 19:30\nDista
  nce:4.5 km / 2.8 miles\nClimb:210 m / 689 ft\nGrid reference:SE202455\nEnt
@@ -1377,7 +1073,7 @@ BEGIN:VEVENT
 SUMMARY:Leo Pollard Memorial Race (BS)
 DTSTART;TZID=Europe/London:20240606T193000
 DTEND;TZID=Europe/London:20240606T213000
-DTSTAMP:20240417T143742Z
+DTSTAMP:20240501T143746Z
 UID:/races/8f62f1f6-77aa-4a1b-9ce2-4c9803df922e
 DESCRIPTION:Leo Pollard Memorial Race (BS)\nDate & time: Thu 6 Jun 2024 at
   19:30\nDistance:10 km / 6.2 miles\nClimb:420 m / 1378 ft\nGrid reference:
@@ -1389,7 +1085,7 @@ BEGIN:VEVENT
 SUMMARY:Kettlewell Anniversary (AS)
 DTSTART;TZID=Europe/London:20240606T193000
 DTEND;TZID=Europe/London:20240606T213000
-DTSTAMP:20240417T143742Z
+DTSTAMP:20240501T143747Z
 UID:/races/c5b9e843-e61d-4710-81f1-5779c723ea7f
 DESCRIPTION:Kettlewell Anniversary (AS)\nDate & time: Thu 6 Jun 2024 at 19
  :30\nDistance:8 km / 5 miles\nClimb:550 m / 1804 ft\nGrid reference:SD9677
@@ -1403,7 +1099,7 @@ BEGIN:VEVENT
 SUMMARY:Carsington Hill Race (CS)
 DTSTART;TZID=Europe/London:20240607T190000
 DTEND;TZID=Europe/London:20240607T210000
-DTSTAMP:20240417T143743Z
+DTSTAMP:20240501T143747Z
 UID:/races/a00e05cc-7855-4854-964f-fe38ef70dd97
 DESCRIPTION:Carsington Hill Race (CS)\nDate & time: Fri 7 Jun 2024 at 19:0
  0\nDistance:9.4 km / 5.8 miles\nClimb:267 m / 876 ft\nGrid reference:SK 25
@@ -1417,7 +1113,7 @@ BEGIN:VEVENT
 SUMMARY:Castleton (BS)
 DTSTART;TZID=Europe/London:20240607T193000
 DTEND;TZID=Europe/London:20240607T213000
-DTSTAMP:20240417T143743Z
+DTSTAMP:20240501T143748Z
 UID:/races/a410b298-74f4-4e82-a823-0cba7327baa7
 DESCRIPTION:Castleton (BS)\nDate & time: Fri 7 Jun 2024 at 19:30\nDistance
  :9.2 km / 5.7 miles\nClimb:427 m / 1401 ft\nGrid reference:148835\nEntry o
@@ -1429,7 +1125,7 @@ BEGIN:VEVENT
 SUMMARY:Ennerdale Horseshoe (AL)
 DTSTART;TZID=Europe/London:20240608T110000
 DTEND;TZID=Europe/London:20240608T130000
-DTSTAMP:20240417T143743Z
+DTSTAMP:20240501T143748Z
 UID:/races/9b6542ad-dc91-4408-be4e-b0021d02decc
 DESCRIPTION:Ennerdale Horseshoe (AL)\nDate & time: Sat 8 Jun 2024 at 11:00
  \nDistance:36.8 km / 22.9 miles\nClimb:2290 m / 7513 ft\nGrid reference:08
@@ -1443,7 +1139,7 @@ BEGIN:VEVENT
 SUMMARY:Storth Stampede (BS)
 DTSTART;TZID=Europe/London:20240608T120000
 DTEND;TZID=Europe/London:20240608T140000
-DTSTAMP:20240417T143744Z
+DTSTAMP:20240501T143749Z
 UID:/races/e9325871-f23a-4307-96fd-4e52cc2c72ca
 DESCRIPTION:Storth Stampede (BS)\nDate & time: Sat 8 Jun 2024 at 12:00\nDi
  stance:9 km / 5.6 miles\nClimb:277 m / 909 ft\nEntry on day:Yes\nEntry on 
@@ -1455,7 +1151,7 @@ BEGIN:VEVENT
 SUMMARY:Weets (AS)
 DTSTART;TZID=Europe/London:20240608T120000
 DTEND;TZID=Europe/London:20240608T140000
-DTSTAMP:20240417T143744Z
+DTSTAMP:20240501T143749Z
 UID:/races/91a6a2f7-6bed-4f45-af14-e8170fe9d568
 DESCRIPTION:Weets (AS)\nDate & time: Sat 8 Jun 2024 at 12:00\nDistance:8.8
   km / 5.5 miles\nClimb:550 m / 1804 ft\nGrid reference:879458\nEntry on da
@@ -1467,7 +1163,7 @@ BEGIN:VEVENT
 SUMMARY:Buckland Bounder (CS)
 DTSTART;TZID=Europe/London:20240608T140000
 DTEND;TZID=Europe/London:20240608T160000
-DTSTAMP:20240417T143745Z
+DTSTAMP:20240501T143750Z
 UID:/races/fd986ccd-c8f6-4023-983d-744396cc133f
 DESCRIPTION:Buckland Bounder (CS)\nDate & time: Sat 8 Jun 2024 at 14:00\nD
  istance:9.8 km / 6.1 miles\nClimb:261 m / 856 ft\nEntry on day:Yes\nEntry 
@@ -1480,7 +1176,7 @@ BEGIN:VEVENT
 SUMMARY:Wincle Trout (BS)
 DTSTART;TZID=Europe/London:20240608T144500
 DTEND;TZID=Europe/London:20240608T164500
-DTSTAMP:20240417T143745Z
+DTSTAMP:20240501T143750Z
 UID:/races/9e027c73-ed9c-47df-b07d-2ce9dd691987
 DESCRIPTION:Wincle Trout (BS)\nDate & time: Sat 8 Jun 2024 at 14:45\nDista
  nce:9.5 km / 5.9 miles\nClimb:320 m / 1050 ft\nEntry on day:No\nPre-entry:
@@ -1495,7 +1191,7 @@ BEGIN:VEVENT
 SUMMARY:Howtown (AL)
 DTSTART;TZID=Europe/London:20240609T110000
 DTEND;TZID=Europe/London:20240609T130000
-DTSTAMP:20240417T143745Z
+DTSTAMP:20240501T143751Z
 UID:/races/6e7a5415-ef36-4bd8-a466-d505c42010b8
 DESCRIPTION:Howtown (AL)\nDate & time: Sun 9 Jun 2024 at 11:00\nDistance:2
  1.4 km / 13.3 miles\nClimb:1400 m / 4593 ft\nGrid reference:443196\nEntry 
@@ -1510,7 +1206,7 @@ BEGIN:VEVENT
 SUMMARY:Edale Fell Race (AS)
 DTSTART;TZID=Europe/London:20240609T110000
 DTEND;TZID=Europe/London:20240609T130000
-DTSTAMP:20240417T143746Z
+DTSTAMP:20240501T143751Z
 UID:/races/5dc27d12-de5d-420e-b625-219728e26e08
 DESCRIPTION:Edale Fell Race (AS)\nDate & time: Sun 9 Jun 2024 at 11:00\nDi
  stance:7.6 km / 4.7 miles\nClimb:402 m / 1319 ft\nGrid reference:SK124853\
@@ -1522,7 +1218,7 @@ BEGIN:VEVENT
 SUMMARY:Knowl Hill (BS)
 DTSTART;TZID=Europe/London:20240609T110000
 DTEND;TZID=Europe/London:20240609T130000
-DTSTAMP:20240417T143746Z
+DTSTAMP:20240501T143752Z
 UID:/races/031fe4fe-942d-4795-8cc6-35d82e41d683
 DESCRIPTION:Knowl Hill (BS)\nDate & time: Sun 9 Jun 2024 at 11:00\nDistanc
  e:9.7 km / 6 miles\nClimb:396 m / 1299 ft\nEntry on day:Yes\nEntry on day 
@@ -1538,7 +1234,7 @@ BEGIN:VEVENT
 SUMMARY:Rossendale Junior fell races (Junior races)
 DTSTART;TZID=Europe/London:20240609T110000
 DTEND;TZID=Europe/London:20240609T130000
-DTSTAMP:20240417T143746Z
+DTSTAMP:20240501T143752Z
 UID:/races/08f0a029-0bb3-421d-acb2-3ea99e338c2d
 DESCRIPTION:Rossendale Junior fell races (Junior races)\nDate & time: Sun 
  9 Jun 2024 at 11:00\nDistance:0 km / 0 miles\nGrid reference:837212\nEntry
@@ -1551,7 +1247,7 @@ BEGIN:VEVENT
 SUMMARY:Ulverston Fell Race (BOFRA) (AS)
 DTSTART;TZID=Europe/London:20240609T120000
 DTEND;TZID=Europe/London:20240609T140000
-DTSTAMP:20240417T143747Z
+DTSTAMP:20240501T143753Z
 UID:/races/da021eb5-0d20-49cb-a45d-9088b9f32536
 DESCRIPTION:Ulverston Fell Race (BOFRA) (AS)\nDate & time: Sun 9 Jun 2024 
  at 12:00\nDistance:3.1 km / 1.9 miles\nClimb:164 m / 538 ft\nEntry on day:
@@ -1564,7 +1260,7 @@ BEGIN:VEVENT
 SUMMARY:Bridestone (AS)
 DTSTART;TZID=Europe/London:20240611T190000
 DTEND;TZID=Europe/London:20240611T210000
-DTSTAMP:20240417T143747Z
+DTSTAMP:20240501T143753Z
 UID:/races/f86eb5f6-2712-4d5c-83f5-5c76445951ff
 DESCRIPTION:Bridestone (AS)\nDate & time: Tue 11 Jun 2024 at 19:00\nDistan
  ce:7.5 km / 4.7 miles\nClimb:375 m / 1230 ft\nEntry on day:Yes\nEntry on d
@@ -1578,7 +1274,7 @@ BEGIN:VEVENT
 SUMMARY:Calton Crawl (BS)
 DTSTART;TZID=Europe/London:20240611T193000
 DTEND;TZID=Europe/London:20240611T213000
-DTSTAMP:20240417T143747Z
+DTSTAMP:20240501T143754Z
 UID:/races/6ed4ec88-7615-4739-879a-ac07f551af27
 DESCRIPTION:Calton Crawl (BS)\nDate & time: Tue 11 Jun 2024 at 19:30\nDist
  ance:8.5 km / 5.3 miles\nClimb:244 m / 801 ft\nGrid reference:SK104502\nEn
@@ -1590,7 +1286,7 @@ BEGIN:VEVENT
 SUMMARY:Mike Mallen Memorial Round Latrigg (CS)
 DTSTART;TZID=Europe/London:20240612T190000
 DTEND;TZID=Europe/London:20240612T210000
-DTSTAMP:20240417T143748Z
+DTSTAMP:20240501T143754Z
 UID:/races/e651af5d-93fe-49b1-91ad-68c4ac9878dc
 DESCRIPTION:Mike Mallen Memorial Round Latrigg (CS)\nDate & time: Wed 12 J
  un 2024 at 19:00\nDistance:8.8 km / 5.5 miles\nClimb:240 m / 787 ft\nGrid 
@@ -1602,7 +1298,7 @@ BEGIN:VEVENT
 SUMMARY:Ogden Midsummer Madness (AS)
 DTSTART;TZID=Europe/London:20240612T190000
 DTEND;TZID=Europe/London:20240612T210000
-DTSTAMP:20240417T143748Z
+DTSTAMP:20240501T143754Z
 UID:/races/c18d493a-d155-49f4-aec5-dbbdce75b486
 DESCRIPTION:Ogden Midsummer Madness (AS)\nDate & time: Wed 12 Jun 2024 at 
  19:00\nDistance:5 km / 3.1 miles\nClimb:300 m / 984 ft\nEntry on day:Yes\n
@@ -1614,7 +1310,7 @@ BEGIN:VEVENT
 SUMMARY:Calver Peak (BS)
 DTSTART;TZID=Europe/London:20240612T193000
 DTEND;TZID=Europe/London:20240612T213000
-DTSTAMP:20240417T143749Z
+DTSTAMP:20240501T143755Z
 UID:/races/f5843a3e-55f2-4b1d-a88a-1f15d2e30def
 DESCRIPTION:Calver Peak (BS)\nDate & time: Wed 12 Jun 2024 at 19:30\nDista
  nce:8 km / 5 miles\nClimb:275 m / 902 ft\nGrid reference:241747\nEntry on 
@@ -1626,7 +1322,7 @@ BEGIN:VEVENT
 SUMMARY:Brown Wardle (and A Bit Moor) (AS)
 DTSTART;TZID=Europe/London:20240612T193000
 DTEND;TZID=Europe/London:20240612T213000
-DTSTAMP:20240417T143749Z
+DTSTAMP:20240501T143755Z
 UID:/races/a3c5dbdf-2945-4f39-83f1-f9650f45bb76
 DESCRIPTION:Brown Wardle (and A Bit Moor) (AS)\nDate & time: Wed 12 Jun 20
  24 at 19:30\nDistance:5.3 km / 3.3 miles\nClimb:360 m / 1181 ft\nEntry on 
@@ -1638,7 +1334,7 @@ BEGIN:VEVENT
 SUMMARY:Grindleford (BS)
 DTSTART;TZID=Europe/London:20240613T193000
 DTEND;TZID=Europe/London:20240613T213000
-DTSTAMP:20240417T143749Z
+DTSTAMP:20240501T143756Z
 UID:/races/50fd6667-fa20-49d1-933a-c3389adc1f89
 DESCRIPTION:Grindleford (BS)\nDate & time: Thu 13 Jun 2024 at 19:30\nDista
  nce:7.7 km / 4.8 miles\nClimb:220 m / 722 ft\nGrid reference:407837\nEntry
@@ -1650,7 +1346,7 @@ BEGIN:VEVENT
 SUMMARY:Walsh Two Lads (BS)
 DTSTART;TZID=Europe/London:20240613T193000
 DTEND;TZID=Europe/London:20240613T213000
-DTSTAMP:20240417T143750Z
+DTSTAMP:20240501T143756Z
 UID:/races/3d52a1ce-a897-4349-a2c4-00b0f2f8af24
 DESCRIPTION:Walsh Two Lads (BS)\nDate & time: Thu 13 Jun 2024 at 19:30\nDi
  stance:8.4 km / 5.2 miles\nClimb:274 m / 899 ft\nEntry on day:Yes\nEntry o
@@ -1662,7 +1358,7 @@ BEGIN:VEVENT
 SUMMARY:Buttermere Sailbeck (AM)
 DTSTART;TZID=Europe/London:20240615T120000
 DTEND;TZID=Europe/London:20240615T140000
-DTSTAMP:20240417T143750Z
+DTSTAMP:20240501T143757Z
 UID:/races/27805eb2-c525-4824-b07c-a6913fb66a29
 DESCRIPTION:Buttermere Sailbeck (AM)\nDate & time: Sat 15 Jun 2024 at 12:0
  0\nDistance:15 km / 9.3 miles\nClimb:1315 m / 4314 ft\nGrid reference:NY17
@@ -1675,7 +1371,7 @@ BEGIN:VEVENT
 SUMMARY:Shrigley Stag (BS)
 DTSTART;TZID=Europe/London:20240615T140000
 DTEND;TZID=Europe/London:20240615T160000
-DTSTAMP:20240417T143750Z
+DTSTAMP:20240501T143758Z
 UID:/races/397ebe08-57c0-4cc5-a33a-519d828ae4d6
 DESCRIPTION:Shrigley Stag (BS)\nDate & time: Sat 15 Jun 2024 at 14:00\nDis
  tance:10 km / 6.2 miles\nClimb:280 m / 919 ft\nGrid reference:SJ 950 797\n
@@ -1688,7 +1384,7 @@ BEGIN:VEVENT
 SUMMARY:Buckden Pike (AS)
 DTSTART;TZID=Europe/London:20240615T140000
 DTEND;TZID=Europe/London:20240615T160000
-DTSTAMP:20240417T143751Z
+DTSTAMP:20240501T143758Z
 UID:/races/ae428770-8c5d-44d7-8b73-7fcd1c2b9c63
 DESCRIPTION:Buckden Pike (AS)\nDate & time: Sat 15 Jun 2024 at 14:00\nDist
  ance:6 km / 3.7 miles\nClimb:486 m / 1594 ft\nGrid reference:SD942773\nEnt
@@ -1700,7 +1396,7 @@ BEGIN:VEVENT
 SUMMARY:Weaver Hills (AS)
 DTSTART;TZID=Europe/London:20240615T150000
 DTEND;TZID=Europe/London:20240615T170000
-DTSTAMP:20240417T143751Z
+DTSTAMP:20240501T143759Z
 UID:/races/205456a9-d43a-4e6a-9c39-58a11a01902d
 DESCRIPTION:Weaver Hills (AS)\nDate & time: Sat 15 Jun 2024 at 15:00\nDist
  ance:3.5 km / 2.2 miles\nClimb:201 m / 659 ft\nGrid reference:SK105452\nEn
@@ -1715,7 +1411,7 @@ BEGIN:VEVENT
 SUMMARY:Peter Brinsley Bosley Fete (BS)
 DTSTART;TZID=Europe/London:20240615T151500
 DTEND;TZID=Europe/London:20240615T171500
-DTSTAMP:20240417T143752Z
+DTSTAMP:20240501T143759Z
 UID:/races/e65c1a2e-84ba-4d74-a097-fd4a69d515b3
 DESCRIPTION:Peter Brinsley Bosley Fete (BS)\nDate & time: Sat 15 Jun 2024 
  at 15:15\nDistance:7.5 km / 4.7 miles\nClimb:250 m / 820 ft\nGrid referenc
@@ -1729,7 +1425,7 @@ BEGIN:VEVENT
 SUMMARY:Burrator Horseshoe (BS)
 DTSTART;TZID=Europe/London:20240615T151500
 DTEND;TZID=Europe/London:20240615T171500
-DTSTAMP:20240417T143752Z
+DTSTAMP:20240501T143800Z
 UID:/races/69c9de0b-34aa-43ae-af60-fa1f3b16a524
 DESCRIPTION:Burrator Horseshoe (BS)\nDate & time: Sat 15 Jun 2024 at 15:15
  \nWebsite: <a href="http://www.entrycentral.com/burratorhorseshoe23">http:
@@ -1745,7 +1441,7 @@ BEGIN:VEVENT
 SUMMARY:Lakeside - Gummers How (AS)
 DTSTART;TZID=Europe/London:20240615T173000
 DTEND;TZID=Europe/London:20240615T193000
-DTSTAMP:20240417T143752Z
+DTSTAMP:20240501T143800Z
 UID:/races/37c8a520-6e88-4091-ae88-84fe2d3b1f4e
 DESCRIPTION:Lakeside - Gummers How (AS)\nDate & time: Sat 15 Jun 2024 at 1
  7:30\nDistance:5 km / 3.1 miles\nClimb:260 m / 853 ft\nGrid reference:SD 3
@@ -1762,7 +1458,7 @@ BEGIN:VEVENT
 SUMMARY:Windy Gyle (BM)
 DTSTART;TZID=Europe/London:20240616T103000
 DTEND;TZID=Europe/London:20240616T123000
-DTSTAMP:20240417T143753Z
+DTSTAMP:20240501T143801Z
 UID:/races/7cbccf33-33bf-4fa2-8e47-c242cc7113e8
 DESCRIPTION:Windy Gyle (BM)\nDate & time: Sun 16 Jun 2024 at 10:30\nDistan
  ce:13.7 km / 8.5 miles\nClimb:549 m / 1801 ft\nGrid reference:NT863113\nEn
@@ -1774,7 +1470,7 @@ BEGIN:VEVENT
 SUMMARY:Up The Nab (AS)
 DTSTART;TZID=Europe/London:20240616T110000
 DTEND;TZID=Europe/London:20240616T130000
-DTSTAMP:20240417T143753Z
+DTSTAMP:20240501T143801Z
 UID:/races/a83f9f16-2280-4ec5-ad71-7870b33050e3
 DESCRIPTION:Up The Nab (AS)\nDate & time: Sun 16 Jun 2024 at 11:00\nDistan
  ce:6.4 km / 4 miles\nClimb:365 m / 1198 ft\nGrid reference:SK009933\nEntry
@@ -1787,7 +1483,7 @@ BEGIN:VEVENT
 SUMMARY:Settle Hills (BM)
 DTSTART;TZID=Europe/London:20240616T110000
 DTEND;TZID=Europe/London:20240616T130000
-DTSTAMP:20240417T143753Z
+DTSTAMP:20240501T143802Z
 UID:/races/f4f53816-cac9-4d10-b47a-8883eb8a454d
 DESCRIPTION:Settle Hills (BM)\nDate & time: Sun 16 Jun 2024 at 11:00\nDist
  ance:11.3 km / 7 miles\nClimb:600 m / 1969 ft\nGrid reference:SD819633\nEn
@@ -1800,7 +1496,7 @@ BEGIN:VEVENT
 SUMMARY:Hawkswick Dash ( B O F R A ) (AS)
 DTSTART;TZID=Europe/London:20240616T120000
 DTEND;TZID=Europe/London:20240616T140000
-DTSTAMP:20240417T143754Z
+DTSTAMP:20240501T143802Z
 UID:/races/e024f265-d7d7-4250-a5d6-ec363bd6380b
 DESCRIPTION:Hawkswick Dash ( B O F R A ) (AS)\nDate & time: Sun 16 Jun 202
  4 at 12:00\nDistance:1.9 km / 1.2 miles\nClimb:193 m / 633 ft\nEntry on da
@@ -1813,7 +1509,7 @@ BEGIN:VEVENT
 SUMMARY:Bampton Sports Day (BS)
 DTSTART;TZID=Europe/London:20240616T143000
 DTEND;TZID=Europe/London:20240616T163000
-DTSTAMP:20240417T143754Z
+DTSTAMP:20240501T143803Z
 UID:/races/cea6f18c-67bc-4c8f-ab1b-8f17b617c318
 DESCRIPTION:Bampton Sports Day (BS)\nDate & time: Sun 16 Jun 2024 at 14:30
  \nDistance:8.8 km / 5.5 miles\nClimb:244 m / 801 ft\nEntry on day:Yes\nEnt
@@ -1825,7 +1521,7 @@ BEGIN:VEVENT
 SUMMARY:North Barrule (AS)
 DTSTART;TZID=Europe/London:20240618T190000
 DTEND;TZID=Europe/London:20240618T210000
-DTSTAMP:20240417T143754Z
+DTSTAMP:20240501T143803Z
 UID:/races/95f565ba-1646-4483-8377-34516667adda
 DESCRIPTION:North Barrule (AS)\nDate & time: Tue 18 Jun 2024 at 19:00\nDis
  tance:4.5 km / 2.8 miles\nClimb:370 m / 1214 ft\nGrid reference:455914\nEn
@@ -1837,7 +1533,7 @@ BEGIN:VEVENT
 SUMMARY:Moleside (AS)
 DTSTART;TZID=Europe/London:20240618T193000
 DTEND;TZID=Europe/London:20240618T213000
-DTSTAMP:20240417T143755Z
+DTSTAMP:20240501T143804Z
 UID:/races/71d8f0ce-f3b5-4d66-a203-5c6391ef1e48
 DESCRIPTION:Moleside (AS)\nDate & time: Tue 18 Jun 2024 at 19:30\nDistance
  :5 km / 3.1 miles\nClimb:400 m / 1312 ft\nEntry on day:Yes\nEntry on day f
@@ -1849,7 +1545,7 @@ BEGIN:VEVENT
 SUMMARY:Summer Solstice Fell Race (BS)
 DTSTART;TZID=Europe/London:20240619T190000
 DTEND;TZID=Europe/London:20240619T210000
-DTSTAMP:20240417T143755Z
+DTSTAMP:20240501T143804Z
 UID:/races/63a5641c-32f0-454f-b87b-e68afde64690
 DESCRIPTION:Summer Solstice Fell Race (BS)\nDate & time: Wed 19 Jun 2024 a
  t 19:00\nDistance:8.3 km / 5.2 miles\nClimb:255 m / 837 ft\nGrid reference
@@ -1864,7 +1560,7 @@ BEGIN:VEVENT
 SUMMARY:Langstrath (AS)
 DTSTART;TZID=Europe/London:20240619T191500
 DTEND;TZID=Europe/London:20240619T211500
-DTSTAMP:20240417T143756Z
+DTSTAMP:20240501T143804Z
 UID:/races/48cf8022-32af-4728-bc1d-c38859d1c37a
 DESCRIPTION:Langstrath (AS)\nDate & time: Wed 19 Jun 2024 at 19:15\nDistan
  ce:7.5 km / 4.7 miles\nClimb:430 m / 1411 ft\nGrid reference:263136\nEntry
@@ -1877,7 +1573,7 @@ BEGIN:VEVENT
 SUMMARY:The D C R O Dash (BS)
 DTSTART;TZID=Europe/London:20240619T193000
 DTEND;TZID=Europe/London:20240619T213000
-DTSTAMP:20240417T143756Z
+DTSTAMP:20240501T143805Z
 UID:/races/dd781e5e-3e3d-4ece-8d4d-2002295913c4
 DESCRIPTION:The D C R O Dash (BS)\nDate & time: Wed 19 Jun 2024 at 19:30\n
  Distance:8.5 km / 5.3 miles\nClimb:385 m / 1263 ft\nGrid reference:SK 148 
@@ -1889,7 +1585,7 @@ BEGIN:VEVENT
 SUMMARY:Tideswell Fell Race (BS)
 DTSTART;TZID=Europe/London:20240621T193000
 DTEND;TZID=Europe/London:20240621T213000
-DTSTAMP:20240417T143756Z
+DTSTAMP:20240501T143805Z
 UID:/races/28621824-d8a6-4cf9-abfc-6b98842efc19
 DESCRIPTION:Tideswell Fell Race (BS)\nDate & time: Fri 21 Jun 2024 at 19:3
  0\nDistance:7.3 km / 4.5 miles\nClimb:190 m / 623 ft\nGrid reference:SK 13
@@ -1901,7 +1597,7 @@ BEGIN:VEVENT
 SUMMARY:John Clarke Memorial Race (AS)
 DTSTART;TZID=Europe/London:20240621T193000
 DTEND;TZID=Europe/London:20240621T213000
-DTSTAMP:20240417T143757Z
+DTSTAMP:20240501T143806Z
 UID:/races/b6ca12a2-59ba-47dc-aa3d-1bd43d9df224
 DESCRIPTION:John Clarke Memorial Race (AS)\nDate & time: Fri 21 Jun 2024 a
  t 19:30\nDistance:5 km / 3.1 miles\nClimb:250 m / 820 ft\nGrid reference:T
@@ -1913,7 +1609,7 @@ BEGIN:VEVENT
 SUMMARY:Preseli Dibdab 4hr score event (O)
 DTSTART;TZID=Europe/London:20240622T100000
 DTEND;TZID=Europe/London:20240622T120000
-DTSTAMP:20240417T143757Z
+DTSTAMP:20240501T143806Z
 UID:/races/7a2dcf5f-47d1-4ff4-afc0-c8b30939db48
 DESCRIPTION:Preseli Dibdab 4hr score event (O)\nDate & time: Sat 22 Jun 20
  24 at 10:00\nDistance:35 km / 21.7 miles\nClimb:1000 m / 3281 ft\nEntry on
@@ -1925,7 +1621,7 @@ BEGIN:VEVENT
 SUMMARY:Darren Holloway Memorial Race ( Buttermere Horseshoe ) (AL)
 DTSTART;TZID=Europe/London:20240622T110000
 DTEND;TZID=Europe/London:20240622T130000
-DTSTAMP:20240417T143757Z
+DTSTAMP:20240501T143807Z
 UID:/races/329f1b2b-3311-472b-b3ee-efb5d7fd785f
 DESCRIPTION:Darren Holloway Memorial Race ( Buttermere Horseshoe ) (AL)\nD
  ate & time: Sat 22 Jun 2024 at 11:00\nDistance:35.5 km / 22.1 miles\nClimb
@@ -1938,7 +1634,7 @@ BEGIN:VEVENT
 SUMMARY:Darren Holloway Memorial Race Short (AL)
 DTSTART;TZID=Europe/London:20240622T110000
 DTEND;TZID=Europe/London:20240622T130000
-DTSTAMP:20240417T143758Z
+DTSTAMP:20240501T143807Z
 UID:/races/0a1f3bef-909f-4f57-964f-0372f435f753
 DESCRIPTION:Darren Holloway Memorial Race Short (AL)\nDate & time: Sat 22 
  Jun 2024 at 11:00\nDistance:20.8 km / 12.9 miles\nClimb:1518 m / 4980 ft\n
@@ -1951,7 +1647,7 @@ BEGIN:VEVENT
 SUMMARY:Darren Jones Clougha Pike (AS)
 DTSTART;TZID=Europe/London:20240622T150000
 DTEND;TZID=Europe/London:20240622T170000
-DTSTAMP:20240417T143758Z
+DTSTAMP:20240501T143808Z
 UID:/races/c2dda9a4-453a-46db-a806-ec6aed04d973
 DESCRIPTION:Darren Jones Clougha Pike (AS)\nDate & time: Sat 22 Jun 2024 a
  t 15:00\nDistance:7.9 km / 4.9 miles\nClimb:400 m / 1312 ft\nGrid referenc
@@ -1964,7 +1660,7 @@ BEGIN:VEVENT
 SUMMARY:James Blakeley (BS)
 DTSTART;TZID=Europe/London:20240622T153000
 DTEND;TZID=Europe/London:20240622T173000
-DTSTAMP:20240417T143759Z
+DTSTAMP:20240501T143808Z
 UID:/races/98ee78e6-b669-46e9-ae7d-2db34c0b4107
 DESCRIPTION:James Blakeley (BS)\nDate & time: Sat 22 Jun 2024 at 15:30\nDi
  stance:5 km / 3.1 miles\nClimb:180 m / 591 ft\nEntry on day:Yes\nEntry on 
@@ -1975,7 +1671,7 @@ BEGIN:VEVENT
 SUMMARY:Trunce 5 (BS)
 DTSTART;TZID=Europe/London:20240624T184500
 DTEND;TZID=Europe/London:20240624T204500
-DTSTAMP:20240417T143759Z
+DTSTAMP:20240501T143809Z
 UID:/races/2679bdec-9fbc-4772-be9a-97633b6b9019
 DESCRIPTION:Trunce 5 (BS)\nDate & time: Mon 24 Jun 2024 at 18:45\nDistance
  :6.4 km / 4 miles\nClimb:170 m / 558 ft\nGrid reference:SE272012\nEntry on
@@ -1987,7 +1683,7 @@ BEGIN:VEVENT
 SUMMARY:Tor Mile (AS)
 DTSTART;TZID=Europe/London:20240624T193000
 DTEND;TZID=Europe/London:20240624T213000
-DTSTAMP:20240417T143759Z
+DTSTAMP:20240501T143809Z
 UID:/races/267be318-9ee6-4bf4-937c-b31282809b0b
 DESCRIPTION:Tor Mile (AS)\nDate & time: Mon 24 Jun 2024 at 19:30\nDistance
  :2 km / 1.2 miles\nClimb:168 m / 551 ft\nGrid reference:778213\nEntry on d
@@ -2000,7 +1696,7 @@ BEGIN:VEVENT
 SUMMARY:Aggie's Staircase (AS)
 DTSTART;TZID=Europe/London:20240625T190000
 DTEND;TZID=Europe/London:20240625T210000
-DTSTAMP:20240417T143800Z
+DTSTAMP:20240501T143810Z
 UID:/races/ee71c0e1-79ab-4408-8bdf-e9c211097cbd
 DESCRIPTION:Aggie's Staircase (AS)\nDate & time: Tue 25 Jun 2024 at 19:00\
  nDistance:6.4 km / 4 miles\nClimb:350 m / 1148 ft\nGrid reference:689221\n
@@ -2010,10 +1706,25 @@ DESCRIPTION:Aggie's Staircase (AS)\nDate & time: Tue 25 Jun 2024 at 19:00\
  d
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Bradwell (AS)
+DTSTART;TZID=Europe/London:20240625T193000
+DTEND;TZID=Europe/London:20240625T213000
+DTSTAMP:20240501T143810Z
+UID:/races/8a32ca75-301a-48b2-8232-79a9536b4261
+DESCRIPTION:Bradwell (AS)\nDate & time: Tue 25 Jun 2024 at 19:30\nDistance
+ :5 km / 3.1 miles\nClimb:252 m / 827 ft\nGrid reference:175818\nEntry on d
+ ay:Yes\nEntry on day fee (members):£10.00\nEntry on day fee (non-members)
+ :£12.00\nPre-entry:Yes\nPre-entry fee (members):£6.00\nPre-entry fee (no
+ n-members):£8.00\nEntries open May via link on race website. Pre-entry be
+ fore July £6/£8. Entry on the day if limit not reached. Contact organise
+ r.\nPeak District\, England\nFull information: https://races.fellrunner.or
+ g.uk/races/8a32ca75-301a-48b2-8232-79a9536b4261
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Tebay (AM)
 DTSTART;TZID=Europe/London:20240626T190000
 DTEND;TZID=Europe/London:20240626T210000
-DTSTAMP:20240417T143800Z
+DTSTAMP:20240501T143811Z
 UID:/races/1cd8f288-6f04-4e91-8300-ebacddd3b44f
 DESCRIPTION:Tebay (AM)\nDate & time: Wed 26 Jun 2024 at 19:00\nDistance:13
   km / 8.1 miles\nClimb:914 m / 2999 ft\nGrid reference:NY618045\nEntry on 
@@ -2025,7 +1736,7 @@ BEGIN:VEVENT
 SUMMARY:Tom's Bransdale race (BM)
 DTSTART;TZID=Europe/London:20240626T191500
 DTEND;TZID=Europe/London:20240626T211500
-DTSTAMP:20240417T143800Z
+DTSTAMP:20240501T143811Z
 UID:/races/5fca33a4-b4a1-456a-b0fd-3fe1a5b9f795
 DESCRIPTION:Tom's Bransdale race (BM)\nDate & time: Wed 26 Jun 2024 at 19:
  15\nDistance:12 km / 7.5 miles\nClimb:400 m / 1312 ft\nGrid reference:SE 6
@@ -2038,7 +1749,7 @@ BEGIN:VEVENT
 SUMMARY:Cragg Vale (BS)
 DTSTART;TZID=Europe/London:20240626T193000
 DTEND;TZID=Europe/London:20240626T213000
-DTSTAMP:20240417T143801Z
+DTSTAMP:20240501T143812Z
 UID:/races/fdddb999-48ad-4a29-9857-bf583dd68cda
 DESCRIPTION:Cragg Vale (BS)\nDate & time: Wed 26 Jun 2024 at 19:30\nDistan
  ce:6.4 km / 4 miles\nClimb:244 m / 801 ft\nGrid reference:SD999232\nEntry 
@@ -2050,7 +1761,7 @@ BEGIN:VEVENT
 SUMMARY:Eddie's Revenge (AS)
 DTSTART;TZID=Europe/London:20240626T193000
 DTEND;TZID=Europe/London:20240626T213000
-DTSTAMP:20240417T143801Z
+DTSTAMP:20240501T143812Z
 UID:/races/b24743aa-44f9-429c-b0c7-1e25f563d4a1
 DESCRIPTION:Eddie's Revenge (AS)\nDate & time: Wed 26 Jun 2024 at 19:30\nD
  istance:6.1 km / 3.8 miles\nClimb:323 m / 1060 ft\nGrid reference:SD999232
@@ -2067,7 +1778,7 @@ BEGIN:VEVENT
 SUMMARY:Hapton (BS)
 DTSTART;TZID=Europe/London:20240627T193000
 DTEND;TZID=Europe/London:20240627T213000
-DTSTAMP:20240417T143802Z
+DTSTAMP:20240501T143813Z
 UID:/races/aae3bdb2-a054-4ba6-8f78-ecbe31b34e29
 DESCRIPTION:Hapton (BS)\nDate & time: Thu 27 Jun 2024 at 19:30\nDistance:8
   km / 5 miles\nClimb:400 m / 1312 ft\nEntry on day:Yes\nEntry on day fee (
@@ -2079,7 +1790,7 @@ BEGIN:VEVENT
 SUMMARY:Great Lakes (AL)
 DTSTART;TZID=Europe/London:20240629T110000
 DTEND;TZID=Europe/London:20240629T130000
-DTSTAMP:20240417T143802Z
+DTSTAMP:20240501T143813Z
 UID:/races/e3fa1ad6-001e-4870-8c1a-f649767af473
 DESCRIPTION:Great Lakes (AL)\nDate & time: Sat 29 Jun 2024 at 11:00\nDista
  nce:21 km / 13 miles\nClimb:2130 m / 6988 ft\nEntry on day:No\nPre-entry:Y
@@ -2092,7 +1803,7 @@ BEGIN:VEVENT
 SUMMARY:Whaley Waltz (BS)
 DTSTART;TZID=Europe/London:20240629T132000
 DTEND;TZID=Europe/London:20240629T152000
-DTSTAMP:20240417T143802Z
+DTSTAMP:20240501T143814Z
 UID:/races/cdbebfcc-35c9-499e-bded-7e91c2ab8afd
 DESCRIPTION:Whaley Waltz (BS)\nDate & time: Sat 29 Jun 2024 at 13:20\nDist
  ance:9.3 km / 5.8 miles\nClimb:274 m / 899 ft\nEntry on day:Yes\nEntry on 
@@ -2104,7 +1815,7 @@ BEGIN:VEVENT
 SUMMARY:Kirkby In Furness Race ( B O F R A ) (BS)
 DTSTART;TZID=Europe/London:20240629T140000
 DTEND;TZID=Europe/London:20240629T160000
-DTSTAMP:20240417T143803Z
+DTSTAMP:20240501T143814Z
 UID:/races/4240fd65-6958-4af2-8294-92aeaf0956bb
 DESCRIPTION:Kirkby In Furness Race ( B O F R A ) (BS)\nDate & time: Sat 29
   Jun 2024 at 14:00\nDistance:5.7 km / 3.5 miles\nClimb:244 m / 801 ft\nGri
@@ -2118,7 +1829,7 @@ BEGIN:VEVENT
 SUMMARY:Eldwick Gala (BS)
 DTSTART;TZID=Europe/London:20240629T143000
 DTEND;TZID=Europe/London:20240629T163000
-DTSTAMP:20240417T143803Z
+DTSTAMP:20240501T143815Z
 UID:/races/764fdf2b-785f-42e0-99f3-9cea7b9d76ed
 DESCRIPTION:Eldwick Gala (BS)\nDate & time: Sat 29 Jun 2024 at 14:30\nDist
  ance:4.8 km / 3 miles\nClimb:168 m / 551 ft\nGrid reference:SE123404\nEntr
@@ -2135,7 +1846,7 @@ BEGIN:VEVENT
 SUMMARY:North Devon AONB Half Marathon 2024 (CL)
 DTSTART;TZID=Europe/London:20240630T100000
 DTEND;TZID=Europe/London:20240630T120000
-DTSTAMP:20240417T143804Z
+DTSTAMP:20240501T143815Z
 UID:/races/41acf114-5b12-46a4-98a8-a03278c9e8b7
 DESCRIPTION:North Devon AONB Half Marathon 2024 (CL)\nDate & time: Sun 30 
  Jun 2024 at 10:00\nDistance:21 km / 13 miles\nClimb:422 m / 1385 ft\nGrid 
@@ -2148,7 +1859,7 @@ BEGIN:VEVENT
 SUMMARY:North Devon AONB Marathon 2024 (CL)
 DTSTART;TZID=Europe/London:20240630T100000
 DTEND;TZID=Europe/London:20240630T120000
-DTSTAMP:20240417T143804Z
+DTSTAMP:20240501T143816Z
 UID:/races/ca1cb760-b739-4d95-8c57-da100230eaac
 DESCRIPTION:North Devon AONB Marathon 2024 (CL)\nDate & time: Sun 30 Jun 2
  024 at 10:00\nDistance:42 km / 26.1 miles\nClimb:1030 m / 3379 ft\nGrid re
@@ -2161,7 +1872,7 @@ BEGIN:VEVENT
 SUMMARY:Cross Fell (BL)
 DTSTART;TZID=Europe/London:20240630T110000
 DTEND;TZID=Europe/London:20240630T130000
-DTSTAMP:20240417T143804Z
+DTSTAMP:20240501T143816Z
 UID:/races/c9d0f568-1ef7-4c49-b75a-94e62f5a36b0
 DESCRIPTION:Cross Fell (BL)\nDate & time: Sun 30 Jun 2024 at 11:00\nDistan
  ce:24 km / 14.9 miles\nClimb:680 m / 2231 ft\nGrid reference:NY 745416\nEn
@@ -2174,7 +1885,7 @@ BEGIN:VEVENT
 SUMMARY:Bakewell Pudding Race (CM)
 DTSTART;TZID=Europe/London:20240630T110000
 DTEND;TZID=Europe/London:20240630T130000
-DTSTAMP:20240417T143805Z
+DTSTAMP:20240501T143817Z
 UID:/races/f6550222-7392-447c-8b6f-6b28eedda416
 DESCRIPTION:Bakewell Pudding Race (CM)\nDate & time: Sun 30 Jun 2024 at 11
  :00\nDistance:10.2 km / 6.3 miles\nClimb:240 m / 787 ft\nEntry on day:Yes\
@@ -2186,7 +1897,7 @@ BEGIN:VEVENT
 SUMMARY:Kinder Trog (BL)
 DTSTART;TZID=Europe/London:20240630T110000
 DTEND;TZID=Europe/London:20240630T130000
-DTSTAMP:20240417T143805Z
+DTSTAMP:20240501T143817Z
 UID:/races/67534dbc-a041-4439-a884-df00da8da61b
 DESCRIPTION:Kinder Trog (BL)\nDate & time: Sun 30 Jun 2024 at 11:00\nDista
  nce:25 km / 15.5 miles\nClimb:900 m / 2953 ft\nGrid reference:SK035873\nEn
@@ -2198,15 +1909,15 @@ BEGIN:VEVENT
 SUMMARY:Baystones &amp\; Wansfell (BM)
 DTSTART;TZID=Europe/London:20240630T130000
 DTEND;TZID=Europe/London:20240630T150000
-DTSTAMP:20240417T143805Z
+DTSTAMP:20240501T143818Z
 UID:/races/c97c5b20-32c5-4c4c-832b-5b82c4da6edc
 DESCRIPTION:Baystones &amp\; Wansfell (BM)\nDate & time: Sun 30 Jun 2024 a
- t 13:00\nWebsite: <a href="https://entry.eventsupnorth.co.uk/races/vu2f9">
- https://entry.eventsupnorth.co.uk/races/vu2f9</a>\nDistance:10.8 km / 6.7 
+ t 13:00\nWebsite: <a href="https://entry.eventsupnorth.co.uk/races/z7vs7">
+ https://entry.eventsupnorth.co.uk/races/z7vs7</a>\nDistance:10.8 km / 6.7 
  miles\nClimb:504 m / 1654 ft\nGrid reference:NY405013\nEntry on day:Yes\nE
  ntry on day fee (members):£9.00\nEntry on day fee (non-members):£10.00\n
  Pre-entry:Yes\nPre-entry fee (members):£7.00\nPre-entry fee (non-members)
- :£8.00\nhttps://entry.eventsupnorth.co.uk/races/vu2f9<br/>(Booking fee a
+ :£8.00\nhttps://entry.eventsupnorth.co.uk/races/z7vs7<br/>(Booking fee a
  pplies)\nLake District\, England\nFull information: https://races.fellrunn
  er.org.uk/races/c97c5b20-32c5-4c4c-832b-5b82c4da6edc
 END:VEVENT
@@ -2214,7 +1925,7 @@ BEGIN:VEVENT
 SUMMARY:Arnison Dash (AS)
 DTSTART;TZID=Europe/London:20240630T140000
 DTEND;TZID=Europe/London:20240630T160000
-DTSTAMP:20240417T143806Z
+DTSTAMP:20240501T143818Z
 UID:/races/4aa23072-7940-4eac-bdf3-f2fa0bde5650
 DESCRIPTION:Arnison Dash (AS)\nDate & time: Sun 30 Jun 2024 at 14:00\nDist
  ance:2.4 km / 1.5 miles\nClimb:300 m / 984 ft\nGrid reference:391161\nEntr
@@ -2226,7 +1937,7 @@ BEGIN:VEVENT
 SUMMARY:Hathersage Gala (BS)
 DTSTART;TZID=Europe/London:20240701T193000
 DTEND;TZID=Europe/London:20240701T213000
-DTSTAMP:20240417T143806Z
+DTSTAMP:20240501T143818Z
 UID:/races/42a20281-3e94-475d-b773-fac6b103b0e7
 DESCRIPTION:Hathersage Gala (BS)\nDate & time: Mon 1 Jul 2024 at 19:30\nDi
  stance:7.2 km / 4.5 miles\nClimb:325 m / 1066 ft\nGrid reference:SK234818\
@@ -2242,7 +1953,7 @@ BEGIN:VEVENT
 SUMMARY:20 Barriers (CS)
 DTSTART;TZID=Europe/London:20240702T190000
 DTEND;TZID=Europe/London:20240702T210000
-DTSTAMP:20240417T143807Z
+DTSTAMP:20240501T143819Z
 UID:/races/9fe26c3c-d1ad-4b15-b40e-ac10200b0ea6
 DESCRIPTION:20 Barriers (CS)\nDate & time: Tue 2 Jul 2024 at 19:00\nDistan
  ce:8 km / 5 miles\nClimb:160 m / 525 ft\nGrid reference:503703\nEntry on d
@@ -2256,7 +1967,7 @@ BEGIN:VEVENT
 SUMMARY:Saltwell Harriers Fell Race (BS)
 DTSTART;TZID=Europe/London:20240702T191500
 DTEND;TZID=Europe/London:20240702T211500
-DTSTAMP:20240417T143807Z
+DTSTAMP:20240501T143819Z
 UID:/races/8f4e34ad-6bc2-47d8-bb10-c27260975154
 DESCRIPTION:Saltwell Harriers Fell Race (BS)\nDate & time: Tue 2 Jul 2024 
  at 19:15\nDistance:9 km / 5.6 miles\nClimb:300 m / 984 ft\nGrid reference:
@@ -2268,7 +1979,7 @@ BEGIN:VEVENT
 SUMMARY:Danefield Relay (Relay)
 DTSTART;TZID=Europe/London:20240702T191500
 DTEND;TZID=Europe/London:20240702T211500
-DTSTAMP:20240417T143807Z
+DTSTAMP:20240501T143820Z
 UID:/races/b6f88517-b4a0-42c7-be73-f567489cabec
 DESCRIPTION:Danefield Relay (Relay)\nDate & time: Tue 2 Jul 2024 at 19:15\
  nDistance:4.8 km / 3 miles\nClimb:170 m / 558 ft\nGrid reference:SE 217 44
@@ -2283,7 +1994,7 @@ BEGIN:VEVENT
 SUMMARY:Stoodley Pike (BS)
 DTSTART;TZID=Europe/London:20240702T193000
 DTEND;TZID=Europe/London:20240702T213000
-DTSTAMP:20240417T143808Z
+DTSTAMP:20240501T143820Z
 UID:/races/f534e965-a6d6-4997-be85-26f8b7453699
 DESCRIPTION:Stoodley Pike (BS)\nDate & time: Tue 2 Jul 2024 at 19:30\nDist
  ance:5 km / 3.1 miles\nClimb:213 m / 699 ft\nGrid reference:SD996052\nEntr
@@ -2295,7 +2006,7 @@ BEGIN:VEVENT
 SUMMARY:Reston Scar Scamper (AS)
 DTSTART;TZID=Europe/London:20240703T190000
 DTEND;TZID=Europe/London:20240703T210000
-DTSTAMP:20240417T143808Z
+DTSTAMP:20240501T143821Z
 UID:/races/a3dbe803-251f-4d71-887a-d87108e0d95c
 DESCRIPTION:Reston Scar Scamper (AS)\nDate & time: Wed 3 Jul 2024 at 19:00
  \nDistance:6 km / 3.7 miles\nClimb:301 m / 988 ft\nEntry on day:No\nPre-en
@@ -2306,7 +2017,7 @@ BEGIN:VEVENT
 SUMMARY:Winster (BS)
 DTSTART;TZID=Europe/London:20240704T190000
 DTEND;TZID=Europe/London:20240704T210000
-DTSTAMP:20240417T143808Z
+DTSTAMP:20240501T143821Z
 UID:/races/0b868dc4-adb4-4c3d-810b-6b44720df99a
 DESCRIPTION:Winster (BS)\nDate & time: Thu 4 Jul 2024 at 19:00\nDistance:6
  .5 km / 4 miles\nClimb:177 m / 581 ft\nGrid reference:SK 242 606\nEntry on
@@ -2319,7 +2030,7 @@ BEGIN:VEVENT
 SUMMARY:Don Ashton Memorial Tockholes (BS)
 DTSTART;TZID=Europe/London:20240704T191500
 DTEND;TZID=Europe/London:20240704T211500
-DTSTAMP:20240417T143809Z
+DTSTAMP:20240501T143822Z
 UID:/races/d9664781-93d3-48a6-9cf5-969f22e30d4d
 DESCRIPTION:Don Ashton Memorial Tockholes (BS)\nDate & time: Thu 4 Jul 202
  4 at 19:15\nDistance:9.3 km / 5.8 miles\nClimb:276 m / 906 ft\nGrid refere
@@ -2334,7 +2045,7 @@ BEGIN:VEVENT
 SUMMARY:Beamsley Beacon (BS)
 DTSTART;TZID=Europe/London:20240704T191500
 DTEND;TZID=Europe/London:20240704T211500
-DTSTAMP:20240417T143809Z
+DTSTAMP:20240501T143822Z
 UID:/races/df039153-0549-48de-a31c-09b7d5c504ba
 DESCRIPTION:Beamsley Beacon (BS)\nDate & time: Thu 4 Jul 2024 at 19:15\nDi
  stance:8.8 km / 5.5 miles\nClimb:335 m / 1099 ft\nGrid reference:SE 077498
@@ -2346,7 +2057,7 @@ BEGIN:VEVENT
 SUMMARY:Rangers Alderman's Ascent (AS)
 DTSTART;TZID=Europe/London:20240704T193000
 DTEND;TZID=Europe/London:20240704T213000
-DTSTAMP:20240417T143810Z
+DTSTAMP:20240501T143823Z
 UID:/races/17597cbd-d762-4b09-b1ba-4a8f0815eb5c
 DESCRIPTION:Rangers Alderman's Ascent (AS)\nDate & time: Thu 4 Jul 2024 at
   19:30\nDistance:8.5 km / 5.3 miles\nClimb:400 m / 1312 ft\nEntry on day:Y
@@ -2359,7 +2070,7 @@ BEGIN:VEVENT
 SUMMARY:Chevy Chase (BL)
 DTSTART;TZID=Europe/London:20240706T100000
 DTEND;TZID=Europe/London:20240706T120000
-DTSTAMP:20240417T143810Z
+DTSTAMP:20240501T143823Z
 UID:/races/699f7c6e-4fac-4918-a644-a3f3f9c73bdd
 DESCRIPTION:Chevy Chase (BL)\nDate & time: Sat 6 Jul 2024 at 10:00\nDistan
  ce:32.2 km / 20 miles\nClimb:1219 m / 3999 ft\nGrid reference:992278\nEntr
@@ -2372,7 +2083,7 @@ BEGIN:VEVENT
 SUMMARY:Charmouth Challenge (BM)
 DTSTART;TZID=Europe/London:20240706T100000
 DTEND;TZID=Europe/London:20240706T120000
-DTSTAMP:20240417T143810Z
+DTSTAMP:20240501T143824Z
 UID:/races/32751570-5d0d-4b74-8080-5684709872fd
 DESCRIPTION:Charmouth Challenge (BM)\nDate & time: Sat 6 Jul 2024 at 10:00
  \nDistance:12.8 km / 8 miles\nClimb:580 m / 1903 ft\nGrid reference:SY3649
@@ -2388,7 +2099,7 @@ BEGIN:VEVENT
 SUMMARY:Heptonstall Festival (AS)
 DTSTART;TZID=Europe/London:20240706T113000
 DTEND;TZID=Europe/London:20240706T133000
-DTSTAMP:20240417T143811Z
+DTSTAMP:20240501T143824Z
 UID:/races/be837d82-feb9-4439-b5b7-260b9bcffd09
 DESCRIPTION:Heptonstall Festival (AS)\nDate & time: Sat 6 Jul 2024 at 11:3
  0\nDistance:9.5 km / 5.9 miles\nClimb:500 m / 1640 ft\nGrid reference:SD98
@@ -2400,7 +2111,7 @@ BEGIN:VEVENT
 SUMMARY:Gategill Fell Race and village sports. (AS)
 DTSTART;TZID=Europe/London:20240706T130000
 DTEND;TZID=Europe/London:20240706T150000
-DTSTAMP:20240417T143811Z
+DTSTAMP:20240501T143825Z
 UID:/races/58366296-7f66-47eb-b3af-34689d28df87
 DESCRIPTION:Gategill Fell Race and village sports. (AS)\nDate & time: Sat 
  6 Jul 2024 at 13:00\nDistance:3.6 km / 2.2 miles\nClimb:506 m / 1660 ft\nG
@@ -2412,7 +2123,7 @@ BEGIN:VEVENT
 SUMMARY:Warslow Beer Festival (AS)
 DTSTART;TZID=Europe/London:20240706T130000
 DTEND;TZID=Europe/London:20240706T150000
-DTSTAMP:20240417T143811Z
+DTSTAMP:20240501T143825Z
 UID:/races/88fd9924-5708-46c4-85a1-6bc65badd868
 DESCRIPTION:Warslow Beer Festival (AS)\nDate & time: Sat 6 Jul 2024 at 13:
  00\nDistance:10 km / 6.2 miles\nClimb:675 m / 2215 ft\nEntry on day:Yes\nE
@@ -2424,7 +2135,7 @@ BEGIN:VEVENT
 SUMMARY:Thurlstone Chase (BS)
 DTSTART;TZID=Europe/London:20240706T140000
 DTEND;TZID=Europe/London:20240706T160000
-DTSTAMP:20240417T143812Z
+DTSTAMP:20240501T143826Z
 UID:/races/5073d34d-0407-4857-a38b-aded7038ac0f
 DESCRIPTION:Thurlstone Chase (BS)\nDate & time: Sat 6 Jul 2024 at 14:00\nD
  istance:6.4 km / 4 miles\nClimb:244 m / 801 ft\nVenue:Entry on Gala field\
@@ -2437,7 +2148,7 @@ BEGIN:VEVENT
 SUMMARY:Dollar (AM)
 DTSTART;TZID=Europe/London:20240706T140000
 DTEND;TZID=Europe/London:20240706T160000
-DTSTAMP:20240417T143812Z
+DTSTAMP:20240501T143826Z
 UID:/races/8964efa3-274c-4a87-b581-43c9276a89a6
 DESCRIPTION:Dollar (AM)\nDate & time: Sat 6 Jul 2024 at 14:00\nDistance:15
   km / 9.3 miles\nClimb:960 m / 3150 ft\nGrid reference:NS959983\nEntry on 
@@ -2446,10 +2157,25 @@ DESCRIPTION:Dollar (AM)\nDate & time: Sat 6 Jul 2024 at 14:00\nDistance:15
  k/races/8964efa3-274c-4a87-b581-43c9276a89a6
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Langley Fete (BS)
+DTSTART;TZID=Europe/London:20240706T143000
+DTEND;TZID=Europe/London:20240706T163000
+DTSTAMP:20240501T143827Z
+UID:/races/42aa6524-c1f1-49ee-ba67-84f6bbd5e8db
+DESCRIPTION:Langley Fete (BS)\nDate & time: Sat 6 Jul 2024 at 14:30\nDista
+ nce:5 km / 3.1 miles\nClimb:198 m / 650 ft\nGrid reference:SJ942717\nEntry
+  on day:Yes\nEntry on day fee:£5.00\nPre-entry:No\nNo parking on field\, 
+ park on nearby roads. Part of Langley Village Fete with stalls\, BBQ\, bee
+ r\, cakes\, duck races etc.<br/>It is entry on the day and numbers are li
+ mited. Make sure you arrive in good time to park and register. The race fi
+ lled up last year.\nPeak District\, England\nFull information: https://rac
+ es.fellrunner.org.uk/races/42aa6524-c1f1-49ee-ba67-84f6bbd5e8db
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Oakworth Haul (BS)
 DTSTART;TZID=Europe/London:20240706T151500
 DTEND;TZID=Europe/London:20240706T171500
-DTSTAMP:20240417T143812Z
+DTSTAMP:20240501T143827Z
 UID:/races/e5b18b2c-e84e-41eb-bb70-6a1c8a1f30b2
 DESCRIPTION:Oakworth Haul (BS)\nDate & time: Sat 6 Jul 2024 at 15:15\nDist
  ance:9 km / 5.6 miles\nClimb:250 m / 820 ft\nEntry on day:Yes\nEntry on da
@@ -2461,7 +2187,7 @@ BEGIN:VEVENT
 SUMMARY:Clwydian Junior Fell Race (Junior Championships)
 DTSTART;TZID=Europe/London:20240707T100000
 DTEND;TZID=Europe/London:20240707T120000
-DTSTAMP:20240417T143813Z
+DTSTAMP:20240501T143827Z
 UID:/races/8ce3dd6e-d3df-45ff-89cf-cd117eb74ee7
 DESCRIPTION:Clwydian Junior Fell Race (Junior Championships)\nDate & time:
   Sun 7 Jul 2024 at 10:00\nDistance:0 km / 0 miles\nEntry on day:No\nPre-en
@@ -2473,7 +2199,7 @@ BEGIN:VEVENT
 SUMMARY:Great Hucklow (BM)
 DTSTART;TZID=Europe/London:20240707T110000
 DTEND;TZID=Europe/London:20240707T130000
-DTSTAMP:20240417T143813Z
+DTSTAMP:20240501T143828Z
 UID:/races/b5cb64cc-566a-4636-8fbc-141d7218ac4a
 DESCRIPTION:Great Hucklow (BM)\nDate & time: Sun 7 Jul 2024 at 11:00\nDist
  ance:10.1 km / 6.3 miles\nClimb:335 m / 1099 ft\nGrid reference:SK178782\n
@@ -2486,7 +2212,7 @@ BEGIN:VEVENT
 SUMMARY:Skiddaw (AM)
 DTSTART;TZID=Europe/London:20240707T123000
 DTEND;TZID=Europe/London:20240707T143000
-DTSTAMP:20240417T143814Z
+DTSTAMP:20240501T143828Z
 UID:/races/2cb6aab2-eb7d-4f50-9872-34651bc72049
 DESCRIPTION:Skiddaw (AM)\nDate & time: Sun 7 Jul 2024 at 12:30\nDistance:1
  5.4 km / 9.6 miles\nClimb:960 m / 3150 ft\nGrid reference:NY 266239\nEntry
@@ -2498,7 +2224,7 @@ BEGIN:VEVENT
 SUMMARY:Cosdon Hill Race (AS)
 DTSTART;TZID=Europe/London:20240707T143000
 DTEND;TZID=Europe/London:20240707T163000
-DTSTAMP:20240417T143814Z
+DTSTAMP:20240501T143829Z
 UID:/races/4c707838-b629-46e9-9fba-6b58e9d48c53
 DESCRIPTION:Cosdon Hill Race (AS)\nDate & time: Sun 7 Jul 2024 at 14:30\nD
  istance:5.2 km / 3.2 miles\nClimb:315 m / 1033 ft\nGrid reference:SX 61998
@@ -2512,7 +2238,7 @@ BEGIN:VEVENT
 SUMMARY:Langdale Gala (AS)
 DTSTART;TZID=Europe/London:20240707T155500
 DTEND;TZID=Europe/London:20240707T175500
-DTSTAMP:20240417T143814Z
+DTSTAMP:20240501T143830Z
 UID:/races/8ef72d03-8122-4807-992a-3572632d9d72
 DESCRIPTION:Langdale Gala (AS)\nDate & time: Sun 7 Jul 2024 at 15:55\nDist
  ance:2.2 km / 1.4 miles\nClimb:300 m / 984 ft\nGrid reference:NY 29574 064
@@ -2524,7 +2250,7 @@ BEGIN:VEVENT
 SUMMARY:Beater Clough (AM)
 DTSTART;TZID=Europe/London:20240709T190000
 DTEND;TZID=Europe/London:20240709T210000
-DTSTAMP:20240417T143815Z
+DTSTAMP:20240501T143830Z
 UID:/races/d393736d-012d-415b-9bb5-0dd3e1570798
 DESCRIPTION:Beater Clough (AM)\nDate & time: Tue 9 Jul 2024 at 19:00\nDist
  ance:10.9 km / 6.8 miles\nClimb:610 m / 2001 ft\nEntry on day:Yes\nEntry o
@@ -2538,7 +2264,7 @@ BEGIN:VEVENT
 SUMMARY:Hameldon Quarry Race (BS)
 DTSTART;TZID=Europe/London:20240709T193000
 DTEND;TZID=Europe/London:20240709T213000
-DTSTAMP:20240417T143815Z
+DTSTAMP:20240501T143831Z
 UID:/races/1706f44e-e343-4181-b830-39c2bd025e2a
 DESCRIPTION:Hameldon Quarry Race (BS)\nDate & time: Tue 9 Jul 2024 at 19:3
  0\nDistance:6.5 km / 4 miles\nClimb:400 m / 1312 ft\nEntry on day:Yes\nEnt
@@ -2551,7 +2277,7 @@ BEGIN:VEVENT
 SUMMARY:Carraghan (AS)
 DTSTART;TZID=Europe/London:20240710T190000
 DTEND;TZID=Europe/London:20240710T210000
-DTSTAMP:20240417T143815Z
+DTSTAMP:20240501T143831Z
 UID:/races/4db41192-30c2-47f5-bcb3-1196c6233bce
 DESCRIPTION:Carraghan (AS)\nDate & time: Wed 10 Jul 2024 at 19:00\nDistanc
  e:4 km / 2.5 miles\nClimb:300 m / 984 ft\nGrid reference:357830\nEntry on 
@@ -2563,7 +2289,7 @@ BEGIN:VEVENT
 SUMMARY:Borrowdale School's Bash up Bessyboot (AS)
 DTSTART;TZID=Europe/London:20240710T190000
 DTEND;TZID=Europe/London:20240710T210000
-DTSTAMP:20240417T143816Z
+DTSTAMP:20240501T143832Z
 UID:/races/e911ab44-ad3c-40ef-a4a2-f2072ae7e7a1
 DESCRIPTION:Borrowdale School's Bash up Bessyboot (AS)\nDate & time: Wed 1
  0 Jul 2024 at 19:00\nDistance:5.2 km / 3.2 miles\nClimb:456 m / 1496 ft\nG
@@ -2576,7 +2302,7 @@ BEGIN:VEVENT
 SUMMARY:Widdop (BM)
 DTSTART;TZID=Europe/London:20240710T191500
 DTEND;TZID=Europe/London:20240710T211500
-DTSTAMP:20240417T143816Z
+DTSTAMP:20240501T143832Z
 UID:/races/ee99f965-2b41-430f-aff9-a59babf98c01
 DESCRIPTION:Widdop (BM)\nDate & time: Wed 10 Jul 2024 at 19:15\nDistance:1
  1.3 km / 7 miles\nClimb:366 m / 1201 ft\nGrid reference:952316\nEntry on d
@@ -2591,7 +2317,7 @@ BEGIN:VEVENT
 SUMMARY:Black Rocks (BS)
 DTSTART;TZID=Europe/London:20240710T193000
 DTEND;TZID=Europe/London:20240710T213000
-DTSTAMP:20240417T143816Z
+DTSTAMP:20240501T143833Z
 UID:/races/20a5ec31-19c9-4f81-ab23-b4d9419719cd
 DESCRIPTION:Black Rocks (BS)\nDate & time: Wed 10 Jul 2024 at 19:30\nDista
  nce:9.5 km / 5.9 miles\nClimb:250 m / 820 ft\nGrid reference:SK304569\nEnt
@@ -2603,7 +2329,7 @@ BEGIN:VEVENT
 SUMMARY:Stipperstones Fell race (AS)
 DTSTART;TZID=Europe/London:20240710T193000
 DTEND;TZID=Europe/London:20240710T213000
-DTSTAMP:20240417T143817Z
+DTSTAMP:20240501T143833Z
 UID:/races/d5a2d053-8cfb-4aa6-b323-547754a39878
 DESCRIPTION:Stipperstones Fell race (AS)\nDate & time: Wed 10 Jul 2024 at 
  19:30\nDistance:7.5 km / 4.7 miles\nClimb:452 m / 1483 ft\nGrid reference:
@@ -2615,7 +2341,7 @@ BEGIN:VEVENT
 SUMMARY:Terry's High 5 (AS)
 DTSTART;TZID=Europe/London:20240711T190000
 DTEND;TZID=Europe/London:20240711T210000
-DTSTAMP:20240417T143817Z
+DTSTAMP:20240501T143833Z
 UID:/races/2b037399-8d33-473d-ae0b-c581ae97b551
 DESCRIPTION:Terry's High 5 (AS)\nDate & time: Thu 11 Jul 2024 at 19:00\nDi
  stance:8.2 km / 5.1 miles\nClimb:451 m / 1480 ft\nEntry on day:Yes\nEntry 
@@ -2628,7 +2354,7 @@ BEGIN:VEVENT
 SUMMARY:Beacon Hill (BM)
 DTSTART;TZID=Europe/London:20240711T191500
 DTEND;TZID=Europe/London:20240711T211500
-DTSTAMP:20240417T143818Z
+DTSTAMP:20240501T143834Z
 UID:/races/b9c0f175-d537-43c8-a41d-54480476bb65
 DESCRIPTION:Beacon Hill (BM)\nDate & time: Thu 11 Jul 2024 at 19:15\nDista
  nce:10.6 km / 6.6 miles\nClimb:410 m / 1345 ft\nGrid reference:053988\nEnt
@@ -2640,7 +2366,7 @@ BEGIN:VEVENT
 SUMMARY:Wasdale (AL)
 DTSTART;TZID=Europe/London:20240713T110000
 DTEND;TZID=Europe/London:20240713T130000
-DTSTAMP:20240417T143818Z
+DTSTAMP:20240501T143834Z
 UID:/races/272973bc-aa4a-493d-8d64-df23f1e20399
 DESCRIPTION:Wasdale (AL)\nDate & time: Sat 13 Jul 2024 at 11:00\nDistance:
  34 km / 21.1 miles\nClimb:2750 m / 9022 ft\nGrid reference:184073\nEntry o
@@ -2656,7 +2382,7 @@ BEGIN:VEVENT
 SUMMARY:Charlesworth &amp\; Chisworth Carnival Fell Race (BS)
 DTSTART;TZID=Europe/London:20240713T143000
 DTEND;TZID=Europe/London:20240713T163000
-DTSTAMP:20240417T143818Z
+DTSTAMP:20240501T143835Z
 UID:/races/61755c75-844d-4cf1-884f-a2981e210515
 DESCRIPTION:Charlesworth &amp\; Chisworth Carnival Fell Race (BS)\nDate & 
  time: Sat 13 Jul 2024 at 14:30\nDistance:5 km / 3.1 miles\nClimb:180 m / 5
@@ -2670,7 +2396,7 @@ BEGIN:VEVENT
 SUMMARY:Addingham Gala (BS)
 DTSTART;TZID=Europe/London:20240713T151000
 DTEND;TZID=Europe/London:20240713T171000
-DTSTAMP:20240417T143819Z
+DTSTAMP:20240501T143836Z
 UID:/races/bba00a54-f87c-4b8e-94f4-065d03727169
 DESCRIPTION:Addingham Gala (BS)\nDate & time: Sat 13 Jul 2024 at 15:10\nDi
  stance:9.5 km / 5.9 miles\nClimb:300 m / 984 ft\nGrid reference:SE079486\n
@@ -2682,7 +2408,7 @@ BEGIN:VEVENT
 SUMMARY:Baildon Canter (BS)
 DTSTART;TZID=Europe/London:20240713T151500
 DTEND;TZID=Europe/London:20240713T171500
-DTSTAMP:20240417T143819Z
+DTSTAMP:20240501T143836Z
 UID:/races/f223fef2-1fc8-4065-be87-38f7240ebadd
 DESCRIPTION:Baildon Canter (BS)\nDate & time: Sat 13 Jul 2024 at 15:15\nDi
  stance:5 km / 3.1 miles\nClimb:152 m / 499 ft\nEntry on day:Yes\nEntry on 
@@ -2697,7 +2423,7 @@ BEGIN:VEVENT
 SUMMARY:New Embsay Fell Race (AS)
 DTSTART;TZID=Europe/London:20240713T160000
 DTEND;TZID=Europe/London:20240713T180000
-DTSTAMP:20240417T143819Z
+DTSTAMP:20240501T143837Z
 UID:/races/1d79b9f3-6627-4040-bb31-1dfcba309ada
 DESCRIPTION:New Embsay Fell Race (AS)\nDate & time: Sat 13 Jul 2024 at 16:
  00\nDistance:4 km / 2.5 miles\nClimb:195 m / 640 ft\nEntry on day:Yes\nEnt
@@ -2709,7 +2435,7 @@ BEGIN:VEVENT
 SUMMARY:Peak Forest Fell Race (BS)
 DTSTART;TZID=Europe/London:20240714T111500
 DTEND;TZID=Europe/London:20240714T131500
-DTSTAMP:20240417T143820Z
+DTSTAMP:20240501T143837Z
 UID:/races/7335a727-54c5-4783-a9dc-cd59b00871fb
 DESCRIPTION:Peak Forest Fell Race (BS)\nDate & time: Sun 14 Jul 2024 at 11
  :15\nDistance:9.7 km / 6 miles\nClimb:247 m / 810 ft\nGrid reference:SK115
@@ -2721,7 +2447,7 @@ BEGIN:VEVENT
 SUMMARY:Trunce 6 (BS)
 DTSTART;TZID=Europe/London:20240715T184500
 DTEND;TZID=Europe/London:20240715T204500
-DTSTAMP:20240417T143820Z
+DTSTAMP:20240501T143838Z
 UID:/races/9e1a1bf9-a31a-463f-9c11-2fa276e5e2b7
 DESCRIPTION:Trunce 6 (BS)\nDate & time: Mon 15 Jul 2024 at 18:45\nDistance
  :6.4 km / 4 miles\nClimb:170 m / 558 ft\nGrid reference:SE272012\nEntry on
@@ -2733,7 +2459,7 @@ BEGIN:VEVENT
 SUMMARY:Chapelfell Top (AS)
 DTSTART;TZID=Europe/London:20240716T193000
 DTEND;TZID=Europe/London:20240716T213000
-DTSTAMP:20240417T143820Z
+DTSTAMP:20240501T143838Z
 UID:/races/2e70087a-eca8-4620-bd29-4dc1aae4d042
 DESCRIPTION:Chapelfell Top (AS)\nDate & time: Tue 16 Jul 2024 at 19:30\nDi
  stance:7 km / 4.3 miles\nClimb:400 m / 1312 ft\nGrid reference:NY 88517 37
@@ -2747,7 +2473,7 @@ BEGIN:VEVENT
 SUMMARY:Seat Sandal (AS)
 DTSTART;TZID=Europe/London:20240717T190000
 DTEND;TZID=Europe/London:20240717T210000
-DTSTAMP:20240417T143821Z
+DTSTAMP:20240501T143838Z
 UID:/races/65a87654-8db1-49c5-95b9-30a3967f6aa9
 DESCRIPTION:Seat Sandal (AS)\nDate & time: Wed 17 Jul 2024 at 19:00\nDista
  nce:7.4 km / 4.6 miles\nClimb:700 m / 2297 ft\nGrid reference:NY 3372 0881
@@ -2760,7 +2486,7 @@ BEGIN:VEVENT
 SUMMARY:Cock Howe and Beyond (BS)
 DTSTART;TZID=Europe/London:20240717T191500
 DTEND;TZID=Europe/London:20240717T211500
-DTSTAMP:20240417T143821Z
+DTSTAMP:20240501T143839Z
 UID:/races/70e599ea-5bb0-4026-8253-d4b0575e24e3
 DESCRIPTION:Cock Howe and Beyond (BS)\nDate & time: Wed 17 Jul 2024 at 19:
  15\nDistance:9.8 km / 6.1 miles\nClimb:344 m / 1129 ft\nGrid reference:SE5
@@ -2773,7 +2499,7 @@ BEGIN:VEVENT
 SUMMARY:Bamford Carnival (BS)
 DTSTART;TZID=Europe/London:20240717T193000
 DTEND;TZID=Europe/London:20240717T213000
-DTSTAMP:20240417T143822Z
+DTSTAMP:20240501T143839Z
 UID:/races/d12ea33d-9de6-42d3-847f-3bc81f2059b7
 DESCRIPTION:Bamford Carnival (BS)\nDate & time: Wed 17 Jul 2024 at 19:30\n
  Distance:7.3 km / 4.5 miles\nClimb:305 m / 1001 ft\nGrid reference:206829\
@@ -2787,7 +2513,7 @@ BEGIN:VEVENT
 SUMMARY:Carn Ingli Killer (AS)
 DTSTART;TZID=Europe/London:20240718T190000
 DTEND;TZID=Europe/London:20240718T210000
-DTSTAMP:20240417T143822Z
+DTSTAMP:20240501T143840Z
 UID:/races/12e94207-784a-46b5-bf76-177fbf8d92a3
 DESCRIPTION:Carn Ingli Killer (AS)\nDate & time: Thu 18 Jul 2024 at 19:00\
  nDistance:5.5 km / 3.4 miles\nClimb:315 m / 1033 ft\nEntry on day:Yes\nEnt
@@ -2799,7 +2525,7 @@ BEGIN:VEVENT
 SUMMARY:Blacka Moor Chase (BS)
 DTSTART;TZID=Europe/London:20240718T193000
 DTEND;TZID=Europe/London:20240718T213000
-DTSTAMP:20240417T143822Z
+DTSTAMP:20240501T143840Z
 UID:/races/28a9d71b-be9d-437b-9410-95132e8bc08f
 DESCRIPTION:Blacka Moor Chase (BS)\nDate & time: Thu 18 Jul 2024 at 19:30\
  nDistance:6.7 km / 4.2 miles\nClimb:252 m / 827 ft\nGrid reference:302800\
@@ -2811,7 +2537,7 @@ BEGIN:VEVENT
 SUMMARY:Blacka Moor Chase (BS)
 DTSTART;TZID=Europe/London:20240718T193000
 DTEND;TZID=Europe/London:20240718T213000
-DTSTAMP:20240417T143823Z
+DTSTAMP:20240501T143841Z
 UID:/races/ed65de69-ebf9-4b24-9298-ea2ab81c239a
 DESCRIPTION:Blacka Moor Chase (BS)\nDate & time: Thu 18 Jul 2024 at 19:30\
  nDistance:7.1 km / 4.4 miles\nClimb:252 m / 827 ft\nGrid reference:302800\
@@ -2823,7 +2549,7 @@ BEGIN:VEVENT
 SUMMARY:Sheldon (BS)
 DTSTART;TZID=Europe/London:20240718T193000
 DTEND;TZID=Europe/London:20240718T213000
-DTSTAMP:20240417T143823Z
+DTSTAMP:20240501T143841Z
 UID:/races/e886a90b-3278-470b-8543-d57abbdb397d
 DESCRIPTION:Sheldon (BS)\nDate & time: Thu 18 Jul 2024 at 19:30\nDistance:
  6.4 km / 4 miles\nClimb:162 m / 531 ft\nEntry on day:Yes\nEntry on day fee
@@ -2834,7 +2560,7 @@ BEGIN:VEVENT
 SUMMARY:Reservoir view (BM)
 DTSTART;TZID=Europe/London:20240719T183000
 DTEND;TZID=Europe/London:20240719T203000
-DTSTAMP:20240417T143823Z
+DTSTAMP:20240501T143842Z
 UID:/races/32cee790-d559-4039-907a-a48dfc8b9bfd
 DESCRIPTION:Reservoir view (BM)\nDate & time: Fri 19 Jul 2024 at 18:30\nDi
  stance:10.5 km / 6.5 miles\nClimb:370 m / 1214 ft\nGrid reference:SD 76959
@@ -2847,7 +2573,7 @@ BEGIN:VEVENT
 SUMMARY:The Old Crown Round (AL)
 DTSTART;TZID=Europe/London:20240720T110000
 DTEND;TZID=Europe/London:20240720T130000
-DTSTAMP:20240417T143824Z
+DTSTAMP:20240501T143842Z
 UID:/races/cee4e6bb-505e-4a7e-9e03-b71935ae336a
 DESCRIPTION:The Old Crown Round (AL)\nDate & time: Sat 20 Jul 2024 at 11:0
  0\nDistance:36 km / 22.4 miles\nClimb:2200 m / 7218 ft\nGrid reference:NY 
@@ -2860,7 +2586,7 @@ BEGIN:VEVENT
 SUMMARY:Lothersdale Show (AS)
 DTSTART;TZID=Europe/London:20240720T143000
 DTEND;TZID=Europe/London:20240720T163000
-DTSTAMP:20240417T143824Z
+DTSTAMP:20240501T143843Z
 UID:/races/254690db-8490-4494-b94d-9ee9fe2bf77a
 DESCRIPTION:Lothersdale Show (AS)\nDate & time: Sat 20 Jul 2024 at 14:30\n
  Distance:2.4 km / 1.5 miles\nClimb:122 m / 400 ft\nGrid reference:SD 95054
@@ -2873,7 +2599,7 @@ BEGIN:VEVENT
 SUMMARY:Ingleborough (AM)
 DTSTART;TZID=Europe/London:20240720T150000
 DTEND;TZID=Europe/London:20240720T170000
-DTSTAMP:20240417T143824Z
+DTSTAMP:20240501T143843Z
 UID:/races/01189715-21cf-46e0-a612-3d04a4e61135
 DESCRIPTION:Ingleborough (AM)\nDate & time: Sat 20 Jul 2024 at 15:00\nDist
  ance:11 km / 6.8 miles\nClimb:600 m / 1969 ft\nEntry on day:Yes\nEntry on 
@@ -2885,7 +2611,7 @@ BEGIN:VEVENT
 SUMMARY:Cracoe ( B O F R A ) (AS)
 DTSTART;TZID=Europe/London:20240721T120000
 DTEND;TZID=Europe/London:20240721T140000
-DTSTAMP:20240417T143825Z
+DTSTAMP:20240501T143844Z
 UID:/races/4ef18334-7957-4cdd-afca-0c5537ab778a
 DESCRIPTION:Cracoe ( B O F R A ) (AS)\nDate & time: Sun 21 Jul 2024 at 12:
  00\nDistance:4.2 km / 2.6 miles\nClimb:274 m / 899 ft\nEntry on day:Yes\nE
@@ -2898,7 +2624,7 @@ BEGIN:VEVENT
 SUMMARY:Pete Bland Kentmere Horseshoe (AM)
 DTSTART;TZID=Europe/London:20240721T130000
 DTEND;TZID=Europe/London:20240721T150000
-DTSTAMP:20240417T143825Z
+DTSTAMP:20240501T143844Z
 UID:/races/dfde7a3b-2b69-4ed1-be8b-0906c6f2d809
 DESCRIPTION:Pete Bland Kentmere Horseshoe (AM)\nDate & time: Sun 21 Jul 20
  24 at 13:00\nDistance:19.8 km / 12.3 miles\nClimb:1006 m / 3301 ft\nEntry 
@@ -2910,7 +2636,7 @@ BEGIN:VEVENT
 SUMMARY:Coniston Country Fair (AS)
 DTSTART;TZID=Europe/London:20240721T140000
 DTEND;TZID=Europe/London:20240721T160000
-DTSTAMP:20240417T143826Z
+DTSTAMP:20240501T143845Z
 UID:/races/3bfdbbc9-6ade-4eb4-b018-c7e1d01e301a
 DESCRIPTION:Coniston Country Fair (AS)\nDate & time: Sun 21 Jul 2024 at 14
  :00\nDistance:9.7 km / 6 miles\nClimb:732 m / 2402 ft\nEntry on day:Yes\nE
@@ -2922,7 +2648,7 @@ BEGIN:VEVENT
 SUMMARY:Fellside (AM)
 DTSTART;TZID=Europe/London:20240724T190000
 DTEND;TZID=Europe/London:20240724T210000
-DTSTAMP:20240417T143826Z
+DTSTAMP:20240501T143845Z
 UID:/races/ba25b18c-bb22-4a44-a884-94541789e7f0
 DESCRIPTION:Fellside (AM)\nDate & time: Wed 24 Jul 2024 at 19:00\nDistance
  :11.3 km / 7 miles\nClimb:580 m / 1903 ft\nGrid reference:305373\nEntry on
@@ -2935,7 +2661,7 @@ BEGIN:VEVENT
 SUMMARY:Heart Of The Lakes Rydal Round (AM)
 DTSTART;TZID=Europe/London:20240725T120500
 DTEND;TZID=Europe/London:20240725T140500
-DTSTAMP:20240417T143826Z
+DTSTAMP:20240501T143846Z
 UID:/races/5f9baa8b-71bd-4cf4-b4e9-13aaf2c0c9ab
 DESCRIPTION:Heart Of The Lakes Rydal Round (AM)\nDate & time: Thu 25 Jul 2
  024 at 12:05\nDistance:14.5 km / 9 miles\nClimb:915 m / 3002 ft\nEntry on 
@@ -2946,7 +2672,7 @@ BEGIN:VEVENT
 SUMMARY:Big Stone Fell Race (AS)
 DTSTART;TZID=Europe/London:20240725T193000
 DTEND;TZID=Europe/London:20240725T213000
-DTSTAMP:20240417T143827Z
+DTSTAMP:20240501T143846Z
 UID:/races/7cb87e88-16b8-4209-9f53-8f187b254615
 DESCRIPTION:Big Stone Fell Race (AS)\nDate & time: Thu 25 Jul 2024 at 19:3
  0\nDistance:6.3 km / 3.9 miles\nClimb:373 m / 1224 ft\nEntry on day:No\nPr
@@ -2958,7 +2684,7 @@ BEGIN:VEVENT
 SUMMARY:Blisco Dash (AS)
 DTSTART;TZID=Europe/London:20240727T130000
 DTEND;TZID=Europe/London:20240727T150000
-DTSTAMP:20240417T143827Z
+DTSTAMP:20240501T143847Z
 UID:/races/2342f485-9980-425c-abd9-3ffa4693b9e3
 DESCRIPTION:Blisco Dash (AS)\nDate & time: Sat 27 Jul 2024 at 13:00\nDista
  nce:7 km / 4.3 miles\nClimb:609 m / 1998 ft\nGrid reference:285060\nEntry 
@@ -2970,7 +2696,7 @@ BEGIN:VEVENT
 SUMMARY:James Coulson Laxey Fell (AM)
 DTSTART;TZID=Europe/London:20240727T133000
 DTEND;TZID=Europe/London:20240727T153000
-DTSTAMP:20240417T143827Z
+DTSTAMP:20240501T143847Z
 UID:/races/e73b864b-69b2-4b68-885f-d5f2ecdcde2b
 DESCRIPTION:James Coulson Laxey Fell (AM)\nDate & time: Sat 27 Jul 2024 at
   13:30\nDistance:10.4 km / 6.5 miles\nClimb:550 m / 1804 ft\nGrid referenc
@@ -2982,7 +2708,7 @@ BEGIN:VEVENT
 SUMMARY:Turnslack (BM)
 DTSTART;TZID=Europe/London:20240727T143000
 DTEND;TZID=Europe/London:20240727T163000
-DTSTAMP:20240417T143828Z
+DTSTAMP:20240501T143847Z
 UID:/races/f0ee90fb-5fdb-4597-9681-6f91bf40ae39
 DESCRIPTION:Turnslack (BM)\nDate & time: Sat 27 Jul 2024 at 14:30\nDistanc
  e:12.9 km / 8 miles\nClimb:610 m / 2001 ft\nEntry on day:Yes\nEntry on day
@@ -2996,7 +2722,7 @@ BEGIN:VEVENT
 SUMMARY:Beetham Sports (BS)
 DTSTART;TZID=Europe/London:20240727T153000
 DTEND;TZID=Europe/London:20240727T173000
-DTSTAMP:20240417T143828Z
+DTSTAMP:20240501T143848Z
 UID:/races/1d06f7b4-55db-4d83-b04c-075e640e2094
 DESCRIPTION:Beetham Sports (BS)\nDate & time: Sat 27 Jul 2024 at 15:30\nDi
  stance:9.3 km / 5.8 miles\nClimb:283 m / 928 ft\nGrid reference:SD496795\n
@@ -3010,7 +2736,7 @@ BEGIN:VEVENT
 SUMMARY:Holme Moss (AL)
 DTSTART;TZID=Europe/London:20240728T110000
 DTEND;TZID=Europe/London:20240728T130000
-DTSTAMP:20240417T143828Z
+DTSTAMP:20240501T143848Z
 UID:/races/24cef6fe-7e92-4b94-ac9d-3ba35124e9dc
 DESCRIPTION:Holme Moss (AL)\nDate & time: Sun 28 Jul 2024 at 11:00\nDistan
  ce:28.6 km / 17.8 miles\nClimb:1285 m / 4216 ft\nGrid reference:SE134067\n
@@ -3023,7 +2749,7 @@ BEGIN:VEVENT
 SUMMARY:James Herriot Run (CM)
 DTSTART;TZID=Europe/London:20240728T110000
 DTEND;TZID=Europe/London:20240728T130000
-DTSTAMP:20240417T143829Z
+DTSTAMP:20240501T143849Z
 UID:/races/eeb6256f-cb0d-4b3a-adab-55fec698652f
 DESCRIPTION:James Herriot Run (CM)\nDate & time: Sun 28 Jul 2024 at 11:00\
  nDistance:14 km / 8.7 miles\nClimb:305 m / 1001 ft\nGrid reference:SE03191
@@ -3036,7 +2762,7 @@ BEGIN:VEVENT
 SUMMARY:Lee Mill (BM)
 DTSTART;TZID=Europe/London:20240731T190000
 DTEND;TZID=Europe/London:20240731T210000
-DTSTAMP:20240417T143829Z
+DTSTAMP:20240501T143849Z
 UID:/races/b8c8a2cd-eb79-49f8-b5d9-b9b93af2e6ce
 DESCRIPTION:Lee Mill (BM)\nDate & time: Wed 31 Jul 2024 at 19:00\nDistance
  :10.7 km / 6.6 miles\nClimb:332 m / 1089 ft\nGrid reference:SD866211\nEntr
@@ -3048,7 +2774,7 @@ BEGIN:VEVENT
 SUMMARY:Eshton Moor ( B O F R A ) (CS)
 DTSTART;TZID=Europe/London:20240801T191500
 DTEND;TZID=Europe/London:20240801T211500
-DTSTAMP:20240417T143830Z
+DTSTAMP:20240501T143850Z
 UID:/races/c2f18468-dded-4244-a243-0362b7852f41
 DESCRIPTION:Eshton Moor ( B O F R A ) (CS)\nDate & time: Thu 1 Aug 2024 at
   19:15\nDistance:8.3 km / 5.2 miles\nClimb:172 m / 564 ft\nEntry on day:Ye
@@ -3062,7 +2788,7 @@ BEGIN:VEVENT
 SUMMARY:Stoney Middleton (CS)
 DTSTART;TZID=Europe/London:20240801T193000
 DTEND;TZID=Europe/London:20240801T213000
-DTSTAMP:20240417T143830Z
+DTSTAMP:20240501T143850Z
 UID:/races/febe7203-ca84-4c5c-9b6b-9c70ca669936
 DESCRIPTION:Stoney Middleton (CS)\nDate & time: Thu 1 Aug 2024 at 19:30\nD
  istance:8.5 km / 5.3 miles\nClimb:200 m / 656 ft\nGrid reference:236752\nE
@@ -3074,7 +2800,7 @@ BEGIN:VEVENT
 SUMMARY:Salt cellar (BM)
 DTSTART;TZID=Europe/London:20240802T190000
 DTEND;TZID=Europe/London:20240802T210000
-DTSTAMP:20240417T143830Z
+DTSTAMP:20240501T143851Z
 UID:/races/c60f9b9c-d6c8-4990-af7d-070765f03576
 DESCRIPTION:Salt cellar (BM)\nDate & time: Fri 2 Aug 2024 at 19:00\nDistan
  ce:10.9 km / 6.8 miles\nClimb:486 m / 1594 ft\nGrid reference:Sk173893\nEn
@@ -3087,7 +2813,7 @@ BEGIN:VEVENT
 SUMMARY:Borrowdale (AL)
 DTSTART;TZID=Europe/London:20240803T110000
 DTEND;TZID=Europe/London:20240803T130000
-DTSTAMP:20240417T143831Z
+DTSTAMP:20240501T143852Z
 UID:/races/e5c9cb3d-afe7-4ad2-866a-d4e3bcdc6e19
 DESCRIPTION:Borrowdale (AL)\nDate & time: Sat 3 Aug 2024 at 11:00\nDistanc
  e:27 km / 16.8 miles\nClimb:2000 m / 6562 ft\nEntry on day:No\nPre-entry:Y
@@ -3098,7 +2824,7 @@ BEGIN:VEVENT
 SUMMARY:Tegg's Nose (BM)
 DTSTART;TZID=Europe/London:20240803T143000
 DTEND;TZID=Europe/London:20240803T163000
-DTSTAMP:20240417T143831Z
+DTSTAMP:20240501T143852Z
 UID:/races/3ecbfe21-9d43-45b4-bb1a-6804c5db8318
 DESCRIPTION:Tegg's Nose (BM)\nDate & time: Sat 3 Aug 2024 at 14:30\nDistan
  ce:12.8 km / 8 miles\nClimb:525 m / 1722 ft\nGrid reference:SJ 923 716\nEn
@@ -3113,7 +2839,7 @@ BEGIN:VEVENT
 SUMMARY:Chip Chase (BS)
 DTSTART;TZID=Europe/London:20240804T110000
 DTEND;TZID=Europe/London:20240804T130000
-DTSTAMP:20240417T143831Z
+DTSTAMP:20240501T143853Z
 UID:/races/fc489921-8964-4ff0-83dd-1a563da78b23
 DESCRIPTION:Chip Chase (BS)\nDate & time: Sun 4 Aug 2024 at 11:00\nDistanc
  e:10 km / 6.2 miles\nClimb:400 m / 1312 ft\nEntry on day:Yes\nEntry on day
@@ -3127,7 +2853,7 @@ BEGIN:VEVENT
 SUMMARY:Round Hill (CM)
 DTSTART;TZID=Europe/London:20240804T110000
 DTEND;TZID=Europe/London:20240804T130000
-DTSTAMP:20240417T143832Z
+DTSTAMP:20240501T143853Z
 UID:/races/d119d0f3-bb1e-45cb-9097-22749126e1cb
 DESCRIPTION:Round Hill (CM)\nDate & time: Sun 4 Aug 2024 at 11:00\nDistanc
  e:14.1 km / 8.8 miles\nClimb:335 m / 1099 ft\nGrid reference:170531\nEntry
@@ -3141,7 +2867,7 @@ BEGIN:VEVENT
 SUMMARY:Farleton Knott ( B O F R A ) (AS)
 DTSTART;TZID=Europe/London:20240804T120000
 DTEND;TZID=Europe/London:20240804T140000
-DTSTAMP:20240417T143832Z
+DTSTAMP:20240501T143854Z
 UID:/races/ac01b0b2-3853-4e7f-9c56-3dc89abb84f9
 DESCRIPTION:Farleton Knott ( B O F R A ) (AS)\nDate & time: Sun 4 Aug 2024
   at 12:00\nDistance:4.2 km / 2.6 miles\nClimb:457 m / 1499 ft\nEntry on da
@@ -3154,7 +2880,7 @@ BEGIN:VEVENT
 SUMMARY:Y Cerrig Glas (BM)
 DTSTART;TZID=Europe/London:20240804T120000
 DTEND;TZID=Europe/London:20240804T140000
-DTSTAMP:20240417T143833Z
+DTSTAMP:20240501T143854Z
 UID:/races/e33d6704-79de-4b9b-9ee2-ee3d76a17a03
 DESCRIPTION:Y Cerrig Glas (BM)\nDate & time: Sun 4 Aug 2024 at 12:00\nDist
  ance:11.5 km / 7.1 miles\nClimb:350 m / 1148 ft\nGrid reference:127307\nEn
@@ -3167,7 +2893,7 @@ BEGIN:VEVENT
 SUMMARY:Trunce 7 (BS)
 DTSTART;TZID=Europe/London:20240805T184500
 DTEND;TZID=Europe/London:20240805T204500
-DTSTAMP:20240417T143833Z
+DTSTAMP:20240501T143855Z
 UID:/races/5b85ef1d-1767-4944-b21e-e15427235d00
 DESCRIPTION:Trunce 7 (BS)\nDate & time: Mon 5 Aug 2024 at 18:45\nDistance:
  6.4 km / 4 miles\nClimb:170 m / 558 ft\nGrid reference:SE272012\nEntry on 
@@ -3179,7 +2905,7 @@ BEGIN:VEVENT
 SUMMARY:Crow Hill Reverse (BS)
 DTSTART;TZID=Europe/London:20240806T191500
 DTEND;TZID=Europe/London:20240806T211500
-DTSTAMP:20240417T143833Z
+DTSTAMP:20240501T143855Z
 UID:/races/1a030ab1-4b8d-4f56-a2b2-982f6890bdcd
 DESCRIPTION:Crow Hill Reverse (BS)\nDate & time: Tue 6 Aug 2024 at 19:15\n
  Distance:8 km / 5 miles\nClimb:305 m / 1001 ft\nGrid reference:011260\nEnt
@@ -3188,26 +2914,10 @@ DESCRIPTION:Crow Hill Reverse (BS)\nDate & time: Tue 6 Aug 2024 at 19:15\n
  1-4b8d-4f56-a2b2-982f6890bdcd
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Bradwell (AS)
-DTSTART;TZID=Europe/London:20240806T193000
-DTEND;TZID=Europe/London:20240806T213000
-DTSTAMP:20240417T143834Z
-UID:/races/8a32ca75-301a-48b2-8232-79a9536b4261
-DESCRIPTION:Bradwell (AS)\nDate & time: Tue 6 Aug 2024 at 19:30\nDistance:
- 5 km / 3.1 miles\nClimb:252 m / 827 ft\nGrid reference:175818\nEntry on da
- y:Yes\nEntry on day fee (members):£10.00\nEntry on day fee (non-members):
- £12.00\nPre-entry:Yes\nPre-entry fee (members):£6.00\nPre-entry fee (non
- -members):£8.00\nEntries open May via link on race website. Pre-entry bef
- ore July £6/£8. July to August 4th £8/£10. Pre-entry closes 4/8/2023. 
- Entry on the day if limit not reached. Contact organiser.\nPeak District\,
-  England\nFull information: https://races.fellrunner.org.uk/races/8a32ca75
- -301a-48b2-8232-79a9536b4261
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Parwich Panoramic Five (CS)
 DTSTART;TZID=Europe/London:20240806T193000
 DTEND;TZID=Europe/London:20240806T213000
-DTSTAMP:20240417T143834Z
+DTSTAMP:20240501T143856Z
 UID:/races/7ffc7505-0d35-4241-bc06-6acc8a845893
 DESCRIPTION:Parwich Panoramic Five (CS)\nDate & time: Tue 6 Aug 2024 at 19
  :30\nDistance:8.5 km / 5.3 miles\nClimb:200 m / 656 ft\nEntry on day:Yes\n
@@ -3219,7 +2929,7 @@ BEGIN:VEVENT
 SUMMARY:Ivybridge 3 Tops (BS)
 DTSTART;TZID=Europe/London:20240807T184500
 DTEND;TZID=Europe/London:20240807T204500
-DTSTAMP:20240417T143834Z
+DTSTAMP:20240501T143856Z
 UID:/races/62f42b13-7880-451b-8c9c-cd46644f3fb1
 DESCRIPTION:Ivybridge 3 Tops (BS)\nDate & time: Wed 7 Aug 2024 at 18:45\nD
  istance:10 km / 6.2 miles\nClimb:450 m / 1476 ft\nGrid reference:SX 648 56
@@ -3232,7 +2942,7 @@ BEGIN:VEVENT
 SUMMARY:Whittle Pike (AS)
 DTSTART;TZID=Europe/London:20240807T190000
 DTEND;TZID=Europe/London:20240807T210000
-DTSTAMP:20240417T143835Z
+DTSTAMP:20240501T143857Z
 UID:/races/f5f72089-d6c0-42c9-9288-d5ec4bed22c1
 DESCRIPTION:Whittle Pike (AS)\nDate & time: Wed 7 Aug 2024 at 19:00\nDista
  nce:8.2 km / 5.1 miles\nClimb:488 m / 1601 ft\nGrid reference:837212\nEntr
@@ -3244,7 +2954,7 @@ BEGIN:VEVENT
 SUMMARY:Steel Fell (AS)
 DTSTART;TZID=Europe/London:20240807T191500
 DTEND;TZID=Europe/London:20240807T211500
-DTSTAMP:20240417T143835Z
+DTSTAMP:20240501T143857Z
 UID:/races/f7a1ff79-a8b2-4237-9fc2-bc9cfa6e7614
 DESCRIPTION:Steel Fell (AS)\nDate & time: Wed 7 Aug 2024 at 19:15\nDistanc
  e:5 km / 3.1 miles\nClimb:400 m / 1312 ft\nGrid reference:322128\nEntry on
@@ -3256,7 +2966,7 @@ BEGIN:VEVENT
 SUMMARY:Cracken Edge (BM)
 DTSTART;TZID=Europe/London:20240807T193000
 DTEND;TZID=Europe/London:20240807T213000
-DTSTAMP:20240417T143835Z
+DTSTAMP:20240501T143858Z
 UID:/races/2242a797-75a2-4191-a21d-bc6efb585ebe
 DESCRIPTION:Cracken Edge (BM)\nDate & time: Wed 7 Aug 2024 at 19:30\nDista
  nce:11.3 km / 7 miles\nClimb:442 m / 1450 ft\nGrid reference:SK037869\nEnt
@@ -3268,7 +2978,7 @@ BEGIN:VEVENT
 SUMMARY:Ricky's Race (BS)
 DTSTART;TZID=Europe/London:20240808T190000
 DTEND;TZID=Europe/London:20240808T210000
-DTSTAMP:20240417T143836Z
+DTSTAMP:20240501T143858Z
 UID:/races/b89d8191-9ea2-44d3-ad67-06e349adcdc4
 DESCRIPTION:Ricky's Race (BS)\nDate & time: Thu 8 Aug 2024 at 19:00\nDista
  nce:7.3 km / 4.5 miles\nClimb:240 m / 787 ft\nGrid reference:SK269621\nEnt
@@ -3280,7 +2990,7 @@ BEGIN:VEVENT
 SUMMARY:Kings Challenge (BS)
 DTSTART;TZID=Europe/London:20240808T190000
 DTEND;TZID=Europe/London:20240808T210000
-DTSTAMP:20240417T143836Z
+DTSTAMP:20240501T143858Z
 UID:/races/5ada11ed-9eb8-4072-a77d-7a4bbd067bfd
 DESCRIPTION:Kings Challenge (BS)\nDate & time: Thu 8 Aug 2024 at 19:00\nDi
  stance:9.6 km / 6 miles\nClimb:360 m / 1181 ft\nGrid reference:SE 042 465\
@@ -3292,7 +3002,7 @@ BEGIN:VEVENT
 SUMMARY:Denis Stitt Memorial Race (AS)
 DTSTART;TZID=Europe/London:20240808T191500
 DTEND;TZID=Europe/London:20240808T211500
-DTSTAMP:20240417T143837Z
+DTSTAMP:20240501T143859Z
 UID:/races/4e71fb65-acaa-4bc2-8211-2594a527c92c
 DESCRIPTION:Denis Stitt Memorial Race (AS)\nDate & time: Thu 8 Aug 2024 at
   19:15\nDistance:6 km / 3.7 miles\nClimb:370 m / 1214 ft\nGrid reference:1
@@ -3302,10 +3012,23 @@ DESCRIPTION:Denis Stitt Memorial Race (AS)\nDate & time: Thu 8 Aug 2024 at
  a527c92c
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Sticklepath Horseshoe (BM)
+DTSTART;TZID=Europe/London:20240810T130000
+DTEND;TZID=Europe/London:20240810T150000
+DTSTAMP:20240501T143859Z
+UID:/races/b282fd12-8fe6-4850-a217-02a8a4d2d90d
+DESCRIPTION:Sticklepath Horseshoe (BM)\nDate & time: Sat 10 Aug 2024 at 13
+ :00\nDistance:15.5 km / 9.6 miles\nClimb:519 m / 1703 ft\nGrid reference:S
+ X641940\nEntry on day:Yes\nEntry on day fee:£12.00\nPre-entry:Yes\nPre-en
+ try fee:£10.00\nPre-entry recommended. Limit 50.\nSouth West\, England\nF
+ ull information: https://races.fellrunner.org.uk/races/b282fd12-8fe6-4850-
+ a217-02a8a4d2d90d
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Arncliffe Gala ( B O F R A ) (BS)
 DTSTART;TZID=Europe/London:20240810T153000
 DTEND;TZID=Europe/London:20240810T173000
-DTSTAMP:20240417T143837Z
+DTSTAMP:20240501T143900Z
 UID:/races/a47c3ece-73a6-43b5-bace-b8a7b9cb2297
 DESCRIPTION:Arncliffe Gala ( B O F R A ) (BS)\nDate & time: Sat 10 Aug 202
  4 at 15:30\nDistance:3 km / 1.9 miles\nClimb:140 m / 459 ft\nEntry on day:
@@ -3320,7 +3043,7 @@ BEGIN:VEVENT
 SUMMARY:Lowther Lakeland Fell &amp\; Trail Run (CL)
 DTSTART;TZID=Europe/London:20240811T110000
 DTEND;TZID=Europe/London:20240811T130000
-DTSTAMP:20240417T143837Z
+DTSTAMP:20240501T143900Z
 UID:/races/452417d3-7aaf-4ba4-83e5-1e591f57dc73
 DESCRIPTION:Lowther Lakeland Fell &amp\; Trail Run (CL)\nDate & time: Sun 
  11 Aug 2024 at 11:00\nDistance:21 km / 13 miles\nClimb:430 m / 1411 ft\nGr
@@ -3334,7 +3057,7 @@ BEGIN:VEVENT
 SUMMARY:Gt. Links Tor Flyer (BS)
 DTSTART;TZID=Europe/London:20240814T184500
 DTEND;TZID=Europe/London:20240814T204500
-DTSTAMP:20240417T143838Z
+DTSTAMP:20240501T143901Z
 UID:/races/ed620576-1f17-4ab5-b123-3d1cb07ce4e5
 DESCRIPTION:Gt. Links Tor Flyer (BS)\nDate & time: Wed 14 Aug 2024 at 18:4
  5\nDistance:9.5 km / 5.9 miles\nClimb:372 m / 1220 ft\nGrid reference:526 
@@ -3347,7 +3070,7 @@ BEGIN:VEVENT
 SUMMARY:Killer Mile (AS)
 DTSTART;TZID=Europe/London:20240814T190000
 DTEND;TZID=Europe/London:20240814T210000
-DTSTAMP:20240417T143838Z
+DTSTAMP:20240501T143901Z
 UID:/races/8f943509-7737-4e6a-8a65-42f09d1bdb83
 DESCRIPTION:Killer Mile (AS)\nDate & time: Wed 14 Aug 2024 at 19:00\nDista
  nce:1.6 km / 1 miles\nClimb:180 m / 591 ft\nEntry on day:Yes\nEntry on day
@@ -3359,7 +3082,7 @@ BEGIN:VEVENT
 SUMMARY:Not Round Latrigg (BS)
 DTSTART;TZID=Europe/London:20240814T190000
 DTEND;TZID=Europe/London:20240814T210000
-DTSTAMP:20240417T143838Z
+DTSTAMP:20240501T143902Z
 UID:/races/cfd740e1-c0d4-4a4e-b883-aeace3bec977
 DESCRIPTION:Not Round Latrigg (BS)\nDate & time: Wed 14 Aug 2024 at 19:00\
  nDistance:8.6 km / 5.3 miles\nClimb:280 m / 919 ft\nEntry on day:Yes\nEntr
@@ -3371,7 +3094,7 @@ BEGIN:VEVENT
 SUMMARY:Ravenscar Rumble revisited (BS)
 DTSTART;TZID=Europe/London:20240814T190000
 DTEND;TZID=Europe/London:20240814T210000
-DTSTAMP:20240417T143839Z
+DTSTAMP:20240501T143902Z
 UID:/races/804b6880-e1fe-4d9f-ab57-7759f3e1c3be
 DESCRIPTION:Ravenscar Rumble revisited (BS)\nDate & time: Wed 14 Aug 2024 
  at 19:00\nDistance:10 km / 6.2 miles\nClimb:250 m / 820 ft\nGrid reference
@@ -3384,7 +3107,7 @@ BEGIN:VEVENT
 SUMMARY:Ragleth Inn (AS)
 DTSTART;TZID=Europe/London:20240814T190000
 DTEND;TZID=Europe/London:20240814T210000
-DTSTAMP:20240417T143839Z
+DTSTAMP:20240501T143903Z
 UID:/races/91c79c25-a024-4bbe-91fa-b6a1333ae991
 DESCRIPTION:Ragleth Inn (AS)\nDate & time: Wed 14 Aug 2024 at 19:00\nDista
  nce:4.5 km / 2.8 miles\nClimb:465 m / 1526 ft\nEntry on day:Yes\nEntry on 
@@ -3396,7 +3119,7 @@ BEGIN:VEVENT
 SUMMARY:Crook Peak Cake Race (BS)
 DTSTART;TZID=Europe/London:20240814T190000
 DTEND;TZID=Europe/London:20240814T210000
-DTSTAMP:20240417T143839Z
+DTSTAMP:20240501T143903Z
 UID:/races/9e62b4ad-d512-4bf3-91ee-03d7468052d2
 DESCRIPTION:Crook Peak Cake Race (BS)\nDate & time: Wed 14 Aug 2024 at 19:
  00\nDistance:4.8 km / 3 miles\nClimb:200 m / 656 ft\nGrid reference:ST4175
@@ -3408,7 +3131,7 @@ BEGIN:VEVENT
 SUMMARY:Pilgrims Cross Fell Race (BM)
 DTSTART;TZID=Europe/London:20240814T190000
 DTEND;TZID=Europe/London:20240814T210000
-DTSTAMP:20240417T143840Z
+DTSTAMP:20240501T143904Z
 UID:/races/25618f14-8d2e-40d1-9c5c-17a133aead97
 DESCRIPTION:Pilgrims Cross Fell Race (BM)\nDate & time: Wed 14 Aug 2024 at
   19:00\nDistance:10.7 km / 6.6 miles\nClimb:390 m / 1280 ft\nGrid referenc
@@ -3421,7 +3144,7 @@ BEGIN:VEVENT
 SUMMARY:Eccles Pike (AS)
 DTSTART;TZID=Europe/London:20240814T193000
 DTEND;TZID=Europe/London:20240814T213000
-DTSTAMP:20240417T143840Z
+DTSTAMP:20240501T143904Z
 UID:/races/6ea85c94-9385-437c-a0c2-045abfac9045
 DESCRIPTION:Eccles Pike (AS)\nDate & time: Wed 14 Aug 2024 at 19:30\nDista
  nce:5.4 km / 3.4 miles\nClimb:305 m / 1001 ft\nGrid reference:023822 on Da
@@ -3433,7 +3156,7 @@ BEGIN:VEVENT
 SUMMARY:Hob Hurst's (BS)
 DTSTART;TZID=Europe/London:20240816T190000
 DTEND;TZID=Europe/London:20240816T210000
-DTSTAMP:20240417T143841Z
+DTSTAMP:20240501T143905Z
 UID:/races/e0aee3ca-6d25-4a3c-b2e0-49e660a7117d
 DESCRIPTION:Hob Hurst's (BS)\nDate & time: Fri 16 Aug 2024 at 19:00\nDista
  nce:7.8 km / 4.8 miles\nClimb:256 m / 840 ft\nGrid reference:SK 266676\nEn
@@ -3446,7 +3169,7 @@ BEGIN:VEVENT
 SUMMARY:Rusland 5 (BS)
 DTSTART;TZID=Europe/London:20240817T122000
 DTEND;TZID=Europe/London:20240817T142000
-DTSTAMP:20240417T143841Z
+DTSTAMP:20240501T143905Z
 UID:/races/d90aefa7-af94-45ae-a34e-1a5be5ca9759
 DESCRIPTION:Rusland 5 (BS)\nDate & time: Sat 17 Aug 2024 at 12:20\nDistanc
  e:7.8 km / 4.8 miles\nClimb:310 m / 1017 ft\nGrid reference:331891\nEntry 
@@ -3458,7 +3181,7 @@ BEGIN:VEVENT
 SUMMARY:Ras Beca (BS)
 DTSTART;TZID=Europe/London:20240817T133000
 DTEND;TZID=Europe/London:20240817T153000
-DTSTAMP:20240417T143841Z
+DTSTAMP:20240501T143906Z
 UID:/races/bdf18508-541e-48a3-97a6-9c81ba4a1933
 DESCRIPTION:Ras Beca (BS)\nDate & time: Sat 17 Aug 2024 at 13:30\nDistance
  :8 km / 5 miles\nClimb:330 m / 1083 ft\nEntry on day:Yes\nEntry on day fee
@@ -3471,7 +3194,7 @@ BEGIN:VEVENT
 SUMMARY:Piethorne (BS)
 DTSTART;TZID=Europe/London:20240818T100000
 DTEND;TZID=Europe/London:20240818T120000
-DTSTAMP:20240417T143842Z
+DTSTAMP:20240501T143906Z
 UID:/races/cd96fcf1-b388-4a9f-802c-cb2b56efa942
 DESCRIPTION:Piethorne (BS)\nDate & time: Sun 18 Aug 2024 at 10:00\nDistanc
  e:10 km / 6.2 miles\nClimb:275 m / 902 ft\nGrid reference:952 120\nEntry o
@@ -3484,7 +3207,7 @@ BEGIN:VEVENT
 SUMMARY:Crowden (BM)
 DTSTART;TZID=Europe/London:20240818T110000
 DTEND;TZID=Europe/London:20240818T130000
-DTSTAMP:20240417T143842Z
+DTSTAMP:20240501T143907Z
 UID:/races/f908f9b2-c81e-445a-8471-26eb5c077ab2
 DESCRIPTION:Crowden (BM)\nDate & time: Sun 18 Aug 2024 at 11:00\nDistance:
  12.9 km / 8 miles\nClimb:518 m / 1699 ft\nGrid reference:073993\nEntry on 
@@ -3497,7 +3220,7 @@ BEGIN:VEVENT
 SUMMARY:Sedbergh Hills (AL)
 DTSTART;TZID=Europe/London:20240818T110000
 DTEND;TZID=Europe/London:20240818T130000
-DTSTAMP:20240417T143842Z
+DTSTAMP:20240501T143907Z
 UID:/races/995b32e3-bc9c-4f82-84a9-17e8845cb116
 DESCRIPTION:Sedbergh Hills (AL)\nDate & time: Sun 18 Aug 2024 at 11:00\nDi
  stance:22.5 km / 14 miles\nClimb:1830 m / 6004 ft\nGrid reference:655923\n
@@ -3509,7 +3232,7 @@ BEGIN:VEVENT
 SUMMARY:Lakeland Country Fair Senior Race (AS)
 DTSTART;TZID=Europe/London:20240818T143000
 DTEND;TZID=Europe/London:20240818T163000
-DTSTAMP:20240417T143843Z
+DTSTAMP:20240501T143908Z
 UID:/races/c356265e-4773-414e-b82b-c956af91848a
 DESCRIPTION:Lakeland Country Fair Senior Race (AS)\nDate & time: Sun 18 Au
  g 2024 at 14:30\nDistance:9 km / 5.6 miles\nClimb:705 m / 2313 ft\nGrid re
@@ -3521,7 +3244,7 @@ BEGIN:VEVENT
 SUMMARY:Trunce 8 (BS)
 DTSTART;TZID=Europe/London:20240819T184500
 DTEND;TZID=Europe/London:20240819T204500
-DTSTAMP:20240417T143843Z
+DTSTAMP:20240501T143908Z
 UID:/races/9ca7964c-e752-4b69-99bb-53dc26167ab5
 DESCRIPTION:Trunce 8 (BS)\nDate & time: Mon 19 Aug 2024 at 18:45\nDistance
  :6.4 km / 4 miles\nClimb:170 m / 558 ft\nGrid reference:SE272012\nEntry on
@@ -3533,7 +3256,7 @@ BEGIN:VEVENT
 SUMMARY:Hawkshead Show Fell Race (7.8km)
 DTSTART;TZID=Europe/London:20240820T113000
 DTEND;TZID=Europe/London:20240820T133000
-DTSTAMP:20240417T143844Z
+DTSTAMP:20240501T143909Z
 UID:/races/a3b46316-0578-4001-85cc-e3899d08a960
 DESCRIPTION:Hawkshead Show Fell Race (7.8km)\nDate & time: Tue 20 Aug 2024
   at 11:30\nDistance:7.8 km / 4.8 miles\nClimb:244 m / 801 ft\nGrid referen
@@ -3547,7 +3270,7 @@ BEGIN:VEVENT
 SUMMARY:Shipman Knotts (AS)
 DTSTART;TZID=Europe/London:20240820T190000
 DTEND;TZID=Europe/London:20240820T210000
-DTSTAMP:20240417T143844Z
+DTSTAMP:20240501T143909Z
 UID:/races/9961fd75-be50-4036-a573-cd7f3ef3cc61
 DESCRIPTION:Shipman Knotts (AS)\nDate & time: Tue 20 Aug 2024 at 19:00\nDi
  stance:6 km / 3.7 miles\nClimb:400 m / 1312 ft\nGrid reference:461041\nEnt
@@ -3559,7 +3282,7 @@ BEGIN:VEVENT
 SUMMARY:Golf Ball (BS)
 DTSTART;TZID=Europe/London:20240821T190000
 DTEND;TZID=Europe/London:20240821T210000
-DTSTAMP:20240417T143844Z
+DTSTAMP:20240501T143910Z
 UID:/races/af3c174a-8489-47d8-8ce0-db94089418d5
 DESCRIPTION:Golf Ball (BS)\nDate & time: Wed 21 Aug 2024 at 19:00\nDistanc
  e:8.8 km / 5.5 miles\nClimb:244 m / 801 ft\nEntry on day:Yes\nEntry on day
@@ -3571,7 +3294,7 @@ BEGIN:VEVENT
 SUMMARY:Ochil 2000s (AL)
 DTSTART;TZID=Europe/London:20240824T120000
 DTEND;TZID=Europe/London:20240824T140000
-DTSTAMP:20240417T143845Z
+DTSTAMP:20240501T143910Z
 UID:/races/a0d1859c-fb66-4726-b4ec-10df17eb6dc8
 DESCRIPTION:Ochil 2000s (AL)\nDate & time: Sat 24 Aug 2024 at 12:00\nDista
  nce:32.7 km / 20.3 miles\nClimb:1646 m / 5400 ft\nGrid reference:NS805965\
@@ -3583,7 +3306,7 @@ BEGIN:VEVENT
 SUMMARY:Pendleton (AS)
 DTSTART;TZID=Europe/London:20240824T140000
 DTEND;TZID=Europe/London:20240824T160000
-DTSTAMP:20240417T143845Z
+DTSTAMP:20240501T143911Z
 UID:/races/f153c0ff-20f2-49ec-970e-f2eec344d52f
 DESCRIPTION:Pendleton (AS)\nDate & time: Sat 24 Aug 2024 at 14:00\nDistanc
  e:8 km / 5 miles\nClimb:457 m / 1499 ft\nGrid reference:755396\nEntry on d
@@ -3595,7 +3318,7 @@ BEGIN:VEVENT
 SUMMARY:Arnison Crag Horseshoe (AS)
 DTSTART;TZID=Europe/London:20240824T150000
 DTEND;TZID=Europe/London:20240824T170000
-DTSTAMP:20240417T143845Z
+DTSTAMP:20240501T143911Z
 UID:/races/9822fd98-2f7c-4050-8872-8a78730ff526
 DESCRIPTION:Arnison Crag Horseshoe (AS)\nDate & time: Sat 24 Aug 2024 at 1
  5:00\nDistance:5 km / 3.1 miles\nClimb:300 m / 984 ft\nGrid reference:3911
@@ -3607,7 +3330,7 @@ BEGIN:VEVENT
 SUMMARY:Burnsall Classic (AS)
 DTSTART;TZID=Europe/London:20240824T153000
 DTEND;TZID=Europe/London:20240824T173000
-DTSTAMP:20240417T143846Z
+DTSTAMP:20240501T143912Z
 UID:/races/07d9bb3e-2502-4154-a92c-f71bcfaa92d9
 DESCRIPTION:Burnsall Classic (AS)\nDate & time: Sat 24 Aug 2024 at 15:30\n
  Distance:2.4 km / 1.5 miles\nClimb:274 m / 899 ft\nEntry on day:Yes\nEntry
@@ -3616,10 +3339,22 @@ DESCRIPTION:Burnsall Classic (AS)\nDate & time: Sat 24 Aug 2024 at 15:30\n
  9
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Halton Gill Sports Gala Fell Race (AS)
+DTSTART;TZID=Europe/London:20240825T140000
+DTEND;TZID=Europe/London:20240825T160000
+DTSTAMP:20240501T143912Z
+UID:/races/48a8b952-cbe8-4e5a-9427-b72ef7cf1748
+DESCRIPTION:Halton Gill Sports Gala Fell Race (AS)\nDate & time: Sun 25 Au
+ g 2024 at 14:00\nDistance:2.2 km / 1.4 miles\nClimb:220 m / 722 ft\nGrid r
+ eference:SD882763\nEntry on day:Yes\nEntry on day fee:£3.00\nPre-entry:No
+ \nYork. Dales\, England\nFull information: https://races.fellrunner.org.uk
+ /races/48a8b952-cbe8-4e5a-9427-b72ef7cf1748
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Grasmere Senior Guides Race (AS)
 DTSTART;TZID=Europe/London:20240825T160000
 DTEND;TZID=Europe/London:20240825T180000
-DTSTAMP:20240417T143846Z
+DTSTAMP:20240501T143913Z
 UID:/races/0648c7f6-b24e-4e19-93f9-c4c2072f4430
 DESCRIPTION:Grasmere Senior Guides Race (AS)\nDate & time: Sun 25 Aug 2024
   at 16:00\nDistance:2.5 km / 1.6 miles\nClimb:270 m / 886 ft\nEntry on day
@@ -3631,7 +3366,7 @@ BEGIN:VEVENT
 SUMMARY:Dark Side Of The Combe (AM)
 DTSTART;TZID=Europe/London:20240826T133000
 DTEND;TZID=Europe/London:20240826T153000
-DTSTAMP:20240417T143846Z
+DTSTAMP:20240501T143914Z
 UID:/races/c310b9c8-6138-4785-9ccc-b88bd827a083
 DESCRIPTION:Dark Side Of The Combe (AM)\nDate & time: Mon 26 Aug 2024 at 1
  3:30\nDistance:12.5 km / 7.8 miles\nClimb:625 m / 2051 ft\nGrid reference:
@@ -3644,7 +3379,7 @@ BEGIN:VEVENT
 SUMMARY:Barrow - Keswick Show (AS)
 DTSTART;TZID=Europe/London:20240826T140000
 DTEND;TZID=Europe/London:20240826T160000
-DTSTAMP:20240417T143847Z
+DTSTAMP:20240501T143914Z
 UID:/races/605f9b14-3731-4a8f-9019-422ea4af4ce2
 DESCRIPTION:Barrow - Keswick Show (AS)\nDate & time: Mon 26 Aug 2024 at 14
  :00\nDistance:6.5 km / 4 miles\nClimb:425 m / 1394 ft\nGrid reference:NY 2
@@ -3656,7 +3391,7 @@ BEGIN:VEVENT
 SUMMARY:Machen Mountain Race (AS)
 DTSTART;TZID=Europe/London:20240826T150000
 DTEND;TZID=Europe/London:20240826T170000
-DTSTAMP:20240417T143847Z
+DTSTAMP:20240501T143914Z
 UID:/races/53352b55-cf09-4e5b-9cf2-838a30f8e194
 DESCRIPTION:Machen Mountain Race (AS)\nDate & time: Mon 26 Aug 2024 at 15:
  00\nDistance:7 km / 4.3 miles\nClimb:365 m / 1198 ft\nGrid reference:ST 21
@@ -3668,7 +3403,7 @@ BEGIN:VEVENT
 SUMMARY:Kilnsey Crag ( B O F R A ) (AS)
 DTSTART;TZID=Europe/London:20240827T160000
 DTEND;TZID=Europe/London:20240827T180000
-DTSTAMP:20240417T143848Z
+DTSTAMP:20240501T143915Z
 UID:/races/83da0b74-fbb9-43dc-9a6b-96f2c3024932
 DESCRIPTION:Kilnsey Crag ( B O F R A ) (AS)\nDate & time: Tue 27 Aug 2024 
  at 16:00\nDistance:2 km / 1.2 miles\nClimb:124 m / 407 ft\nEntry on day:No
@@ -3680,7 +3415,7 @@ BEGIN:VEVENT
 SUMMARY:Eyam (BS)
 DTSTART;TZID=Europe/London:20240827T183000
 DTEND;TZID=Europe/London:20240827T203000
-DTSTAMP:20240417T143848Z
+DTSTAMP:20240501T143915Z
 UID:/races/ba21ba28-6e59-4d91-b971-a5eb40175b4d
 DESCRIPTION:Eyam (BS)\nDate & time: Tue 27 Aug 2024 at 18:30\nDistance:10 
  km / 6.2 miles\nClimb:460 m / 1509 ft\nGrid reference:SK216767\nEntry on d
@@ -3693,7 +3428,7 @@ BEGIN:VEVENT
 SUMMARY:Ennerdale Show (AS)
 DTSTART;TZID=Europe/London:20240828T143000
 DTEND;TZID=Europe/London:20240828T163000
-DTSTAMP:20240417T143848Z
+DTSTAMP:20240501T143916Z
 UID:/races/08d87458-12ba-4615-ada0-31d163191a04
 DESCRIPTION:Ennerdale Show (AS)\nDate & time: Wed 28 Aug 2024 at 14:30\nDi
  stance:3 km / 1.9 miles\nClimb:200 m / 656 ft\nGrid reference:NY087182\nEn
@@ -3705,7 +3440,7 @@ BEGIN:VEVENT
 SUMMARY:Roseberry Topping (AS)
 DTSTART;TZID=Europe/London:20240828T190000
 DTEND;TZID=Europe/London:20240828T210000
-DTSTAMP:20240417T143849Z
+DTSTAMP:20240501T143916Z
 UID:/races/05a21db4-458a-4946-b125-c7de62d2512f
 DESCRIPTION:Roseberry Topping (AS)\nDate & time: Wed 28 Aug 2024 at 19:00\
  nDistance:2.3 km / 1.4 miles\nClimb:217 m / 712 ft\nGrid reference:NZ57036
@@ -3718,7 +3453,7 @@ BEGIN:VEVENT
 SUMMARY:Holcombe Two Towers (AS)
 DTSTART;TZID=Europe/London:20240828T190000
 DTEND;TZID=Europe/London:20240828T210000
-DTSTAMP:20240417T143849Z
+DTSTAMP:20240501T143917Z
 UID:/races/3de46da9-7109-4bae-8258-61d58078a090
 DESCRIPTION:Holcombe Two Towers (AS)\nDate & time: Wed 28 Aug 2024 at 19:0
  0\nDistance:6.5 km / 4 miles\nClimb:400 m / 1312 ft\nGrid reference:SD7791
@@ -3732,7 +3467,7 @@ BEGIN:VEVENT
 SUMMARY:Grisedale Horseshoe (AM)
 DTSTART;TZID=Europe/London:20240831T110000
 DTEND;TZID=Europe/London:20240831T130000
-DTSTAMP:20240417T143850Z
+DTSTAMP:20240501T143917Z
 UID:/races/7edb7044-84d2-44d5-8c80-d1a0458923a4
 DESCRIPTION:Grisedale Horseshoe (AM)\nDate & time: Sat 31 Aug 2024 at 11:0
  0\nDistance:16 km / 9.9 miles\nClimb:1525 m / 5003 ft\nGrid reference:3861
@@ -3749,7 +3484,7 @@ BEGIN:VEVENT
 SUMMARY:Dufton Show (AS)
 DTSTART;TZID=Europe/London:20240831T123000
 DTEND;TZID=Europe/London:20240831T143000
-DTSTAMP:20240417T143850Z
+DTSTAMP:20240501T143918Z
 UID:/races/d18b4fcc-ca63-448b-98aa-c77224a06a58
 DESCRIPTION:Dufton Show (AS)\nDate & time: Sat 31 Aug 2024 at 12:30\nDista
  nce:8 km / 5 miles\nClimb:460 m / 1509 ft\nGrid reference:684255\nEntry on
@@ -3763,7 +3498,7 @@ BEGIN:VEVENT
 SUMMARY:Bilsdale Show (CS)
 DTSTART;TZID=Europe/London:20240831T130000
 DTEND;TZID=Europe/London:20240831T150000
-DTSTAMP:20240417T143850Z
+DTSTAMP:20240501T143918Z
 UID:/races/115e5a55-d906-4932-8dae-88796a44243c
 DESCRIPTION:Bilsdale Show (CS)\nDate & time: Sat 31 Aug 2024 at 13:00\nDis
  tance:8.9 km / 5.5 miles\nClimb:438 m / 1437 ft\nGrid reference:SE 57002 9
@@ -3776,7 +3511,7 @@ BEGIN:VEVENT
 SUMMARY:Blackshaw Head Fete (BS)
 DTSTART;TZID=Europe/London:20240831T130000
 DTEND;TZID=Europe/London:20240831T150000
-DTSTAMP:20240417T143851Z
+DTSTAMP:20240501T143919Z
 UID:/races/872c7b7e-26b5-4117-bf72-ceb3faffcee3
 DESCRIPTION:Blackshaw Head Fete (BS)\nDate & time: Sat 31 Aug 2024 at 13:0
  0\nDistance:8.9 km / 5.5 miles\nClimb:274 m / 899 ft\nGrid reference:95927
@@ -3788,7 +3523,7 @@ BEGIN:VEVENT
 SUMMARY:Bellingham Show (BS)
 DTSTART;TZID=Europe/London:20240831T143000
 DTEND;TZID=Europe/London:20240831T163000
-DTSTAMP:20240417T143851Z
+DTSTAMP:20240501T143919Z
 UID:/races/7f5b1eb7-8043-4f69-bb22-4cd77bdf4c8f
 DESCRIPTION:Bellingham Show (BS)\nDate & time: Sat 31 Aug 2024 at 14:30\nD
  istance:6.4 km / 4 miles\nClimb:183 m / 600 ft\nEntry on day:Yes\nEntry on
@@ -3800,7 +3535,7 @@ BEGIN:VEVENT
 SUMMARY:Kate Burge From Sea To Summit (AM)
 DTSTART;TZID=Europe/London:20240901T000000
 DTEND;TZID=Europe/London:20240901T020000
-DTSTAMP:20240417T143851Z
+DTSTAMP:20240501T143920Z
 UID:/races/5aea74c6-fa26-4f7c-9d6b-75d9bdef8b95
 DESCRIPTION:Kate Burge From Sea To Summit (AM)\nDate & time: Sun 1 Sep 202
  4 at 0:00\nDistance:14.5 km / 9 miles\nClimb:1129 m / 3704 ft\nEntry on da
@@ -3811,7 +3546,7 @@ BEGIN:VEVENT
 SUMMARY:Bleaklow Blitz (AM)
 DTSTART;TZID=Europe/London:20240901T090000
 DTEND;TZID=Europe/London:20240901T110000
-DTSTAMP:20240417T143852Z
+DTSTAMP:20240501T143920Z
 UID:/races/fa05b27c-31e9-4bba-b818-f0c8f26a17b0
 DESCRIPTION:Bleaklow Blitz (AM)\nDate & time: Sun 1 Sep 2024 at 9:00\nDist
  ance:12.9 km / 8 miles\nClimb:452 m / 1483 ft\nGrid reference:SK 0686 9834
@@ -3823,7 +3558,7 @@ BEGIN:VEVENT
 SUMMARY:Stretton Skyline (BL)
 DTSTART;TZID=Europe/London:20240901T110000
 DTEND;TZID=Europe/London:20240901T130000
-DTSTAMP:20240417T143852Z
+DTSTAMP:20240501T143921Z
 UID:/races/e71335d1-5414-4820-93bc-7c6e1e014fa1
 DESCRIPTION:Stretton Skyline (BL)\nDate & time: Sun 1 Sep 2024 at 11:00\nD
  istance:30.5 km / 19 miles\nClimb:1357 m / 4452 ft\nGrid reference:SO 455 
@@ -3835,7 +3570,7 @@ BEGIN:VEVENT
 SUMMARY:Burnsall ( B O F R A ) (AS)
 DTSTART;TZID=Europe/London:20240901T120000
 DTEND;TZID=Europe/London:20240901T140000
-DTSTAMP:20240417T143852Z
+DTSTAMP:20240501T143921Z
 UID:/races/8c103712-f2ae-4d90-8687-e38f3f775f43
 DESCRIPTION:Burnsall ( B O F R A ) (AS)\nDate & time: Sun 1 Sep 2024 at 12
  :00\nDistance:2 km / 1.2 miles\nClimb:350 m / 1148 ft\nEntry on day:Yes\nE
@@ -3848,7 +3583,7 @@ BEGIN:VEVENT
 SUMMARY:Gladstone 9 (AM)
 DTSTART;TZID=Europe/London:20240901T130000
 DTEND;TZID=Europe/London:20240901T150000
-DTSTAMP:20240417T143853Z
+DTSTAMP:20240501T143922Z
 UID:/races/4d8aa19d-ad40-44e7-a00f-9a612da5b6f1
 DESCRIPTION:Gladstone 9 (AM)\nDate & time: Sun 1 Sep 2024 at 13:00\nDistan
  ce:14.5 km / 9 miles\nClimb:855 m / 2805 ft\nGrid reference:GR SH729772\nA
@@ -3864,7 +3599,7 @@ BEGIN:VEVENT
 SUMMARY:Loweswater Show (AS)
 DTSTART;TZID=Europe/London:20240901T133000
 DTEND;TZID=Europe/London:20240901T153000
-DTSTAMP:20240417T143853Z
+DTSTAMP:20240501T143922Z
 UID:/races/f1251fe6-4b8f-4fa5-b852-c86acec3c119
 DESCRIPTION:Loweswater Show (AS)\nDate & time: Sun 1 Sep 2024 at 13:30\nDi
  stance:4.2 km / 2.6 miles\nClimb:305 m / 1001 ft\nGrid reference:156239\nE
@@ -3875,7 +3610,7 @@ BEGIN:VEVENT
 SUMMARY:Ilkley Junior Sprint Relays (Relay)
 DTSTART;TZID=Europe/London:20240904T180000
 DTEND;TZID=Europe/London:20240904T200000
-DTSTAMP:20240417T143854Z
+DTSTAMP:20240501T143923Z
 UID:/races/d80f5a47-cea4-4990-9eb8-ac64353aa7f4
 DESCRIPTION:Ilkley Junior Sprint Relays (Relay)\nDate & time: Wed 4 Sep 20
  24 at 18:00\nDistance:0.8 km / 0.5 miles\nClimb:30 m / 98 ft\nEntry on day
@@ -3887,7 +3622,7 @@ BEGIN:VEVENT
 SUMMARY:Ilkley Incline (CS)
 DTSTART;TZID=Europe/London:20240904T190000
 DTEND;TZID=Europe/London:20240904T210000
-DTSTAMP:20240417T143854Z
+DTSTAMP:20240501T143924Z
 UID:/races/7e3befa4-3373-4f1d-88b3-1285efb52bbb
 DESCRIPTION:Ilkley Incline (CS)\nDate & time: Wed 4 Sep 2024 at 19:00\nDis
  tance:1.6 km / 1 miles\nClimb:171 m / 561 ft\nGrid reference:115470\nEntry
@@ -3899,7 +3634,7 @@ BEGIN:VEVENT
 SUMMARY:Hades Hill (BS)
 DTSTART;TZID=Europe/London:20240905T184500
 DTEND;TZID=Europe/London:20240905T204500
-DTSTAMP:20240417T143854Z
+DTSTAMP:20240501T143924Z
 UID:/races/c4ac6752-aa3f-45fd-89c6-f943fe72555b
 DESCRIPTION:Hades Hill (BS)\nDate & time: Thu 5 Sep 2024 at 18:45\nDistanc
  e:8 km / 5 miles\nClimb:360 m / 1181 ft\nGrid reference:SD885177\nEntry on
@@ -3911,14 +3646,14 @@ BEGIN:VEVENT
 SUMMARY:Great Longstone Chase (BS)
 DTSTART;TZID=Europe/London:20240906T183000
 DTEND;TZID=Europe/London:20240906T203000
-DTSTAMP:20240417T143855Z
+DTSTAMP:20240501T143925Z
 UID:/races/911bb36a-e193-432c-ad5a-e09a69fb1ac0
 DESCRIPTION:Great Longstone Chase (BS)\nDate & time: Fri 6 Sep 2024 at 18:
  30\nDistance:7.7 km / 4.8 miles\nClimb:290 m / 951 ft\nGrid reference:SK20
  1716\nEntry on day:No\nPre-entry:Yes\nPre-entry fee:£8.00\nFRA U7 1km\, U
  9 and U11 2km. Race starts at 5.30 p.m. £2 entry on the day.Contact for J
- unior Race: Paul Stephenson\, <a class="__cf_email__" data-cfemail="bccccf
- c8d9ccd4d9d2cfd3d2888b8bfcdbd1ddd5d092dfd3d1" href="/cdn-cgi/l/email-prote
+ unior Race: Paul Stephenson\, <a class="__cf_email__" data-cfemail="116162
+ 65746179747f627e7f25262651767c70787d3f727e7c" href="/cdn-cgi/l/email-prote
  ction">[email protected]</a>\, 07903 115139\nPeak District\, England\nFul
  l information: https://races.fellrunner.org.uk/races/911bb36a-e193-432c-ad
  5a-e09a69fb1ac0
@@ -3927,7 +3662,7 @@ BEGIN:VEVENT
 SUMMARY:St  Boniface Fell (AS)
 DTSTART;TZID=Europe/London:20240907T110000
 DTEND;TZID=Europe/London:20240907T130000
-DTSTAMP:20240417T143855Z
+DTSTAMP:20240501T143925Z
 UID:/races/c4edad8d-c87e-4554-85aa-743e3c5b5944
 DESCRIPTION:St  Boniface Fell (AS)\nDate & time: Sat 7 Sep 2024 at 11:00\n
  Distance:3.9 km / 2.4 miles\nClimb:235 m / 771 ft\nGrid reference:SZ562776
@@ -3940,7 +3675,7 @@ BEGIN:VEVENT
 SUMMARY:Sourton Tors Fell Race (AS)
 DTSTART;TZID=Europe/London:20240907T111500
 DTEND;TZID=Europe/London:20240907T131500
-DTSTAMP:20240417T143855Z
+DTSTAMP:20240501T143926Z
 UID:/races/5d222af9-9723-42f1-9b5b-662deda89579
 DESCRIPTION:Sourton Tors Fell Race (AS)\nDate & time: Sat 7 Sep 2024 at 11
  :15\nDistance:5.3 km / 3.3 miles\nClimb:276 m / 906 ft\nGrid reference:SX 
@@ -3958,7 +3693,7 @@ BEGIN:VEVENT
 SUMMARY:Cronkley (BM)
 DTSTART;TZID=Europe/London:20240907T140000
 DTEND;TZID=Europe/London:20240907T160000
-DTSTAMP:20240417T143856Z
+DTSTAMP:20240501T143926Z
 UID:/races/20532fa1-dc3c-4ea0-898f-b80276d23b1c
 DESCRIPTION:Cronkley (BM)\nDate & time: Sat 7 Sep 2024 at 14:00\nDistance:
  17.1 km / 10.6 miles\nClimb:560 m / 1837 ft\nGrid reference:NY 91092 26686
@@ -3975,7 +3710,7 @@ BEGIN:VEVENT
 SUMMARY:Ventnor Horseshoe (BM)
 DTSTART;TZID=Europe/London:20240907T150000
 DTEND;TZID=Europe/London:20240907T170000
-DTSTAMP:20240417T143856Z
+DTSTAMP:20240501T143927Z
 UID:/races/e3d8d9f5-ea8b-422d-bb87-83977470f0ef
 DESCRIPTION:Ventnor Horseshoe (BM)\nDate & time: Sat 7 Sep 2024 at 15:00\n
  Distance:12 km / 7.5 miles\nClimb:443 m / 1453 ft\nGrid reference:SZ562776
@@ -3987,7 +3722,7 @@ BEGIN:VEVENT
 SUMMARY:Sandstone Trail Races (CL)
 DTSTART;TZID=Europe/London:20240908T090000
 DTEND;TZID=Europe/London:20240908T110000
-DTSTAMP:20240417T143857Z
+DTSTAMP:20240501T143927Z
 UID:/races/2d4fb2d8-ed0d-4250-92cb-376635709d1e
 DESCRIPTION:Sandstone Trail Races (CL)\nDate & time: Sun 8 Sep 2024 at 9:0
  0\nDistance:27.5 km / 17.1 miles\nClimb:655 m / 2149 ft\nGrid reference:SJ
@@ -4000,7 +3735,7 @@ BEGIN:VEVENT
 SUMMARY:Yorkshireman Off Road Marathon (CL)
 DTSTART;TZID=Europe/London:20240908T093000
 DTEND;TZID=Europe/London:20240908T113000
-DTSTAMP:20240417T143857Z
+DTSTAMP:20240501T143928Z
 UID:/races/66df0001-a90a-4286-8d58-87a9425922fb
 DESCRIPTION:Yorkshireman Off Road Marathon (CL)\nDate & time: Sun 8 Sep 20
  24 at 9:30\nDistance:42.1 km / 26.2 miles\nClimb:1000 m / 3281 ft\nGrid re
@@ -4016,7 +3751,7 @@ BEGIN:VEVENT
 SUMMARY:Wroxall Round (CL)
 DTSTART;TZID=Europe/London:20240908T100000
 DTEND;TZID=Europe/London:20240908T120000
-DTSTAMP:20240417T143857Z
+DTSTAMP:20240501T143928Z
 UID:/races/60937b64-5063-4b61-90d5-6c40158d1af0
 DESCRIPTION:Wroxall Round (CL)\nDate & time: Sun 8 Sep 2024 at 10:00\nDist
  ance:21.1 km / 13.1 miles\nClimb:487 m / 1598 ft\nGrid reference:SZ562776\
@@ -4028,7 +3763,7 @@ BEGIN:VEVENT
 SUMMARY:Exterminator (BL)
 DTSTART;TZID=Europe/London:20240908T103000
 DTEND;TZID=Europe/London:20240908T123000
-DTSTAMP:20240417T143858Z
+DTSTAMP:20240501T143929Z
 UID:/races/a9e1a78a-2988-4a5e-9173-3c477046edb6
 DESCRIPTION:Exterminator (BL)\nDate & time: Sun 8 Sep 2024 at 10:30\nDista
  nce:25.7 km / 16 miles\nClimb:1290 m / 4232 ft\nGrid reference:303800\nEnt
@@ -4041,7 +3776,7 @@ BEGIN:VEVENT
 SUMMARY:Yorkshireman Off Road Half Marathon (BL)
 DTSTART;TZID=Europe/London:20240908T103000
 DTEND;TZID=Europe/London:20240908T123000
-DTSTAMP:20240417T143858Z
+DTSTAMP:20240501T143929Z
 UID:/races/59e9bc2b-894c-4d83-a280-2f9263f55ab8
 DESCRIPTION:Yorkshireman Off Road Half Marathon (BL)\nDate & time: Sun 8 S
  ep 2024 at 10:30\nDistance:24 km / 14.9 miles\nClimb:650 m / 2133 ft\nGrid
@@ -4056,7 +3791,7 @@ BEGIN:VEVENT
 SUMMARY:Ilam Three Peaks (AS)
 DTSTART;TZID=Europe/London:20240908T110000
 DTEND;TZID=Europe/London:20240908T130000
-DTSTAMP:20240417T143858Z
+DTSTAMP:20240501T143930Z
 UID:/races/72d72d04-931b-4256-b177-2773d0c05a8a
 DESCRIPTION:Ilam Three Peaks (AS)\nDate & time: Sun 8 Sep 2024 at 11:00\nD
  istance:7.2 km / 4.5 miles\nClimb:350 m / 1148 ft\nEntry on day:Yes\nEntry
@@ -4069,7 +3804,7 @@ BEGIN:VEVENT
 SUMMARY:Bradley ( B O F R A ) (BS)
 DTSTART;TZID=Europe/London:20240908T132000
 DTEND;TZID=Europe/London:20240908T152000
-DTSTAMP:20240417T143859Z
+DTSTAMP:20240501T143930Z
 UID:/races/b422c8b9-d1f6-470d-8e16-1b3b6c4ba2ab
 DESCRIPTION:Bradley ( B O F R A ) (BS)\nDate & time: Sun 8 Sep 2024 at 13:
  20\nDistance:6 km / 3.7 miles\nClimb:230 m / 755 ft\nGrid reference:003483
@@ -4083,7 +3818,7 @@ BEGIN:VEVENT
 SUMMARY:Trunce 9 (BS)
 DTSTART;TZID=Europe/London:20240909T184500
 DTEND;TZID=Europe/London:20240909T204500
-DTSTAMP:20240417T143859Z
+DTSTAMP:20240501T143931Z
 UID:/races/3c0552a3-4c5e-4a6b-b7cd-4692e4573146
 DESCRIPTION:Trunce 9 (BS)\nDate & time: Mon 9 Sep 2024 at 18:45\nDistance:
  6.4 km / 4 miles\nClimb:170 m / 558 ft\nGrid reference:SE272012\nEntry on 
@@ -4095,7 +3830,7 @@ BEGIN:VEVENT
 SUMMARY:Nidderdale Road to Nowhere (BL)
 DTSTART;TZID=Europe/London:20240914T093000
 DTEND;TZID=Europe/London:20240914T113000
-DTSTAMP:20240417T143859Z
+DTSTAMP:20240501T143931Z
 UID:/races/db8f5ac4-0e03-4e75-9de7-cf7c05f1ecaf
 DESCRIPTION:Nidderdale Road to Nowhere (BL)\nDate & time: Sat 14 Sep 2024 
  at 9:30\nDistance:30.4 km / 18.9 miles\nClimb:840 m / 2756 ft\nGrid refere
@@ -4109,7 +3844,7 @@ BEGIN:VEVENT
 SUMMARY:Nine Edges Endurance (BL)
 DTSTART;TZID=Europe/London:20240914T100000
 DTEND;TZID=Europe/London:20240914T120000
-DTSTAMP:20240417T143900Z
+DTSTAMP:20240501T143932Z
 UID:/races/e42356a3-1fd0-42cc-805e-e5c1351835b0
 DESCRIPTION:Nine Edges Endurance (BL)\nDate & time: Sat 14 Sep 2024 at 10:
  00\nDistance:32.8 km / 20.4 miles\nClimb:893 m / 2930 ft\nGrid reference:S
@@ -4121,7 +3856,7 @@ BEGIN:VEVENT
 SUMMARY:Three Shires (AL)
 DTSTART;TZID=Europe/London:20240914T110000
 DTEND;TZID=Europe/London:20240914T130000
-DTSTAMP:20240417T143900Z
+DTSTAMP:20240501T143932Z
 UID:/races/1d798462-540b-48f8-a6e3-2617685c6851
 DESCRIPTION:Three Shires (AL)\nDate & time: Sat 14 Sep 2024 at 11:00\nDist
  ance:20 km / 12.4 miles\nClimb:1220 m / 4003 ft\nGrid reference:317034\nEn
@@ -4133,7 +3868,7 @@ BEGIN:VEVENT
 SUMMARY:Groovy Baby Love (BM)
 DTSTART;TZID=Europe/London:20240914T110000
 DTEND;TZID=Europe/London:20240914T130000
-DTSTAMP:20240417T143901Z
+DTSTAMP:20240501T143933Z
 UID:/races/09de97cb-4b15-4d5a-b949-fd3bb34467f7
 DESCRIPTION:Groovy Baby Love (BM)\nDate & time: Sat 14 Sep 2024 at 11:00\n
  Distance:18 km / 11.2 miles\nClimb:920 m / 3018 ft\nEntry on day:Yes\nEntr
@@ -4148,7 +3883,7 @@ BEGIN:VEVENT
 SUMMARY:Groovy Kinder Love (AL)
 DTSTART;TZID=Europe/London:20240914T110000
 DTEND;TZID=Europe/London:20240914T130000
-DTSTAMP:20240417T143901Z
+DTSTAMP:20240501T143933Z
 UID:/races/3bd119b1-7a7f-43b9-b47e-802499244cc7
 DESCRIPTION:Groovy Kinder Love (AL)\nDate & time: Sat 14 Sep 2024 at 11:00
  \nDistance:24.5 km / 15.2 miles\nClimb:1290 m / 4232 ft\nGrid reference:03
@@ -4163,7 +3898,7 @@ BEGIN:VEVENT
 SUMMARY:Scafell Pike (AS)
 DTSTART;TZID=Europe/London:20240914T130000
 DTEND;TZID=Europe/London:20240914T150000
-DTSTAMP:20240417T143902Z
+DTSTAMP:20240501T143934Z
 UID:/races/8c346df8-a37a-415a-9989-79e4a602b408
 DESCRIPTION:Scafell Pike (AS)\nDate & time: Sat 14 Sep 2024 at 13:00\nDist
  ance:7.2 km / 4.5 miles\nClimb:914 m / 2999 ft\nGrid reference:184074\nEnt
@@ -4178,7 +3913,7 @@ BEGIN:VEVENT
 SUMMARY:Cross Keys Road &amp\; Fell Relay (Relay)
 DTSTART;TZID=Europe/London:20240914T130000
 DTEND;TZID=Europe/London:20240914T150000
-DTSTAMP:20240417T143902Z
+DTSTAMP:20240501T143934Z
 UID:/races/361cf843-057e-4e8f-b228-b3ccdb8bbe9d
 DESCRIPTION:Cross Keys Road &amp\; Fell Relay (Relay)\nDate & time: Sat 14
   Sep 2024 at 13:00\nDistance:5 km / 3.1 miles\nClimb:150 m / 492 ft\nGrid 
@@ -4191,7 +3926,7 @@ BEGIN:VEVENT
 SUMMARY:Hodder Valley Fell Race (BM)
 DTSTART;TZID=Europe/London:20240914T133000
 DTEND;TZID=Europe/London:20240914T153000
-DTSTAMP:20240417T143902Z
+DTSTAMP:20240501T143935Z
 UID:/races/dcce5a0f-bb03-4691-9821-06f27be3a215
 DESCRIPTION:Hodder Valley Fell Race (BM)\nDate & time: Sat 14 Sep 2024 at 
  13:30\nDistance:12.1 km / 7.5 miles\nClimb:457 m / 1499 ft\nEntry on day:Y
@@ -4203,7 +3938,7 @@ BEGIN:VEVENT
 SUMMARY:Bollington 3 Peaks (BS)
 DTSTART;TZID=Europe/London:20240914T140000
 DTEND;TZID=Europe/London:20240914T160000
-DTSTAMP:20240417T143903Z
+DTSTAMP:20240501T143935Z
 UID:/races/b1534aee-483d-43d6-b78a-d47a8134f277
 DESCRIPTION:Bollington 3 Peaks (BS)\nDate & time: Sat 14 Sep 2024 at 14:00
  \nDistance:9 km / 5.6 miles\nClimb:370 m / 1214 ft\nGrid reference:SJ93178
@@ -4216,7 +3951,7 @@ BEGIN:VEVENT
 SUMMARY:Lyon Equipment Lake District Mountain Trial (O)
 DTSTART;TZID=Europe/London:20240915T083000
 DTEND;TZID=Europe/London:20240915T103000
-DTSTAMP:20240417T143903Z
+DTSTAMP:20240501T143936Z
 UID:/races/dad506a3-e455-486d-b915-225d221cb944
 DESCRIPTION:Lyon Equipment Lake District Mountain Trial (O)\nDate & time: 
  Sun 15 Sep 2024 at 8:30\nEntry on day:No\nPre-entry:Yes\nPre-entry fee:£2
@@ -4227,7 +3962,7 @@ BEGIN:VEVENT
 SUMMARY:Fat Boys Stanage Struggle (BS)
 DTSTART;TZID=Europe/London:20240915T110000
 DTEND;TZID=Europe/London:20240915T130000
-DTSTAMP:20240417T143904Z
+DTSTAMP:20240501T143937Z
 UID:/races/33b670f0-924d-4673-a8b6-39a0ad21bd9e
 DESCRIPTION:Fat Boys Stanage Struggle (BS)\nDate & time: Sun 15 Sep 2024 a
  t 11:00\nDistance:9.9 km / 6.2 miles\nClimb:355 m / 1165 ft\nEntry on day:
@@ -4242,7 +3977,7 @@ BEGIN:VEVENT
 SUMMARY:B O F R A Malham Charity Relays (Relay)
 DTSTART;TZID=Europe/London:20240915T113000
 DTEND;TZID=Europe/London:20240915T133000
-DTSTAMP:20240417T143904Z
+DTSTAMP:20240501T143937Z
 UID:/races/60609f51-86de-4855-94af-b3ac694e9123
 DESCRIPTION:B O F R A Malham Charity Relays (Relay)\nDate & time: Sun 15 S
  ep 2024 at 11:30\nDistance:1.1 km / 0.7 miles\nClimb:73 m / 240 ft\nEntry 
@@ -4254,7 +3989,7 @@ BEGIN:VEVENT
 SUMMARY:East Mill Tor Loop (BS)
 DTSTART;TZID=Europe/London:20240921T103000
 DTEND;TZID=Europe/London:20240921T123000
-DTSTAMP:20240417T143904Z
+DTSTAMP:20240501T143937Z
 UID:/races/88777da2-1c7c-4078-b85c-14efbf0dac1f
 DESCRIPTION:East Mill Tor Loop (BS)\nDate & time: Sat 21 Sep 2024 at 10:30
  \nDistance:9.9 km / 6.2 miles\nClimb:380 m / 1247 ft\nGrid reference:Ol28 
@@ -4269,7 +4004,7 @@ BEGIN:VEVENT
 SUMMARY:Thornthwaite Round (AM)
 DTSTART;TZID=Europe/London:20240921T110000
 DTEND;TZID=Europe/London:20240921T130000
-DTSTAMP:20240417T143905Z
+DTSTAMP:20240501T143938Z
 UID:/races/6690e5f2-38b3-4f71-8a86-528af7773b80
 DESCRIPTION:Thornthwaite Round (AM)\nDate & time: Sat 21 Sep 2024 at 11:00
  \nDistance:15.6 km / 9.7 miles\nClimb:871 m / 2858 ft\nGrid reference:NY22
@@ -4281,7 +4016,7 @@ BEGIN:VEVENT
 SUMMARY:John Hewitt Memorial Shelf Moor (AS)
 DTSTART;TZID=Europe/London:20240921T110000
 DTEND;TZID=Europe/London:20240921T130000
-DTSTAMP:20240417T143905Z
+DTSTAMP:20240501T143938Z
 UID:/races/dfe04620-79ef-40c9-827d-02900e9f44e3
 DESCRIPTION:John Hewitt Memorial Shelf Moor (AS)\nDate & time: Sat 21 Sep 
  2024 at 11:00\nDistance:9.6 km / 6 miles\nClimb:457 m / 1499 ft\nGrid refe
@@ -4294,7 +4029,7 @@ BEGIN:VEVENT
 SUMMARY:Rombald's Romp (BM)
 DTSTART;TZID=Europe/London:20240921T110000
 DTEND;TZID=Europe/London:20240921T130000
-DTSTAMP:20240417T143905Z
+DTSTAMP:20240501T143939Z
 UID:/races/91f5415f-6181-4b96-8169-f87302ad1879
 DESCRIPTION:Rombald's Romp (BM)\nDate & time: Sat 21 Sep 2024 at 11:00\nDi
  stance:13 km / 8.1 miles\nClimb:370 m / 1214 ft\nGrid reference:SE 117 472
@@ -4309,7 +4044,7 @@ BEGIN:VEVENT
 SUMMARY:Great Whernside (AS)
 DTSTART;TZID=Europe/London:20240921T120000
 DTEND;TZID=Europe/London:20240921T140000
-DTSTAMP:20240417T143906Z
+DTSTAMP:20240501T143939Z
 UID:/races/699004e0-0085-45f2-a085-d8daefbc1360
 DESCRIPTION:Great Whernside (AS)\nDate & time: Sat 21 Sep 2024 at 12:00\nD
  istance:6.5 km / 4 miles\nClimb:475 m / 1558 ft\nGrid reference:975726\nEn
@@ -4322,7 +4057,7 @@ BEGIN:VEVENT
 SUMMARY:Fryup Frazzler (AS)
 DTSTART;TZID=Europe/London:20240922T110000
 DTEND;TZID=Europe/London:20240922T130000
-DTSTAMP:20240417T143906Z
+DTSTAMP:20240501T143940Z
 UID:/races/922d46ab-5716-457d-b705-8d4292ce03e5
 DESCRIPTION:Fryup Frazzler (AS)\nDate & time: Sun 22 Sep 2024 at 11:00\nDi
  stance:9.4 km / 5.8 miles\nClimb:475 m / 1558 ft\nGrid reference:NZ 720047
@@ -4335,7 +4070,7 @@ BEGIN:VEVENT
 SUMMARY:Five Trigs (BL)
 DTSTART;TZID=Europe/London:20240928T100000
 DTEND;TZID=Europe/London:20240928T120000
-DTSTAMP:20240417T143906Z
+DTSTAMP:20240501T143940Z
 UID:/races/69811088-b79a-4e70-bb28-63a456377bef
 DESCRIPTION:Five Trigs (BL)\nDate & time: Sat 28 Sep 2024 at 10:00\nDistan
  ce:30 km / 18.6 miles\nClimb:900 m / 2953 ft\nEntry on day:Yes\nEntry on d
@@ -4348,7 +4083,7 @@ BEGIN:VEVENT
 SUMMARY:Thieveley Pike (AS)
 DTSTART;TZID=Europe/London:20240928T110000
 DTEND;TZID=Europe/London:20240928T130000
-DTSTAMP:20240417T143907Z
+DTSTAMP:20240501T143941Z
 UID:/races/5104bd9d-3cc3-4805-9127-76deffbaaab3
 DESCRIPTION:Thieveley Pike (AS)\nDate & time: Sat 28 Sep 2024 at 11:00\nDi
  stance:7 km / 4.3 miles\nClimb:400 m / 1312 ft\nGrid reference:SD875285\nE
@@ -4361,7 +4096,7 @@ BEGIN:VEVENT
 SUMMARY:Eskdale Show (BS)
 DTSTART;TZID=Europe/London:20240928T140000
 DTEND;TZID=Europe/London:20240928T160000
-DTSTAMP:20240417T143907Z
+DTSTAMP:20240501T143941Z
 UID:/races/69390868-eeb4-42ef-809e-41679f93fbd4
 DESCRIPTION:Eskdale Show (BS)\nDate & time: Sat 28 Sep 2024 at 14:00\nDist
  ance:6.9 km / 4.3 miles\nClimb:277 m / 909 ft\nGrid reference:SD149996\nEn
@@ -4374,7 +4109,7 @@ BEGIN:VEVENT
 SUMMARY:Orton (BS)
 DTSTART;TZID=Europe/London:20240928T140000
 DTEND;TZID=Europe/London:20240928T160000
-DTSTAMP:20240417T143908Z
+DTSTAMP:20240501T143942Z
 UID:/races/adddc541-04b7-45ef-a63a-537c12689546
 DESCRIPTION:Orton (BS)\nDate & time: Sat 28 Sep 2024 at 14:00\nDistance:10
   km / 6.2 miles\nClimb:258 m / 846 ft\nGrid reference:NY 62382 08087\nEntr
@@ -4386,7 +4121,7 @@ BEGIN:VEVENT
 SUMMARY:Peak Raid Mountain Marathon 1 (MM)
 DTSTART;TZID=Europe/London:20240929T080000
 DTEND;TZID=Europe/London:20240929T100000
-DTSTAMP:20240417T143908Z
+DTSTAMP:20240501T143942Z
 UID:/races/a8821479-d55e-45a2-a127-d8246b4c53de
 DESCRIPTION:Peak Raid Mountain Marathon 1 (MM)\nDate & time: Sun 29 Sep 20
  24 at 8:00\nGrid reference:SK181750\nEntry on day:No\nPre-entry:Yes\nPre-e
@@ -4401,7 +4136,7 @@ BEGIN:VEVENT
 SUMMARY:Axnfell (AL)
 DTSTART;TZID=Europe/London:20240929T100000
 DTEND;TZID=Europe/London:20240929T120000
-DTSTAMP:20240417T143908Z
+DTSTAMP:20240501T143943Z
 UID:/races/4fc0ffa8-464a-4eef-912e-df17bb098b04
 DESCRIPTION:Axnfell (AL)\nDate & time: Sun 29 Sep 2024 at 10:00\nDistance:
  28 km / 17.4 miles\nClimb:1800 m / 5906 ft\nGrid reference:GR423837\nEntry
@@ -4413,7 +4148,7 @@ BEGIN:VEVENT
 SUMMARY:Stuart Learmouth Wirksworth Undulator (BM)
 DTSTART;TZID=Europe/London:20240929T110000
 DTEND;TZID=Europe/London:20240929T130000
-DTSTAMP:20240417T143909Z
+DTSTAMP:20240501T143943Z
 UID:/races/bab104de-c358-4b3b-82f7-1eac6d56d4b1
 DESCRIPTION:Stuart Learmouth Wirksworth Undulator (BM)\nDate & time: Sun 2
  9 Sep 2024 at 11:00\nDistance:13.5 km / 8.4 miles\nClimb:384 m / 1260 ft\n
@@ -4427,7 +4162,7 @@ BEGIN:VEVENT
 SUMMARY:Waddington (BM)
 DTSTART;TZID=Europe/London:20240929T140000
 DTEND;TZID=Europe/London:20240929T160000
-DTSTAMP:20240417T143909Z
+DTSTAMP:20240501T143944Z
 UID:/races/8fd58135-8982-40d9-9691-23112ebbb0b7
 DESCRIPTION:Waddington (BM)\nDate & time: Sun 29 Sep 2024 at 14:00\nDistan
  ce:11.3 km / 7 miles\nClimb:415 m / 1362 ft\nGrid reference:SD 730 436\nEn
@@ -4439,7 +4174,7 @@ BEGIN:VEVENT
 SUMMARY:Hodgson Brothers Mountain Relay (Relay)
 DTSTART;TZID=Europe/London:20241005T093000
 DTEND;TZID=Europe/London:20241005T113000
-DTSTAMP:20240417T143910Z
+DTSTAMP:20240501T143944Z
 UID:/races/ab2a2dae-f6f1-4e12-a76e-2c31aa5caa82
 DESCRIPTION:Hodgson Brothers Mountain Relay (Relay)\nDate & time: Sat 5 Oc
  t 2024 at 9:30\nDistance:36 km / 22.4 miles\nClimb:2800 m / 9186 ft\nGrid 
@@ -4451,7 +4186,7 @@ BEGIN:VEVENT
 SUMMARY:Curbar Commotion (BM)
 DTSTART;TZID=Europe/London:20241005T100000
 DTEND;TZID=Europe/London:20241005T120000
-DTSTAMP:20240417T143910Z
+DTSTAMP:20240501T143945Z
 UID:/races/eb27d13b-ceac-41bc-9f04-42f30274a304
 DESCRIPTION:Curbar Commotion (BM)\nDate & time: Sat 5 Oct 2024 at 10:00\nD
  istance:16 km / 9.9 miles\nClimb:415 m / 1362 ft\nGrid reference:SK248739\
@@ -4465,7 +4200,7 @@ BEGIN:VEVENT
 SUMMARY:Viking Chase (BM)
 DTSTART;TZID=Europe/London:20241006T104500
 DTEND;TZID=Europe/London:20241006T124500
-DTSTAMP:20240417T143910Z
+DTSTAMP:20240501T143945Z
 UID:/races/45d6f410-3377-4416-a9e2-4a9b191e5ccc
 DESCRIPTION:Viking Chase (BM)\nDate & time: Sun 6 Oct 2024 at 10:45\nDista
  nce:12 km / 7.5 miles\nClimb:572 m / 1877 ft\nGrid reference:NZ524030\nEnt
@@ -4475,10 +4210,22 @@ DESCRIPTION:Viking Chase (BM)\nDate & time: Sun 6 Oct 2024 at 10:45\nDista
  c
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:English Schools Fell Running Championships (BS)
+DTSTART;TZID=Europe/London:20241006T110000
+DTEND;TZID=Europe/London:20241006T130000
+DTSTAMP:20240501T143946Z
+UID:/races/0e1fbd57-ef5b-423a-96ce-fb7bed344750
+DESCRIPTION:English Schools Fell Running Championships (BS)\nDate & time: 
+ Sun 6 Oct 2024 at 11:00\nEntry on day:No\nPre-entry:Yes\nPre-entry fee:£1
+ 0.00\nAbsolutely no entry on the day\nYork. Dales\, England\nFull informat
+ ion: https://races.fellrunner.org.uk/races/0e1fbd57-ef5b-423a-96ce-fb7bed3
+ 44750
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Castle C'Alf (BM)
 DTSTART;TZID=Europe/London:20241006T113000
 DTEND;TZID=Europe/London:20241006T133000
-DTSTAMP:20240417T143911Z
+DTSTAMP:20240501T143946Z
 UID:/races/1678fb01-f877-4706-bb42-4980522143bd
 DESCRIPTION:Castle C'Alf (BM)\nDate & time: Sun 6 Oct 2024 at 11:30\nDista
  nce:12 km / 7.5 miles\nClimb:490 m / 1608 ft\nGrid reference:SE005280\nEnt
@@ -4492,7 +4239,7 @@ BEGIN:VEVENT
 SUMMARY:Langdale Horseshoe (AL)
 DTSTART;TZID=Europe/London:20241012T110000
 DTEND;TZID=Europe/London:20241012T130000
-DTSTAMP:20240417T143911Z
+DTSTAMP:20240501T143947Z
 UID:/races/70fe61e1-509d-41a2-b4e1-f38f3d935c38
 DESCRIPTION:Langdale Horseshoe (AL)\nDate & time: Sat 12 Oct 2024 at 11:00
  \nDistance:21.1 km / 13.1 miles\nClimb:1450 m / 4757 ft\nGrid reference:28
@@ -4505,7 +4252,7 @@ BEGIN:VEVENT
 SUMMARY:B O F R A Wasdale (AS)
 DTSTART;TZID=Europe/London:20241012T131500
 DTEND;TZID=Europe/London:20241012T151500
-DTSTAMP:20240417T143912Z
+DTSTAMP:20240501T143947Z
 UID:/races/66869036-22db-4c8b-98ce-af2616a7f6d1
 DESCRIPTION:B O F R A Wasdale (AS)\nDate & time: Sat 12 Oct 2024 at 13:15\
  nDistance:3.8 km / 2.4 miles\nClimb:700 m / 2297 ft\nGrid reference:187089
@@ -4517,7 +4264,7 @@ BEGIN:VEVENT
 SUMMARY:Slieau Whallian (BS)
 DTSTART;TZID=Europe/London:20241012T133000
 DTEND;TZID=Europe/London:20241012T153000
-DTSTAMP:20240417T143912Z
+DTSTAMP:20240501T143948Z
 UID:/races/ef2669cd-8fe1-4c15-a6b2-511495e42e71
 DESCRIPTION:Slieau Whallian (BS)\nDate & time: Sat 12 Oct 2024 at 13:30\nD
  istance:5 km / 3.1 miles\nClimb:156 m / 512 ft\nGrid reference:275817\nEnt
@@ -4529,7 +4276,7 @@ BEGIN:VEVENT
 SUMMARY:Withins Junior Curly Wurly Rat Runs ()
 DTSTART;TZID=Europe/London:20241013T103000
 DTEND;TZID=Europe/London:20241013T123000
-DTSTAMP:20240417T143912Z
+DTSTAMP:20240501T143948Z
 UID:/races/b740341c-1781-426c-8489-7b69592602b6
 DESCRIPTION:Withins Junior Curly Wurly Rat Runs ()\nDate & time: Sun 13 Oc
  t 2024 at 10:30\nGrid reference:025364\nEntry on day:Yes\nEntry on day fee
@@ -4542,7 +4289,7 @@ BEGIN:VEVENT
 SUMMARY:Andrew Heywood Memorial Windgather (BL)
 DTSTART;TZID=Europe/London:20241013T110000
 DTEND;TZID=Europe/London:20241013T130000
-DTSTAMP:20240417T143913Z
+DTSTAMP:20240501T143949Z
 UID:/races/298a1bec-b8eb-4b21-bb43-e92a10354b15
 DESCRIPTION:Andrew Heywood Memorial Windgather (BL)\nDate & time: Sun 13 O
  ct 2024 at 11:00\nDistance:21.7 km / 13.5 miles\nClimb:762 m / 2500 ft\nGr
@@ -4556,7 +4303,7 @@ BEGIN:VEVENT
 SUMMARY:Withins Skyline (BM)
 DTSTART;TZID=Europe/London:20241013T113000
 DTEND;TZID=Europe/London:20241013T133000
-DTSTAMP:20240417T143913Z
+DTSTAMP:20240501T143949Z
 UID:/races/ffefe70b-a3d1-47fe-aa4e-f5bda490262d
 DESCRIPTION:Withins Skyline (BM)\nDate & time: Sun 13 Oct 2024 at 11:30\nD
  istance:10.1 km / 6.3 miles\nClimb:300 m / 984 ft\nGrid reference:025364\n
@@ -4568,7 +4315,7 @@ BEGIN:VEVENT
 SUMMARY:British Athletics Fell and Hill Relays (Relay)
 DTSTART;TZID=Europe/London:20241019T110000
 DTEND;TZID=Europe/London:20241019T130000
-DTSTAMP:20240417T143913Z
+DTSTAMP:20240501T143949Z
 UID:/races/e9e67bb2-ebb3-4603-b4c3-3a5edf7e1559
 DESCRIPTION:British Athletics Fell and Hill Relays (Relay)\nDate & time: S
  at 19 Oct 2024 at 11:00\nEntry on day:No\nPre-entry:Yes\nAll competitors m
@@ -4582,7 +4329,7 @@ BEGIN:VEVENT
 SUMMARY:Peak Raid Mountain Marathon 2 (MM)
 DTSTART;TZID=Europe/London:20241020T080000
 DTEND;TZID=Europe/London:20241020T100000
-DTSTAMP:20240417T143914Z
+DTSTAMP:20240501T143950Z
 UID:/races/3aded431-54d1-43c7-90f1-26efe88452d2
 DESCRIPTION:Peak Raid Mountain Marathon 2 (MM)\nDate & time: Sun 20 Oct 20
  24 at 8:00\nEntry on day:No\nPre-entry:Yes\nPre-entry fee (members):£18.0
@@ -4596,7 +4343,7 @@ BEGIN:VEVENT
 SUMMARY:Gormire Gamble (BS)
 DTSTART;TZID=Europe/London:20241020T110000
 DTEND;TZID=Europe/London:20241020T130000
-DTSTAMP:20240417T143914Z
+DTSTAMP:20240501T143950Z
 UID:/races/5da614af-5cc6-482a-9e18-237583a9204c
 DESCRIPTION:Gormire Gamble (BS)\nDate & time: Sun 20 Oct 2024 at 11:00\nDi
  stance:9.1 km / 5.7 miles\nClimb:250 m / 820 ft\nGrid reference:SE 516 831
@@ -4609,7 +4356,7 @@ BEGIN:VEVENT
 SUMMARY:Charlesworth Chase ( Simon's Seat) (BS)
 DTSTART;TZID=Europe/London:20241020T110000
 DTEND;TZID=Europe/London:20241020T130000
-DTSTAMP:20240417T143914Z
+DTSTAMP:20240501T143951Z
 UID:/races/e4f3ccd5-d9c7-49ca-b6dd-726bdf6e7fa6
 DESCRIPTION:Charlesworth Chase ( Simon's Seat) (BS)\nDate & time: Sun 20 O
  ct 2024 at 11:00\nDistance:8.3 km / 5.2 miles\nClimb:366 m / 1201 ft\nGrid
@@ -4622,7 +4369,7 @@ BEGIN:VEVENT
 SUMMARY:Dale Head (AS)
 DTSTART;TZID=Europe/London:20241020T133000
 DTEND;TZID=Europe/London:20241020T153000
-DTSTAMP:20240417T143915Z
+DTSTAMP:20240501T143952Z
 UID:/races/fd55f4d3-f48e-451d-8a32-945718809ff9
 DESCRIPTION:Dale Head (AS)\nDate & time: Sun 20 Oct 2024 at 13:30\nDistanc
  e:7.3 km / 4.5 miles\nClimb:675 m / 2215 ft\nGrid reference:259 148\nEntry
@@ -4634,7 +4381,7 @@ BEGIN:VEVENT
 SUMMARY:Race You To The Summit (BS)
 DTSTART;TZID=Europe/London:20241026T110000
 DTEND;TZID=Europe/London:20241026T130000
-DTSTAMP:20240417T143915Z
+DTSTAMP:20240501T143952Z
 UID:/races/1e09ee57-9ffa-4104-b131-b985295ec093
 DESCRIPTION:Race You To The Summit (BS)\nDate & time: Sat 26 Oct 2024 at 1
  1:00\nDistance:7 km / 4.3 miles\nClimb:260 m / 853 ft\nGrid reference:9461
@@ -4646,7 +4393,7 @@ BEGIN:VEVENT
 SUMMARY:Screes (AS)
 DTSTART;TZID=Europe/London:20241026T143000
 DTEND;TZID=Europe/London:20241026T163000
-DTSTAMP:20240417T143916Z
+DTSTAMP:20240501T143953Z
 UID:/races/66a567d8-009c-4004-8b0f-4dfc43c4e062
 DESCRIPTION:Screes (AS)\nDate & time: Sat 26 Oct 2024 at 14:30\nDistance:7
  .9 km / 4.9 miles\nClimb:475 m / 1558 ft\nGrid reference:NY124040\nEntry o
@@ -4658,7 +4405,7 @@ BEGIN:VEVENT
 SUMMARY:Lockton Limping (BM)
 DTSTART;TZID=Europe/London:20241027T103000
 DTEND;TZID=Europe/London:20241027T123000
-DTSTAMP:20240417T143916Z
+DTSTAMP:20240501T143953Z
 UID:/races/317c67cf-ab08-447c-9dc2-805b01f7e17b
 DESCRIPTION:Lockton Limping (BM)\nDate & time: Sun 27 Oct 2024 at 10:30\nD
  istance:11.2 km / 7 miles\nClimb:350 m / 1148 ft\nGrid reference:846900\nE
@@ -4671,7 +4418,7 @@ BEGIN:VEVENT
 SUMMARY:Padfield (AS)
 DTSTART;TZID=Europe/London:20241027T110000
 DTEND;TZID=Europe/London:20241027T130000
-DTSTAMP:20240417T143916Z
+DTSTAMP:20240501T143954Z
 UID:/races/5bc4b6b6-f7c6-4959-a0f1-b74774b8a780
 DESCRIPTION:Padfield (AS)\nDate & time: Sun 27 Oct 2024 at 11:00\nDistance
  :8.8 km / 5.5 miles\nClimb:320 m / 1050 ft\nEntry on day:Yes\nEntry on day
@@ -4684,7 +4431,7 @@ BEGIN:VEVENT
 SUMMARY:Bronte Way (BM)
 DTSTART;TZID=Europe/London:20241027T110000
 DTEND;TZID=Europe/London:20241027T130000
-DTSTAMP:20240417T143917Z
+DTSTAMP:20240501T143954Z
 UID:/races/c92b000d-341d-4948-8511-21da40bdd0ee
 DESCRIPTION:Bronte Way (BM)\nDate & time: Sun 27 Oct 2024 at 11:00\nDistan
  ce:12 km / 7.5 miles\nClimb:351 m / 1152 ft\nGrid reference:SD932391\nEntr
@@ -4696,7 +4443,7 @@ BEGIN:VEVENT
 SUMMARY:Buttermere Shepherd's Meet (AS)
 DTSTART;TZID=Europe/London:20241027T113000
 DTEND;TZID=Europe/London:20241027T133000
-DTSTAMP:20240417T143917Z
+DTSTAMP:20240501T143955Z
 UID:/races/472728f0-a577-48d3-95fd-aa89b011b272
 DESCRIPTION:Buttermere Shepherd's Meet (AS)\nDate & time: Sun 27 Oct 2024 
  at 11:30\nDistance:5 km / 3.1 miles\nClimb:600 m / 1969 ft\nGrid reference
@@ -4711,7 +4458,7 @@ BEGIN:VEVENT
 SUMMARY:Shepherds Skyline (BS)
 DTSTART;TZID=Europe/London:20241102T130000
 DTEND;TZID=Europe/London:20241102T150000
-DTSTAMP:20240417T143917Z
+DTSTAMP:20240501T143955Z
 UID:/races/b463d541-5766-4cc7-8dd8-d83c624f39c0
 DESCRIPTION:Shepherds Skyline (BS)\nDate & time: Sat 2 Nov 2024 at 13:00\n
  Distance:10 km / 6.2 miles\nClimb:350 m / 1148 ft\nGrid reference:945232\n
@@ -4723,7 +4470,7 @@ BEGIN:VEVENT
 SUMMARY:Soyland Moor (CL)
 DTSTART;TZID=Europe/London:20241103T100000
 DTEND;TZID=Europe/London:20241103T120000
-DTSTAMP:20240417T143918Z
+DTSTAMP:20240501T143956Z
 UID:/races/b9b0bf52-0289-4d20-a177-7cbfd18fd8d0
 DESCRIPTION:Soyland Moor (CL)\nDate & time: Sun 3 Nov 2024 at 10:00\nDista
  nce:22 km / 13.7 miles\nClimb:400 m / 1312 ft\nEntry on day:Yes\nEntry on 
@@ -4736,7 +4483,7 @@ BEGIN:VEVENT
 SUMMARY:Cop Hill (CS)
 DTSTART;TZID=Europe/London:20241103T103000
 DTEND;TZID=Europe/London:20241103T123000
-DTSTAMP:20240417T143918Z
+DTSTAMP:20240501T143956Z
 UID:/races/71b5f8ea-16ea-4c34-98bf-45b80c694135
 DESCRIPTION:Cop Hill (CS)\nDate & time: Sun 3 Nov 2024 at 10:30\nDistance:
  10 km / 6.2 miles\nClimb:274 m / 899 ft\nEntry on day:Yes\nEntry on day fe
@@ -4746,10 +4493,22 @@ DESCRIPTION:Cop Hill (CS)\nDate & time: Sun 3 Nov 2024 at 10:30\nDistance:
  /races/71b5f8ea-16ea-4c34-98bf-45b80c694135
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Burley Moor Run (BM)
+DTSTART;TZID=Europe/London:20241109T100000
+DTEND;TZID=Europe/London:20241109T120000
+DTSTAMP:20240501T143957Z
+UID:/races/c8df230b-9b3b-4861-9ecc-a240782e8366
+DESCRIPTION:Burley Moor Run (BM)\nDate & time: Sat 9 Nov 2024 at 10:00\nDi
+ stance:11 km / 6.8 miles\nClimb:250 m / 820 ft\nEntry on day:Yes\nEntry on
+  day fee:£6.00\nPre-entry:Yes\nPre-entry fee:£5.00\nYork. Dales\, Englan
+ d\nFull information: https://races.fellrunner.org.uk/races/c8df230b-9b3b-4
+ 861-9ecc-a240782e8366
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Dunnerdale (AS)
 DTSTART;TZID=Europe/London:20241109T120000
 DTEND;TZID=Europe/London:20241109T140000
-DTSTAMP:20240417T143918Z
+DTSTAMP:20240501T143957Z
 UID:/races/af212b55-4082-43ee-8455-595f21dadb3b
 DESCRIPTION:Dunnerdale (AS)\nDate & time: Sat 9 Nov 2024 at 12:00\nDistanc
  e:8 km / 5 miles\nClimb:550 m / 1804 ft\nGrid reference:223905\nEntry on d
@@ -4761,7 +4520,7 @@ BEGIN:VEVENT
 SUMMARY:Cringle Hill (CS)
 DTSTART;TZID=Europe/London:20241109T133000
 DTEND;TZID=Europe/London:20241109T153000
-DTSTAMP:20240417T143919Z
+DTSTAMP:20240501T143958Z
 UID:/races/62bfd77e-7067-48e8-b84c-78e289f67f47
 DESCRIPTION:Cringle Hill (CS)\nDate & time: Sat 9 Nov 2024 at 13:30\nDista
  nce:3 km / 1.9 miles\nClimb:75 m / 246 ft\nGrid reference:251742\nEntry on
@@ -4773,7 +4532,7 @@ BEGIN:VEVENT
 SUMMARY:Saltergate Gallows (BL)
 DTSTART;TZID=Europe/London:20241110T103000
 DTEND;TZID=Europe/London:20241110T123000
-DTSTAMP:20240417T143919Z
+DTSTAMP:20240501T143958Z
 UID:/races/8eeb6e3e-5b1b-4bdc-9030-010ec9fc4116
 DESCRIPTION:Saltergate Gallows (BL)\nDate & time: Sun 10 Nov 2024 at 10:30
  \nDistance:20 km / 12.4 miles\nClimb:500 m / 1640 ft\nEntry on day:Yes\nEn
@@ -4786,7 +4545,7 @@ BEGIN:VEVENT
 SUMMARY:Roaches (BL)
 DTSTART;TZID=Europe/London:20241110T103000
 DTEND;TZID=Europe/London:20241110T123000
-DTSTAMP:20240417T143919Z
+DTSTAMP:20240501T143958Z
 UID:/races/72d10cfb-88db-4601-b4d3-e48228e301a3
 DESCRIPTION:Roaches (BL)\nDate & time: Sun 10 Nov 2024 at 10:30\nDistance:
  24.1 km / 15 miles\nClimb:1128 m / 3701 ft\nGrid reference:987608\nEntry o
@@ -4798,7 +4557,7 @@ BEGIN:VEVENT
 SUMMARY:Wadsworth Half Trog (BM)
 DTSTART;TZID=Europe/London:20241110T110000
 DTEND;TZID=Europe/London:20241110T130000
-DTSTAMP:20240417T143920Z
+DTSTAMP:20240501T143959Z
 UID:/races/93efaf98-cdca-4609-8d22-a47c48265c17
 DESCRIPTION:Wadsworth Half Trog (BM)\nDate & time: Sun 10 Nov 2024 at 11:0
  0\nDistance:15 km / 9.3 miles\nClimb:420 m / 1378 ft\nGrid reference:SE005
@@ -4812,7 +4571,7 @@ BEGIN:VEVENT
 SUMMARY:Leg It Round Lathkil (BM)
 DTSTART;TZID=Europe/London:20241110T113000
 DTEND;TZID=Europe/London:20241110T133000
-DTSTAMP:20240417T143920Z
+DTSTAMP:20240501T143959Z
 UID:/races/2fc718ad-3efc-4703-87b1-921a0926b7e8
 DESCRIPTION:Leg It Round Lathkil (BM)\nDate & time: Sun 10 Nov 2024 at 11:
  30\nDistance:11.5 km / 7.1 miles\nClimb:290 m / 951 ft\nGrid reference:207
@@ -4825,7 +4584,7 @@ BEGIN:VEVENT
 SUMMARY:Penmaenmawr Fell Race (BM)
 DTSTART;TZID=Europe/London:20241116T100000
 DTEND;TZID=Europe/London:20241116T120000
-DTSTAMP:20240417T143921Z
+DTSTAMP:20240501T144000Z
 UID:/races/cf68b79c-eb88-408a-a5a5-7759b3835e54
 DESCRIPTION:Penmaenmawr Fell Race (BM)\nDate & time: Sat 16 Nov 2024 at 10
  :00\nDistance:16.1 km / 10 miles\nClimb:594 m / 1949 ft\nGrid reference:74
@@ -4839,7 +4598,7 @@ BEGIN:VEVENT
 SUMMARY:Tour Of Pendle (AL)
 DTSTART;TZID=Europe/London:20241116T103000
 DTEND;TZID=Europe/London:20241116T123000
-DTSTAMP:20240417T143921Z
+DTSTAMP:20240501T144000Z
 UID:/races/64147114-ac4c-43c2-8479-677456c358dc
 DESCRIPTION:Tour Of Pendle (AL)\nDate & time: Sat 16 Nov 2024 at 10:30\nDi
  stance:27 km / 16.8 miles\nClimb:1473 m / 4833 ft\nGrid reference:823403\n
@@ -4855,7 +4614,7 @@ BEGIN:VEVENT
 SUMMARY:Litton Birks (AS)
 DTSTART;TZID=Europe/London:20241116T120000
 DTEND;TZID=Europe/London:20241116T140000
-DTSTAMP:20240417T143921Z
+DTSTAMP:20240501T144001Z
 UID:/races/1424fe99-6167-4548-8179-063ea3358a5a
 DESCRIPTION:Litton Birks (AS)\nDate & time: Sat 16 Nov 2024 at 12:00\nDist
  ance:5 km / 3.1 miles\nClimb:362 m / 1188 ft\nGrid reference:SD907740 / 54
@@ -4869,7 +4628,7 @@ BEGIN:VEVENT
 SUMMARY:Peak Raid Mountain Marathon 3 (MM)
 DTSTART;TZID=Europe/London:20241117T080000
 DTEND;TZID=Europe/London:20241117T100000
-DTSTAMP:20240417T143922Z
+DTSTAMP:20240501T144001Z
 UID:/races/b569b79c-bafb-4e11-b90f-45a189a2fbe8
 DESCRIPTION:Peak Raid Mountain Marathon 3 (MM)\nDate & time: Sun 17 Nov 20
  24 at 8:00\nGrid reference:SK017756\nEntry on day:No\nPre-entry:Yes\nPre-e
@@ -4884,7 +4643,7 @@ BEGIN:VEVENT
 SUMMARY:David Staff Memorial Race (AS)
 DTSTART;TZID=Europe/London:20241117T113000
 DTEND;TZID=Europe/London:20241117T133000
-DTSTAMP:20240417T143922Z
+DTSTAMP:20240501T144002Z
 UID:/races/2f664bb6-b954-43f8-831c-2f57c3f79e97
 DESCRIPTION:David Staff Memorial Race (AS)\nDate & time: Sun 17 Nov 2024 a
  t 11:30\nDistance:6 km / 3.7 miles\nClimb:305 m / 1001 ft\nEntry on day:Ye
@@ -4893,10 +4652,24 @@ DESCRIPTION:David Staff Memorial Race (AS)\nDate & time: Sun 17 Nov 2024 a
  831c-2f57c3f79e97
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Arnside Knott (BS)
+DTSTART;TZID=Europe/London:20241117T121500
+DTEND;TZID=Europe/London:20241117T141500
+DTSTAMP:20240501T144002Z
+UID:/races/f0135281-b3f4-4d2a-8a84-861f1449e750
+DESCRIPTION:Arnside Knott (BS)\nDate & time: Sun 17 Nov 2024 at 12:15\nDis
+ tance:9.7 km / 6 miles\nClimb:333 m / 1093 ft\nGrid reference:452765\nEntr
+ y on day:Yes\nEntry on day fee (members):£8.00\nEntry on day fee (non-mem
+ bers):£10.00\nPre-entry:No\nJuniors races for 6 to U17 in age groups from
+  11.15.<br/>£1 entry on the day.\nLake District\, England\nFull informat
+ ion: https://races.fellrunner.org.uk/races/f0135281-b3f4-4d2a-8a84-861f144
+ 9e750
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Middle Fell (AM)
 DTSTART;TZID=Europe/London:20241123T103000
 DTEND;TZID=Europe/London:20241123T123000
-DTSTAMP:20240417T143922Z
+DTSTAMP:20240501T144003Z
 UID:/races/191e67c3-6505-4159-aa42-c5b9be9d4e29
 DESCRIPTION:Middle Fell (AM)\nDate & time: Sat 23 Nov 2024 at 10:30\nDista
  nce:10.6 km / 6.6 miles\nClimb:518 m / 1699 ft\nGrid reference:NY123040\nE
@@ -4908,7 +4681,7 @@ BEGIN:VEVENT
 SUMMARY:Lee Mill Relay (Relay)
 DTSTART;TZID=Europe/London:20241124T100000
 DTEND;TZID=Europe/London:20241124T120000
-DTSTAMP:20240417T143923Z
+DTSTAMP:20240501T144003Z
 UID:/races/3a489a58-4b9c-472f-a18a-ccaa51985af4
 DESCRIPTION:Lee Mill Relay (Relay)\nDate & time: Sun 24 Nov 2024 at 10:00\
  nDistance:10.7 km / 6.6 miles\nClimb:340 m / 1115 ft\nGrid reference:SD866
@@ -4921,7 +4694,7 @@ BEGIN:VEVENT
 SUMMARY:Kirkby Moor (BM)
 DTSTART;TZID=Europe/London:20241130T110000
 DTEND;TZID=Europe/London:20241130T130000
-DTSTAMP:20240417T143923Z
+DTSTAMP:20240501T144004Z
 UID:/races/bca95137-6f22-4499-84a9-431a745456c8
 DESCRIPTION:Kirkby Moor (BM)\nDate & time: Sat 30 Nov 2024 at 11:00\nDista
  nce:10.5 km / 6.5 miles\nClimb:490 m / 1608 ft\nGrid reference:SD233823\nE
@@ -4933,7 +4706,7 @@ BEGIN:VEVENT
 SUMMARY:Eskdale Eureka (BM)
 DTSTART;TZID=Europe/London:20241201T103000
 DTEND;TZID=Europe/London:20241201T123000
-DTSTAMP:20240417T143923Z
+DTSTAMP:20240501T144004Z
 UID:/races/1b9e8ec9-0f9c-4360-963b-66b58f7e46ac
 DESCRIPTION:Eskdale Eureka (BM)\nDate & time: Sun 1 Dec 2024 at 10:30\nDis
  tance:14.3 km / 8.9 miles\nClimb:470 m / 1542 ft\nGrid reference:NZ 684 08
@@ -4946,7 +4719,7 @@ BEGIN:VEVENT
 SUMMARY:Cardington Cracker (AM)
 DTSTART;TZID=Europe/London:20241201T110000
 DTEND;TZID=Europe/London:20241201T130000
-DTSTAMP:20240417T143924Z
+DTSTAMP:20240501T144005Z
 UID:/races/cdf05ad1-a9af-4f7b-8026-ba6b175bee71
 DESCRIPTION:Cardington Cracker (AM)\nDate & time: Sun 1 Dec 2024 at 11:00\
  nDistance:14.5 km / 9 miles\nClimb:793 m / 2602 ft\nEntry on day:No\nPre-e
@@ -4959,7 +4732,7 @@ BEGIN:VEVENT
 SUMMARY:Mytholmroyd fell race (BS)
 DTSTART;TZID=Europe/London:20241201T110000
 DTEND;TZID=Europe/London:20241201T130000
-DTSTAMP:20240417T143924Z
+DTSTAMP:20240501T144005Z
 UID:/races/023c3678-4776-4771-82c5-652ac4064517
 DESCRIPTION:Mytholmroyd fell race (BS)\nDate & time: Sun 1 Dec 2024 at 11:
  00\nDistance:10 km / 6.2 miles\nClimb:500 m / 1640 ft\nGrid reference:0112
@@ -4972,7 +4745,7 @@ BEGIN:VEVENT
 SUMMARY:Really Wild Boar (AS)
 DTSTART;TZID=Europe/London:20241207T110000
 DTEND;TZID=Europe/London:20241207T130000
-DTSTAMP:20240417T143925Z
+DTSTAMP:20240501T144006Z
 UID:/races/46b63c4c-9d5f-430c-8a26-e5de507c5ade
 DESCRIPTION:Really Wild Boar (AS)\nDate & time: Sat 7 Dec 2024 at 11:00\nD
  istance:9 km / 5.6 miles\nClimb:450 m / 1476 ft\nGrid reference:NY 7430 01
@@ -4985,7 +4758,7 @@ BEGIN:VEVENT
 SUMMARY:Colden Winter Hill (BS)
 DTSTART;TZID=Europe/London:20241207T133000
 DTEND;TZID=Europe/London:20241207T153000
-DTSTAMP:20240417T143925Z
+DTSTAMP:20240501T144006Z
 UID:/races/36cedc64-6247-4778-a42d-6bde9a94908b
 DESCRIPTION:Colden Winter Hill (BS)\nDate & time: Sat 7 Dec 2024 at 13:30\
  nDistance:4.5 km / 2.8 miles\nClimb:150 m / 492 ft\nGrid reference:382743\
@@ -4998,7 +4771,7 @@ BEGIN:VEVENT
 SUMMARY:Peak Raid Mountain Marathon 4 (MM)
 DTSTART;TZID=Europe/London:20241208T080000
 DTEND;TZID=Europe/London:20241208T100000
-DTSTAMP:20240417T143925Z
+DTSTAMP:20240501T144007Z
 UID:/races/b261cba9-4b86-415e-b750-516db2021577
 DESCRIPTION:Peak Raid Mountain Marathon 4 (MM)\nDate & time: Sun 8 Dec 202
  4 at 8:00\nGrid reference:SK259723\nEntry on day:No\nPre-entry:Yes\nPre-en
@@ -5013,7 +4786,7 @@ BEGIN:VEVENT
 SUMMARY:Simonside Cairns (BM)
 DTSTART;TZID=Europe/London:20241208T110000
 DTEND;TZID=Europe/London:20241208T130000
-DTSTAMP:20240417T143926Z
+DTSTAMP:20240501T144007Z
 UID:/races/e1f77964-5c25-4812-8a7e-c995d0b58fa9
 DESCRIPTION:Simonside Cairns (BM)\nDate & time: Sun 8 Dec 2024 at 11:00\nD
  istance:17.7 km / 11 miles\nClimb:540 m / 1772 ft\nGrid reference:058017\n
@@ -5025,7 +4798,7 @@ BEGIN:VEVENT
 SUMMARY:Moors The Merrier 21 (BL)
 DTSTART;TZID=Europe/London:20241214T090000
 DTEND;TZID=Europe/London:20241214T110000
-DTSTAMP:20240417T143926Z
+DTSTAMP:20240501T144008Z
 UID:/races/bce98343-36f7-47f0-97ae-db7f139f3497
 DESCRIPTION:Moors The Merrier 21 (BL)\nDate & time: Sat 14 Dec 2024 at 9:0
  0\nDistance:34 km / 21.1 miles\nClimb:1220 m / 4003 ft\nGrid reference:009
@@ -5038,7 +4811,7 @@ BEGIN:VEVENT
 SUMMARY:Crag Fell Handicap race (AS)
 DTSTART;TZID=Europe/London:20241214T110000
 DTEND;TZID=Europe/London:20241214T130000
-DTSTAMP:20240417T143926Z
+DTSTAMP:20240501T144008Z
 UID:/races/738d2170-fb06-4aad-80f8-b30bd526ac63
 DESCRIPTION:Crag Fell Handicap race (AS)\nDate & time: Sat 14 Dec 2024 at 
  11:00\nDistance:4 km / 2.5 miles\nClimb:410 m / 1345 ft\nGrid reference:NY
@@ -5053,7 +4826,7 @@ BEGIN:VEVENT
 SUMMARY:Litton Christmas Cracker (BM)
 DTSTART;TZID=Europe/London:20241215T110000
 DTEND;TZID=Europe/London:20241215T130000
-DTSTAMP:20240417T143927Z
+DTSTAMP:20240501T144009Z
 UID:/races/8ad21da7-3c26-48cf-8e77-b65c41536b44
 DESCRIPTION:Litton Christmas Cracker (BM)\nDate & time: Sun 15 Dec 2024 at
   11:00\nDistance:12.2 km / 7.6 miles\nClimb:360 m / 1181 ft\nGrid referenc
@@ -5067,7 +4840,7 @@ BEGIN:VEVENT
 SUMMARY:Silent Night (AS)
 DTSTART;TZID=Europe/London:20241220T190000
 DTEND;TZID=Europe/London:20241220T210000
-DTSTAMP:20240417T143927Z
+DTSTAMP:20240501T144009Z
 UID:/races/c24051f9-a219-4f48-9e59-3d9b8aaaa5fb
 DESCRIPTION:Silent Night (AS)\nDate & time: Fri 20 Dec 2024 at 19:00\nDist
  ance:7 km / 4.3 miles\nClimb:400 m / 1312 ft\nGrid reference:NY885360\nEnt
@@ -5080,7 +4853,7 @@ BEGIN:VEVENT
 SUMMARY:Stoop Junior Quarry Run ()
 DTSTART;TZID=Europe/London:20241222T103000
 DTEND;TZID=Europe/London:20241222T123000
-DTSTAMP:20240417T143927Z
+DTSTAMP:20240501T144010Z
 UID:/races/680e3fe1-508b-4036-a47a-b93a5b2e4463
 DESCRIPTION:Stoop Junior Quarry Run ()\nDate & time: Sun 22 Dec 2024 at 10
  :30\nGrid reference:025364\nEntry on day:Yes\nEntry on day fee:£2.00\nPre
@@ -5091,7 +4864,7 @@ BEGIN:VEVENT
 SUMMARY:Stoop (BS)
 DTSTART;TZID=Europe/London:20241222T113000
 DTEND;TZID=Europe/London:20241222T133000
-DTSTAMP:20240417T143928Z
+DTSTAMP:20240501T144010Z
 UID:/races/75ee89cf-f7f0-486b-8106-3d2cbad663c3
 DESCRIPTION:Stoop (BS)\nDate & time: Sun 22 Dec 2024 at 11:30\nDistance:8 
  km / 5 miles\nClimb:250 m / 820 ft\nGrid reference:025364\nEntry on day:Ye
@@ -5103,7 +4876,7 @@ BEGIN:VEVENT
 SUMMARY:Totley Two Turtle Doves (BS)
 DTSTART;TZID=Europe/London:20241226T110000
 DTEND;TZID=Europe/London:20241226T130000
-DTSTAMP:20240417T143928Z
+DTSTAMP:20240501T144011Z
 UID:/races/5b03ecea-1281-4780-88f0-9e65ea9dbcf7
 DESCRIPTION:Totley Two Turtle Doves (BS)\nDate & time: Thu 26 Dec 2024 at 
  11:00\nDistance:7.8 km / 4.8 miles\nClimb:250 m / 820 ft\nGrid reference:S
@@ -5115,7 +4888,7 @@ BEGIN:VEVENT
 SUMMARY:Whinberry Naze (BS)
 DTSTART;TZID=Europe/London:20241226T113000
 DTEND;TZID=Europe/London:20241226T133000
-DTSTAMP:20240417T143929Z
+DTSTAMP:20240501T144011Z
 UID:/races/21e5719b-1faa-4598-98f1-85f01be2ffe9
 DESCRIPTION:Whinberry Naze (BS)\nDate & time: Thu 26 Dec 2024 at 11:30\nDi
  stance:6.4 km / 4 miles\nClimb:229 m / 751 ft\nGrid reference:821230\nEntr
@@ -5127,7 +4900,7 @@ BEGIN:VEVENT
 SUMMARY:Guisborough Woods (BS)
 DTSTART;TZID=Europe/London:20241227T110000
 DTEND;TZID=Europe/London:20241227T130000
-DTSTAMP:20240417T143929Z
+DTSTAMP:20240501T144012Z
 UID:/races/a91fbf7b-184f-45b7-b8fb-8c446ff159e2
 DESCRIPTION:Guisborough Woods (BS)\nDate & time: Fri 27 Dec 2024 at 11:00\
  nDistance:8.8 km / 5.5 miles\nClimb:376 m / 1234 ft\nGrid reference:NZ6141
@@ -5147,7 +4920,7 @@ BEGIN:VEVENT
 SUMMARY:Wansfell (AS)
 DTSTART;TZID=Europe/London:20241227T120000
 DTEND;TZID=Europe/London:20241227T140000
-DTSTAMP:20240417T143929Z
+DTSTAMP:20240501T144012Z
 UID:/races/073c7844-d29c-423b-a38b-3bc43d7af890
 DESCRIPTION:Wansfell (AS)\nDate & time: Fri 27 Dec 2024 at 12:00\nDistance
  :4 km / 2.5 miles\nClimb:405 m / 1329 ft\nEntry on day:No\nPre-entry:Yes\n
@@ -5159,7 +4932,7 @@ BEGIN:VEVENT
 SUMMARY:Bilberry Fields Winter (AS)
 DTSTART;TZID=Europe/London:20241229T113000
 DTEND;TZID=Europe/London:20241229T133000
-DTSTAMP:20240417T143930Z
+DTSTAMP:20240501T144013Z
 UID:/races/1a5da99d-c8d8-4b32-8d1a-62f6071da73c
 DESCRIPTION:Bilberry Fields Winter (AS)\nDate & time: Sun 29 Dec 2024 at 1
  1:30\nDistance:7.4 km / 4.6 miles\nClimb:371 m / 1217 ft\nGrid reference:9
@@ -5173,7 +4946,7 @@ BEGIN:VEVENT
 SUMMARY:Wormstones (AS)
 DTSTART;TZID=Europe/London:20241231T110000
 DTEND;TZID=Europe/London:20241231T130000
-DTSTAMP:20240417T143930Z
+DTSTAMP:20240501T144013Z
 UID:/races/7c6600b5-5e90-4e6d-9068-82fb335c2c9f
 DESCRIPTION:Wormstones (AS)\nDate & time: Tue 31 Dec 2024 at 11:00\nDistan
  ce:6.4 km / 4 miles\nClimb:411 m / 1348 ft\nGrid reference:037933\nEntry o
@@ -5186,7 +4959,7 @@ BEGIN:VEVENT
 SUMMARY:Daleside Brewery Auld Lang syne (BM)
 DTSTART;TZID=Europe/London:20241231T113000
 DTEND;TZID=Europe/London:20241231T133000
-DTSTAMP:20240417T143931Z
+DTSTAMP:20240501T144014Z
 UID:/races/a9c4db19-55b8-44a1-ae66-68af67274fc5
 DESCRIPTION:Daleside Brewery Auld Lang syne (BM)\nDate & time: Tue 31 Dec 
  2024 at 11:30\nDistance:10.8 km / 6.7 miles\nClimb:300 m / 984 ft\nGrid re
