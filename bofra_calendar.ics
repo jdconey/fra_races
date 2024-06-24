@@ -24,7 +24,7 @@ BEGIN:VEVENT
 SUMMARY: Dick Hudson's (BOFRA)
 DTSTART;TZID=Europe/London:20240502T190000
 DTEND;TZID=Europe/London:20240502T210000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Dick Hudson's
 DESCRIPTION: Dick Hudson's (BOFRA)\nThu 2 May7.00 pm 2024\n Dick Hudson's\
  n7.0 miles / 1100'\nBarrier car park\, Wells Road\, Ilkley\, LS29 9RF <br/
@@ -36,7 +36,7 @@ BEGIN:VEVENT
 SUMMARY: Sedbergh (BOFRA)
 DTSTART;TZID=Europe/London:20240518T120000
 DTEND;TZID=Europe/London:20240518T140000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Sedbergh
 DESCRIPTION: Sedbergh (BOFRA)\nSat 18 May12.00 pm 2024\n Sedbergh\n2.2 mil
  es / 1100'\nThe Showfield\, Back Lane\,  Sedbergh\, LA10 5AQ\nu9\, u12\, u
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY: Coniston Gullies (BOFRA)
 DTSTART;TZID=Europe/London:20240526T120000
 DTEND;TZID=Europe/London:20240526T140000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Coniston Gullies
 DESCRIPTION: Coniston Gullies (BOFRA)\nSun 26 May12.00 pm 2024\n Coniston 
  Gullies\n1.0 mile / 900'\nCar Park and Registration\, Lake Road\, Coniston
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 SUMMARY: Killington Sports (BOFRA)
 DTSTART;TZID=Europe/London:20240530T170000
 DTEND;TZID=Europe/London:20240530T190000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Killington Sports
 DESCRIPTION: Killington Sports (BOFRA)\nThu 30 May5.00 pm 2024\n Killingto
  n Sports\n1.5 miles / 400'\n Off A683 Sedbergh to Kirkby Lonsdale road.  L
@@ -70,7 +70,7 @@ BEGIN:VEVENT
 SUMMARY: Kettlewell (BOFRA)
 DTSTART;TZID=Europe/London:20240602T120000
 DTEND;TZID=Europe/London:20240602T140000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Kettlewell
 DESCRIPTION: Kettlewell (BOFRA)\nSun 2 Jun12.00 pm 2024\n Kettlewell\n1.4 
  miles / 600'\nKettlewell\, Upper Wharfedale\, BD23 5QX. On the B6160. \nu9
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 SUMMARY: Lowgill Sports (BOFRA)
 DTSTART;TZID=Europe/London:20240608T164500
 DTEND;TZID=Europe/London:20240608T184500
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Lowgill Sports
 DESCRIPTION: Lowgill Sports (BOFRA)\nSat 8 Jun4.45 pm 2024\n Lowgill Sport
  s\n2.2 miles / 1000'\nOpposite Tatham Fells School\, Lowgill LA2 8RA\nu9\,
@@ -92,7 +92,7 @@ BEGIN:VEVENT
 SUMMARY: Ulverston Fell Race (BOFRA)
 DTSTART;TZID=Europe/London:20240609T120000
 DTEND;TZID=Europe/London:20240609T140000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Ulverston Fell Race
 DESCRIPTION: Ulverston Fell Race (BOFRA)\nSun 9 Jun12.00 pm 2024\n Ulverst
  on Fell Race\n2.0 miles / 540'\nFord Park\, Ulverston\, LA12 7JP\nu9\, u12
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 SUMMARY: Hawkswick Dash (BOFRA)
 DTSTART;TZID=Europe/London:20240616T120000
 DTEND;TZID=Europe/London:20240616T140000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Hawkswick Dash
 DESCRIPTION: Hawkswick Dash (BOFRA)\nSun 16 Jun12.00 pm 2024\n Hawkswick D
  ash\n1.4 miles / 600'\nOutgang Lane\, Hawkswick\, Littondale\, off the B61
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY: Kirkby Gala (BOFRA)
 DTSTART;TZID=Europe/London:20240629T140000
 DTEND;TZID=Europe/London:20240629T160000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Kirkby Gala
 DESCRIPTION: Kirkby Gala (BOFRA)\nSat 29 Jun2.00 pm 2024\n Kirkby Gala\n3.
  5 miles / 750'\nThe Sports field\, Beckside\, Kirkby-in-Furness\, Cumbria 
@@ -126,7 +126,7 @@ BEGIN:VEVENT
 SUMMARY: Murder Mile (BOFRA)
 DTSTART;TZID=Europe/London:20240704T191500
 DTEND;TZID=Europe/London:20240704T211500
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Murder Mile
 DESCRIPTION: Murder Mile (BOFRA)\nThu 4 July7.15 pm 2024\n Murder Mile\n1.
  0 mile / 485'\nFrom the bridge\, Brunthwaite Lane\, Silsden BD20 0QA. <br/
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 SUMMARY: Beamsley Beacon (BOFRA)
 DTSTART;TZID=Europe/London:20240711T191500
 DTEND;TZID=Europe/London:20240711T211500
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Beamsley Beacon
 DESCRIPTION: Beamsley Beacon (BOFRA)\nThu 11 July7.15 pm 2024\n Beamsley B
  eacon\n5.5 miles / 900'\nSt Peters Church Hall\, Addingham\, near Ilkley\,
@@ -150,7 +150,7 @@ BEGIN:VEVENT
 SUMMARY: Alva Games (BOFRA)
 DTSTART;TZID=Europe/London:20240713T123000
 DTEND;TZID=Europe/London:20240713T143000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Alva Games
 DESCRIPTION: Alva Games (BOFRA)\nSat 13 July12.30 pm 2024\n Alva Games\n1.
  6 miles / 1200'\nCochrane Park\, on the A91 at Alva\, near Stirling\, Scot
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY: Lothersdale Show (BOFRA)
 DTSTART;TZID=Europe/London:20240713T153000
 DTEND;TZID=Europe/London:20240713T173000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Lothersdale Show
 DESCRIPTION: Lothersdale Show (BOFRA)\nSat 13 July3.30 pm 2024\n Lothersda
  le Show\n1.5 miles / 400'\nThe Show Field\, Lothersdale\, Keighley\, North
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 SUMMARY: Cracoe Fell Races (BOFRA)
 DTSTART;TZID=Europe/London:20240721T120000
 DTEND;TZID=Europe/London:20240721T140000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Cracoe Fell Races
 DESCRIPTION: Cracoe Fell Races (BOFRA)\nSun 21 July12.00 pm 2024\n Cracoe 
  Fell Races\n2.6 miles / 900'\nOn B6265 between Skipton and Grassington. BD
@@ -184,7 +184,7 @@ BEGIN:VEVENT
 SUMMARY: Ambleside Sports (BOFRA)
 DTSTART;TZID=Europe/London:20240725T122500
 DTEND;TZID=Europe/London:20240725T142500
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Ambleside Sports
 DESCRIPTION: Ambleside Sports (BOFRA)\nThu 25 July12.25 pm 2024\n Amblesid
  e Sports\n1.7 miles / 800'\nRydal Park Ambleside - On A591\, towards Keswi
@@ -195,7 +195,7 @@ BEGIN:VEVENT
 SUMMARY: Eshton Moor (BOFRA)
 DTSTART;TZID=Europe/London:20240801T183000
 DTEND;TZID=Europe/London:20240801T203000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Eshton Moor
 DESCRIPTION: Eshton Moor (BOFRA)\nThu 1 Aug6.30 pm 2024\n Eshton Moor\n5.0
   miles / 550'\nGargrave\, North Yorkshire\, BD23 3UT <br/>Contact Chris Jo
@@ -206,7 +206,7 @@ BEGIN:VEVENT
 SUMMARY: Farleton Knott (BOFRA)
 DTSTART;TZID=Europe/London:20240804T120000
 DTEND;TZID=Europe/London:20240804T140000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Farleton Knott
 DESCRIPTION: Farleton Knott (BOFRA)\nSun 4 Aug12.00 pm 2024\n Farleton Kno
  tt\n2.6 miles / 750'\nOn the A6070\, 1 mile from the M6 Junction 36. LA6 1
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY: Kings Challenge (BOFRA)
 DTSTART;TZID=Europe/London:20240808T190000
 DTEND;TZID=Europe/London:20240808T210000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Kings Challenge
 DESCRIPTION: Kings Challenge (BOFRA)\nThu 8 Aug7.00 pm 2024\n Kings Challe
  nge\n6.0 miles / 1175'\nKings Arms\, Silsden\, BD20 0JY. <br/>Contact Chri
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY: Arncliffe Gala (BOFRA)
 DTSTART;TZID=Europe/London:20240810T140000
 DTEND;TZID=Europe/London:20240810T160000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Arncliffe Gala
 DESCRIPTION: Arncliffe Gala (BOFRA)\nSat 10 Aug2.00 pm 2024\n Arncliffe Ga
  la\n1.6 miles / 400'\nArncliffe Village Green\, North Yorkshire\, BD23 5QD
@@ -239,7 +239,7 @@ BEGIN:VEVENT
 SUMMARY: Rusland Show (BOFRA)
 DTSTART;TZID=Europe/London:20240817T113000
 DTEND;TZID=Europe/London:20240817T133000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Rusland Show
 DESCRIPTION: Rusland Show (BOFRA)\nSat 17 Aug11.30 am 2024\n Rusland Show\
  n1.7 miles / 560'\nWhitestock Meadow\, Rusland.  LA11 8LB.  <br/>Contact A
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 SUMMARY: Gargrave Show (BOFRA)
 DTSTART;TZID=Europe/London:20240817T120000
 DTEND;TZID=Europe/London:20240817T140000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Gargrave Show
 DESCRIPTION: Gargrave Show (BOFRA)\nSat 17 Aug12.00 pm 2024\n Gargrave Sho
  w\n3.5 miles / 900'\nShowfield\, Eshton Road\, Gargrave\, BD23 3QE.  <br/>
@@ -261,7 +261,7 @@ BEGIN:VEVENT
 SUMMARY: Malham Show (BOFRA)
 DTSTART;TZID=Europe/London:20240824T150000
 DTEND;TZID=Europe/London:20240824T170000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Malham Show
 DESCRIPTION: Malham Show (BOFRA)\nSat 24 Aug3.00 pm 2024\n Malham Show\n2.
  5 miles / 700'\nThe Showfield\, Malham. 6  North of Gargrave. BD23 4DG.  <
@@ -272,7 +272,7 @@ BEGIN:VEVENT
 SUMMARY: Halton Gill Sports (BOFRA)
 DTSTART;TZID=Europe/London:20240825T140000
 DTEND;TZID=Europe/London:20240825T160000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Halton Gill Sports
 DESCRIPTION: Halton Gill Sports (BOFRA)\nSun 25 Aug2.00 pm 2024\n Halton G
  ill Sports\n1.5 miles / 750'\nLittondale off B6160\, between Grassington a
@@ -283,7 +283,7 @@ BEGIN:VEVENT
 SUMMARY: Hebden Sports (BOFRA)
 DTSTART;TZID=Europe/London:20240826T130000
 DTEND;TZID=Europe/London:20240826T150000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Hebden Sports
 DESCRIPTION: Hebden Sports (BOFRA)\nMon 26 Aug1.00 pm 2024\n Hebden Sports
  \n1.5 miles / 400'\nPowder House Field\, Hebden\, BD23 5DE <br/>Contact Da
@@ -295,7 +295,7 @@ BEGIN:VEVENT
 SUMMARY: Reeth Show (BOFRA)
 DTSTART;TZID=Europe/London:20240826T150000
 DTEND;TZID=Europe/London:20240826T170000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Reeth Show
 DESCRIPTION: Reeth Show (BOFRA)\nMon 26 Aug3.00 pm 2024\n Reeth Show\n2.0 
  miles / 700'\nReeth\, Swaledale\, on B6270 between Richmond and Kirkby Ste
@@ -306,7 +306,7 @@ BEGIN:VEVENT
 SUMMARY: Kilnsey Show (BOFRA)
 DTSTART;TZID=Europe/London:20240827T151500
 DTEND;TZID=Europe/London:20240827T171500
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Kilnsey Show
 DESCRIPTION: Kilnsey Show (BOFRA)\nTue 27 Aug3.15 pm 2024\n Kilnsey Show\n
  1.0 mile / 350'\nOn B6160 between Grassington and Kettlewell\, BD23 5PS Co
@@ -318,7 +318,7 @@ BEGIN:VEVENT
 SUMMARY: Burnsall Fell Race (BOFRA)
 DTSTART;TZID=Europe/London:20240901T120000
 DTEND;TZID=Europe/London:20240901T140000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Burnsall Fell Race
 DESCRIPTION: Burnsall Fell Race (BOFRA)\nSun 1 Sep12.00 pm 2024\n Burnsall
   Fell Race\n1.5 miles / 800'\nWharfedale\, on B6160\, between Grassington 
@@ -329,7 +329,7 @@ BEGIN:VEVENT
 SUMMARY: Muker Show (BOFRA)
 DTSTART;TZID=Europe/London:20240904T150000
 DTEND;TZID=Europe/London:20240904T170000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Muker Show
 DESCRIPTION: Muker Show (BOFRA)\nWed 4 Sep3.00 pm 2024\n Muker Show\n1.4 m
  iles / 550'\nMuker\, Swaledale\, on B6270 between Richmond and Kirkby Step
@@ -337,10 +337,22 @@ DESCRIPTION: Muker Show (BOFRA)\nWed 4 Sep3.00 pm 2024\n Muker Show\n1.4 m
  ps Race: True\nhttp://bofra.org.uk/racepage?race=muker\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY: Cowling Community Festival (BOFRA)
+DTSTART;TZID=Europe/London:20240907T133000
+DTEND;TZID=Europe/London:20240907T153000
+DTSTAMP:20240624T094001Z
+UID:bofra_ Cowling Community Festival
+DESCRIPTION: Cowling Community Festival (BOFRA)\nSat 7 Sep1.30  pm 2024\n 
+ Cowling Community Festival\n2.8 miles / 475'\nOn the A6068 between Colne a
+ nd Keighley. BD22 0AH <br/>Contact Keith Holder - 01535 630146  <!-- CONTA
+ CT DETAILS? 07813 099361-->\nSeniors\nBOFRA Champs Race: False\nhttp://www
+ .wharfedaleharriers.co.uk/events/cowling-gala/\nTBC: False
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY: Bradley Fell Race (BOFRA)
 DTSTART;TZID=Europe/London:20240908T121500
 DTEND;TZID=Europe/London:20240908T141500
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Bradley Fell Race
 DESCRIPTION: Bradley Fell Race (BOFRA)\nSun 8 Sep12.15 pm 2024\n Bradley F
  ell Race\n3.5 miles / 800'\nThe Playing Fields\, Bradley\, near Skipton\, 
@@ -352,7 +364,7 @@ BEGIN:VEVENT
 SUMMARY: Malham Charity Relays (BOFRA)
 DTSTART;TZID=Europe/London:20240915T113000
 DTEND;TZID=Europe/London:20240915T133000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Malham Charity Relays
 DESCRIPTION: Malham Charity Relays (BOFRA)\nSun 15 Sep11.30 am 2024\n Malh
  am Charity Relays\n0.7 mile / 240' per leg\nListers Arms\, Malham\, 6 mile
@@ -365,7 +377,7 @@ BEGIN:VEVENT
 SUMMARY: Wasdale Show (BOFRA)
 DTSTART;TZID=Europe/London:20241012T130000
 DTEND;TZID=Europe/London:20241012T150000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Wasdale Show
 DESCRIPTION: Wasdale Show (BOFRA)\nSat 12 Oct1.00 pm 2024\n Wasdale Show\n
  2.4 miles / 2300'\nWasdale Head\, West Cumbria. CA20 1EX\nu12\, u14\, u17\
@@ -376,7 +388,7 @@ BEGIN:VEVENT
 SUMMARY: Presentation Dinner (BOFRA)
 DTSTART;TZID=Europe/London:20241123T190000
 DTEND;TZID=Europe/London:20241123T210000
-DTSTAMP:20240602T152000Z
+DTSTAMP:20240624T094001Z
 UID:bofra_ Presentation Dinner
 DESCRIPTION: Presentation Dinner (BOFRA)\nSat 23 Nov7.00 pm 2024\n Present
  ation Dinner\nnone\nBOFRA 2024 Championship Presentation Dinner Dance Roll
