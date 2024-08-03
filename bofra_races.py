@@ -138,6 +138,7 @@ def make_cal(race_dict):
             except Exception as e:
                 print(e)
                 print('nope nope nope')
+                continue
         #date_start = datetime.strptime(info['date'],'%a %d %b %Y')
         tzinfo = country_timezones('gb')[0]
         tzx = timezone(tzinfo)
