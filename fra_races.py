@@ -8,8 +8,29 @@ Created on Wed Jan  5 17:13:31 2022
 import requests
 import bs4
 from icalendar import Calendar, Event, Timezone, TimezoneStandard, TimezoneDaylight
-from pytz import timezone,country_timezones
-from datetime import datetime,timedelta
+from pytz import timezone, country_timezones
+from datetime import datetime, timedelta
+
+def standard_replace(s:str) -> str:
+    """
+    Removes double spaces, new lines, 'li' and 'strong' tags from the given string
+    """
+    s = s.replace("  ","")
+    s = s.replace('\n','')
+    s = s.replace("<li>","")
+    s = s.replace("</li>","")
+    s = s.replace("<strong>","")
+    s = s.replace("</strong>","")
+    return s
+
+
+def remove_td(s:str) -> str:
+    """removes 'td' tags from the string"""
+    s = str(s) if not isinstance(s,str) else s
+    s = s.replace("<td>","")
+    s = s.replace("</td>","")
+    return s
+
 
 def get_races_from_page(soup):
     races = soup.find_all('tr')
@@ -17,98 +38,67 @@ def get_races_from_page(soup):
     for race in races:
         try:
             details = race.find_all('td')
-            date = str(details[0]).replace('<td>','')
-            date = date.replace('</td>','')
+            if not details:
+                continue
             name_link = str(details[1]).replace('<td class="titleCol"><a href="','')
             name_link = name_link.split('">')
-            cat = str(details[2]).replace('<td>','')
-            cat=cat.replace('</td>','')
-            country = str(details[3]).replace('<td>','')
-            country=country.replace('</td>','')
-            region=str(details[4]).replace('<td>','')
-            region=region.replace('</td>','')
             race_dict[name_link[0]] = {
-                    'date':date,
-                    'name':name_link[1].replace("</a></td>",''),
-                    'cat':cat,
-                    'country':country,
-                    'region':region,
-                    'link':'https://races.fellrunner.org.uk'+name_link[0]
-                     }
+                'date':remove_td(details[0]),
+                'name':name_link[1].replace("</a></td>",''),
+                'cat':remove_td(details[2]),
+                'country':remove_td(details[3]),
+                'region':remove_td(details[4]),
+                'link':'https://races.fellrunner.org.uk'+name_link[0]
+            }
         except Exception as e:
             print('error',e)
     return race_dict
 
 def extract_event_info(url):
     pg = requests.get(url)
-    soup2 = bs4.BeautifulSoup(pg.content,'html.parser')
-    listy = soup2.find_all("li")
+    soup = bs4.BeautifulSoup(pg.content,'html.parser')
+    event_info = [str(i) for i in soup.find_all("li")]
+
     full_str=''
-    for k1 in listy:
-        full_str=full_str+str(k1)
     extra_info=[]
-    for k in listy:
-        if "Date &amp; time" in str(k):
-            dt = str(k)
-            dt = dt.replace("<li>\n<strong>Date &amp; time:</strong>",'')
-            dt = dt.replace("</li>","")
-            dt = dt.replace("  ","")
-            dt = dt.replace('\n','')
-            extra_info.append("Date & time: "+dt)
-        elif "Start time info" in str(k):
+    for k in event_info:
+        full_str= full_str + k
+
+        if "Date &amp; time" in k:
+            dt = k.replace("Date &amp; time:",'')
+            dt = standard_replace(dt)
+            extra_info.append("Date & time: " + dt)
+        elif "Start time info" in k:
             if "Date &amp; time" not in full_str:
-                for k2 in listy:
-                    if 'Date' in str(k2):
-                        dt2=str(k2)
-                        dt2 = dt2.replace("<li>\n<strong>Date:</strong>",'')
-                        dt2 = dt2.replace("</li>","")
-                        dt2 = dt2.replace("  ","")
-                        dt2 = dt2.replace('\n','')
-                dt = str(k)
-                dt = dt.replace("<li>\n<strong>Start time info:</strong>",'')
-                dt = dt.replace("</li>","")
-                dt = dt.replace("  ","")
-                dt = dt.replace('\n','')
-                dt = dt.replace('.',':')
-                
-                dt = dt2+' at '+dt
-                extra_info.append("Date & time: "+dt)
-        elif "Date:" in str(k):
+                for k2 in event_info:
+                    if 'Date' in k2:
+                        dt2 = k2.replace("Date:", '')
+                        dt2 = standard_replace(dt2)
+                dt = k.replace("Start time info:", '')
+                dt = standard_replace(dt)
+                dt = dt.replace('.', ':')
+                dt = dt2 + ' at ' + dt
+                extra_info.append("Date & time: " + dt)
+        elif "Date:" in k:
             if  "Date &amp; time" not in full_str:
                 if "Start time info" not in full_str:
-                    dt = str(k)
-                    dt = dt.replace("<li>\n<strong>Date:</strong>",'')
-                    dt = dt.replace("</li>","")
-                    dt = dt.replace("  ","")
-                    dt = dt.replace("\n","")
-                    dt = dt.replace(".",":")
-                    dt = dt+" at 00:00"
-        if "Venue:" in str(k):
-            venue = str(k)
-            venue = venue.replace("<li>","")
-            venue = venue.replace("</li>","")
-            venue = venue.replace("<strong>","")
-            venue = venue.replace("</strong>","")        
-            venue = venue.replace("Venue:","")
-            venue = venue.replace("\n","")
-            venue = venue.replace("  ","")
-            venue = venue.replace(":","\:")
-          #  venue = venue.encode()
-#        if "Distance:" in str(k) or "Climb:" in str(k) or "Venue:" in str(k) or "Grid reference:" in str(k) or "Skills:" in str(k) or "Minimum age:" in str(k)  or "Entry:" in str(k):
-        if "Distance:" in str(k) or "Climb:" in str(k) or "Grid reference:" in str(k) or "Entry" in str(k) or "entry" in str(k):
- 
-            info = str(k)
-            info = info.replace("<li>","")
-            info = info.replace("</li>","")
-            info = info.replace("<strong>","")
-            info = info.replace("</strong>","")
-            info = info.replace("\n","")
-            info = info.replace("  ","")
+                    dt = k.replace("Date:", '')
+                    dt = standard_replace(dt)
+                    dt = dt.replace(".", ":")
+                    dt = dt + " at 00:00"
+        if "Venue:" in k:
+            venue = k.replace("Venue:","")
+            venue = standard_replace(venue)
+            venue = venue.replace(":", "\:")
+            #  venue = venue.encode()
+#        if "Distance:" in k or "Climb:" in k or "Venue:" in k or "Grid reference:" in k or "Skills:" in k or "Minimum age:" in k  or "Entry:" in k:
+        if "Distance:" in k or "Climb:" in k or "Grid reference:" in k or "Entry" in k or "entry" in k:
+            info = standard_replace(k)
             extra_info.append(info)
-    print(url)
-    return dt,venue,extra_info
-        
-    
+    # print(url)
+    return dt, venue, extra_info
+
+
 
 def make_cal(race_dict):
     cal = Calendar()
@@ -116,81 +106,70 @@ def make_cal(race_dict):
     cal['version'] = '2.0'
     cal['method'] = 'REQUEST'
 
-    tzc = Timezone()
-    tzc.add('tzid', 'Europe/London')
-    tzc.add('x-lic-location', 'Europe/London')
+    tzc = Timezone({
+    'tzid': 'Europe/London',
+    'x-lic-location': 'Europe/London',
+    })
 
-    tzs = TimezoneStandard()
-    tzs.add('tzname', 'GMT')
-    tzs.add('TZOFFSETFROM',timedelta(hours=1))
-    tzs.add('TZOFFSETTO',timedelta(hours=0))
-    tzs.add('dtstart', datetime(1970, 10, 25, 2, 0, 0))
-    tzs.add('rrule', {'freq': 'yearly', 'bymonth': 10, 'byday': '-1su', 'interval': '1'})
-
-    tzd = TimezoneDaylight()
-    tzd.add('tzname', 'BST')
-    tzd.add('dtstart', datetime(1970, 3, 29, 1, 0, 0))
-    tzd.add('rrule', {'freq': 'yearly', 'bymonth': 3, 'byday': '-1su', 'interval': '1'})
-    tzd.add('TZOFFSETFROM', timedelta(hours=0))
-    tzd.add('TZOFFSETTO', timedelta(hours=1))
+    tzs = TimezoneStandard({
+        "tzname":"GMT",
+        "TZOFFSETFROM":timedelta(hours=1),
+        "TZOFFSETTO":timedelta(hours=0),
+        "dtstart":datetime(1970, 10, 25, 2, 0, 0),
+        "rrule":{'freq': 'yearly', 'bymonth': 10, 'byday': '-1su', 'interval': '1'}
+    })
+    tzd = TimezoneDaylight({
+        "tzname":'BST',
+        "dtstart":datetime(1970, 3, 29, 1, 0, 0),
+        "rrule":{'freq': 'yearly', 'bymonth': 3, 'byday': '-1su', 'interval': '1'},
+        "TZOFFSETFROM":timedelta(hours=0),
+        "TZOFFSETTO":timedelta(hours=1),
+    })
     tzc.add_component(tzs)
     tzc.add_component(tzd)
     cal.add_component(tzc)
 
-    i=0
-    for entry in race_dict:
-        event = Event()
+    for i, entry in enumerate(race_dict):
+
         info = race_dict[entry]
-     #   print(info['link'])
-        dt,venue,extra_info = extract_event_info(info['link'])
-        desc = info['name']+' ('+info['cat']+')'
-        for part in extra_info:
-            desc = desc+'\n'+str(part)
-        desc = desc+'\n'+str(info['region'])+', '+str(info['country'])+'\nFull information: '+str(info['link'])
-     #   print(desc)
+        #   print(info['link'])
+        dt, venue, extra_info = extract_event_info(info['link'])
+        desc = f"{info['name']} ({info['cat']})\n {'\n'.join(extra_info)}"
+        desc = f"{desc} \n{info['region']}, {info['country']} \nFull information: {info['link']}"
+        #   print(desc)
         date_start = datetime.strptime(dt,'%a %d %b %Y at %H:%M')
-        #date_start = datetime.strptime(info['date'],'%a %d %b %Y')
-        tzinfo = country_timezones('gb')[0]
-        tzx = timezone(tzinfo)
+        tzx = timezone(country_timezones('gb')[0])
         date_start = tzx.localize(date_start)
-        date_end = date_start+timedelta(days=0, seconds=0, microseconds=0, milliseconds=0, minutes=0, hours=2, weeks=0)
-        event.add('summary', race_dict[entry]['name'] + ' ('+race_dict[entry]['cat']+')')
-        event.add('uid',entry)
-        event.add('dtstart', date_start)
-        event.add('dtend', date_end)
-        event.add('dtstamp', datetime.now())
-     #   event.add('location', venue)
-        event.add('description', desc)
+        event = Event({
+            'summary': race_dict[entry]['name'] + ' ('+race_dict[entry]['cat']+')',
+            'uid':entry,
+            'dtstart': date_start,
+            'dtend': date_start + timedelta(hours=2),
+            'dtstamp': datetime.now(),
+            'description': desc,
+            # 'location': venue,
+        })
+
         cal.add_component(event)
-        i=i+1
-        print(i/len(race_dict))
-       # print(event)
+        print(i+1/len(race_dict))
+        # print(event)
     return cal
 
-core = 'https://races.fellrunner.org.uk/races/upcoming?page='
-page = requests.get(core)
-soup = bs4.BeautifulSoup(page.content, 'html.parser')
-pgs=[]
-#for i in range(2,30):
-#    oot=soup.find_all('a',text=str(i))
-#    if len(oot)==1:
-#        pgs.append(i)
-pgs = list(range(2,11))
-print(pgs)        
-race_dict = get_races_from_page(soup)
-#for pg in [2]:
-for pg in pgs:
-    page = requests.get(core+str(pg))
-    soup = bs4.BeautifulSoup(page.content,'html.parser')
-    try:
-        race_dict.update(get_races_from_page(soup))
-    except Exception as e:
-        print(e)
+def run():
+    core = 'https://races.fellrunner.org.uk/races/upcoming?page='
 
-cal = make_cal(race_dict)
+    race_dict = {}
+    for pg in range(1,11):
+        page = requests.get(core+str(pg))
+        soup = bs4.BeautifulSoup(page.content,'html.parser')
+        try:
+            race_dict.update(get_races_from_page(soup))
+        except Exception as e:
+            print(e)
 
-f = open('fra_calendar.ics', 'wb')
-as_string = cal.to_ical()
-#as_string = as_string[:17]+bytes('\r\nPRODID:jdconey//EN\r\nVERSION:1.0\r\nBEGIN:VTIMEZONE\r\nTZID:Europe/London\r\nBEGIN:DAYLIGHT\r\nDTSTART:20200329T010000\r\nRRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU\r\nTZOFFSETFROM:0000\r\nTZOFFSETTO:0100\r\nTZNAME:BST\r\nEND:DAYLIGHT\r\nBEGIN:STANDARD\r\nDTSTART:20201025T010000\r\nRRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU\r\nTZOFFSETFROM:0100\r\nTZOFFSETTO:0000\r\nTZNAME:GMT\r\nEND:STANDARD\r\nEND:VTIMEZONE\r\n', 'utf-8')+as_string[17:]
-f.write(as_string)
-f.close()
+    cal = make_cal(race_dict)
+    with open('fra_calendar.ics', 'wb') as f:
+        f.write(cal.to_ical())
+
+if __name__ =="__main__":
+    run()
