@@ -19,7 +19,7 @@ This is probably why you're here. There are 300+ races scheduled in 2022 so far 
 ## Google (web).
 Not found a way to do it on mobile yet, but it'll sync across to your phone if you've got a Google Calendar
 
-1. Copy the following link [https://raw.githubusercontent.com/jdconey/fra_races/main/fra_calendar.ics](https://github.com/jdconey/fra_races/raw/refs/heads/main/fra_calendar.ics)
+1. Copy the following link https://github.com/jdconey/fra_races/raw/refs/heads/main/fra_calendar.ics
 2. On the Google Calendar Sidebar, click the plus (+) button next to 'Other Calendars'
 3. In the dropdown, click on 'From URL'
 4. Paste the link you copied from step 1 into the box, then 'Add Calendar'
@@ -29,10 +29,10 @@ I think Google sorts other calendars by name so bear that in mind (maybe put a '
 If you get bored with this the three dots menu, then Settings has the option to unsubscribe from the calendar (right at the bottom of the page of settings).
 
 ## Outlook.com
-1. Copy the following link [https://raw.githubusercontent.com/jdconey/fra_races/main/fra_calendar.ics](https://github.com/jdconey/fra_races/raw/refs/heads/main/fra_calendar.ics)
-2. On the Calendar screen, click on 'Add Calendar' on the sidebar
-3. Click on 'Subscribe from web'
-4. Paste the link you copied in Step 1 and click 'Import'
-5. You'll now have the option to give the calendar a name, colour and 'charm'.
+1. Copy the following link https://github.com/jdconey/fra_races/raw/refs/heads/main/fra_calendar.ics
+3. On the Calendar screen, click on 'Add Calendar' on the sidebar
+4. Click on 'Subscribe from web'
+5. Paste the link you copied in Step 1 and click 'Import'
+6. You'll now have the option to give the calendar a name, colour and 'charm'.
 
 You can remove the calendar at any time by clicking on the three horizontal dots next to the calendar's name, and then clicking 'Remove'.
