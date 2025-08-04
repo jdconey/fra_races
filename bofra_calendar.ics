@@ -22,45 +22,45 @@ END:DAYLIGHT
 END:VTIMEZONE
 BEGIN:VEVENT
 SUMMARY: Dick Hudson's (BOFRA)
-DTSTART;TZID=Europe/London:20240502T190000
-DTEND;TZID=Europe/London:20240502T210000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240501T190000
+DTEND;TZID=Europe/London:20240501T210000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Dick Hudson's
-DESCRIPTION: Dick Hudson's (BOFRA)\nThu 2 May7.00 pm 2024\n Dick Hudson's\
- n7.0 miles / 1100'\nBarrier car park\, Wells Road\, Ilkley\, LS29 9RF <br/
- > Contact Ali Burns - 07470 113967\nSenior race only\, over 18\\\\\\\\\\\\
- \\'s\nBOFRA Champs Race: False\nhttp://www.wharfedaleharriers.co.uk/events
- /dickhudsons/\nTBC: False
+DESCRIPTION: Dick Hudson's (BOFRA)\nThu 1 May7.00 pm 2024\n Dick Hudson's\
+ n7.0 miles / 1100'\nBarrier car park\, Wells Road\, Ilkley\, LS29 9JS <br/
+ > Contact Ali Burns - 07470 113967\nSenior race only\, over 18s\nBOFRA Cha
+ mps Race: False\nhttp://www.wharfedaleharriers.co.uk/events/dickhudsons/\n
+ TBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Sedbergh (BOFRA)
-DTSTART;TZID=Europe/London:20240518T120000
-DTEND;TZID=Europe/London:20240518T140000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240510T120000
+DTEND;TZID=Europe/London:20240510T140000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Sedbergh
-DESCRIPTION: Sedbergh (BOFRA)\nSat 18 May12.00 pm 2024\n Sedbergh\n2.2 mil
+DESCRIPTION: Sedbergh (BOFRA)\nSat 10 May12.00 pm 2024\n Sedbergh\n2.2 mil
  es / 1100'\nThe Showfield\, Back Lane\,  Sedbergh\, LA10 5AQ\nu9\, u12\, u
  14\, u17\, Seniors\nBOFRA Champs Race: True\nhttp://bofra.org.uk/racepage?
  race=sedbergh\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Coniston Gullies (BOFRA)
-DTSTART;TZID=Europe/London:20240526T120000
-DTEND;TZID=Europe/London:20240526T140000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240525T120000
+DTEND;TZID=Europe/London:20240525T140000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Coniston Gullies
-DESCRIPTION: Coniston Gullies (BOFRA)\nSun 26 May12.00 pm 2024\n Coniston 
+DESCRIPTION: Coniston Gullies (BOFRA)\nSun 25 May12.00 pm 2024\n Coniston 
  Gullies\n1.0 mile / 900'\nCar Park and Registration\, Lake Road\, Coniston
   LA21 8EW\nu9\, u12\, u14\, u17\, Seniors \nBOFRA Champs Race: True\nhttp:
  //bofra.org.uk/racepage?race=coniston\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Killington Sports (BOFRA)
-DTSTART;TZID=Europe/London:20240530T170000
-DTEND;TZID=Europe/London:20240530T190000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240529T170000
+DTEND;TZID=Europe/London:20240529T190000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Killington Sports
-DESCRIPTION: Killington Sports (BOFRA)\nThu 30 May5.00 pm 2024\n Killingto
+DESCRIPTION: Killington Sports (BOFRA)\nThu 29 May5.00 pm 2024\n Killingto
  n Sports\n1.5 miles / 400'\n Off A683 Sedbergh to Kirkby Lonsdale road.  L
  A6 2EY. <br/>Contact Richard Gorst - 07870 895054\nu12\, u14\, u17\, Senio
  rs\nBOFRA Champs Race: False\nhttp://www.killingtonsports.org.uk/\nTBC: Fa
@@ -68,102 +68,114 @@ DESCRIPTION: Killington Sports (BOFRA)\nThu 30 May5.00 pm 2024\n Killingto
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Kettlewell (BOFRA)
-DTSTART;TZID=Europe/London:20240602T120000
-DTEND;TZID=Europe/London:20240602T140000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240601T120000
+DTEND;TZID=Europe/London:20240601T140000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Kettlewell
-DESCRIPTION: Kettlewell (BOFRA)\nSun 2 Jun12.00 pm 2024\n Kettlewell\n1.4 
- miles / 600'\nKettlewell\, Upper Wharfedale\, BD23 5QX. On the B6160. \nu9
+DESCRIPTION: Kettlewell (BOFRA)\nSun 1 Jun12.00 pm 2024\n Kettlewell\n1.4 
+ miles / 600'\nKettlewell\, Upper Wharfedale\, BD23 5QZ. On the B6160. \nu9
  \, u12\, u14\, u17\, Seniors \nBOFRA Champs Race: True\nhttp://bofra.org.u
  k/racepage?race=kettlewell\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Lowgill Sports (BOFRA)
-DTSTART;TZID=Europe/London:20240608T164500
-DTEND;TZID=Europe/London:20240608T184500
-DTSTAMP:20240803T175654Z
-UID:bofra_ Lowgill Sports
-DESCRIPTION: Lowgill Sports (BOFRA)\nSat 8 Jun4.45 pm 2024\n Lowgill Sport
- s\n2.2 miles / 1000'\nOpposite Tatham Fells School\, Lowgill LA2 8RA\nu9\,
-  u12\, u14\, u17\, Seniors\nBOFRA Champs Race: False\nhttp://www.facebook.
- com/lowgillsports\nTBC: False
+SUMMARY: Ulverston Fell Race (BOFRA)
+DTSTART;TZID=Europe/London:20240608T120000
+DTEND;TZID=Europe/London:20240608T140000
+DTSTAMP:20250804T131718Z
+UID:bofra_ Ulverston Fell Race
+DESCRIPTION: Ulverston Fell Race (BOFRA)\nSun 8 Jun12.00 pm 2024\n Ulverst
+ on Fell Race\n1.9 miles / 540'\nBeckside Farm\, Old Hall Road\, Ulverston\
+ , LA12 7PE\nu9\, u12\, u14\, u17\, Seniors\nBOFRA Champs Race: True\nhttp:
+ //bofra.org.uk/racepage?race=ulverston\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Ulverston Fell Race (BOFRA)
-DTSTART;TZID=Europe/London:20240609T120000
-DTEND;TZID=Europe/London:20240609T140000
-DTSTAMP:20240803T175654Z
-UID:bofra_ Ulverston Fell Race
-DESCRIPTION: Ulverston Fell Race (BOFRA)\nSun 9 Jun12.00 pm 2024\n Ulverst
- on Fell Race\n2.0 miles / 540'\nFord Park\, Ulverston\, LA12 7JP\nu9\, u12
- \, u14\, u17\, Seniors\nBOFRA Champs Race: True\nhttp://bofra.org.uk/racep
- age?race=ulverston\nTBC: False
+SUMMARY: Lowgill Sports (BOFRA)
+DTSTART;TZID=Europe/London:20240614T164500
+DTEND;TZID=Europe/London:20240614T184500
+DTSTAMP:20250804T131718Z
+UID:bofra_ Lowgill Sports
+DESCRIPTION: Lowgill Sports (BOFRA)\nSat 14 Jun4.45 pm 2024\n Lowgill Spor
+ ts\n2.2 miles / 1000'\nOpposite Tatham Fells School\, Lowgill LA2 8RA\nu9\
+ , u12\, u14\, u17\, Seniors\nBOFRA Champs Race: False\nhttp://www.facebook
+ .com/lowgillsports\nTBC: True
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Hawkswick Dash (BOFRA)
-DTSTART;TZID=Europe/London:20240616T120000
-DTEND;TZID=Europe/London:20240616T140000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240615T120000
+DTEND;TZID=Europe/London:20240615T140000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Hawkswick Dash
-DESCRIPTION: Hawkswick Dash (BOFRA)\nSun 16 Jun12.00 pm 2024\n Hawkswick D
+DESCRIPTION: Hawkswick Dash (BOFRA)\nSun 15 Jun12.00 pm 2024\n Hawkswick D
  ash\n1.4 miles / 600'\nOutgang Lane\, Hawkswick\, Littondale\, off the B61
  60 between Grassington and Arncliffe. BD23 5QA\nu9\, u12\, u14\, u17\, Sen
  iors\nBOFRA Champs Race: True\nhttp://bofra.org.uk/racepage?race=hawkswick
  \nTBC: False
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY: Buckden Pike (BOFRA)
+DTSTART;TZID=Europe/London:20240621T140000
+DTEND;TZID=Europe/London:20240621T160000
+DTSTAMP:20250804T131718Z
+UID:bofra_ Buckden Pike
+DESCRIPTION: Buckden Pike (BOFRA)\nSat 21 Jun2.00 pm 2024\n Buckden Pike\n
+ 4.0 miles / 1500'\nFrom Buckden Village Green\, North Yorkshire. BD23 5JA 
+ <br/>Contact Andy Berry - 07799 413108\nSenior Race (over 16)\nBOFRA Champ
+ s Race: False\nhttp://barlickfellrunners.org.uk/races-we-organise/buckden-
+ pike\nTBC: False
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Beamsley Beacon (BOFRA)
+DTSTART;TZID=Europe/London:20240626T191500
+DTEND;TZID=Europe/London:20240626T211500
+DTSTAMP:20250804T131718Z
+UID:bofra_ Beamsley Beacon
+DESCRIPTION: Beamsley Beacon (BOFRA)\nThu 26 Jun7.15 pm 2024\n Beamsley Be
+ acon\n5.5 miles / 900'\nSt Peters Church Hall\, Addingham\, near Ilkley\, 
+ LS29 0QS. <br/>Contact Sam Green - 07943 038124\nSenior race (over 16)\nBO
+ FRA Champs Race: False\nhttp://www.wharfedaleharriers.co.uk/events/beamsle
+ ybeacon\nTBC: False
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY: Kirkby Gala (BOFRA)
-DTSTART;TZID=Europe/London:20240629T140000
-DTEND;TZID=Europe/London:20240629T160000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240628T140000
+DTEND;TZID=Europe/London:20240628T160000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Kirkby Gala
-DESCRIPTION: Kirkby Gala (BOFRA)\nSat 29 Jun2.00 pm 2024\n Kirkby Gala\n3.
+DESCRIPTION: Kirkby Gala (BOFRA)\nSat 28 Jun2.00 pm 2024\n Kirkby Gala\n3.
  5 miles / 750'\nThe Sports field\, Beckside\, Kirkby-in-Furness\, Cumbria 
  on A595. LA17 7TG\nu9\, u12\, u14\, u17\, Seniors\nBOFRA Champs Race: True
  \nhttp://bofra.org.uk/racepage?race=kirkby\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Murder Mile (BOFRA)
-DTSTART;TZID=Europe/London:20240704T191500
-DTEND;TZID=Europe/London:20240704T211500
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240703T191500
+DTEND;TZID=Europe/London:20240703T211500
+DTSTAMP:20250804T131718Z
 UID:bofra_ Murder Mile
-DESCRIPTION: Murder Mile (BOFRA)\nThu 4 July7.15 pm 2024\n Murder Mile\n1.
+DESCRIPTION: Murder Mile (BOFRA)\nThu 3 July7.15 pm 2024\n Murder Mile\n1.
  0 mile / 485'\nFrom the bridge\, Brunthwaite Lane\, Silsden BD20 0QA. <br/
  >Contact Su Thompson - 07739 100389\nu9\, u12\, u14\, u17\, Seniors\nBOFRA
   Champs Race: False\nhttp://www.wharfedaleharriers.co.uk/events/murdermile
  /\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Beamsley Beacon (BOFRA)
-DTSTART;TZID=Europe/London:20240711T191500
-DTEND;TZID=Europe/London:20240711T211500
-DTSTAMP:20240803T175654Z
-UID:bofra_ Beamsley Beacon
-DESCRIPTION: Beamsley Beacon (BOFRA)\nThu 11 July7.15 pm 2024\n Beamsley B
- eacon\n5.5 miles / 900'\nSt Peters Church Hall\, Addingham\, near Ilkley\,
-  LS29 0QS. <br/>Contact Sam Green - 07943 038124\nSenior race (over 16)\nB
- OFRA Champs Race: False\nhttp://www.wharfedaleharriers.co.uk/events/beamsl
- eybeacon\nTBC: False
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY: Alva Games (BOFRA)
-DTSTART;TZID=Europe/London:20240713T123000
-DTEND;TZID=Europe/London:20240713T143000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240712T123000
+DTEND;TZID=Europe/London:20240712T143000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Alva Games
-DESCRIPTION: Alva Games (BOFRA)\nSat 13 July12.30 pm 2024\n Alva Games\n1.
+DESCRIPTION: Alva Games (BOFRA)\nSat 12 July12.30 pm 2024\n Alva Games\n1.
  6 miles / 1200'\nCochrane Park\, on the A91 at Alva\, near Stirling\, Scot
  land. FK12 5LJ\nu12\, u14\, u17\, Seniors\nBOFRA Champs Race: True\nhttp:/
  /bofra.org.uk/racepage?race=alva\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Lothersdale Show (BOFRA)
-DTSTART;TZID=Europe/London:20240720T143000
-DTEND;TZID=Europe/London:20240720T163000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240719T143000
+DTEND;TZID=Europe/London:20240719T163000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Lothersdale Show
-DESCRIPTION: Lothersdale Show (BOFRA)\nSat 20 July2.30 pm 2024\n Lothersda
+DESCRIPTION: Lothersdale Show (BOFRA)\nSat 19 July2.30 pm 2024\n Lothersda
  le Show\n1.5 miles / 400'\nThe Show Field\, Lothersdale\, Keighley\, North
   Yorks BD20 8HE\nminimum age 10 yrs on day\nBOFRA Champs Race: False\nhttp
  ://www.barlickfellrunners.org.uk/races-we-organise/lothersdale-show\nTBC: 
@@ -171,121 +183,121 @@ DESCRIPTION: Lothersdale Show (BOFRA)\nSat 20 July2.30 pm 2024\n Lothersda
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Cracoe Fell Races (BOFRA)
-DTSTART;TZID=Europe/London:20240721T120000
-DTEND;TZID=Europe/London:20240721T140000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240720T120000
+DTEND;TZID=Europe/London:20240720T140000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Cracoe Fell Races
-DESCRIPTION: Cracoe Fell Races (BOFRA)\nSun 21 July12.00 pm 2024\n Cracoe 
+DESCRIPTION: Cracoe Fell Races (BOFRA)\nSun 20 July12.00 pm 2024\n Cracoe 
  Fell Races\n2.6 miles / 900'\nOn B6265 between Skipton and Grassington. BD
  23 6LB\nu9\, u12\, u14\, u17\, Seniors\nBOFRA Champs Race: True\nhttp://bo
  fra.org.uk/racepage?race=cracoe\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Ambleside Sports (BOFRA)
-DTSTART;TZID=Europe/London:20240725T122500
-DTEND;TZID=Europe/London:20240725T142500
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240731T120000
+DTEND;TZID=Europe/London:20240731T140000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Ambleside Sports
-DESCRIPTION: Ambleside Sports (BOFRA)\nThu 25 July12.25 pm 2024\n Amblesid
+DESCRIPTION: Ambleside Sports (BOFRA)\nThu 31 July12.00 pm 2024\n Amblesid
  e Sports\n1.7 miles / 800'\nRydal Park Ambleside - On A591\, towards Keswi
  ck. LA22 9PL\nu9\, u12\, u14\, u17\, Seniors \nBOFRA Champs Race: True\nht
  tp://bofra.org.uk/racepage?race=ambleside\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Eshton Moor (BOFRA)
-DTSTART;TZID=Europe/London:20240801T183000
-DTEND;TZID=Europe/London:20240801T203000
-DTSTAMP:20240803T175654Z
-UID:bofra_ Eshton Moor
-DESCRIPTION: Eshton Moor (BOFRA)\nThu 1 Aug6.30 pm 2024\n Eshton Moor\n5.0
-  miles / 550'\nGargrave\, North Yorkshire\, BD23 3UT <br/>Contact Chris Jo
- nes - 07753 799386\nu9\, u12\, u14\, u17\, Seniors\nBOFRA Champs Race: Fal
- se\nhttp://www.wharfedaleharriers.co.uk/events/eshtonmoor/\nTBC: False
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY: Farleton Knott (BOFRA)
-DTSTART;TZID=Europe/London:20240804T120000
-DTEND;TZID=Europe/London:20240804T140000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240803T120000
+DTEND;TZID=Europe/London:20240803T140000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Farleton Knott
-DESCRIPTION: Farleton Knott (BOFRA)\nSun 4 Aug12.00 pm 2024\n Farleton Kno
+DESCRIPTION: Farleton Knott (BOFRA)\nSun 3 Aug12.00 pm 2024\n Farleton Kno
  tt\n2.6 miles / 750'\nOn the A6070\, 1 mile from the M6 Junction 36. LA6 1
  PB \nu9\, u12\, u14\, u17\, Seniors\nBOFRA Champs Race: True\nhttp://bofra
  .org.uk/racepage?race=farleton\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY: Kings Challenge (BOFRA)
-DTSTART;TZID=Europe/London:20240808T190000
-DTEND;TZID=Europe/London:20240808T210000
-DTSTAMP:20240803T175654Z
-UID:bofra_ Kings Challenge
-DESCRIPTION: Kings Challenge (BOFRA)\nThu 8 Aug7.00 pm 2024\n Kings Challe
- nge\n6.0 miles / 1175'\nKings Arms\, Silsden\, BD20 0JY. <br/>Contact Chri
- s Jones - 07753 799386\nSenior race (over 16)\nBOFRA Champs Race: False\nh
- ttp://www.wharfedaleharriers.co.uk/events/kingschallenge\nTBC: False
+SUMMARY: Eshton Moor (BOFRA)
+DTSTART;TZID=Europe/London:20240807T183000
+DTEND;TZID=Europe/London:20240807T203000
+DTSTAMP:20250804T131718Z
+UID:bofra_ Eshton Moor
+DESCRIPTION: Eshton Moor (BOFRA)\nThu 7 Aug6.30 pm 2024\n Eshton Moor\n5.0
+  miles / 550'\nGargrave\, North Yorkshire\, BD23 3UT <br/>Contact Chris Jo
+ nes - 07753 799386\nu9\, u12\, u14\, u17\, Seniors\nBOFRA Champs Race: Fal
+ se\nhttp://www.wharfedaleharriers.co.uk/events/eshtonmoor/\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Arncliffe Gala (BOFRA)
-DTSTART;TZID=Europe/London:20240810T140000
-DTEND;TZID=Europe/London:20240810T160000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240809T140000
+DTEND;TZID=Europe/London:20240809T160000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Arncliffe Gala
-DESCRIPTION: Arncliffe Gala (BOFRA)\nSat 10 Aug2.00 pm 2024\n Arncliffe Ga
- la\n1.6 miles / 400'\nArncliffe Village Green\, North Yorkshire\, BD23 5QD
- .\nu9\, u12\, u14\, u17\, Seniors\nBOFRA Champs Race: True\nhttp://bofra.o
- rg.uk/racepage?race=arncliffe\nTBC: False
+DESCRIPTION: Arncliffe Gala (BOFRA)\nSat 9 Aug2.00 pm 2024\n Arncliffe Gal
+ a\n1.6 miles / 400'\nArncliffe Village Green\, North Yorkshire\, BD23 5QD.
+ \nu9\, u12\, u14\, u17\, Seniors\nBOFRA Champs Race: True\nhttp://bofra.or
+ g.uk/racepage?race=arncliffe\nTBC: False
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY: Kings Challenge (BOFRA)
+DTSTART;TZID=Europe/London:20240814T190000
+DTEND;TZID=Europe/London:20240814T210000
+DTSTAMP:20250804T131718Z
+UID:bofra_ Kings Challenge
+DESCRIPTION: Kings Challenge (BOFRA)\nThu 14 Aug7.00 pm 2024\n Kings Chall
+ enge\n6.0 miles / 1175'\nThe Bandstand\, Silsden\, BD20 0PH. <br/>Contact 
+ Chris Jones - 07753 799386\nSenior race (over 16)\nBOFRA Champs Race: Fals
+ e\nhttp://www.wharfedaleharriers.co.uk/events/kingschallenge\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Rusland Show (BOFRA)
-DTSTART;TZID=Europe/London:20240817T113000
-DTEND;TZID=Europe/London:20240817T133000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240816T113000
+DTEND;TZID=Europe/London:20240816T133000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Rusland Show
-DESCRIPTION: Rusland Show (BOFRA)\nSat 17 Aug11.30 am 2024\n Rusland Show\
+DESCRIPTION: Rusland Show (BOFRA)\nSat 16 Aug11.30 am 2024\n Rusland Show\
  n1.7 miles / 560'\nWhitestock Meadow\, Rusland.  LA11 8LB.  <br/>Contact A
  dam Crowe – 07854 680122\nu12\, u14\, u17\, Seniors \nBOFRA Champs Race:
   False\nhttp://www.ruslandshow.org.uk\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Gargrave Show (BOFRA)
-DTSTART;TZID=Europe/London:20240817T120000
-DTEND;TZID=Europe/London:20240817T140000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240816T120000
+DTEND;TZID=Europe/London:20240816T140000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Gargrave Show
-DESCRIPTION: Gargrave Show (BOFRA)\nSat 17 Aug12.00 pm 2024\n Gargrave Sho
+DESCRIPTION: Gargrave Show (BOFRA)\nSat 16 Aug12.00 pm 2024\n Gargrave Sho
  w\n3.5 miles / 900'\nShowfield\, Eshton Road\, Gargrave\, BD23 3QE.  <br/>
  Contact John Thompson – 07850 318137\nu9\, u12\, u14\, u17\, Seniors\nBO
  FRA Champs Race: False\nhttp://www.gargraveshow.org.uk\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Malham Show (BOFRA)
-DTSTART;TZID=Europe/London:20240824T150000
-DTEND;TZID=Europe/London:20240824T170000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240823T150000
+DTEND;TZID=Europe/London:20240823T170000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Malham Show
-DESCRIPTION: Malham Show (BOFRA)\nSat 24 Aug3.00 pm 2024\n Malham Show\n2.
+DESCRIPTION: Malham Show (BOFRA)\nSat 23 Aug3.00 pm 2024\n Malham Show\n2.
  5 miles / 700'\nThe Showfield\, Malham. 6  North of Gargrave. BD23 4DG.  <
  br/>Contact Rob Hudson – 01756 79045\nu9\, u12\, u14\, u17\, Seniors\nBO
  FRA Champs Race: False\nhttp://https://www.malhamshow.co.uk/\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Halton Gill Sports (BOFRA)
-DTSTART;TZID=Europe/London:20240825T140000
-DTEND;TZID=Europe/London:20240825T160000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240824T140000
+DTEND;TZID=Europe/London:20240824T160000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Halton Gill Sports
-DESCRIPTION: Halton Gill Sports (BOFRA)\nSun 25 Aug2.00 pm 2024\n Halton G
+DESCRIPTION: Halton Gill Sports (BOFRA)\nSun 24 Aug2.00 pm 2024\n Halton G
  ill Sports\n1.5 miles / 750'\nLittondale off B6160\, between Grassington a
  nd Kettlewell. BD23 5QN <br/>Contact Amelia Wilman - 07801 241710\nu9\, u1
  2\, u14\, u17\, Seniors\nBOFRA Champs Race: False\nhttp://\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Hebden Sports (BOFRA)
-DTSTART;TZID=Europe/London:20240826T130000
-DTEND;TZID=Europe/London:20240826T150000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240825T130000
+DTEND;TZID=Europe/London:20240825T150000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Hebden Sports
-DESCRIPTION: Hebden Sports (BOFRA)\nMon 26 Aug1.00 pm 2024\n Hebden Sports
+DESCRIPTION: Hebden Sports (BOFRA)\nMon 25 Aug1.00 pm 2024\n Hebden Sports
  \n1.5 miles / 400'\nPowder House Field\, Hebden\, BD23 5DE <br/>Contact Da
  vid Hoole - 07788 572999\nu9\, u12\, u14\, u17\, Seniors minimum age 6 yrs
   on day\nBOFRA Champs Race: False\nhttp://bofra.org.uk/racepage?race=hebde
@@ -293,106 +305,117 @@ DESCRIPTION: Hebden Sports (BOFRA)\nMon 26 Aug1.00 pm 2024\n Hebden Sports
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Reeth Show (BOFRA)
-DTSTART;TZID=Europe/London:20240826T150000
-DTEND;TZID=Europe/London:20240826T170000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240825T150000
+DTEND;TZID=Europe/London:20240825T170000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Reeth Show
-DESCRIPTION: Reeth Show (BOFRA)\nMon 26 Aug3.00 pm 2024\n Reeth Show\n2.0 
+DESCRIPTION: Reeth Show (BOFRA)\nMon 25 Aug3.00 pm 2024\n Reeth Show\n2.0 
  miles / 700'\nReeth\, Swaledale\, on B6270 between Richmond and Kirkby Ste
- phen\, DL11 6AR\nu12\, u14\, u17\, Seniors\nBOFRA Champs Race: True\nhttp:
- //bofra.org.uk/racepage?race=reeth\nTBC: False
+ phen\, DL11 6AR\nu9\, u12\, u14\, u17\, Seniors\nBOFRA Champs Race: True\n
+ http://bofra.org.uk/racepage?race=reeth\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Kilnsey Show (BOFRA)
-DTSTART;TZID=Europe/London:20240827T151500
-DTEND;TZID=Europe/London:20240827T171500
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240826T151500
+DTEND;TZID=Europe/London:20240826T171500
+DTSTAMP:20250804T131718Z
 UID:bofra_ Kilnsey Show
-DESCRIPTION: Kilnsey Show (BOFRA)\nTue 27 Aug3.15 pm 2024\n Kilnsey Show\n
- 1.0 mile / 350'\nOn B6160 between Grassington and Kettlewell\, BD23 5PS Co
- ntact Estelle Willis - secretary@bofra.org.uk\nu12\, u14\, u17\, Seniors m
- inimum age 9 yrs on day\nBOFRA Champs Race: False\nhttp://www.kilnseyshow.
- co.uk\nTBC: False
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY: Burnsall Fell Race (BOFRA)
-DTSTART;TZID=Europe/London:20240901T120000
-DTEND;TZID=Europe/London:20240901T140000
-DTSTAMP:20240803T175654Z
-UID:bofra_ Burnsall Fell Race
-DESCRIPTION: Burnsall Fell Race (BOFRA)\nSun 1 Sep12.00 pm 2024\n Burnsall
-  Fell Race\n1.5 miles / 800'\nWharfedale\, on B6160\, between Grassington 
- and Addingham. BD23 6BP\nu9\, u12\, u14\, u17\, Seniors \nBOFRA Champs Rac
- e: True\nhttp://bofra.org.uk/racepage?race=burnsall\nTBC: False
+DESCRIPTION: Kilnsey Show (BOFRA)\nTue 26 Aug3.15 pm 2024\n Kilnsey Show\n
+ 1.0 mile / 350'\nOn B6160 between Grassington and Kettlewell\, BD23 5PS <b
+ r/>Contact Estelle Willis - secretary@bofra.org.uk\nu12\, u14\, u17\, Seni
+ ors minimum age 9 yrs on day\nBOFRA Champs Race: False\nhttp://www.kilnsey
+ show.co.uk\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Muker Show (BOFRA)
-DTSTART;TZID=Europe/London:20240904T150000
-DTEND;TZID=Europe/London:20240904T170000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240903T150000
+DTEND;TZID=Europe/London:20240903T170000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Muker Show
-DESCRIPTION: Muker Show (BOFRA)\nWed 4 Sep3.00 pm 2024\n Muker Show\n1.4 m
+DESCRIPTION: Muker Show (BOFRA)\nWed 3 Sep3.00 pm 2024\n Muker Show\n1.4 m
  iles / 550'\nMuker\, Swaledale\, on B6270 between Richmond and Kirkby Step
  hen\, DL11 6QQ\nu12\, u14\, u17 Seniors Senior champ race only\nBOFRA Cham
  ps Race: True\nhttp://bofra.org.uk/racepage?race=muker\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY: Burnsall Fell Race (BOFRA)
+DTSTART;TZID=Europe/London:20240907T120000
+DTEND;TZID=Europe/London:20240907T140000
+DTSTAMP:20250804T131718Z
+UID:bofra_ Burnsall Fell Race
+DESCRIPTION: Burnsall Fell Race (BOFRA)\nSun 7 Sep12.00 pm 2024\n Burnsall
+  Fell Race\n1.5 miles / 800'\nWharfedale\, on B6160\, between Grassington 
+ and Addingham. BD23 6BS\nu9\, u12\, u14\, u17\, Seniors \nBOFRA Champs Rac
+ e: True\nhttp://bofra.org.uk/racepage?race=burnsall\nTBC: False
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY: Cowling Community Festival (BOFRA)
-DTSTART;TZID=Europe/London:20240907T133000
-DTEND;TZID=Europe/London:20240907T153000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240913T133000
+DTEND;TZID=Europe/London:20240913T153000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Cowling Community Festival
-DESCRIPTION: Cowling Community Festival (BOFRA)\nSat 7 Sep1.30  pm 2024\n 
- Cowling Community Festival\n2.8 miles / 475'\nOn the A6068 between Colne a
- nd Keighley. BD22 0AH <br/>Contact Keith Holder - 01535 630146  <!-- CONTA
- CT DETAILS? 07813 099361-->\nSeniors\nBOFRA Champs Race: False\nhttp://www
- .wharfedaleharriers.co.uk/events/cowling-gala/\nTBC: False
+DESCRIPTION: Cowling Community Festival (BOFRA)\nSat 13 Sep1.30  pm 2024\n
+  Cowling Community Festival\n2.8 miles / 475'\nOn the A6068 between Colne 
+ and Keighley. BD22 0AH <br/>Contact Keith Holder - 01535 630146 / 07522 83
+ 0745\nSeniors\nBOFRA Champs Race: False\nhttp://www.wharfedaleharriers.co.
+ uk/events/cowling-gala/\nTBC: True
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Bradley Fell Race (BOFRA)
-DTSTART;TZID=Europe/London:20240908T121500
-DTEND;TZID=Europe/London:20240908T141500
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240914T120000
+DTEND;TZID=Europe/London:20240914T140000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Bradley Fell Race
-DESCRIPTION: Bradley Fell Race (BOFRA)\nSun 8 Sep12.15 pm 2024\n Bradley F
- ell Race\n3.5 miles / 800'\nBradley\, near Skipton\, North Yorks BD20 9DF 
+DESCRIPTION: Bradley Fell Race (BOFRA)\nSun 14 Sep12.00 pm 2024\n Bradley 
+ Fell Race\n3.5 miles / 800'\nBradley\, near Skipton\, North Yorks BD20 9EL
  \nu9\, u12\, u14\, u17\, Seniors\nBOFRA Champs Race: True\nhttp://bofra.or
  g.uk/racepage?race=bradley\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Malham Charity Relays (BOFRA)
-DTSTART;TZID=Europe/London:20240915T113000
-DTEND;TZID=Europe/London:20240915T133000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20240928T113000
+DTEND;TZID=Europe/London:20240928T133000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Malham Charity Relays
-DESCRIPTION: Malham Charity Relays (BOFRA)\nSun 15 Sep11.30 am 2024\n Malh
+DESCRIPTION: Malham Charity Relays (BOFRA)\nSun 28 Sep11.30 am 2024\n Malh
  am Charity Relays\n0.7 mile / 240' per leg\nListers Arms\, Malham\, 6 mile
- s North of Gargrave. BD23 4DB Contact Kris Clayton - 07812 589721\n <cente
- r>Charity Event Mixed teams\,all ages  made up on the day</center> \nBOFRA
-  Champs Race: False\nhttp://bofra.org.uk/racepage?race=malhamrelays\nTBC: 
- False
+ s North of Gargrave. BD23 4DB <br/> Contact Estelle Willis - secretary@bof
+ ra.org.uk\n <center>Charity Event Mixed teams\,all ages  made up on the da
+ y</center> \nBOFRA Champs Race: False\nhttp://bofra.org.uk/racepage?race=m
+ alhamrelays\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY: Wasdale Show (BOFRA)
-DTSTART;TZID=Europe/London:20241012T130000
-DTEND;TZID=Europe/London:20241012T150000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20241011T130000
+DTEND;TZID=Europe/London:20241011T150000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Wasdale Show
-DESCRIPTION: Wasdale Show (BOFRA)\nSat 12 Oct1.00 pm 2024\n Wasdale Show\n
+DESCRIPTION: Wasdale Show (BOFRA)\nSat 11 Oct1.00 pm 2024\n Wasdale Show\n
  2.4 miles / 2300'\nWasdale Head\, West Cumbria. CA20 1EX\nu12\, u14\, u17\
  , Seniors \nBOFRA Champs Race: True\nhttp://bofra.org.uk/racepage?race=was
  dale\nTBC: False
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY: Litton Birks (BOFRA)
+DTSTART;TZID=Europe/London:20241115T103000
+DTEND;TZID=Europe/London:20241115T123000
+DTSTAMP:20250804T131718Z
+UID:bofra_ Litton Birks
+DESCRIPTION: Litton Birks (BOFRA)\nSat 15 Nov10.30 am 2024\n Litton Birks\
+ n3.1 miles / 1200'\nQueens Arms\, Litton\, BD23 5QJisters Arms\,  <br/>Con
+ tact  Ian Scott – 07849797431 \nu9\, u12\, u14\, u17\, Seniors\nBOFRA Ch
+ amps Race: False\nhttp://\nTBC: False
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY: Presentation Dinner (BOFRA)
-DTSTART;TZID=Europe/London:20241123T190000
-DTEND;TZID=Europe/London:20241123T210000
-DTSTAMP:20240803T175654Z
+DTSTART;TZID=Europe/London:20241122T190000
+DTEND;TZID=Europe/London:20241122T210000
+DTSTAMP:20250804T131718Z
 UID:bofra_ Presentation Dinner
-DESCRIPTION: Presentation Dinner (BOFRA)\nSat 23 Nov7.00 pm 2024\n Present
- ation Dinner\nnone\nBOFRA 2024 Championship Presentation Dinner Dance Roll
- s-Royce Leisure\, Skipton Rd\, Barnoldswick. BB18 6HJ.  Purchase tickets i
- n advance\nAll age categories!\nBOFRA Champs Race: False\nhttp://bofra.org
- .uk/presentation-dinner\nTBC: False
+DESCRIPTION: Presentation Dinner (BOFRA)\nSat 22 Nov7.00 pm 2024\n Present
+ ation Dinner\nnone\nBOFRA 2025 Championship Presentation Dinner Rolls-Royc
+ e Leisure\, Skipton Rd\, Barnoldswick. BB18 6HJ.  Purchase tickets in adva
+ nce\nAll age categories!\nBOFRA Champs Race: False\nhttp://bofra.org.uk/pr
+ esentation-dinner\nTBC: False
 END:VEVENT
 END:VCALENDAR
